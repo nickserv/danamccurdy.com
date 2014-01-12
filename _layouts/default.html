@@ -38,10 +38,9 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">Teaching &amp; Consulting</a></li>
-            <li><a href="#">Music</a></li>
-            <li><a href="#">Drum Circles</a></li>
-            <li><a href="#">Poetry</a></li>
+            {% for page in site.data.pages %}
+              <li><a href="#">{{ page }}</a></li>
+            {% endfor %}
           </ul>
         </div><!--/.nav-collapse -->
       </div>
