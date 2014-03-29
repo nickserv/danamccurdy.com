@@ -1,6 +1,4 @@
-# [danamccurdy](http://nicolasmccurdy.github.io/danamccurdy)
-
-Dana McCurdy's personal website.
+# [Dana McCurdy's Website](http://nicolasmccurdy.github.io/danamccurdy)
 
 ## Resources
 - [Trello board](https://trello.com/b/hK0hhEDy/dana-s-website) (private)
