@@ -1,4 +1,8 @@
 -
+  name: Home
+  url:  /
+  icon: home
+-
   name: Teaching & Consulting
   url:  /teaching_and_consulting.html
   icon: question-sign

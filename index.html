@@ -20,13 +20,15 @@ title: Your New Jekyll Site
 <!-- Example row of columns -->
 <div class="row excerpts">
   {% for page in site.data.pages %}
-    <div class="col-md-3">
-      <h2>{{ page.name }}</h2>
-      {% include placeholder_text.html %}
-      <a class="btn btn-primary btn-sm" href="{{site.baseurl}}{{page.url}}" role="button">
-        <span class="glyphicon glyphicon-{{page.icon}} pull-left"></span>
-        More...
-      </a>
-    </div>
+    {% if page.name != "Home" %}
+      <div class="col-md-3">
+        <h2>{{ page.name }}</h2>
+        {% include placeholder_text.html %}
+        <a class="btn btn-primary btn-sm" href="{{site.baseurl}}{{page.url}}" role="button">
+          <span class="glyphicon glyphicon-{{page.icon}} pull-left"></span>
+          More...
+        </a>
+      </div>
+    {% endif %}
   {% endfor %}
 </div>
