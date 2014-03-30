@@ -1,4 +1,9 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
 }
