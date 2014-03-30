@@ -23,7 +23,7 @@ title: Home
     {% if link_page.title != "Home" %}
       <div class="col-md-3">
         <h2>{{ link_page.title }}</h2>
-        {% include placeholder_text.html %}
+        {% include placeholder.md %}
         <a class="btn btn-primary btn-sm" href="{{site.baseurl}}{{link_page.url}}" role="button">
           <span class="glyphicon glyphicon-{{link_page.icon}} pull-left"></span>
           More...

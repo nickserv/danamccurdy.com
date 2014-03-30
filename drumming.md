@@ -3,4 +3,4 @@ layout: alt
 title: Drumming
 ---
 
-{% include placeholder_text.html %}
+{% include placeholder.md %}
