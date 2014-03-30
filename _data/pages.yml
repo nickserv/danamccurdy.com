@@ -1,12 +1,16 @@
 -
   name: Teaching & Consulting
+  url:  /teaching_and_consulting.html
   icon: question-sign
 -
   name: Music Production
+  url:  /music_production.html
   icon: headphones
 -
   name: Drumming
+  url:  /drumming.html
   icon: globe
 -
   name: Thoughts & Poems
+  url:  /thoughts_and_poems.html
   icon: comment

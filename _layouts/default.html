@@ -42,7 +42,7 @@
               Home
             </a></li>
             {% for page in site.data.pages %}
-              <li><a href="#">
+              <li><a href="{{site.baseurl}}{{page.url}}">
                 <span class="glyphicon glyphicon-{{page.icon}}"></span>
                 {{ page.name }}
               </a></li>

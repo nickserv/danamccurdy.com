@@ -1,6 +1,6 @@
 ---
 layout: alt
-title: Alternate Page
+title: Teaching & Consulting
 ---
 
 {% include placeholder_text.html %}
