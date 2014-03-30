@@ -38,10 +38,12 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             {% for link_page in site.data.pages %}
-              <li><a href="{{site.baseurl}}{{link_page.url}}">
-                <span class="glyphicon glyphicon-{{link_page.icon}}"></span>
-                {{ link_page.name }}
-              </a></li>
+              <li{% if page.title == link_page.name %} class="active"{% endif %}>
+                <a href="{{site.baseurl}}{{link_page.url}}">
+                  <span class="glyphicon glyphicon-{{link_page.icon}}"></span>
+                  {{link_page.name}}
+                </a>
+              </li>
             {% endfor %}
           </ul>
         </div><!--/.nav-collapse -->
