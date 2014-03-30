@@ -37,10 +37,10 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            {% for page in site.data.pages %}
-              <li><a href="{{site.baseurl}}{{page.url}}">
-                <span class="glyphicon glyphicon-{{page.icon}}"></span>
-                {{ page.name }}
+            {% for link_page in site.data.pages %}
+              <li><a href="{{site.baseurl}}{{link_page.url}}">
+                <span class="glyphicon glyphicon-{{link_page.icon}}"></span>
+                {{ link_page.name }}
               </a></li>
             {% endfor %}
           </ul>
