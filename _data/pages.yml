@@ -1,20 +1,20 @@
 -
-  name: Home
-  url:  /
-  icon: home
+  title: Home
+  url:   /
+  icon:  home
 -
-  name: Teaching & Consulting
-  url:  /teaching_and_consulting.html
-  icon: question-sign
+  title: Teaching & Consulting
+  url:   /teaching_and_consulting.html
+  icon:  question-sign
 -
-  name: Music Production
-  url:  /music_production.html
-  icon: headphones
+  title: Music Production
+  url:   /music_production.html
+  icon:  headphones
 -
-  name: Drumming
-  url:  /drumming.html
-  icon: globe
+  title: Drumming
+  url:   /drumming.html
+  icon:  globe
 -
-  name: Thoughts & Poems
-  url:  /thoughts_and_poems.html
-  icon: comment
+  title: Thoughts & Poems
+  url:   /thoughts_and_poems.html
+  icon:  comment

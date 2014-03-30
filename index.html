@@ -20,9 +20,9 @@ title: Home
 <!-- Example row of columns -->
 <div class="row excerpts">
   {% for link_page in site.data.pages %}
-    {% if link_page.name != "Home" %}
+    {% if link_page.title != "Home" %}
       <div class="col-md-3">
-        <h2>{{ link_page.name }}</h2>
+        <h2>{{ link_page.title }}</h2>
         {% include placeholder_text.html %}
         <a class="btn btn-primary btn-sm" href="{{site.baseurl}}{{link_page.url}}" role="button">
           <span class="glyphicon glyphicon-{{link_page.icon}} pull-left"></span>
