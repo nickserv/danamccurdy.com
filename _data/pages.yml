@@ -1,4 +1,12 @@
-- Teaching & Consulting
-- Music Production
-- Drumming
-- Thoughts & Poems
+-
+  name: Teaching & Consulting
+  icon: question-sign
+-
+  name: Music Production
+  icon: headphones
+-
+  name: Drumming
+  icon: globe
+-
+  name: Thoughts & Poems
+  icon: comment

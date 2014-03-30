@@ -19,7 +19,7 @@ title: Your New Jekyll Site
 <div class="row excerpts">
   {% for page in site.data.pages %}
     <div class="col-md-3">
-      <h2>{{ page }}</h2>
+      <h2>{{ page.name }}</h2>
       {% include placeholder_text.html %}
       <a class="btn btn-primary btn-sm" href="#" role="button">More...</a>
     </div>
