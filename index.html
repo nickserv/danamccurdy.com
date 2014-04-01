@@ -4,14 +4,18 @@ title: Home
 ---
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="jumbotron media">
-  <h1 class="media-heading">Welcome to Dana McCurdy's website.</h1>
+<div class="jumbotron">
+  <h1>Welcome to Dana McCurdy's website.</h1>
   <br>
 
-  <img class="media-object img-thumbnail pull-left" src="{{site.baseurl}}/img/portrait.jpg" width="200px">
+  <div class="row">
+    <div class="col-md-3 text-center">
+      <img class="img-thumbnail" src="{{site.baseurl}}/img/portrait.jpg" width="200px">
+    </div>
 
-  <div class="media-body lead">
-    {% include lead.html %}
+    <div class="col-md-9 lead">
+      {% include lead.html %}
+    </div>
   </div>
 </div>
 
