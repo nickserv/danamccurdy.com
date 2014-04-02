@@ -27,3 +27,7 @@ footer {
   font-size: 52px !important;
   margin-top: 0;
 }
+
+.jumbotron .lead {
+  font-style: italic;
+}
