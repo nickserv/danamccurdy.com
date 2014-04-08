@@ -1,5 +1,5 @@
 ---
-layout: alt
+layout: page
 title: Drumming
 ---
 
