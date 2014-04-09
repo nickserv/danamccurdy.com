@@ -36,5 +36,5 @@ Over the years, I have taught countless individuals, usually in their home studi
 - TV composer and keyboardist **Mike Mandel** (formerly keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
 - theater composer and sound designer **Donald Stark** (known for his work with various NJ-based theater companies)
 - dance/theater composer and sound designer **Scott Killian** (known for his work with various NY-based dance and theater companies)
-- contemporary classical composer [**Michael Palmieri**](http://www.soundclick.com/bands/default.cfm?bandID=209257)
+- contemporary classical composer **Michael Palmieri** ([Michael Palmieri/SoundClick](http://www.soundclick.com/bands/default.cfm?bandID=209257))
 - various clients of the NY and Pennsylvania Commissions for the Blind
