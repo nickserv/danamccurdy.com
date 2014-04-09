@@ -22,24 +22,22 @@ title: Home
 <!-- Example row of columns -->
 <div class="row excerpts">
   {% for link_page in site.data.pages %}
-    {% if link_page.title != "Home" %}
-      <div class="col-md-3">
-        <h2>{{ link_page.title }}</h2>
-        <p>
-          {% if link_page.title == "Teaching & Consulting" %}
-            Ever since I first heard the Beatles' "I Am the Walrus" as a
-            teenager, I've been fascinated by the art and science of music
-            technology, and how it contributes to the process of creative music
-            making...
-          {% else %}
-            {% include placeholder.md %}
-          {% endif %}
-        </p>
-        <a class="btn btn-primary btn-sm" href="{{site.baseurl}}{{link_page.url}}" role="button">
-          <span class="glyphicon glyphicon-{{link_page.icon}} pull-left"></span>
-          More...
-        </a>
-      </div>
-    {% endif %}
+    <div class="col-md-3">
+      <h2>{{ link_page.title }}</h2>
+      <p>
+        {% if link_page.title == "Teaching & Consulting" %}
+          Ever since I first heard the Beatles' "I Am the Walrus" as a
+          teenager, I've been fascinated by the art and science of music
+          technology, and how it contributes to the process of creative music
+          making...
+        {% else %}
+          {% include placeholder.md %}
+        {% endif %}
+      </p>
+      <a class="btn btn-primary btn-sm" href="{{site.baseurl}}{{link_page.url}}" role="button">
+        <span class="glyphicon glyphicon-{{link_page.icon}} pull-left"></span>
+        More...
+      </a>
+    </div>
   {% endfor %}
 </div>
