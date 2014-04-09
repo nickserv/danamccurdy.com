@@ -32,11 +32,11 @@ Over the years, I have taught countless individuals, usually in their home studi
 			**SOME OF MY NOTABLE STUDENTS AND CLIENTS:**
  
 - Grammy-winning jazz artist **Yusef Lateef**
-- composer/arranger **Chico O'farrill** (best known for his Latin jazz projects with _The Machito Band, Dizzie Gillespie,_ and other jazz luminaries)
+- composer/arranger **Chico O'farrill** (best known for his Latin jazz projects with _The Machito Band_, _Dizzie Gillespie_, and other jazz luminaries)
 - producer **Roma Baran** (_Laurie Anderson_)
 - singer/songwriter/composer **Lucy Simon** (best known for her musical "_The Secret Garden_", and recordings with her sister _Carly Simon_)
 - film and TV composer **Charlie Clouser** (formerly of _Nine Inch Nails_)
-- TV composer and keyboardist **Mike Mandel** (formerly keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
+- TV composer and keyboardist **Mike Mandel** (formerly keyboardist with _Larry Coryell and the Eleventh House_; currently composing music for the _Ellen Degeneres Show_, _TMZ,_ and various other programs)
 - theater composer and sound designer **Donald Stark** (known for his work with various NJ-based theater companies)
 - dance/theater composer and sound designer **Scott Killian** (known for his work with various NY-based dance and theater companies)
 - contemporary classical composer **Michael Palmieri** [http://www.soundclick.com/bands/default.cfm?bandID=209257](http://www.soundclick.com/bands/default.cfm?bandID=209257)
