@@ -8,6 +8,10 @@ h1 {
   text-align: center;
 }
 
+.excerpts h2 {
+  text-align: center;
+}
+
 .excerpts .btn {
   width: 100%;
   font-size: inherit;
