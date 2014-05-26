@@ -34,8 +34,5 @@ footer {
 .jumbotron h1 {
   font-size: 52px !important;
   margin-top: 0;
-}
-
-.jumbotron .lead {
-  font-style: italic;
+  text-align: left;
 }
