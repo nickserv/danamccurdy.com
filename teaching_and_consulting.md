@@ -25,13 +25,34 @@ Over the years, I have taught countless individuals, usually in their home studi
 - Institute of Audio Research (NYC): currently teaching computer-based music production (with ProTools), and MIDI
  
 ## Some of my notable students and clients
-- Grammy-winning jazz artist **Yusef Lateef**
-- composer/arranger **Chico O'farrill** (best known for his Latin jazz projects with _The Machito Band, Dizzie Gillespie,_ and other jazz luminaries)
-- producer **Roma Baran** (_Laurie Anderson_)
-- singer/songwriter/composer **Lucy Simon** (best known for her musical "_The Secret Garden_", and recordings with her sister _Carly Simon_)
-- film and TV composer **Charlie Clouser** (formerly of _Nine Inch Nails_)
-- TV composer and keyboardist **Mike Mandel** (formerly keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
-- theater composer and sound designer **Donald Stark** (known for his work with various NJ-based theater companies)
-- dance/theater composer and sound designer **Scott Killian** (known for his work with various NY-based dance and theater companies)
-- contemporary classical composer [**Michael Palmieri**](http://www.soundclick.com/bands/default.cfm?bandID=209257)
-- various clients of the NY and Pennsylvania Commissions for the Blind
+<dl class="dl-horizontal">
+  <dt>Yusef Lateef</dt>
+  <dd>Grammy-winning jazz artist</dd>
+
+  <dt>Chico O'farrill</dt>
+  <dd>composer/arranger (best known for his Latin jazz projects with <i>The Machito Band, Dizzie Gillespie,</i> and other jazz luminaries)</dd>
+
+  <dt>Roma Baran</dt>
+  <dd>producer (<i>Laurie Anderson</i>)</dd>
+
+  <dt>Lucy Simon</dt>
+  <dd>singer/songwriter/composer (best known for her musical "<i>The Secret Garden</i>", and recordings with her sister <i>Carly Simon</i>)</dd>
+
+  <dt>Charlie Clouser</dt>
+  <dd>film and TV composer (formerly of <i>Nine Inch Nails</i>)</dd>
+
+  <dt>Mike Mandel</dt>
+  <dd>TV composer and keyboardist (formerly keyboardist with <i>Larry Coryell and the Eleventh House;</i> currently composing music for <i>The Ellen Degeneres Show, TMZ,</i> and various other programs)</dd>
+
+  <dt>Donald Stark</dt>
+  <dd>theater composer and sound designer (known for his work with various NJ-based theater companies)</dd>
+
+  <dt>Scott Killian</dt>
+  <dd>dance/theater composer and sound designer (known for his work with various NY-based dance and theater companies)</dd>
+
+  <dt><a href="http://www.soundclick.com/bands/default.cfm?bandID=209257">Michael Palmieri</a></dt>
+  <dd>contemporary classical composer</dd>
+
+  <dt>[other]</dt>
+  <dd>various clients of the NY and Pennsylvania Commissions for the Blind</dd>
+</dl>
