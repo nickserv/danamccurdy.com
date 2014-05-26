@@ -1,18 +1,13 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+p {
   text-align: justify;
 }
 
-li {
-  text-align: left;
-}
-
-h1 {
-  text-align: center;
-}
-
-.excerpts h2 {
+h1, .excerpts h2 {
   text-align: center;
 }
 
@@ -23,7 +18,6 @@ h1 {
 
 footer {
   font-size: 13px;
-  text-align: center;
 }
 
 .jumbotron {
