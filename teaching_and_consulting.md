@@ -8,17 +8,15 @@ Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've been
  
 Over the years, I have taught countless individuals, usually in their home studios, as well as hundreds of classes in various New York and New Jersey schools. As a consultant, I provide whatever technical support and coaching my clients may need to work effectively and complete their projects, from software and hardware installation and trouble-shooting, to MIDI production, engineering, editing, and mixing.
  
-### Subjects I teach (with some overlap):
- 
-- synthesizer programming 
+## Subjects I teach (with some overlap)
+- synthesizer programming
 - home recording
 - MIDI
 - computer-based music production
 - Propellerhead Reason
 - ProTools (as an Avid-certified instructor}
  
-### Schools I've taught at:
- 
+## Schools I've taught at
 - New School University (NYC)
 - Mannes School of Music (NYC)
 - High Tech High School (N. Bergen, NJ)
@@ -26,8 +24,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 - Vassar College (Poughkeepsie, NY)
 - Institute of Audio Research (NYC): currently teaching computer-based music production (with ProTools), and MIDI
  
-### Some of my notable students and clients:
- 
+## Some of my notable students and clients
 - Grammy-winning jazz artist **Yusef Lateef**
 - composer/arranger **Chico O'farrill** (best known for his Latin jazz projects with _The Machito Band, Dizzie Gillespie,_ and other jazz luminaries)
 - producer **Roma Baran** (_Laurie Anderson_)
