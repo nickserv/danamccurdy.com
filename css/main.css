@@ -1,24 +1,27 @@
+/* general */
+
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
 }
 
 p {
   text-align: justify;
 }
 
-h1, .excerpts h2 {
-  text-align: center;
-}
-
-.excerpts .btn {
-  width: 100%;
-  font-size: inherit;
+dt, dd {
+  margin-bottom: 0.5em;
 }
 
 footer {
   font-size: 13px;
 }
+
+/* home page */
 
 .jumbotron {
   /* this is based off of the really cool gradient on http://bootswatch.com */
@@ -31,6 +34,11 @@ footer {
   text-align: left;
 }
 
-dt, dd {
-  margin-bottom: 0.5em;
+.excerpts h2 {
+  text-align: center;
+}
+
+.excerpts .btn {
+  width: 100%;
+  font-size: inherit;
 }
