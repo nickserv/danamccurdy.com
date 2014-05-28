@@ -24,6 +24,8 @@ footer {
 /* home page */
 
 .jumbotron {
+  /* fall back to the middle color stop on browsers without linear gradients */
+  background-color: rgb(43, 75, 90) !important;
   /* this is based off of the really cool gradient on http://bootswatch.com */
   background-image: linear-gradient(to top right, rgb(16, 30, 62) 0%, rgb(43, 75, 90) 87%, rgb(67, 94, 103) 100%);
 }
