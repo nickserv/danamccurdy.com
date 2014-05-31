@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+published: true
 ---
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
@@ -30,6 +31,8 @@ title: Home
           teenager, I've been fascinated by the art and science of music
           technology, and how it contributes to the process of creative music
           making...
+        {% elsif link_page.title == "Music/Production" %}
+          From childhood on, I've always been surrounded by music and musicians...
         {% else %}
           {% include placeholder.md %}
         {% endif %}
