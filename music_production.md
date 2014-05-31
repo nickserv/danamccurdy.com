@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music Production
+title: Music/Production
 ---
 
 {% include placeholder.md %}
