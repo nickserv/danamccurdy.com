@@ -1,6 +1,28 @@
 ---
 layout: page
 title: Drumming
+published: true
 ---
 
-{% include placeholder.md %}
+I've been collecting hand drums, percussion instruments, and various other noise makers for many years, out of a love for the sheer variety of sounds and rhythms that man-made or even found objects can produce. In 2001, I was moved to begin a regular drumming practice as a response to the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice for my own wellbeing, and the wellbeing of others. 
+
+For most of that time, I've been facilitating drum circles for many different communities, including schools, youth groups, Veterans' groups, religious congregations, weddings, private parties, corporate events, and the general public. 
+
+As a drum circle facilitator, it is my commitment to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
+
+Here is my "Drumming Manifesto":
+
+> **Community in Rhythm**
+
+> We are beings of energy, in a universe of energy.
+
+> It is our gift in each moment to direct that energy as we will.
+
+> In rhythm together, we direct that energy to our highest purpose,
+
+> For the greater joy and good of all.
+
+
+
+And here's a link featuring drumming photos from my Facebook page:
+https://www.facebook.com/danamcc/photos
