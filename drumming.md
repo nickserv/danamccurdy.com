@@ -12,15 +12,17 @@ As a drum circle facilitator, it is my commitment to empower others to experienc
 
 Here is my "Drumming Manifesto":
 
-> **Community in Rhythm**
+<div class="well manifesto">
+  <h3>Community in Rhythm</h3>
 
-> We are beings of energy, in a universe of energy.
+  <p>We are beings of energy, in a universe of energy.</p>
 
-> It is our gift in each moment to direct that energy as we will.
+  <p>It is our gift in each moment to direct that energy as we will.</p>
 
-> In rhythm together, we direct that energy to our highest purpose,
+  <p>In rhythm together, we direct that energy to our highest purpose,</p>
 
-> For the greater joy and good of all.
+  <p>For the greater joy and good of all.</p>
+</div>
 
 
 
