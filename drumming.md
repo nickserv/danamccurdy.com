@@ -27,6 +27,6 @@ As a drum circle facilitator, it is my commitment to empower others to experienc
 
 
 <p class="sidenote">
-  And here's a link featuring drumming photos from my Facebook page:
-  https://www.facebook.com/danamcc/photos
+  You may also see:
+  <a href="https://www.facebook.com/danamcc/photos">my drumming photos</a>
 </p>
