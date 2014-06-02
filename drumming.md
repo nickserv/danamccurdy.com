@@ -10,7 +10,7 @@ For most of that time, I've been facilitating drum circles for many different ty
 
 As a drum circle facilitator, it is my commitment to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
 
-Here is my "Drumming Manifesto":
+<p class="sidenote">Here is my "Drumming Manifesto":</p>
 
 <div class="well manifesto">
   <h3>Community in Rhythm</h3>
@@ -26,5 +26,7 @@ Here is my "Drumming Manifesto":
 
 
 
-And here's a link featuring drumming photos from my Facebook page:
-https://www.facebook.com/danamcc/photos
+<p class="sidenote">
+  And here's a link featuring drumming photos from my Facebook page:
+  https://www.facebook.com/danamcc/photos
+</p>

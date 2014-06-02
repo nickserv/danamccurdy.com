@@ -52,3 +52,9 @@ footer {
 .manifesto h3 {
   margin-top: 0;
 }
+
+.sidenote {
+  font-style: italic;
+  text-align: left;
+  font-size: 85%;
+}
