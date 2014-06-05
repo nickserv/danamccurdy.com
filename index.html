@@ -25,25 +25,7 @@ published: true
   {% for link_page in site.data.pages %}
     <div class="col-md-3">
       <h2>{{ link_page.title }}</h2>
-      <p>
-        {% if link_page.title == "Teaching & Consulting" %}
-          Ever since I first heard the Beatles' "I Am the Walrus" as a
-          teenager, I've been fascinated by the art and science of music
-          technology, and how it contributes to the process of creative music
-          making...
-        {% elsif link_page.title == "Music/Production" %}
-          From childhood on, I've always been surrounded by music and musicians...
-        {% elsif link_page.title == "Drumming" %}
-          I've collected hand drums, percussion instruments, and various other
-          noise makers for many years, out of a love for the sheer variety of
-          sounds and rhythms that man-made or found objects can produce...
-        {% elsif link_page.title == "Thoughts & Poems" %}
-          Beyond the world of discovery that music has always been for me, there
-          was always the bigger world, a universe of questions about what we're
-          all part of, how it works, and how we can best fit into the larger
-          whole...
-        {% endif %}
-      </p>
+      <p>{{ link_page.excerpt }}</p>
       <a class="btn btn-primary btn-sm" href="{{site.baseurl}}{{link_page.url}}" role="button">
         <span class="glyphicon glyphicon-{{link_page.icon}} pull-left"></span>
         More...
