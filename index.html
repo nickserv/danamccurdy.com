@@ -33,8 +33,15 @@ published: true
           making...
         {% elsif link_page.title == "Music/Production" %}
           From childhood on, I've always been surrounded by music and musicians...
-        {% else %}
-          {% include placeholder.md %}
+        {% elsif link_page.title == "Drumming" %}
+          I've collected hand drums, percussion instruments, and various other
+          noise makers for many years, out of a love for the sheer variety of
+          sounds and rhythms that man-made or found objects can produce...
+        {% elsif link_page.title == "Thoughts & Poems" %}
+          Beyond the world of discovery that music has always been for me, there
+          was always the bigger world, a universe of questions about what we're
+          all part of, how it works, and how we can best fit into the larger
+          whole...
         {% endif %}
       </p>
       <a class="btn btn-primary btn-sm" href="{{site.baseurl}}{{link_page.url}}" role="button">
