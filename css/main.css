@@ -36,12 +36,16 @@ footer {
   text-align: left;
 }
 
+.excerpts {
+  text-align: center;
+}
+
 .excerpts h2 {
   text-align: center;
 }
 
 .excerpts .btn {
-  width: 100%;
+  width: 50%;
   font-size: inherit;
 }
 
