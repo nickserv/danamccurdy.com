@@ -8,7 +8,7 @@ I've collected hand drums, percussion instruments, and various other noise maker
 
 For most of that time, I've been facilitating drum circles for many different types of communities, including schools, youth groups, Veterans' groups, religious congregations, weddings, private parties, corporate events, and the general public. 
 
-As a drum circle facilitator, it is my commitment to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
+As a drum circle facilitator, my commitment is to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
 
 <p class="sidenote">My "Drumming Manifesto":</p>
 
