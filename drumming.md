@@ -4,7 +4,9 @@ title: Drumming
 published: true
 ---
 
-I've collected hand drums, percussion instruments, and various other noise makers for many years, out of a love for the sheer variety of sounds and rhythms that man-made or found objects can produce. In 2001, I was moved to begin a regular drumming practice as a response to emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice, for my own wellbeing, and the wellbeing of others. 
+Rhythm has always been the most compelling and visceral aspect of music for me, and my love for the sheer variety of sounds and rhythms that man-made or found objects can produce has led me, over the years, to collect a wide range of hand drums, percussion instruments, and various other noise makers. 
+
+In 2001, I was moved to begin a regular drumming practice as a response to emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice, for my own wellbeing, and the wellbeing of others. 
 
 For most of that time, I've been facilitating drum circles for many different types of communities, including schools, youth groups, Veterans' groups, religious congregations, weddings, private parties, corporate events, and the general public. 
 
