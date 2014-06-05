@@ -44,3 +44,17 @@ footer {
   width: 100%;
   font-size: inherit;
 }
+
+.manifesto, .manifesto p {
+  font-style: italic;
+  text-align: center;
+}
+.manifesto h3 {
+  margin-top: 0;
+}
+
+.sidenote {
+  font-style: italic;
+  text-align: left;
+  font-size: 85%;
+}
