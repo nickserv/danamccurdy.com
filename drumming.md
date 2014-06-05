@@ -10,7 +10,7 @@ For most of that time, I've been facilitating drum circles for many different ty
 
 As a drum circle facilitator, it is my commitment to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
 
-<p class="sidenote">Here is my "Drumming Manifesto":</p>
+<p class="sidenote">My "Drumming Manifesto":</p>
 
 <div class="well manifesto">
   <h3>Community in Rhythm</h3>
