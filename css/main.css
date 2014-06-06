@@ -36,17 +36,8 @@ footer {
   text-align: left;
 }
 
-.excerpts {
-  text-align: center;
-}
-
 .excerpts h2 {
   text-align: center;
-}
-
-.excerpts .btn {
-  width: 50%;
-  font-size: inherit;
 }
 
 .manifesto, .manifesto p {
