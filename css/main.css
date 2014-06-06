@@ -15,6 +15,16 @@ body {
   }
 }
 
+/* mobile navbar */
+@media (max-width: 767px) {
+  .navbar-nav li {
+    border-top: 1px dotted #ebebeb;
+  }
+  .navbar-nav li:last-child {
+    border-bottom: 1px dotted #ebebeb;
+  }
+}
+
 h1 {
   text-align: center;
 }
