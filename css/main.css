@@ -5,11 +5,14 @@ body {
   padding-bottom: 20px;
 }
 
-.navbar-nav li {
-  border-left: 1px dotted #ebebeb;
-}
-.navbar-nav li:last-child {
-  border-right: 1px dotted #ebebeb;
+/* standard navbar */
+@media (min-width: 768px) {
+  .navbar-nav li {
+    border-left: 1px dotted #ebebeb;
+  }
+  .navbar-nav li:last-child {
+    border-right: 1px dotted #ebebeb;
+  }
 }
 
 h1 {
