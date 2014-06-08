@@ -8,7 +8,15 @@ Rhythm has always been the most compelling and visceral aspect of music for me, 
 
 In 2001, I was moved to begin a regular drumming practice as a response to emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice, for my own wellbeing, and the wellbeing of others. 
 
-For most of that time, I've been facilitating drum circles for many different types of communities, including schools, youth groups, Veterans' groups, religious congregations, weddings, private parties, corporate events, and the general public. 
+For most of that time, I've been facilitating drum circles for many different types of communities, including:
+- schools
+- youth groups
+- Veterans' groups
+- religious congregations
+- weddings
+- private parties
+- corporate events
+- the general public 
 
 As a drum circle facilitator, my commitment is to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
 
