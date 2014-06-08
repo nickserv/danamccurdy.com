@@ -8,7 +8,7 @@ Rhythm has always been the most compelling and visceral aspect of music for me, 
 
 In 2001, I was moved to begin a regular drumming practice as a response to emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice, for my own wellbeing, and the wellbeing of others. 
 
-For most of that time, I've been facilitating drum circles for many different types of communities, including:
+<p class="before-list">For most of that time, I've been facilitating drum circles for many different types of communities, including:</p>
 
 - schools
 - youth groups
