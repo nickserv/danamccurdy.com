@@ -6,9 +6,9 @@ published: true
 
 Rhythm has always been the most compelling and visceral aspect of music for me, and my love for the sheer variety of sounds and rhythms that man-made or found objects can produce has led me, over the years, to collect a wide range of hand drums, percussion instruments, and various other noise makers. 
 
-In 2001, I was moved to begin a regular drumming practice as a response to emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice, for my own wellbeing, and the wellbeing of others. 
+In 2001, I was moved to begin a regular drumming practice as a response to my own emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice for my own wellbeing and for the wellbeing of others. 
 
-<p class="before-list">For most of that time, I've been facilitating drum circles for many different types of communities, including:</p>
+<p class="before-list">Since then, I've been facilitating drum circles for many different types of communities, including:</p>
 
 - schools
 - youth groups
