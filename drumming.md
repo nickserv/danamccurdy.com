@@ -26,13 +26,12 @@ As a drum circle facilitator, my commitment is to empower others to experience t
 <div class="well manifesto">
   <h3>Community in Rhythm</h3>
 
-  <p>We are beings of energy, in a universe of energy.</p>
-
-  <p>It is our gift in each moment to direct that energy as we will.</p>
-
-  <p>In rhythm together, we direct that energy to our highest purpose,</p>
-
-  <p>For the greater joy and good of all.</p>
+  <p>
+    We are beings of energy, in a universe of energy.<br>
+    It is our gift in each moment to direct that energy as we will.<br>
+    In rhythm together, we direct that energy to our highest purpose,<br>
+    For the greater joy and good of all.
+  </p>
 </div>
 
 *You may also see: [my drumming photos](https://www.facebook.com/danamcc/photos)*
