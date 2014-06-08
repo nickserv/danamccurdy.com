@@ -41,6 +41,10 @@ footer {
   font-size: 13px;
 }
 
+.before-list {
+  margin-bottom: 0;
+}
+
 /* home page */
 
 .jumbotron {
