@@ -12,7 +12,7 @@ In 2001, I was moved to begin a regular drumming practice as a response to emoti
 
 - schools
 - youth groups
-- Veterans' groups
+- veterans' groups
 - religious congregations
 - weddings
 - private parties
