@@ -6,4 +6,4 @@ published: true
 
 From childhood on, I've always been surrounded by music and musicians, and felt inspired to follow in their footsteps, both through creating my own music, and supporting others in doing likewise. 
 
-From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimental/electronic, and world music, my musical explorations have led me to be involved in many diverse aspects of music creation and production, from composing and producing my own original music, to supporting other musical artists in various capacities.
+From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimental/electronic, and world music, my musical explorations have involved me in many diverse aspects of music creation and production, from composing and producing my own original music, to supporting other musical artists in various capacities.
