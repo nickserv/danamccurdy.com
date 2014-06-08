@@ -45,6 +45,10 @@ footer {
   margin-bottom: 0;
 }
 
+.before-blockquote {
+  margin-bottom: 2px;
+}
+
 /* home page */
 
 .jumbotron {
