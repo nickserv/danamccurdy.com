@@ -21,7 +21,7 @@ In 2001, I was moved to begin a regular drumming practice as a response to my ow
 
 As a drum circle facilitator, my commitment is to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
 
-<p class="sidenote">My "Drumming Manifesto":</p>
+*My "Drumming Manifesto":*
 
 <div class="well manifesto">
   <h3>Community in Rhythm</h3>
@@ -35,9 +35,4 @@ As a drum circle facilitator, my commitment is to empower others to experience t
   <p>For the greater joy and good of all.</p>
 </div>
 
-
-
-<p class="sidenote">
-  You may also see:
-  <a href="https://www.facebook.com/danamcc/photos">my drumming photos</a>
-</p>
+*You may also see: [my drumming photos](https://www.facebook.com/danamcc/photos)*
