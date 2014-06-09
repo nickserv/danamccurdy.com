@@ -1,0 +1,10 @@
+---
+layout: post
+title: A Prayer For Us All
+category: Being Human 
+---
+
+As your path leads you through your  times of trial,  
+May each moment remind you of the gift you are.  
+May the light you bring shine back on you,  
+And may it set you free, from this moment on.
