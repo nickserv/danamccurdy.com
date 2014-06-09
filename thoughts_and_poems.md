@@ -8,4 +8,4 @@ Beyond the world of discovery that music has always been for me, there was alway
 
 My love of words, a fascination with science and spiritual inquiry, and a quite determination to learn how to be a better human have led me, breath by breath, on a path of shaping my experience into thoughts and poems.
 
-***[Here are some of them.]({{site.baseurl}}/blog.html)***
+***[Here are some of them.]({{site.baseurl}}/blog/)***
