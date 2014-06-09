@@ -4,7 +4,7 @@ title: Blog
 ---
 
 <ul class="list-unstyled">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <li>
       <h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
       <p class="text-info">{{ post.date | date_to_string }}</p>
@@ -12,4 +12,14 @@ title: Blog
       {{ post.content }}
     </li>
   {% endfor %}
+</ul>
+
+<ul class="pager">
+  {% if paginator.previous_page %}
+    <li><a href="{{site.baseurl}}{{paginator.previous_page_path}}">Previous</a></li>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <li><a href="{{site.baseurl}}{{paginator.next_page_path}}">Next</a></li>
+  {% endif %}
 </ul>
