@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Blog
+title: "Thoughts & Poems"
+published: true
 ---
+
+{% capture intro %}{% include thoughts_and_poems_intro.md %}{% endcapture %}
+{{ intro | markdownify }}
 
 <hr>
 {% for post in paginator.posts %}
