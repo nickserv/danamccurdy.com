@@ -49,6 +49,10 @@ footer {
   margin-bottom: 2px;
 }
 
+footer {
+  text-align: center;
+}
+
 /* home page */
 
 .jumbotron {
