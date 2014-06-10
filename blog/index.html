@@ -3,16 +3,14 @@ layout: page
 title: Blog
 ---
 
-<ul class="list-unstyled">
-  {% for post in paginator.posts %}
-    <li>
-      <h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="text-info">{{ post.date | date_to_string }}</p>
+{% for post in paginator.posts %}
+  <div>
+    <h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="text-info">{{ post.date | date_to_string }}</p>
 
-      {{ post.content }}
-    </li>
-  {% endfor %}
-</ul>
+    {{ post.content }}
+  </div>
+{% endfor %}
 
 <ul class="pager">
   {% if paginator.previous_page %}
