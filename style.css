@@ -5,6 +5,14 @@ body {
   padding-bottom: 20px;
 }
 
+.post .meta {
+  padding-left: 30px;
+}
+
+.post h3 {
+  margin-top: 0 !important;
+}
+
 /* standard navbar */
 @media (min-width: 768px) {
   .navbar-nav li {
