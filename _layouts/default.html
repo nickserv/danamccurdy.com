@@ -33,33 +33,35 @@
     </script>
   </head>
 
-  <body class="container">
+  <body>
 
-    <div class="navbar navbar-inverse" role="navigation">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="{{site.baseurl}}/">{{ site.name }}</a>
+    <div class="container">
+      <div class="navbar navbar-inverse" role="navigation">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{site.baseurl}}/">{{ site.name }}</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            {% for link_page in site.data.pages %}
+              <li{% if page.title == link_page.title %} class="active"{% endif %}>
+                <a href="{{site.baseurl}}{{link_page.url}}">
+                  <span class="glyphicon glyphicon-{{link_page.icon}}"></span>
+                  {{link_page.title}}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div><!--/.nav-collapse -->
       </div>
-      <div class="navbar-collapse collapse">
-        <ul class="nav navbar-nav">
-          {% for link_page in site.data.pages %}
-            <li{% if page.title == link_page.title %} class="active"{% endif %}>
-              <a href="{{site.baseurl}}{{link_page.url}}">
-                <span class="glyphicon glyphicon-{{link_page.icon}}"></span>
-                {{link_page.title}}
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-      </div><!--/.nav-collapse -->
-    </div>
 
-    {{ content }}
+      {{ content }}
+    </div>
 
     <hr>
 
