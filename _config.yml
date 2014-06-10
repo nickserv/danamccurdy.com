@@ -3,3 +3,4 @@ baseurl: /danamccurdy
 markdown: kramdown
 paginate: 10
 paginate_path: thoughts_and_poems/page:num
+permalink: pretty
