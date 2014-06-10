@@ -68,6 +68,10 @@ footer {
   text-align: center;
 }
 
+.more-link {
+  margin-left: 20px;
+}
+
 .manifesto, .manifesto p {
   font-style: italic;
   text-align: center;
