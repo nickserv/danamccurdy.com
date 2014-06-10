@@ -4,7 +4,7 @@ title: Possibility
 category: love
 ---
 
-```
+<pre>
 it's nice to love you,
     like 2 babies in a crib,
         smiling, playing,
@@ -27,4 +27,4 @@ a gentle touch: your skin,
                         I look deeper -
                                 I see my soul, 
 				      the soul we share.
-```
+</pre>
