@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Communion
-category: Being Human 
+category: being-human
 ---
 
 Through the communion of your hands,  

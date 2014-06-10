@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sad Stories
-category: Being Human 
+category: being-human
 ---
 
 The sad stories we tell ourselves  

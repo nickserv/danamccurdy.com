@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Helplessness
-category: Being Human 
+category: being-human
 ---
 
 Helplessness comes from looking for solutions outside of ourselves.

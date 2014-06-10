@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tommorrow Never...
-category: Being Human 
+category: being-human
 ---
 
 Turn off your phone,  

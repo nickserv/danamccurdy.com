@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happiness
-category: Being Human 
+category: being-human
 ---
 
 Face lit with glee,  

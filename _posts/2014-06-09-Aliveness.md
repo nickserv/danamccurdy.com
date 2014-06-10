@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aliveness
-category: Being Human 
+category: being-human
 ---
 
 Scared awake,  

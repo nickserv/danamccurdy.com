@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Love and Peace
-category: Being Human 
+title: love and Peace
+category: being-human
 ---
 
-Love digs deep into the soul.
+love digs deep into the soul.
 
 A mind can only search for reason;  
 Sex searches for release;  

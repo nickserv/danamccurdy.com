@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Other Side of Emptiness
-category: Being Human 
+category: being-human
 ---
 
 On the other side of emptiness,

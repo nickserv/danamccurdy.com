@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Greatest Gifts
-category: Being Human 
+category: being-human
 ---
 
 The greatest gifts  

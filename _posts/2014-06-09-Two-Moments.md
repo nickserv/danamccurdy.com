@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Moments
-category: Love
+category: love
 ---
 
 What opens the heart?  
@@ -13,7 +13,7 @@ Open and vulnerable,
 Standing on nothing,  
 Floating in everything?
 
-Love unreasoning rips the curtain.  
+love unreasoning rips the curtain.  
 Light shines through, if only for a moment.
 
 ---

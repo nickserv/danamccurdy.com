@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Something tender
-category: Love
+category: love
 ---
 
 Something raw and tender  

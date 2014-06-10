@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Heart’s Eye
-category: Love
+category: love
 ---
 
 In my mind’s eye, I see you sleeping,  

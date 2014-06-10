@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can't Be Broken
-category: Being Human 
+category: being-human
 ---
 
 When something feels broken,  

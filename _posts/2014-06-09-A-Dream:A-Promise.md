@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Dream:A Promise
-category: Love
+category: love
 ---
 
 If you were naked beside me,  

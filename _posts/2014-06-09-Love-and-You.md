@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Love and You
-category: Love
+title: love and You
+category: love
 ---
 
 When first I opened my heart to you,  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dream of Separation
-category: Being Human 
+category: being-human
 ---
 
 Do not give your love away,  

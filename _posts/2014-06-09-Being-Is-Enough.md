@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Being Is Enough
-category: Being Human 
+category: being-human
 ---
 
 Sometimes,  

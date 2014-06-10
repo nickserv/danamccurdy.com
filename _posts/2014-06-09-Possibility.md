@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Possibility
-category: Love
+category: love
 ---
 
 ```

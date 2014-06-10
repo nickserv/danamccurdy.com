@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Gift You Are
-category: Love
+category: love
 ---
 
 The gift you are  

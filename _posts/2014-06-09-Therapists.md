@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Therapists
-category: Being Human 
+category: being-human
 ---
 
 A good therapist reassures you when your view of the world seems accurate and complete. 

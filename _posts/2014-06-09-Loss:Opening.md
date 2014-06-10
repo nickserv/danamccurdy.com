@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Loss:Opening
-category: Being Human 
+category: being-human
 ---
 
 Loss;  

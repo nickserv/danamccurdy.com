@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life is forever complete
-category: Being Human 
+category: being-human
 ---
 
 Life is forever complete as it is.  

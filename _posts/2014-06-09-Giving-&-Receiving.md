@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giving & Receiving
-category: Being Human 
+category: being-human
 ---
 
 Give gratefully;  

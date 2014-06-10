@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Picture
-category: Love
+category: love
 ---
 
 Your face,  

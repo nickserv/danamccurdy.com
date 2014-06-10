@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The World Hugs Us
-category: Being Human 
+category: being-human
 ---
 
 The world hugs us  

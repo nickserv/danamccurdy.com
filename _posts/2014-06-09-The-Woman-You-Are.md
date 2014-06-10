@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Woman You Are
-category: Love
+category: love
 ---
 
 # THE WOMAN YOU ARE (4 GLIMPSES)

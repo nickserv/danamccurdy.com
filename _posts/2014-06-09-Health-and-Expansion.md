@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Health and Expansion
-category: Being Human 
+category: being-human
 ---
 
 For the most part, a healthy organism expands, and an unhealthy one contracts.

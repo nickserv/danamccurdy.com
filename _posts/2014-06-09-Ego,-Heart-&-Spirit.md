@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Ego, Heart & Spirit
-categories: [Being Human, Love]
+categories: being-human love
 ---
 
 Between two egos,  
-Love is an agreement,  
+love is an agreement,  
 A set of mutual expectations.
 
 Between two hearts,  
-Love is a softening of egos,  
+love is a softening of egos,  
 A relaxing of boundaries.
 
 Between two Spirits,  
-Love is unity,  
+love is unity,  
 Without expectations,  
 Without boundaries.

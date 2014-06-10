@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Love and Identity- A Reflection
-category: Love
+title: love and Identity- A Reflection
+category: love
 ---
 
 There was a moment  

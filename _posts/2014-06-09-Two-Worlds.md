@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Worlds
-category: Being Human 
+category: being-human
 ---
 
 In every moment,  

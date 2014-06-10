@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Possession
-category: Love
+category: love
 ---
 
 You have never been mine,  

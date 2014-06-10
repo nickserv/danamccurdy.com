@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A POEM FOR MY FRIEND
-category: Love
+category: love
 ---
 
 Sometimes, words aren’t enough,  

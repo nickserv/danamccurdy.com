@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Love and Self
-category: Love
+title: love and Self
+category: love
 ---
 
 When I talk to you,  

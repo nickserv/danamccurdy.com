@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Love Opens Doors
-category: Being Human 
+title: love Opens Doors
+category: being-human
 ---
 
-Love opens doors,  
+love opens doors,  
 cuts little holes  
 in the boxes we live in.
 

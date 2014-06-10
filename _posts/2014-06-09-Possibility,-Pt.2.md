@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Possibility, Pt.2
-category: Love
+category: love
 ---
 
 it's nice to love you,  

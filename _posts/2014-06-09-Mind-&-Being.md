@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mind & Being
-category: Being Human 
+category: being-human
 ---
 
 In the tiny world of mind,  

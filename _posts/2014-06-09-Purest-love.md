@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Purest love
-categories: [Being Human, Love]
+categories: being-human love
 ---
 
 The purest love  

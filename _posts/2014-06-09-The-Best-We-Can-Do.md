@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best We Can Do
-category: Being Human 
+category: being-human
 ---
 
 It is beyond human capacity for anyone  

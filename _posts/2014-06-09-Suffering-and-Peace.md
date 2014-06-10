@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suffering and Peace
-category: Being Human 
+category: being-human
 ---
 
 All our stories of suffering  

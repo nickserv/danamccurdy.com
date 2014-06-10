@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Is a Poem Born?
-category: Being Human 
+category: being-human
 ---
 
 Where is a poem born?

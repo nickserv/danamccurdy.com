@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Love, Always
-categories: [Being Human, Love]
+title: love, Always
+categories: being-human love
 ---
 
 "I will love you always"'  
@@ -13,7 +13,7 @@ And things change.
 Thoughts and feelings  
 come and go.
 
-Love seems to disappear,  
+love seems to disappear,  
 when the mind rules,  
 and the heart shuts down.
 
@@ -24,7 +24,7 @@ to revisit that place,
 outside of time,  
 where Spirit lives.
 
-Love will still be there.  
+love will still be there.  
 It is ALWAYS there,  
 as we come and go.
 

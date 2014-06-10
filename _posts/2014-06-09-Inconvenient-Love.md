@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Inconvenient Love
-category: Love
+title: Inconvenient love
+category: love
 ---
 
 It isn't convenient to love you,  

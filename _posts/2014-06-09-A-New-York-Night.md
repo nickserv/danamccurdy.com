@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A New York Night
-category: Being Human 
+category: being-human
 ---
 
 Night sky,  

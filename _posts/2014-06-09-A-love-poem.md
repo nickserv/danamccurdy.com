@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A love poem
-category: Love
+category: love
 ---
 
 There is a dream,  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Prayer For Us All
-category: Being Human 
+category: being-human
 ---
 
 As your path leads you through your  times of trial,  

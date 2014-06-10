@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clockwork
-category: Love
+category: love
 ---
 
 In your clockwork world,  

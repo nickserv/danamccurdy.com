@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inside:Outside
-category: Being Human 
+category: being-human
 ---
 
 # PATTERN RECOGNITION/NON-DUALITY

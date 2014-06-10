@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Spectrum
-category: Being Human 
+category: being-human
 ---
 
 I live on the edges of things,  

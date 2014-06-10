@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spirit Peeks Through
-category: Being Human 
+category: being-human
 ---
 
 We cover the world with concepts,  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Perfect Animals
-categories: [Being Human, Love]
+categories: being-human love
 ---
 
 ```

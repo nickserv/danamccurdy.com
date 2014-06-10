@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outside of Time
-category: Love
+category: love
 ---
 
 If I could meet you  

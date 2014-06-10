@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Song of the Heart
-category: Being Human 
+category: being-human
 ---
 
 Poetry is the song of the heart,  

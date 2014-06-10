@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Space and Time
-category: Love
+category: love
 ---
 
  I wish I was there to hold you, curled up in my lap like a baby,  

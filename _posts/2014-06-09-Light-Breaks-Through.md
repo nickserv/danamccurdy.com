@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Light Breaks Through
-category: Being Human 
+category: being-human
 ---
 
 Heart heavy,  

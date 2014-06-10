@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Love and Identity - Another Reflection
-category: Love
+title: love and Identity - Another Reflection
+category: love
 ---
 
 What do we protect,  

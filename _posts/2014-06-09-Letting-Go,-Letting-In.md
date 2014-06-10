@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Letting Go, Letting In
-category: Being Human 
+category: being-human
 ---
 
 It's not until you let everything go  

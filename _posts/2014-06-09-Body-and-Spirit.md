@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Body and Spirit
-category: Being Human 
+category: being-human
 ---
 
 As each moment rolls by,  
