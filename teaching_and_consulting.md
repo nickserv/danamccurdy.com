@@ -18,7 +18,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 - computer-based music production
 - Propellerhead Reason
 - Native Instruments Komplete
-- ProTools (as an Avid-certified instructor}
+- ProTools (as an Avid-certified instructor)
  
 ## Schools I've taught at
 - New School University (NYC)
