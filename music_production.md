@@ -13,7 +13,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - MIDI production
 - music recording, producing, and mixing
 - audio editing
-- music software
+- music software:
 	- ProTools (Avid-certified user)
     - Digital Performer
     - Reason
