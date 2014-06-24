@@ -13,10 +13,13 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - MIDI production
 - music recording, producing, and mixing
 - audio editing
-- music software: ProTools
-- Propellerhead Reason
-- Native Instruments Komplete
-- ProTools (as an Avid-certified instructor}
+- music software: ProTools (Avid-certified user), Digital Performer, Reason, Recycle, Native Instruments Komplete, Metasynth
+- electronic music composition
+- song writing
+- guitar
+- vocals
+- keyboard
+- hand drums/percussion
 
 ## Schools I've taught at
 - New School University (NYC)
