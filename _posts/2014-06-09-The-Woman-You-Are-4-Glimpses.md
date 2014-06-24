@@ -1,10 +1,8 @@
 ---
 layout: post
-title: The Woman You Are
+title: "The Woman You Are: 4 Glimpses"
 category: love
 ---
-
-# THE WOMAN YOU ARE (4 GLIMPSES)
 
 Tender and strong,  
 Gentle and tough,  

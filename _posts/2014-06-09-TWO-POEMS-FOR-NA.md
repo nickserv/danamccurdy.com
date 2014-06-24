@@ -1,10 +1,8 @@
 ---
 layout: post
-title: TWO POEMS
+title: "TWO POEMS: FOR NA"
 category: love
 ---
-
-# TWO POEMS: FOR NAOMI
 
 ## TENDERNESS
 

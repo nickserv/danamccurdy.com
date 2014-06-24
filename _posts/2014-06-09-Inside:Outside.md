@@ -4,8 +4,6 @@ title: Inside:Outside
 category: being-human
 ---
 
-# PATTERN RECOGNITION/NON-DUALITY
-
 Whatever I see  
 Is already inside me,  
 Or I would not see it.
