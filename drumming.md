@@ -30,7 +30,7 @@ As a drum circle facilitator, my commitment is to empower others to experience t
     We are beings of energy, in a universe of energy.<br>
     It is our gift in each moment to direct that energy as we will.<br>
     In rhythm together, we direct that energy to our highest purpose,<br>
-    For the greater joy and good of all.
+    For the greater joy and wellbeing of all.
   </p>
 </div>
 
