@@ -15,7 +15,8 @@ published: true
     </div>
 
     <div class="col-sm-9 lead">
-      {% include lead.html %}
+      {% capture lead %}{% include lead.md %}{% endcapture %}
+      {{ lead | markdownify }}
     </div>
   </div>
 </div>
