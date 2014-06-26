@@ -22,9 +22,9 @@ a gentle touch: your skin,
         a soothing warmth:
                 your heart.
 
-        I see that child in you,
-                tender, defenseless;
-                        I look deeper -
-                                I see my soul, 
-				      the soul we share.
+I see that child in you,
+        tender, defenseless;
+                I look deeper -
+                        I see my soul, 
+      the soul we share.
 </pre>
