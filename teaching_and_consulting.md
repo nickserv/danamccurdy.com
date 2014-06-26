@@ -39,6 +39,6 @@ Over the years, I have taught countless individuals, usually in their home studi
         {{ person.name }}
       {% endif %}
     </dt>
-    <dd>{{ person.description }}</dd>
+    <dd>{{ person.description | markdownify }}</dd>
   {% endfor %}
 </dl>
