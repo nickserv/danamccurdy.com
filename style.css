@@ -102,3 +102,10 @@ footer > div {
 .manifesto h3 {
   margin-top: 0;
 }
+
+.whitespaced-text {
+  padding: 0;
+  color: inherit;
+  background-color: inherit;
+  border: none;
+}

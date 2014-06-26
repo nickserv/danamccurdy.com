@@ -4,7 +4,7 @@ title: Possibility
 category: love
 ---
 
-<pre>
+<pre class="whitespaced-text">
 it's nice to love you,
     like 2 babies in a crib,
         smiling, playing,

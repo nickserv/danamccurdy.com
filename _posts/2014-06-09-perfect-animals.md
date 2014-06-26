@@ -4,7 +4,7 @@ title: Perfect Animals
 categories: being-human love
 ---
 
-<pre>
+<pre class="whitespaced-text">
 Being and playing,
   We are perfect animals;
 Drumming and dancing,
