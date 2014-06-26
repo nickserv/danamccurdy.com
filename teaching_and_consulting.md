@@ -30,7 +30,7 @@ Over the years, I have taught countless individuals, usually in their home studi
  
 ## Some of my notable students and clients
 <dl class="dl-horizontal">
-  <dt>Yusef Lateef</dt>
+  <dt><a href="http://www.yuseflateef.com">Yusef Lateef</a></dt>
   <dd>Grammy-winning jazz artist</dd>
 
   <dt>Chico O'farrill</dt>
@@ -39,16 +39,16 @@ Over the years, I have taught countless individuals, usually in their home studi
   <dt>Roma Baran</dt>
   <dd>producer (<i>Laurie Anderson</i>)</dd>
 
-  <dt>Lucy Simon</dt>
+  <dt><a href="http://en.wikipedia.org/wiki/Lucy_Simon">Lucy Simon</a></dt>
   <dd>singer/songwriter/composer (best known for her musical "<i>The Secret Garden</i>", and recordings with her sister <i>Carly Simon</i>)</dd>
 
-  <dt>Charlie Clouser</dt>
+  <dt><a href="http://en.wikipedia.org/wiki/Charlie_Clouser">Charlie Clouser</a></dt>
   <dd>film and TV composer (formerly of <i>Nine Inch Nails</i>)</dd>
 
   <dt>Mike Mandel</dt>
   <dd>TV composer and keyboardist (formerly keyboardist with <i>Larry Coryell and the Eleventh House;</i> currently composing music for <i>The Ellen Degeneres Show, TMZ,</i> and various other programs)</dd>
 
-  <dt>Donald Stark</dt>
+  <dt><a href="http://donaldstark.com">Donald Stark</a></dt>
   <dd>theater composer and sound designer (known for his work with various NJ-based theater companies)</dd>
 
   <dt>Scott Killian</dt>
