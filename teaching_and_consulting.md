@@ -30,33 +30,14 @@ Over the years, I have taught countless individuals, usually in their home studi
  
 ## Some of my notable students and clients
 <dl class="dl-horizontal">
-  <dt><a href="http://www.yuseflateef.com">Yusef Lateef</a></dt>
-  <dd>Grammy-winning jazz artist</dd>
-
-  <dt><a href="http://www.allmusic.com/artist/chico-ofarrill-mn0000111794">Chico O'farrill</a></dt>
-  <dd>composer/arranger (best known for his Latin jazz projects with <i>The Machito Band, Dizzie Gillespie,</i> and other jazz luminaries)</dd>
-
-  <dt><a href="http://www.baranstoll.com/profile.html">Roma Baran</a></dt>
-  <dd>producer (<i>Laurie Anderson</i>)</dd>
-
-  <dt><a href="http://en.wikipedia.org/wiki/Lucy_Simon">Lucy Simon</a></dt>
-  <dd>singer/songwriter/composer (best known for her musical "<i>The Secret Garden</i>", and recordings with her sister <i>Carly Simon</i>)</dd>
-
-  <dt><a href="http://en.wikipedia.org/wiki/Charlie_Clouser">Charlie Clouser</a></dt>
-  <dd>film and TV composer (formerly of <i>Nine Inch Nails</i>)</dd>
-
-  <dt><a href="http://www.discogs.com/artist/138771-Mike-Mandel">Mike Mandel</a></dt>
-  <dd>TV composer and keyboardist (formerly keyboardist with <i>Larry Coryell and the Eleventh House;</i> currently composing music for <i>The Ellen Degeneres Show, TMZ,</i> and various other programs)</dd>
-
-  <dt><a href="http://donaldstark.com">Donald Stark</a></dt>
-  <dd>theater composer and sound designer (known for his work with various NJ-based theater companies)</dd>
-
-  <dt><a href="http://www.zvidance.com/about/collaborators.php">Scott Killian</a></dt>
-  <dd>dance/theater composer and sound designer (known for his work with various NY-based dance and theater companies)</dd>
-
-  <dt><a href="http://www.soundclick.com/bands/default.cfm?bandID=209257">Michael Palmieri</a></dt>
-  <dd>contemporary classical composer</dd>
-
-  <dt>[other]</dt>
-  <dd>various clients of the NY and Pennsylvania Commissions for the Blind</dd>
+  {% for person in site.data.students_and_clients %}
+    <dt>
+      {% if person.link %}
+        <a href="{{ person.link }}">{{ person.name }}</a>
+      {% else %}
+        {{ person.name }}
+      {% endif %}
+    </dt>
+    <dd>{{ person.description }}</dd>
+  {% endfor %}
 </dl>
