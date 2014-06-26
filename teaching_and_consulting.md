@@ -22,6 +22,7 @@ Over the years, I have taught countless individuals, usually in their home studi
  
 ## Schools I've taught at
 - New School University (NYC)
+- Harvestworks/Studio PASS (NYC)
 - Mannes School of Music (NYC)
 - High Tech High School (N. Bergen, NJ)
 - Ramapo College (Mawhwah, NJ)
