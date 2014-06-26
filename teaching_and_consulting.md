@@ -33,10 +33,10 @@ Over the years, I have taught countless individuals, usually in their home studi
   <dt><a href="http://www.yuseflateef.com">Yusef Lateef</a></dt>
   <dd>Grammy-winning jazz artist</dd>
 
-  <dt>Chico O'farrill</dt>
+  <dt><a href="http://www.allmusic.com/artist/chico-ofarrill-mn0000111794">Chico O'farrill</a></dt>
   <dd>composer/arranger (best known for his Latin jazz projects with <i>The Machito Band, Dizzie Gillespie,</i> and other jazz luminaries)</dd>
 
-  <dt>Roma Baran</dt>
+  <dt><a href="http://www.baranstoll.com/profile.html">Roma Baran</a></dt>
   <dd>producer (<i>Laurie Anderson</i>)</dd>
 
   <dt><a href="http://en.wikipedia.org/wiki/Lucy_Simon">Lucy Simon</a></dt>
@@ -45,13 +45,13 @@ Over the years, I have taught countless individuals, usually in their home studi
   <dt><a href="http://en.wikipedia.org/wiki/Charlie_Clouser">Charlie Clouser</a></dt>
   <dd>film and TV composer (formerly of <i>Nine Inch Nails</i>)</dd>
 
-  <dt>Mike Mandel</dt>
+  <dt><a href="http://www.discogs.com/artist/138771-Mike-Mandel">Mike Mandel</a></dt>
   <dd>TV composer and keyboardist (formerly keyboardist with <i>Larry Coryell and the Eleventh House;</i> currently composing music for <i>The Ellen Degeneres Show, TMZ,</i> and various other programs)</dd>
 
   <dt><a href="http://donaldstark.com">Donald Stark</a></dt>
   <dd>theater composer and sound designer (known for his work with various NJ-based theater companies)</dd>
 
-  <dt>Scott Killian</dt>
+  <dt><a href="http://www.zvidance.com/about/collaborators.php">Scott Killian</a></dt>
   <dd>dance/theater composer and sound designer (known for his work with various NY-based dance and theater companies)</dd>
 
   <dt><a href="http://www.soundclick.com/bands/default.cfm?bandID=209257">Michael Palmieri</a></dt>
