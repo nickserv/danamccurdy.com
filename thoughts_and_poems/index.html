@@ -11,16 +11,7 @@ published: true
 
 <hr>
 {% for post in paginator.posts %}
-  <div class="row post">
-    <div class="col-sm-4 meta">
-      <h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="text-info">{{ post.date | date_to_string }}</p>
-    </div>
-
-    <div class="col-sm-8">
-      {{ post.content }}
-    </div>
-  </div>
+  {% include post.html url=post.url title=post.title date=post.date content=post.content %}
   <hr>
 {% endfor %}
 

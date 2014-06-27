@@ -2,13 +2,4 @@
 layout: default
 ---
 
-<div class="row post">
-  <div class="col-sm-4 meta">
-    <h2>{{ page.title }}</h2>
-    <p class="text-info">{{ page.date | date_to_string }}</p>
-  </div>
-
-  <div class="col-sm-8">
-    {{ content }}
-  </div>
-</div>
+{% include post.html title=page.title date=page.date content=content %}
