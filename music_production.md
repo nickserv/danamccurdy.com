@@ -39,7 +39,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
   <tbody>
     {% for credit in site.data.recording_credits %}
       <tr>
-        <td><a href="{{ credit.link }}">{{ credit.name }}</a></td>
+        <th><a href="{{ credit.link }}">{{ credit.name }}</a></th>
         <td>{{ credit.artist }}</td>
         <td>{{ credit.description }}</td>
       </tr>
@@ -59,13 +59,13 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
   <tbody>
     {% for performance in site.data.live_performances %}
       <tr>
-        <td>
+        <th>
           {% if performance.link %}
             <a href="{{ performance.link }}">{{ performance.name }}</a>
           {% else %}
             {{ performance.name }}
           {% endif %}
-        </td>
+        </th>
         <td>{{ performance.info }}</td>
         <td>{{ performance.description }}</td>
       </tr>
