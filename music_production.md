@@ -52,7 +52,6 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
   <thead>
     <tr>
       <th>Name</th>
-      <th>Information</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -61,12 +60,19 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
       <tr>
         <th>
           {% if performance.link %}
-            <a href="{{ performance.link }}">{{ performance.name }}</a>
+            <a href="{{ performance.link }}">
+              {{ performance.name }}
+              {% if performance.info %}
+                <small>({{ performance.info }})</small>
+              {% endif %}
+            </a>
           {% else %}
             {{ performance.name }}
+            {% if performance.info %}
+              <small>({{ performance.info }})</small>
+            {% endif %}
           {% endif %}
         </th>
-        <td>{{ performance.info }}</td>
         <td>{{ performance.description }}</td>
       </tr>
     {% endfor %}
