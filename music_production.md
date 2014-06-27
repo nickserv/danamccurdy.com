@@ -29,40 +29,48 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 
 ## Recording Credits
 <table class="table table-striped">
-  <tr>
-    <th>Name</th>
-    <th>Artist</th>
-    <th>Description</th>
-  </tr>
-  {% for credit in site.data.recording_credits %}
+  <thead>
     <tr>
-      <td><a href="{{ credit.link }}">{{ credit.name }}</a></td>
-      <td>{{ credit.artist }}</td>
-      <td>{{ credit.description }}</td>
+      <th>Name</th>
+      <th>Artist</th>
+      <th>Description</th>
     </tr>
-  {% endfor %}
+  </thead>
+  <tbody>
+    {% for credit in site.data.recording_credits %}
+      <tr>
+        <td><a href="{{ credit.link }}">{{ credit.name }}</a></td>
+        <td>{{ credit.artist }}</td>
+        <td>{{ credit.description }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
 </table>
 
 ## Live Performances
 <table class="table table-striped">
-  <tr>
-    <th>Name</th>
-    <th>Information</th>
-    <th>Description</th>
-  </tr>
-  {% for performance in site.data.live_performances %}
+  <thead>
     <tr>
-      <td>
-        {% if performance.link %}
-          <a href="{{ performance.link }}">{{ performance.name }}</a>
-        {% else %}
-          {{ performance.name }}
-        {% endif %}
-      </td>
-      <td>{{ performance.info }}</td>
-      <td>{{ performance.description }}</td>
+      <th>Name</th>
+      <th>Information</th>
+      <th>Description</th>
     </tr>
-  {% endfor %}
+  </thead>
+  <tbody>
+    {% for performance in site.data.live_performances %}
+      <tr>
+        <td>
+          {% if performance.link %}
+            <a href="{{ performance.link }}">{{ performance.name }}</a>
+          {% else %}
+            {{ performance.name }}
+          {% endif %}
+        </td>
+        <td>{{ performance.info }}</td>
+        <td>{{ performance.description }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
 </table>
 
 ## Other Production Credits 
