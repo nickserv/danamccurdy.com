@@ -25,7 +25,8 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - guitar
 - vocals
 - keyboard
-- hand drums/percussion                                                                                      
+- hand drums/percussion
+
 ## Recording Credits
 - [Feel Like Makin' Love](http://www.allmusic.com/album/feel-like-makin-love-mw0000654661) (Roberta Flack) - synthesizer programming
 - [Afro-Cuban Jazz Moods](http://www.allmusic.com/album/afro-cuban-jazz-moods-mw0000308238) (Dizzy Gillespie/Machito) - synthesizer programming
