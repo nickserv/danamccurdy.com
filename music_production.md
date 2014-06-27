@@ -50,25 +50,25 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 
 ## Other Production Credits 
 - Various TV & Radio Commercials: synthesizer programming and/or recording, post-production,and mixing  
- - AMTRAK
- - Chrysler
- - Omni Magazine
- - Singer
- - Black & Decker
- - Laughing Cow
- - Thomas’ English Muffins
- - Breeders Cup
+  - AMTRAK
+  - Chrysler
+  - Omni Magazine
+  - Singer
+  - Black & Decker
+  - Laughing Cow
+  - Thomas’ English Muffins
+  - Breeders Cup
 
 - Miscellaneous Projects
- - pre-production for “Saturday Night Live” (with composer Howard Shore) - synthesizer programming
- -  “source” music for TV soap opera “Another World” (with composer Mike Mandel) -  recording,   production, and mixing
- - theme music for PBS series, “Bookends” (with composer Scott Killian) - recording, co-production, and mixing
- - soundtracks for various works by video artist [Rita Myers](http://www.eai.org/artistTitles.htm?id=402), including a major Whitney Museum
+  - pre-production for “Saturday Night Live” (with composer Howard Shore) - synthesizer programming
+  -  “source” music for TV soap opera “Another World” (with composer Mike Mandel) -  recording,   production, and mixing
+  - theme music for PBS series, “Bookends” (with composer Scott Killian) - recording, co-production, and mixing
+  - soundtracks for various works by video artist [Rita Myers](http://www.eai.org/artistTitles.htm?id=402), including a major Whitney Museum
 installation in 1985 - recording, co-production, and mixing
- - various modern dance scores for composers Linda Fisher and Scott Killian - recording, co-production, and mixing
- - music editing for the network TV broadcast of the 1988 Summer Olympics
- - audio post-production and mixing for sports broadcasts “Best of the Beach” and the Breeders Cup.
- - "M1: The Video" - script writer and on-screen instructor: a  series of four two-hour instructional    videos on all  operational aspects of the Korg M1 Synthesizer.
+  - various modern dance scores for composers Linda Fisher and Scott Killian - recording, co-production, and mixing
+  - music editing for the network TV broadcast of the 1988 Summer Olympics
+  - audio post-production and mixing for sports broadcasts “Best of the Beach” and the Breeders Cup.
+  - "M1: The Video" - script writer and on-screen instructor: a  series of four two-hour instructional    videos on all  operational aspects of the Korg M1 Synthesizer.
 
 ## Original Music
 - Songs:
