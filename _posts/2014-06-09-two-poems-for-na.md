@@ -4,7 +4,7 @@ title: "TWO POEMS: FOR NA"
 category: love
 ---
 
-## TENDERNESS
+### TENDERNESS
 
 My friend beside me, quiescent and open,  
 Floating in tranquility.  
@@ -23,7 +23,7 @@ Your tears kissing my skin, merging with mine.
 
 You are my friend, here beside me.
 
-## TOUCHED
+### TOUCHED
 
 My heart is full, my spirit peaceful,  
 The fist in my stomach unclenching.  
