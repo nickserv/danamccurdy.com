@@ -44,7 +44,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - **Ear Food** (synthesizer duo featuring original music by Dana McCurdy and Brian Flahive) – various performances and workshops in the NY metropolitan area, including Columbia University, WKCR, the Museum of Natural History, and the Ear Inn
 
 ## Other Production Credits 
-- Various TV & Radio Commercials: synthesizer programming and/or recording, post-production,and mixing  
+- **Various TV & Radio Commercials:** synthesizer programming and/or recording, post-production,and mixing  
   - AMTRAK
   - Chrysler
   - Omni Magazine
@@ -54,7 +54,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
   - Thomas’ English Muffins
   - Breeders Cup
 
-- Miscellaneous Projects
+- **Miscellaneous Projects**
   - pre-production for “Saturday Night Live” (with composer Howard Shore) - synthesizer programming
   -  “source” music for TV soap opera “Another World” (with composer Mike Mandel) -  recording,   production, and mixing
   - theme music for PBS series, “Bookends” (with composer Scott Killian) - recording, co-production, and mixing
