@@ -108,4 +108,5 @@ footer > div {
   color: inherit;
   background-color: inherit;
   border: none;
+  font: inherit;
 }
