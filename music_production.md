@@ -51,7 +51,8 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 
 ## Other Production Credits
 
-### Various TV & Radio Commercials: <small>synthesizer programming and/or recording, post-production,and mixing</small>
+### Various TV & Radio Commercials
+(synthesizer programming and/or recording, post-production,and mixing)
 - AMTRAK
 - Chrysler
 - Omni Magazine
