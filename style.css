@@ -9,8 +9,9 @@ body {
   padding-left: 30px;
 }
 
-.post h2 {
+.post h1, .post h2 {
   margin-top: 0 !important;
+  text-align: left;
 }
 
 /* standard navbar */

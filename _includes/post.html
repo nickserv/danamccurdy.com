@@ -3,7 +3,7 @@
     {% if include.url %}
       <h2><a href="{{ site.baseurl }}{{ include.url }}">{{ include.title }}</a></h2>
     {% else %}
-      <h2>{{ include.title }}</h2>
+      <h1>{{ include.title }}</h1>
     {% endif %}
     <p class="text-info">{{ include.date | date_to_string }}</p>
   </div>
