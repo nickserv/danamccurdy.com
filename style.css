@@ -111,3 +111,22 @@ footer > div {
   border: none;
   font: inherit;
 }
+
+.table a {
+  /* a color */
+  color: #df691a !important;
+}
+
+.table > thead > tr > th {
+  text-align: center;
+}
+
+.table > tbody > tr > th,
+.table > tbody > tr > td {
+  /* .text-muted color */
+  border-bottom: 1px solid #4e5d6c !important;
+}
+.table > tbody > tr:last-child > th,
+.table > tbody > tr:last-child > td {
+  border-bottom: none !important;
+}

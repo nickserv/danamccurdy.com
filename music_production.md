@@ -28,7 +28,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - hand drums/percussion
 
 ## Recording Credits
-<table class="table table-striped">
+<table class="table">
   <thead>
     <tr>
       <th>Name</th>
@@ -48,7 +48,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 </table>
 
 ## Live Performances
-<table class="table table-striped">
+<table class="table">
   <thead>
     <tr>
       <th>Name</th>
