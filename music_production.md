@@ -39,7 +39,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - [Tribe of One](http://www.discogs.com/Christine-Baczewska-Tribe-Of-One/release/2616270) (singer-songwriter Christine Baczewska) – recording & mixing
 - [Dawn Until Dusk](http://www.amazon.com/Dawn-Until-Dusk-Tribal-Didgeridoo/dp/B000001ZBE) (didgeridooist Adam Plack) – recording, production, & mixing
 - [Sacred Songs of America](http://www.folkways.si.edu/ed-and-dana-mccurdy/on-jordans-stormy-banks-i-stand-sacred-songs-of-america/american-folk/music/album/smithsonian) (Ed McCurdy with Dana McCurdy) - vocals, guitar, and co-production
-- [Thought After Sixty](https://itunes.apple.com/us/album/thoughts-after-sixty/id465674514) (Ed McCurdy) - vocals, guitar, and co-production
+- [Thoughts After Sixty](https://itunes.apple.com/us/album/thoughts-after-sixty/id465674514) (Ed McCurdy) - vocals, guitar, and co-production
 
 ## Live Performances
 - Circle of One - solo percussion and electronics (Good Shepherd Lutheran Church, Weehawken, NJ)
