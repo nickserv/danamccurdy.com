@@ -124,6 +124,7 @@ footer > div {
 .table {
   /* .text-muted color */
   border-top: 1px solid #4e5d6c !important;
+  font-size: inherit !important;
 }
 
 .table > tbody > tr > th,
