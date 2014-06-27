@@ -28,28 +28,42 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - hand drums/percussion
 
 ## Recording Credits
-<dl class="dl-horizontal">
+<table class="table table-striped">
+  <tr>
+    <th>Name</th>
+    <th>Artist</th>
+    <th>Description</th>
+  </tr>
   {% for credit in site.data.recording_credits %}
-    <dt><a href="{{ credit.link }}">{{ credit.name }}</a></dt>
-    <dd>{{ credit.artist }}</dd>
-    <dd>{{ credit.description }}</dd>
+    <tr>
+      <td><a href="{{ credit.link }}">{{ credit.name }}</a></td>
+      <td>{{ credit.artist }}</td>
+      <td>{{ credit.description }}</td>
+    </tr>
   {% endfor %}
-</dl>
+</table>
 
 ## Live Performances
-<dl class="dl-horizontal">
+<table class="table table-striped">
+  <tr>
+    <th>Name</th>
+    <th>Information</th>
+    <th>Description</th>
+  </tr>
   {% for performance in site.data.live_performances %}
-    <dt>
-      {% if performance.link %}
-        <a href="{{ performance.link }}">{{ performance.name }}</a>
-      {% else %}
-        {{ performance.name }}
-      {% endif %}
-    </dt>
-    {% if performance.info %}<dd>{{ performance.info }}</dd> {% endif %}
-    <dd>{{ performance.description }}</dd>
+    <tr>
+      <td>
+        {% if performance.link %}
+          <a href="{{ performance.link }}">{{ performance.name }}</a>
+        {% else %}
+          {{ performance.name }}
+        {% endif %}
+      </td>
+      <td>{{ performance.info }}</td>
+      <td>{{ performance.description }}</td>
+    </tr>
   {% endfor %}
-</dl>
+</table>
 
 ## Other Production Credits 
 - **Various TV & Radio Commercials:** synthesizer programming and/or recording, post-production,and mixing  
