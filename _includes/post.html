@@ -1,7 +1,7 @@
 <div class="row post">
   <div class="col-sm-4 meta">
     {% if include.url %}
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ include.url }}">{{ include.title }}</a></h2>
     {% else %}
       <h2>{{ include.title }}</h2>
     {% endif %}
