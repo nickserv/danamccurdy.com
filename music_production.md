@@ -53,7 +53,6 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 
 ### Various TV & Radio Commercials
 (synthesizer programming and/or recording, post-production,and mixing)
-
 - AMTRAK
 - Chrysler
 - Omni Magazine
