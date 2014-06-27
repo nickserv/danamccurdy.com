@@ -42,11 +42,11 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - [Thoughts After Sixty](https://itunes.apple.com/us/album/thoughts-after-sixty/id465674514) (Ed McCurdy) - vocals, guitar, and co-production
 
 ## Live Performances
-- Circle of One - solo percussion and electronics (Good Shepherd Lutheran Church, Weehawken, NJ)
-- Codanceco (modern dance company) - live performance of a dance score by composer Scott Killian. 
+- **Circle of One** - solo percussion and electronics (Good Shepherd Lutheran Church, Weehawken, NJ)
+- **Codanceco** (modern dance company) - live performance of a dance score by composer Scott Killian. 
 - [Jane Ira Bloom](http://www.janeirabloom.com/) – collaborations for sax and electronics, including performances with the NY State Council of the Arts New Music Network in 1985
-- None of the Above (improvisational/experimental rock band) – various performances in New York and Toronto night clubs
-- Ear Food (synthesizer duo featuring original music by Dana McCurdy and Brian Flahive) – various performances and workshops in the NY metropolitan area, including Columbia University, WKCR, the Museum of Natural History, and the Ear Inn
+- **None of the Above** (improvisational/experimental rock band) – various performances in New York and Toronto night clubs
+- **Ear Food** (synthesizer duo featuring original music by Dana McCurdy and Brian Flahive) – various performances and workshops in the NY metropolitan area, including Columbia University, WKCR, the Museum of Natural History, and the Ear Inn
 
 ## Other Production Credits 
 - Various TV & Radio Commercials: synthesizer programming and/or recording, post-production,and mixing  
