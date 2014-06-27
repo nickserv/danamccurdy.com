@@ -134,3 +134,8 @@ footer > div {
   /* .text-muted color */
   border-bottom: 1px solid #4e5d6c !important;
 }
+
+.table > tbody > tr:last-child > th,
+.table > tbody > tr:last-child > td {
+  border-bottom: none !important;
+}
