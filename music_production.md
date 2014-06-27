@@ -49,8 +49,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - **None of the Above** (improvisational/experimental rock band) – various performances in New York and Toronto night clubs
 - **Ear Food** (synthesizer duo featuring original music by Dana McCurdy and Brian Flahive) – various performances and workshops in the NY metropolitan area, including Columbia University, WKCR, the Museum of Natural History, and the Ear Inn
 
-## Other Production Credits
-
+## Other Production Credits 
 ### Various TV & Radio Commercials: <small>synthesizer programming and/or recording, post-production,and mixing</small>
 - AMTRAK
 - Chrysler
