@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Jesus
+title: Who Is Jesus?
 category: being-human
 ---
-
-Who is Jesus?  
+ 
 He was a man  
 Imbedded in time,  
 Receding in history.

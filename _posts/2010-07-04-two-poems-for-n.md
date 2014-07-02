@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TWO POEMS: FOR NA"
+title: "TWO POEMS FOR N"
 category: love
 ---
 

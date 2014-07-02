@@ -19,5 +19,5 @@ Feeling your warmth, giving you mine.
 
 This is our gentle dance, our silent blessing,  
 Touching softly across a continent,  
-A long and tender thread, always between us..  
+A long and tender thread, always between us.  
 This is our silent blessing, our gentle dance. 

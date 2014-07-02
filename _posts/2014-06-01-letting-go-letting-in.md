@@ -4,5 +4,5 @@ title: Letting Go, Letting In
 category: being-human
 ---
 
-It's not until you let everything go  
-that you can let everything in.
+Ony when you let everything go  
+can you let everything in.
