@@ -1,7 +1,19 @@
 {% capture intro %}{% include thoughts_and_poems_intro.md %}{% endcapture %}
 {{ intro | markdownify }}
 
-{% if include.main %}
+<ul class="nav nav-tabs" role="tablist">
+  <li {% if include.scope == "all" %}class="active"{% endif %}>
+    <a href="{{site.baseurl}}/thoughts_and_poems">all</a>
+  </li>
+  <li {% if include.scope == "life" %}class="active"{% endif %}>
+    <a href="{{site.baseurl}}/thoughts_and_poems/life">life</a>
+  </li>
+  <li {% if include.scope == "love" %}class="active"{% endif %}>
+    <a href="{{site.baseurl}}/thoughts_and_poems/love">love</a>
+  </li>
+</ul>
+
+{% if include.scope == "all" %}
   {% include pager.html %}
 {% endif %}
 
@@ -13,6 +25,6 @@
 
 <p>You may also subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.</p>
 
-{% if include.main %}
+{% if include.scope == "all" %}
   {% include pager.html %}
 {% endif %}
