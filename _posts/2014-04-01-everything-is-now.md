@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything Is Now
-category: being-human
+category: life
 ---
 
 Everything is Now, 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tommorrow Never Tweets
-category: being-human
+category: life
 ---
 
 Turn off your phone,  

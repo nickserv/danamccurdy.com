@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Thoughts on Letting Go
-category: being-human
+category: life
 ---
 
 I am dying,  

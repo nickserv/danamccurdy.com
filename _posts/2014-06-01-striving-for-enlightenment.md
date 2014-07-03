@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Striving for Enlightenment
-category: being-human
+category: life
 ---
 
 We strive after peak experiences,  

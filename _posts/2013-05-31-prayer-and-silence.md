@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prayer and Silence
-category: being-human
+category: life
 ---
 
 No loud or urgent prayer  

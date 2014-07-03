@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Little Universes
-category: being-human
+category: life
 ---
 
 We live in a BIG universe.  

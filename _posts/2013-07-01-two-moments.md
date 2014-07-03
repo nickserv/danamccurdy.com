@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Moments
-category: being-human
+category: life
 ---
 
 ### Freedom:

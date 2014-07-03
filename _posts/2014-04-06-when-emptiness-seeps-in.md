@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Emptiness Seeps In
-category: being-human
+category: life
 ---
 
 When your entertainment ends,  

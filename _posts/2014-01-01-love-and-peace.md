@@ -1,7 +1,7 @@
 ---
 layout: post
 title: love and Peace
-category: being-human
+category: life
 ---
 
 love digs deep into the soul.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: love and Being
-categories: being-human love
+categories: life love
 ---
 
 It lies between us,  

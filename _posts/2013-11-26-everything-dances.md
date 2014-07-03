@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything Dances
-category: being-human
+category: life
 ---
 
 Everything dances.  

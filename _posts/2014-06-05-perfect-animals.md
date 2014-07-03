@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Perfect Animals
-categories: being-human love
+categories: life love
 ---
 
 <pre class="whitespaced-text">

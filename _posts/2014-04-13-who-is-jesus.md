@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Is Jesus?
-category: being-human
+category: life
 ---
  
 He was a man  

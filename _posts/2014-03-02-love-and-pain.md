@@ -1,7 +1,7 @@
 ---
 layout: post
 title: love and Pain
-category: being-human
+category: life
 ---
 
 love may be the essence of a spiritual life,  

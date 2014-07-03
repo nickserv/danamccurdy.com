@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Gohonzon
-category: being-human
+category: life
 ---
 
 My Gohonzon  

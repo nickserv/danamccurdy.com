@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ending and Becoming
-category: being-human
+category: life
 ---
 
 Bare branches  

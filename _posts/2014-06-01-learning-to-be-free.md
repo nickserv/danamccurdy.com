@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning To Be Free
-category: being-human
+category: life
 ---
 
 Empty inside,  

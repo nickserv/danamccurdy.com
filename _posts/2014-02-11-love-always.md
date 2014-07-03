@@ -1,7 +1,7 @@
 ---
 layout: post
 title: love, Always
-categories: being-human love
+categories: life love
 ---
 
 "I will love you always"'  

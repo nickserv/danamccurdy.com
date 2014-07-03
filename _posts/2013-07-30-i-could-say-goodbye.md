@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Could say goodbye
-category: being-human
+category: life
 ---
 
 I could say goodbye  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Like vs. "Like"
-category: being-human
+category: life
 ---
 
 I used to like a lot of things,  

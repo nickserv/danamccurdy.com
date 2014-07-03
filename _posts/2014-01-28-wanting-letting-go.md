@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wanting/Letting go
-category: being-human
+category: life
 ---
 
 Wanting  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Without Need
-category: being-human
+category: life
 ---
 
 Without need,  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Is life!
-category: being-human
+category: life
 ---
 
 Pry open the lid of your mind.  

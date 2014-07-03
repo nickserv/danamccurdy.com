@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Stepped Out
-category: being-human
+category: life
 ---
 
 A sound pulled me in,  

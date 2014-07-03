@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mind and Spirit
-category: being-human
+category: life
 ---
 
 The mind says  

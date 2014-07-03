@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What do we deserve?
-category: being-human
+category: life
 ---
 
 What do we deserve?

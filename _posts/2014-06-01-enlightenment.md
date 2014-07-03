@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enlightenment
-category: being-human
+category: life
 ---
 
 Maybe the state of enlightenment  

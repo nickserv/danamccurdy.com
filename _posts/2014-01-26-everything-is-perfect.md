@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything is perfect
-category: being-human
+category: life
 ---
 
 Nothing matters  

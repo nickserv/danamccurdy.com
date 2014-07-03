@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expansion/Contraction
-category: being-human
+category: life
 ---
 
 For the most part, 

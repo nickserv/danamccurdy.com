@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Relationships
-category: being-human
+category: life
 ---
 
 All our relationships  

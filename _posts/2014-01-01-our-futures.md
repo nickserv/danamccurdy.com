@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Futures
-category: being-human
+category: life
 ---
 
 All futures are possible.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Letting Go, Letting In
-category: being-human
+category: life
 ---
 
 Ony when you let everything go  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Betwen the Words
-category: being-human
+category: life
 ---
 
 I am the truth that words can't convey.  

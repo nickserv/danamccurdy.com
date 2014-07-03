@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moments: 2 Thoughts"
-category: being-human
+category: life
 ---
 
 Afloat in a river of moments,  

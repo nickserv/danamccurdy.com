@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nothing and Everything
-category: being-human
+category: life
 ---
 
 Out of nothing  

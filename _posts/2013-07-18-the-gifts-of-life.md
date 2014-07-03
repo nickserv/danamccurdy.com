@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Gifts of Life
-category: being-human
+category: life
 ---
 
 Sometimes  

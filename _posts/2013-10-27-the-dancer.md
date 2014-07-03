@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dancer
-categories: being-human love
+categories: life love
 ---
 
 Abandoned to the dance,  

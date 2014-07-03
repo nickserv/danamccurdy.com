@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The True Gift
-category: being-human
+category: life
 ---
 
 When you lose somebody, look inside  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: love Opens Doors
-category: being-human
+category: life
 ---
 
 love opens doors,  

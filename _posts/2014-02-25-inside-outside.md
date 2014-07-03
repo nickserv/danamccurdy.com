@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inside:Outside
-category: being-human
+category: life
 ---
 
 Whatever I see  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Procrastination
-category: being-human
+category: life
 ---
 
 Why procrastinate now,  

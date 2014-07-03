@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best Possible Company
-category: being-human
+category: life
 ---
 
 Cultivate a loving relationship with yourself.  

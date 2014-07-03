@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Song of the Heart
-category: being-human
+category: life
 ---
 
 Poetry 

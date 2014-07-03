@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responsibility
-category: being-human
+category: life
 ---
 
 We are responsible for our actions,  

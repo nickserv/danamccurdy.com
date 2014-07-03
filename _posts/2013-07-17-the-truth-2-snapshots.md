@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The truth: 2 snapshots"
-category: being-human
+category: life
 ---
 
 Every disappointment is a gift.  

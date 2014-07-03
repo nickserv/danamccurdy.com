@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Final Healing
-category: being-human
+category: life
 ---
 
 Spirit,  

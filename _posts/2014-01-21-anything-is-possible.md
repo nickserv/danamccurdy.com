@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anything Is Possible
-category: being-human
+category: life
 ---
 
 We give power to what we pay attention to.  

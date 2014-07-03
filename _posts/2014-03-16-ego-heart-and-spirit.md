@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ego, Heart & Spirit
-categories: being-human love
+categories: life love
 ---
 
 Between two egos,  

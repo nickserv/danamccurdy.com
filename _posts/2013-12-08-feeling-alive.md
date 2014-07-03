@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feeling Alive
-category: being-human
+category: life
 ---
 
 Sometimes,  

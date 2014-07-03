@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Reflection
-category: being-human
+category: life
 ---
 
 Human beings are, for the most part, unreliable.  

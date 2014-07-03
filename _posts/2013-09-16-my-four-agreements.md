@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Four Agreements (with gratitude to Don Miguel Ruiz)
-category: being-human
+category: life
 ---
 
 In each moment,  

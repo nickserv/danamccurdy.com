@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heart and Mind
-category: being-human
+category: life
 ---
 
 Sometimes the doors of the heart slam shut  

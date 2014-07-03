@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Greenbrook Sanctuary- 2 poems
-category: being-human
+category: life
 ---
 
 Awash in my senses,  

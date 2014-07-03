@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Helplessness
-category: being-human
+category: life
 ---
 
 Helplessness 

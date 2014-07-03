@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Note To My Self
-category: being-human
+category: life
 ---
 
 All my life,  
