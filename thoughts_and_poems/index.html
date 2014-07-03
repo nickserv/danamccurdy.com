@@ -4,17 +4,4 @@ title: "Thoughts & Poems"
 published: true
 ---
 
-{% capture intro %}{% include thoughts_and_poems_intro.md %}{% endcapture %}
-{{ intro | markdownify }}
-
-{% include pager.html %}
-
-<hr>
-{% for post in paginator.posts %}
-  {% include post.html url=post.url title=post.title date=post.date content=post.content %}
-  <hr>
-{% endfor %}
-
-<p>You may also subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.</p>
-
-{% include pager.html %}
+{% include posts.html data=paginator.posts main=true %}
