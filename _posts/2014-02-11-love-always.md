@@ -14,7 +14,7 @@ And yet, things change.
 Thoughts and feelings  
 come and go.
 
-love seems to disappear,  
+Love seems to disappear,  
 when the mind rules,  
 and the heart shuts down.
 
