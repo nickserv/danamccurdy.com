@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Wanting/Letting go
+title: Wanting/ Letting go
 category: life
+published: true
 ---
 
 Wanting  
