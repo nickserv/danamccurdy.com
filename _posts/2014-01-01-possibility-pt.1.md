@@ -2,6 +2,7 @@
 layout: post
 title: Possibility
 category: love
+published: true
 ---
 
 <pre class="whitespaced-text">
@@ -22,9 +23,9 @@ a gentle touch: your skin,
         a soothing warmth:
                 your heart.
 
-I see that child in you,
-        tender, defenseless;
+I see the child in you,
+        tender and defenseless;
                 I look deeper -
-                        I see my soul, 
+                        and see my soul, 
       the soul we share.
 </pre>
