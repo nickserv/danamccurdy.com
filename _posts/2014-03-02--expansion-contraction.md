@@ -5,12 +5,12 @@ category: life
 published: true
 ---
 
-For the most part, 
-a healthy organism expands, 
+For the most part,   
+a healthy organism expands,   
 and an unhealthy one contracts.
 
 What we accept and learn from 
-expands us. 
+expands us.  
 What we avoid 
 makes us contract.
 
