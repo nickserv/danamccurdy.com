@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Love and Identity: Two Reflections"
+title: Love and Identity
 category: love
 published: true
 ---
