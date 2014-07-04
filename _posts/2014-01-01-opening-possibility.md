@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opening/Possibility
+title: Opening/ Possibility
 category: love
 published: true
 ---
@@ -30,8 +30,8 @@ I see the child in you,
                 I look deeper,
                         and see my soul, 
       the soul we share.
-</pre>
 ### Possibility
+</pre>
 It's nice to love you,  
 expecting nothing.  
 Naivete leaves me;  
