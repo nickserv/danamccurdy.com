@@ -11,7 +11,7 @@ it's nice to love you,
         smiling, playing,
              looking, touching.
 
-               no ideas, no hope, no worries;
+               no ideas, no hope or worries;
             no future, no theories;
           no reasons,
        no blame.
