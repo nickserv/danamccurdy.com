@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Loss:Opening
+title: "Loss: Opening"
 category: life
+published: true
 ---
 
 Loss;  
