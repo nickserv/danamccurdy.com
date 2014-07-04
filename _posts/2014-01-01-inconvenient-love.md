@@ -2,12 +2,13 @@
 layout: post
 title: Inconvenient love
 category: love
+published: true
 ---
 
 It isn't convenient to love you,  
 Sometimes it brings me pain -  
 The struggle to get what I think I lack,  
-That Yearning for safety or gain.
+The yearning for safety or gain.
 
 
 Losing the joy of the moment,  
