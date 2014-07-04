@@ -11,7 +11,7 @@ of having.
 
 It is grasping  
 that fills 
-the emptiness  
+emptiness  
 with pain.
 
 Let go,  
