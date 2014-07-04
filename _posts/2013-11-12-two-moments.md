@@ -2,6 +2,7 @@
 layout: post
 title: Two Moments
 category: love
+published: true
 ---
 
 What opens the heart?  
@@ -21,11 +22,13 @@ Light shines through, if only for a moment.
 In the river of everything,  
 "I" bumps into "I"',  
 Melting into unity,  
-Frozen in a moment.
+Melding in a moment.
 
-The waters rush,  
-Entropy tugs,  
-Each "I" re-blooms  
+Then the waters rush,  
+As entropy tugs,  
+And each "I" re-blooms  
 Into separateness.
 
-The dance continues.
+Then, and then,
+The dance continues,
+And continues.
