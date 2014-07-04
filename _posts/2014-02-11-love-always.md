@@ -6,7 +6,7 @@ published: true
 ---
 
 "I will love you always"  
-can be true, always,  
+may be true, always,  
 because love exists  
 outside of time.
 
