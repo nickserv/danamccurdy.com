@@ -1,7 +1,8 @@
 ---
 layout: post
-title: love, Always
+title: "Love, Always"
 categories: life love
+published: true
 ---
 
 "I will love you always"'  
@@ -27,4 +28,3 @@ where Spirit lives.
 love will still be there.  
 It is ALWAYS there,  
 as we come and go.
-
