@@ -31,3 +31,28 @@ I see the child in you,
                         and see my soul, 
       the soul we share.
 </pre>
+### Possibility
+It's nice to love you,  
+expecting nothing.  
+Naivete leaves me;  
+dreams disperse,   
+dew-like.
+
+It’s just me, in my life,  
+seeing you, in yours.  
+Our paths veer   
+like mountain roads,  
+diverging, colliding,  
+sometimes touching, gently,   
+for a moment or two.
+
+This does not fit in any box I know;  
+these moments pop into being, and pass.  
+There is a flow  
+that cannot be followed.  
+These are our paths,  
+not to understand,  
+but simply to be open to their grace.
+
+These are blessings beyond reason.  
+I accept them.
