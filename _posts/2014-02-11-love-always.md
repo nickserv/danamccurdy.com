@@ -10,7 +10,7 @@ can be true, always,
 because love exists  
 outside of time.
 
-And things change.  
+And yet, things change.  
 Thoughts and feelings  
 come and go.
 
