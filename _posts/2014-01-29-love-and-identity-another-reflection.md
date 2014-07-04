@@ -1,8 +1,11 @@
 ---
 layout: post
-title: love and Identity - Another Reflection
+title: "love and Identity - Another Reflection"
 category: love
+published: true
 ---
+
+[love and Identity - A Reflection]({{site.base.url}}/love/2014/01/29/love-and-identity-a-reflection/)
 
 What do we protect,  
 when we protect ourselves?  
