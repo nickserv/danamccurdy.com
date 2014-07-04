@@ -1,7 +1,8 @@
 ---
 layout: post
-title: love and Peace
+title: Love and Peace
 category: life
+published: true
 ---
 
 love digs deep into the soul.
