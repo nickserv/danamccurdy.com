@@ -26,5 +26,5 @@ outside of time,
 where Spirit lives.
 
 love will still be there.  
-It is ALWAYS there,  
+It is always there,  
 as we come and go.
