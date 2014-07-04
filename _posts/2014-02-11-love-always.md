@@ -5,7 +5,7 @@ categories: life love
 published: true
 ---
 
-"I will love you always"'  
+"I will love you always"  
 can be true, always,  
 because love exists  
 outside of time.
