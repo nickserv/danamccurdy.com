@@ -25,7 +25,7 @@ a gentle touch: your skin,
 
 I see the child in you,
         tender and defenseless;
-                I look deeper -
+                I look deeper,
                         and see my soul, 
       the soul we share.
 </pre>
