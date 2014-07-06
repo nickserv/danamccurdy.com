@@ -93,13 +93,14 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - **Miscellaneous Projects**
   - pre-production for “Saturday Night Live” (with composer Howard Shore) - synthesizer programming
   -  “source” music for TV soap opera “Another World” (with composer Mike Mandel) -  recording,   production, and mixing
-  - theme music for PBS series, “Bookends” (with composer Scott Killian) - recording, co-production, and mixing
+  - musical theme for PBS series, “Bookends” (with composer Scott Killian) - recording, co-production, and mixing
   - soundtracks for various works by video artist [Rita Myers](http://www.eai.org/artistTitles.htm?id=402), including a major Whitney Museum
 installation in 1985 - recording, co-production, and mixing
   - various modern dance scores for composers Linda Fisher and Scott Killian - recording, co-production, and mixing
   - music editing for the network TV broadcast of the 1988 Summer Olympics
   - audio post-production and mixing for sports broadcasts “Best of the Beach” and the Breeders Cup.
   - "M1: The Video" - script writer and on-screen instructor: a  series of four two-hour instructional    videos on all  operational aspects of the Korg M1 Synthesizer.
+  - music for [See Yourself Well](http://www.amazon.com/See-Yourself-Well-Anne-Beattie/dp/1881025306), an audio series of guided meditations by Anne Beattie - original music and MIDI production.
 
 ## Original Music
 - Songs
