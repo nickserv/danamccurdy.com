@@ -102,5 +102,5 @@ installation in 1985 - recording, co-production, and mixing
   - "M1: The Video" - script writer and on-screen instructor: a  series of four two-hour instructional    videos on all  operational aspects of the Korg M1 Synthesizer.
 
 ## Original Music
-- Songs:
-- Electronic music: 
+- Songs
+- Electronic pieces
