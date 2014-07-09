@@ -1,5 +1,7 @@
 ---
-published: false
+title: All Your Opinions
+layout: post
+category: love
 ---
 
 All your opinions  
