@@ -14,5 +14,5 @@ Only in those
 quiet moments  
 of simple acceptance  
 can I feel your caring,  
-and the real you  
+as the real you  
 sees the real me.
