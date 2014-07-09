@@ -1,5 +1,7 @@
 ---
-published: false
+title: The Girl Inside
+layout: post
+category: love
 ---
 
 How safe it must feel,  
