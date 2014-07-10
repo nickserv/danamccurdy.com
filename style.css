@@ -140,6 +140,10 @@ footer > div {
   border-bottom: none !important;
 }
 
+.nav-tabs {
+  margin-left: 15px;
+}
+
 .nav-tabs a {
   /* a color */
   color: #df691a !important;
