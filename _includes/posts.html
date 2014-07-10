@@ -2,11 +2,8 @@
 {{ intro | markdownify }}
 
 <ul class="nav nav-tabs" role="tablist">
-  <li {% if include.scope == "all" %}class="active"{% endif %}>
-    <a href="{{site.baseurl}}/thoughts_and_poems/">all</a>
-  </li>
   <li {% if include.scope == "life" %}class="active"{% endif %}>
-    <a href="{{site.baseurl}}/thoughts_and_poems/life/">life</a>
+    <a href="{{site.baseurl}}/thoughts_and_poems/">life</a>
   </li>
   <li {% if include.scope == "love" %}class="active"{% endif %}>
     <a href="{{site.baseurl}}/thoughts_and_poems/love/">love</a>
