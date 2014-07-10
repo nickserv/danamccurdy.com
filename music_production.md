@@ -103,6 +103,5 @@ installation in 1985 - recording, co-production, and mixing
   - music for [See Yourself Well](http://www.amazon.com/See-Yourself-Well-Anne-Beattie/dp/1881025306), an audio series of guided meditations by Anne Beattie - original music and MIDI production.
 
 ## Original Music
-- **Songs**
-- **Electronic pieces**
-
+- [**Songs**](https://soundcloud.com/danam/sets/songs)
+- [**Electronic pieces**](https://soundcloud.com/danam/sets/electronic-music)
