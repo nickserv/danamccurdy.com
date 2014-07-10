@@ -144,3 +144,8 @@ footer > div {
   /* a color */
   color: #df691a !important;
 }
+
+.nav-tabs .active a {
+  /* nav-tab border color */
+  border-bottom-color: #4e5d6c !important;
+}
