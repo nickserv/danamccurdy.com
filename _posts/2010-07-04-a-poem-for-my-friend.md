@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A POEM FOR MY FRIEND
+title: A Poem For My Friend
 category: love
+published: true
 ---
 
 Sometimes, words aren’t enough,  
@@ -20,4 +21,4 @@ Feeling your warmth, giving you mine.
 This is our gentle dance, our silent blessing,  
 Touching softly across a continent,  
 A long and tender thread, always between us.  
-This is our silent blessing, our gentle dance. 
+This is our silent blessing, our gentle dance.
