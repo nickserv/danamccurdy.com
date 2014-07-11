@@ -112,6 +112,10 @@ footer > div {
   font: inherit;
 }
 
+.portrait {
+  margin-bottom: 10px;
+}
+
 .table a {
   /* a color */
   color: #df691a !important;
