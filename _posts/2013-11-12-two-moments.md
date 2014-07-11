@@ -6,7 +6,7 @@ published: true
 ---
 
 What opens the heart?  
-What penetrates the shield of thought,  
+What penetrates the shield of thought,  
 The armor of story?
 
 What lets us stand naked,  
