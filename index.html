@@ -11,7 +11,7 @@ published: true
 
   <div class="row">
     <div class="col-sm-3 text-center">
-      <img class="img-thumbnail" src="{{site.baseurl}}/img/portrait.jpg" width="200" alt="photo of Dana">
+      <img class="img-thumbnail" src="/img/portrait.jpg" width="200" alt="photo of Dana">
     </div>
 
     <div class="col-sm-9 lead">
@@ -27,7 +27,7 @@ published: true
     <div class="col-md-3">
       <h2>{{ link_page.title }}</h2>
       <p>{{ link_page.excerpt }}</p>
-      <a class="more-link" href="{{site.baseurl}}{{link_page.url}}">see more...</a>
+      <a class="more-link" href="{{link_page.url}}">see more...</a>
     </div>
   {% endfor %}
 </div>

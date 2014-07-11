@@ -3,10 +3,10 @@
 
 <ul class="nav nav-tabs" role="tablist">
   <li {% if include.scope == "life" %}class="active"{% endif %}>
-    <a href="{{site.baseurl}}/thoughts_and_poems/">life</a>
+    <a href="/thoughts_and_poems/">life</a>
   </li>
   <li {% if include.scope == "love" %}class="active"{% endif %}>
-    <a href="{{site.baseurl}}/thoughts_and_poems/love/">love</a>
+    <a href="/thoughts_and_poems/love/">love</a>
   </li>
 </ul>
 
@@ -16,4 +16,4 @@
   <hr>
 {% endfor %}
 
-<p>You may also subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.</p>
+<p>You may also subscribe <a href="/feed.xml">via RSS</a>.</p>
