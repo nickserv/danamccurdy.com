@@ -27,6 +27,10 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - keyboard
 - hand drums/percussion
 
+## Original Music
+- [**Songs**](https://soundcloud.com/danam/sets/songs)
+- [**Electronic pieces**](https://soundcloud.com/danam/sets/electronic-music)
+
 ## Recording Credits
 <table class="table">
   <thead>
@@ -102,6 +106,3 @@ installation in 1985 - recording, co-production, and mixing
   - "M1: The Video" - script writer and on-screen instructor: a  series of four two-hour instructional    videos on all  operational aspects of the Korg M1 Synthesizer.
   - music for [See Yourself Well](http://www.amazon.com/See-Yourself-Well-Anne-Beattie/dp/1881025306), an audio series of guided meditations by Anne Beattie - original music and MIDI production.
 
-## Original Music
-- [**Songs**](https://soundcloud.com/danam/sets/songs)
-- [**Electronic pieces**](https://soundcloud.com/danam/sets/electronic-music)
