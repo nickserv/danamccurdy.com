@@ -10,7 +10,7 @@ What penetrates the shield of thought,
 The armor of story?
 
 What lets us stand naked,  
-Open and vulnerable, 
+Open and vulnerable,  
 Standing on nothing,  
 Floating in everything?
 
@@ -29,6 +29,6 @@ As entropy tugs,
 And each "I" re-blooms  
 Into separateness.
 
-Then, and then,
-The dance continues,
+Then, and then,  
+The dance continues,  
 And continues.
