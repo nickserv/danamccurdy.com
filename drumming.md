@@ -34,4 +34,5 @@ As a drum circle facilitator, my commitment is to empower others to experience t
   </p>
 </div>
 
+
 [My drumming photos](https://www.facebook.com/danamcc/photos)
