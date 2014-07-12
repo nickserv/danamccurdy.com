@@ -136,6 +136,12 @@ dt, dd {
   background-image: linear-gradient(to top right, rgb(16, 30, 62) 0%, rgb(43, 75, 90) 87%, rgb(67, 94, 103) 100%);
 }
 
+@media (max-width: 767px) {
+  .jumbotron .lead p {
+    text-align: left;
+  }
+}
+
 .jumbotron h1 {
   font-size: 52px !important;
   margin-top: 0;
@@ -150,10 +156,9 @@ dt, dd {
   margin-left: 20px;
 }
 
-.portrait {
-  text-align: center;
-}
-.portrait img {
+.portrait cite {
+  display: block;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 
