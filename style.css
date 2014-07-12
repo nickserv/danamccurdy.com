@@ -41,16 +41,16 @@ footer .list-inline li {
   padding-right: 10px;
 }
 
-h1 {
-  text-align: center;
-}
-
 p {
   text-align: justify;
 }
 
 dt, dd {
   margin-bottom: 0.5em;
+}
+
+.page-heading {
+  text-align: center;
 }
 
 .before-list {
@@ -142,7 +142,6 @@ dt, dd {
 .jumbotron h1 {
   font-size: 52px !important;
   margin-top: 0;
-  text-align: left;
 }
 
 .excerpts h2 {
