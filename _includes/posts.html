@@ -10,8 +10,7 @@
   </li>
 </ul>
 
-<hr>
 {% for post in include.data %}
-  {% include post.html url=post.url title=post.title date=post.date content=post.content %}
   <hr>
+  {% include post.html url=post.url title=post.title date=post.date content=post.content %}
 {% endfor %}
