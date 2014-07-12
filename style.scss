@@ -1,9 +1,13 @@
 ---
 ---
 
+$a-color: #df691a;
+$border-color: #4e5d6c;
+$footer-list-spacing: 10px;
 $navbar-white: #ebebeb;
 $navbar-border: 1px dotted $navbar-white;
 $screen-sm: 768px;
+$table-border: 1px solid $border-color !important;
 
 /* general */
 
@@ -18,11 +22,11 @@ footer {
     margin-bottom: 10.5px;
   }
   .list-inline {
-    margin-left: -10px;
+    margin-left: -$footer-list-spacing;
     margin-bottom: 0;
     li {
-      padding-left: 10px;
-      padding-right: 10px;
+      padding-left: $footer-list-spacing;
+      padding-right: $footer-list-spacing;
     }
   }
 }
@@ -69,9 +73,7 @@ dt, dd {
 }
 
 .manifesto {
-  font-style: italic;
-  text-align: center;
-  p {
+  > * {
     font-style: italic;
     text-align: center;
   }
@@ -81,12 +83,10 @@ dt, dd {
 }
 
 .table {
-  /* .text-muted color */
-  border-top: 1px solid #4e5d6c !important;
+  border-top: $table-border;
   font-size: inherit !important;
   a {
-    /* a color */
-    color: #df691a !important;
+    color: $a-color !important;
   }
   > {
     thead > tr > th {
@@ -96,8 +96,7 @@ dt, dd {
     thead > tr > th,
     tbody > tr > td,
     thead > tr > td {
-      /* .text-muted color */
-      border-bottom: 1px solid #4e5d6c !important;
+      border-bottom: $table-border;
     }
     tbody > tr:last-child > {
       th, td {
@@ -110,12 +109,10 @@ dt, dd {
 .nav-tabs {
   margin-left: 15px;
   a {
-    /* a color */
-    color: #df691a !important;
+    color: $a-color !important;
   }
   .active a {
-    /* nav-tab border color */
-    border-bottom-color: #4e5d6c !important;
+    border-bottom-color: $border-color !important;
   }
 }
 
