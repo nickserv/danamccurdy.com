@@ -14,38 +14,38 @@ body {
 
 footer {
   font-size: 13px;
+  > div {
+    margin-bottom: 10.5px;
+  }
+  .list-inline {
+    margin-left: -10px;
+    margin-bottom: 0;
+    li {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
 }
-footer > div {
-  margin-bottom: 10.5px;
-}
+
 @media (min-width: $screen-sm) {
   footer {
     display: -webkit-box !important;
     display: -webkit-flex !important;
     display: -ms-flexbox !important;
     display: flex !important;
+    > div {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1;
+      -ms-flex: 1;
+      flex: 1;
+      &:nth-child(2) {
+        text-align: center;
+      }
+      &:nth-child(3) {
+        text-align: right;
+      }
+    }
   }
-  footer > div {
-    -webkit-box-flex: 1;
-    -webkit-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
-  }
-  footer > div:nth-child(2) {
-    text-align: center;
-  }
-  footer > div:nth-child(3) {
-    text-align: right;
-  }
-}
-
-footer .list-inline {
-  margin-left: -10px;
-  margin-bottom: 0;
-}
-footer .list-inline li {
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 h1 {
@@ -68,48 +68,55 @@ dt, dd {
   margin-bottom: 2px;
 }
 
-.manifesto, .manifesto p {
+.manifesto {
   font-style: italic;
   text-align: center;
-}
-.manifesto h3 {
-  margin-top: 0;
+  p {
+    font-style: italic;
+    text-align: center;
+  }
+  h3 {
+    margin-top: 0;
+  }
 }
 
 .table {
   /* .text-muted color */
   border-top: 1px solid #4e5d6c !important;
   font-size: inherit !important;
-}
-.table a {
-  /* a color */
-  color: #df691a !important;
-}
-.table > thead > tr > th {
-  text-align: center;
-}
-.table > tbody > tr > th,
-.table > thead > tr > th,
-.table > tbody > tr > td,
-.table > thead > tr > td {
-  /* .text-muted color */
-  border-bottom: 1px solid #4e5d6c !important;
-}
-.table > tbody > tr:last-child > th,
-.table > tbody > tr:last-child > td {
-  border-bottom: none !important;
+  a {
+    /* a color */
+    color: #df691a !important;
+  }
+  > {
+    thead > tr > th {
+      text-align: center;
+    }
+    tbody > tr > th,
+    thead > tr > th,
+    tbody > tr > td,
+    thead > tr > td {
+      /* .text-muted color */
+      border-bottom: 1px solid #4e5d6c !important;
+    }
+    tbody > tr:last-child > {
+      th, td {
+        border-bottom: none !important;
+      }
+    }
+  }
 }
 
 .nav-tabs {
   margin-left: 15px;
-}
-.nav-tabs a {
-  /* a color */
-  color: #df691a !important;
-}
-.nav-tabs .active a {
-  /* nav-tab border color */
-  border-bottom-color: #4e5d6c !important;
+  a {
+    /* a color */
+    color: #df691a !important;
+  }
+  .active a {
+    /* nav-tab border color */
+    border-bottom-color: #4e5d6c !important;
+  }
 }
 
 /* standard navbar */
@@ -117,19 +124,19 @@ dt, dd {
 @media (min-width: $screen-sm) {
   .navbar-nav li {
     border-left: $navbar-border;
-  }
-  .navbar-nav li:last-child {
-    border-right: $navbar-border;
+    &:last-child {
+      border-right: $navbar-border;
+    }
   }
 }
 
 /* mobile navbar */
 
 @media (max-width: 767px) {
-  .navbar-nav li:first-child {
-    border-top: none;
-  }
   .navbar-nav li {
+    &:first-child {
+      border-top: none;
+    }
     border-top: $navbar-border;
   }
 }
@@ -141,18 +148,17 @@ dt, dd {
   background-color: rgb(43, 75, 90) !important;
   /* this is based off of the really cool gradient on http://bootswatch.com */
   background-image: linear-gradient(to top right, rgb(16, 30, 62) 0%, rgb(43, 75, 90) 87%, rgb(67, 94, 103) 100%);
+  h1 {
+    font-size: 52px !important;
+    margin-top: 0;
+    text-align: left;
+  }
 }
 
 @media (max-width: 767px) {
   .jumbotron .lead p {
     text-align: left;
   }
-}
-
-.jumbotron h1 {
-  font-size: 52px !important;
-  margin-top: 0;
-  text-align: left;
 }
 
 .excerpts h2 {
@@ -176,9 +182,12 @@ dt, dd {
     padding-left: 30px;
   }
 }
-.post h1, .post h2 {
-  margin-top: 0 !important;
-  text-align: left;
+
+.post {
+  h1, h2 {
+    margin-top: 0 !important;
+    text-align: left;
+  }
 }
 
 .whitespaced-text {
