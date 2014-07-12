@@ -65,9 +65,6 @@ dt, dd {
   font-style: italic;
   text-align: center;
 }
-.manifesto h3 {
-  margin-top: 0;
-}
 
 .table {
   /* .text-muted color */
@@ -169,9 +166,8 @@ dt, dd {
     padding-left: 30px;
   }
 }
-.post h1, .post h2 {
+.meta > *:first-child {
   margin-top: 0 !important;
-  text-align: left;
 }
 
 .whitespaced-text {
