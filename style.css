@@ -139,8 +139,10 @@ dt, dd {
 
 /* blog posts */
 
-.post .meta {
-  padding-left: 30px;
+@media (min-width: 768px) {
+  .post .meta {
+    padding-left: 30px;
+  }
 }
 .post h1, .post h2 {
   margin-top: 0 !important;
