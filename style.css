@@ -6,27 +6,35 @@ body {
 }
 
 footer {
-  display: -webkit-box !important;
-  display: -webkit-flex !important;
-  display: -ms-flexbox !important;
-  display: flex !important;
   font-size: 13px;
-  text-align: center;
 }
 footer > div {
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
+  margin-bottom: 10.5px;
 }
-footer > div:nth-child(1) {
-  text-align: left;
+@media (min-width: 768px) {
+  footer {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+  }
+  footer > div {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+  }
+  footer > div:nth-child(2) {
+    text-align: center;
+  }
+  footer > div:nth-child(3) {
+    text-align: right;
+  }
 }
-footer > div:nth-child(2) {
-  text-align: center;
-}
-footer > div:nth-child(3) {
-  text-align: right;
+
+footer .list-inline {
+  margin-left: -10px;
+  margin-bottom: 0;
 }
 footer .list-inline li {
   padding-left: 10px;
