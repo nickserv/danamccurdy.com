@@ -1,6 +1,10 @@
 ---
 ---
 
+$screen-sm: 768px;
+$navbar-white: #ebebeb;
+$navbar-border: 1px dotted $navbar-white;
+
 /* general */
 
 body {
@@ -14,7 +18,7 @@ footer {
 footer > div {
   margin-bottom: 10.5px;
 }
-@media (min-width: 768px) {
+@media (min-width: $screen-sm) {
   footer {
     display: -webkit-box !important;
     display: -webkit-flex !important;
@@ -110,12 +114,12 @@ dt, dd {
 
 /* standard navbar */
 
-@media (min-width: 768px) {
+@media (min-width: $screen-sm) {
   .navbar-nav li {
-    border-left: 1px dotted #ebebeb;
+    border-left: $navbar-border;
   }
   .navbar-nav li:last-child {
-    border-right: 1px dotted #ebebeb;
+    border-right: $navbar-border;
   }
 }
 
@@ -126,7 +130,7 @@ dt, dd {
     border-top: none;
   }
   .navbar-nav li {
-    border-top: 1px dotted #ebebeb;
+    border-top: $navbar-border;
   }
 }
 
@@ -167,7 +171,7 @@ dt, dd {
 
 /* blog posts */
 
-@media (min-width: 768px) {
+@media (min-width: $screen-sm) {
   .post .meta {
     padding-left: 30px;
   }
