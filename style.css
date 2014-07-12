@@ -19,6 +19,15 @@ footer > div {
   -ms-flex: 1;
   flex: 1;
 }
+footer > div:nth-child(1) {
+  text-align: left;
+}
+footer > div:nth-child(2) {
+  text-align: center;
+}
+footer > div:nth-child(3) {
+  text-align: right;
+}
 footer .list-inline li {
   padding-left: 10px;
   padding-right: 10px;
@@ -134,6 +143,9 @@ dt, dd {
 }
 
 .portrait {
+  text-align: center;
+}
+.portrait img {
   margin-bottom: 10px;
 }
 
