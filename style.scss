@@ -1,9 +1,9 @@
 ---
 ---
 
-$screen-sm: 768px;
 $navbar-white: #ebebeb;
 $navbar-border: 1px dotted $navbar-white;
+$screen-sm: 768px;
 
 /* general */
 
@@ -132,7 +132,7 @@ dt, dd {
 
 /* mobile navbar */
 
-@media (max-width: 767px) {
+@media (max-width: $screen-sm - 1px) {
   .navbar-nav li {
     &:first-child {
       border-top: none;
@@ -155,7 +155,7 @@ dt, dd {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: $screen-sm - 1px) {
   .jumbotron .lead p {
     text-align: left;
   }
