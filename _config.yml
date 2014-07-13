@@ -2,3 +2,5 @@ name: Dana McCurdy
 markdown: kramdown
 permalink: pretty
 url: http://danamccurdy.com
+gems:
+- jekyll-sitemap
