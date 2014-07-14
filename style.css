@@ -126,7 +126,7 @@ dt, dd {
 
 /* home page */
 
-.jumbotron {
+.jumbotron-home {
   /* fall back to the middle color stop on browsers without linear gradients */
   background-color: rgb(43, 75, 90) !important;
   /* this is based off of the really cool gradient on http://bootswatch.com */
@@ -134,12 +134,12 @@ dt, dd {
 }
 
 @media (max-width: 767px) {
-  .jumbotron .lead p {
+  .jumbotron-home .lead p {
     text-align: left;
   }
 }
 
-.jumbotron h1 {
+.jumbotron-home h1 {
   font-size: 52px !important;
   margin-top: 0;
 }
