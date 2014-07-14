@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drumming
+title: Drum Circles
 published: true
 ---
 
