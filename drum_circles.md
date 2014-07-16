@@ -19,9 +19,9 @@ In 2001, I was moved to begin a regular drumming practice as a response to my ow
 - corporate events
 - the general public 
 
-As a drum circle facilitator, my commitment is to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
+My commitment as a drum circle facilitator is to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
 
-<p class="before-blockquote"><em>My "Drumming Manifesto":</em></p>
+<p class="before-blockquote"><em>This is my "Drumming Manifesto":</em></p>
 
 <div class="well manifesto">
   <h2>Community in Rhythm</h2>
