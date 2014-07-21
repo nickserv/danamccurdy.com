@@ -4,7 +4,7 @@ title: Drum Circles
 published: true
 ---
 
-Rhythm has always been the most compelling and visceral aspect of music for me, and my love for the sheer variety of sounds and rhythms that man-made or found objects can produce has led me, over the years, to collect a wide range of hand drums, percussion instruments, and various other noise makers. 
+Rhythm has always been the most compelling and visceral aspect of music for me, and my love for the sheer variety and power of rhythmic sound has led me, over the years, to collect a wide range of hand drums, percussion instruments, and various other noise makers, and to explore, on my own and with others, their infinite potential for weaving beautiful patterns that can satisfy and soothe the body, heart, and soul. 
 
 In 2001, I was moved to begin a regular drumming practice as a response to my own emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice for my own wellbeing and for the wellbeing of others. 
 
@@ -19,7 +19,11 @@ In 2001, I was moved to begin a regular drumming practice as a response to my ow
 - corporate events
 - the general public 
 
-My commitment as a drum circle facilitator is to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
+It is one of my life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles brings. Here are some thoughts from others in the drumming community about this:  
+
+
+
+As a drum circle facilitator my commitment is to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
 
 <p class="before-blockquote"><em>This is my "Drumming Manifesto":</em></p>
 
