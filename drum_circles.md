@@ -26,7 +26,7 @@ In 2001, I was moved to begin a regular drumming practice in response to my own 
 - [**About.com: Drum Therapy**](http://healing.about.com/od/drums/a/drumtherapy.htm)
 - [**Examiner.com: Health Benefits of Drumming Circles**](http://www.examiner.com/article/research-identifies-health-benefits-from-participation-drumming-circles)      
 
-As a drum circle facilitator, my commitment is to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
+As a drum circle facilitator, my commitment is always to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
 
 <p class="before-blockquote"><em>My "Drumming Manifesto":</em></p>
 
