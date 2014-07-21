@@ -31,8 +31,7 @@ As a drum circle facilitator, my commitment is always to empower others to exper
 <p class="before-blockquote"><em>My "Drumming Manifesto":</em></p>
 
 <div class="well manifesto">
-  <h3>Community in Rhythm</h3>
-
+  <h2>Community in Rhythm</h2>
   <p>
     We are beings of energy, in a universe of energy.<br>
     It is our gift in each moment to direct that energy as we will.<br>
