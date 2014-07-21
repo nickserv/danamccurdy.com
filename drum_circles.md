@@ -4,7 +4,7 @@ title: Drum Circles
 published: true
 ---
 
-Rhythm has always been the most compelling and visceral aspect of music for me, and the sheer variety and power of rhythmic sound has led me to explore, on my own and with others, the infinite potential of various hand drums and percussion instruments to weave beautiful patterns that can satisfy and soothe the body, heart, and soul. 
+Rhythm has always been the most compelling and visceral aspect of music for me, and the sheer variety and power of rhythmic sound has led me to explore, on my own and with others, the endless potential of various hand drums and percussion instruments for weaving beautiful patterns to satisfy and soothe the body, heart, and soul. 
 
 In 2001, I was moved to begin a regular drumming practice in response to my own emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice for my own wellbeing and for the wellbeing of others. 
 
