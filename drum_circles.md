@@ -33,7 +33,8 @@ As a drum circle facilitator, my commitment is always to empower others to exper
 <div class="well manifesto">
   COMMUNITY IN RHYTHM  
   
-  <p>  
+  <p> 
+  
     We are beings of energy, in a universe of energy.<br>
     It is our gift in each moment to direct that energy as we will.<br>
     In rhythm together, we direct that energy to our highest purpose,<br>
