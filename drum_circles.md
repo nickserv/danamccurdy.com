@@ -21,7 +21,8 @@ In 2001, I was moved to begin a regular drumming practice as a response to my ow
 - the general public 
 
 <p class="before-list">It has become one of my main life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles brings. Here are some thoughts from others in the drumming community about this:</p>
-- [**Remo: Drum Circles Defined**](http://www.remo.com/portal/pages/drum_circles/defined/Drum+Circles+Defined+Q+A.html)  - [**About.com: Drum Therapy**](http://healing.about.com/od/drums/a/drumtherapy.htm)  
+
+- [**Remo: Drum Circles Defined**](http://www.remo.com/portal/pages/drum_circles/defined/Drum+Circles+Defined+Q+A.html)  - [**About.com: Drum Therapy**](http://healing.about.com/od/drums/a/drumtherapy.htm)
 - [**Examiner.com: Health Benefits of Drumming Circles**](http://www.examiner.com/article/research-identifies-health-benefits-from-participation-drumming-circles)      
 
 As a drum circle facilitator, my commitment is to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes. 
@@ -40,4 +41,4 @@ As a drum circle facilitator, my commitment is to empower others to experience t
 </div>
 
 
-[My drumming photos](https://www.facebook.com/danamcc/photos)
+[Drumming photos](https://www.facebook.com/danamcc/photos)
