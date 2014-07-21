@@ -4,9 +4,9 @@ title: Drum Circles
 published: true
 ---
 
-Rhythm has always been the most compelling and visceral aspect of music for me, and my love for the sheer variety and power of rhythmic sound has led me, over the years, to collect a wide range of hand drums, percussion instruments, and various other noise makers, and to explore, on my own and with others, their infinite potential for weaving beautiful patterns that can satisfy and soothe the body, heart, and soul. 
+Rhythm has always been the most compelling and visceral aspect of music for me, and my love for the sheer variety and power of rhythmic sound has led me, over the years, to explore, on my own and with others, the infinite potential of various hand drums, percussion instruments, and other noise makers to weave beautiful patterns that can satisfy and soothe the body, heart, and soul. 
 
-In 2001, I was moved to begin a regular drumming practice as a response to my own emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice for my own wellbeing and for the wellbeing of others. 
+In 2001, I was moved to begin a regular drumming practice in response to my own emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice for my own wellbeing and for the wellbeing of others. 
 
 <p class="before-list">Since then, I've facilitated drum circles in and around northern New Jersey for many different types of communities, including:</p>
 
@@ -20,7 +20,7 @@ In 2001, I was moved to begin a regular drumming practice as a response to my ow
 - festivals
 - the general public 
 
-<p class="before-list">It has become one of my main life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles brings. Here are some thoughts from others in the drumming community about this:</p>
+<p class="before-list">It has become one of my main life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles brings. Here's what some others in the drumming community have to say about this:</p>
 
 - [**Remo: Drum Circles Defined**](http://www.remo.com/portal/pages/drum_circles/defined/Drum+Circles+Defined+Q+A.html)
 - [**About.com: Drum Therapy**](http://healing.about.com/od/drums/a/drumtherapy.htm)
