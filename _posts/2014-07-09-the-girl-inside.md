@@ -8,7 +8,7 @@ published: true
 How safe it must feel,  
 to the wounded girl within,  
 to withhold your love  
-from the men who love you,  
+from those who love you,  
 as your father once  
 withheld his love from you.
 
