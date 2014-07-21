@@ -20,7 +20,7 @@ In 2001, I was moved to begin a regular drumming practice in response to my own 
 - festivals
 - the general public 
 
-<p class="before-list">It has become one of my main life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles brings. Here's what some others in the drumming community have to say about this:</p>
+<p class="before-list">It has become one of my primary life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles brings. Here's what some others in the drumming community have to say about this:</p>
 
 - [**Remo: Drum Circles Defined**](http://www.remo.com/portal/pages/drum_circles/defined/Drum+Circles+Defined+Q+A.html)
 - [**About.com: Drum Therapy**](http://healing.about.com/od/drums/a/drumtherapy.htm)
