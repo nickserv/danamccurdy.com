@@ -41,10 +41,6 @@ footer .list-inline li {
   padding-right: 10px;
 }
 
-p {
-  text-align: justify;
-}
-
 dt, dd {
   margin-bottom: 0.5em;
 }
@@ -146,6 +142,9 @@ dt, dd {
 
 .excerpts h2 {
   text-align: center;
+}
+.excerpts p {
+  text-align: justify;
 }
 
 .more-link {
