@@ -9,7 +9,7 @@ $navbar-border: 1px dotted $navbar-white;
 $screen-sm: 768px;
 $table-border: 1px solid $border-color !important;
 
-/* general */
+// general
 
 body {
   padding-top: 20px;
@@ -18,12 +18,15 @@ body {
 
 footer {
   font-size: 13px;
+
   > div {
     margin-bottom: 10.5px;
   }
+
   .list-inline {
     margin-left: -$footer-list-spacing;
     margin-bottom: 0;
+
     li {
       padding-left: $footer-list-spacing;
       padding-right: $footer-list-spacing;
@@ -37,14 +40,17 @@ footer {
     display: -webkit-flex !important;
     display: -ms-flexbox !important;
     display: flex !important;
+
     > div {
       -webkit-box-flex: 1;
       -webkit-flex: 1;
       -ms-flex: 1;
       flex: 1;
+
       &:nth-child(2) {
         text-align: center;
       }
+
       &:nth-child(3) {
         text-align: right;
       }
@@ -52,8 +58,9 @@ footer {
   }
 }
 
-dt, dd {
-  margin-bottom: 0.5em;
+dt,
+dd {
+  margin-bottom: .5em;
 }
 
 .page-heading {
@@ -68,7 +75,8 @@ dt, dd {
   margin-bottom: 2px;
 }
 
-.manifesto, .manifesto p {
+.manifesto,
+.manifesto p {
   font-style: italic;
   text-align: center;
 }
@@ -76,21 +84,26 @@ dt, dd {
 .table {
   border-top: $table-border;
   font-size: inherit !important;
+
   a {
     color: $a-color !important;
   }
+
   > {
     thead > tr > th {
       text-align: center;
     }
+
     tbody > tr > th,
     thead > tr > th,
     tbody > tr > td,
     thead > tr > td {
       border-bottom: $table-border;
     }
+
     tbody > tr:last-child > {
-      th, td {
+      th,
+      td {
         border-bottom: none !important;
       }
     }
@@ -99,43 +112,48 @@ dt, dd {
 
 .nav-tabs {
   margin-left: 15px;
+
   a {
     color: $a-color !important;
   }
+
   .active a {
     border-bottom-color: $border-color !important;
   }
 }
 
-/* standard navbar */
+// standard navbar
 
 @media (min-width: $screen-sm) {
   .navbar-nav li {
     border-left: $navbar-border;
+
     &:last-child {
       border-right: $navbar-border;
     }
   }
 }
 
-/* mobile navbar */
+// mobile navbar
 
 @media (max-width: $screen-sm - 1px) {
   .navbar-nav li {
-    &:first-child {
-      border-top: none;
-    }
     border-top: $navbar-border;
+
+    &:first-child {
+      border-top: 0;
+    }
   }
 }
 
-/* home page */
+// home page
 
 .jumbotron-home {
-  /* fall back to the middle color stop on browsers without linear gradients */
+  // fall back to the middle color stop on browsers without linear gradients
   background-color: rgb(43, 75, 90) !important;
-  /* this is based off of the really cool gradient on http://bootswatch.com */
+  // this is based off of the really cool gradient on http://bootswatch.com
   background-image: linear-gradient(to top right, rgb(16, 30, 62) 0%, rgb(43, 75, 90) 87%, rgb(67, 94, 103) 100%);
+
   h1 {
     font-size: 52px !important;
     margin-top: 0;
@@ -146,6 +164,7 @@ dt, dd {
   h2 {
     text-align: center;
   }
+
   p {
     text-align: justify;
   }
@@ -161,7 +180,7 @@ dt, dd {
   margin-bottom: 10px;
 }
 
-/* blog posts */
+// blog posts
 
 .post {
   margin-bottom: 75px;
@@ -172,6 +191,7 @@ dt, dd {
     padding-left: 30px;
   }
 }
+
 .meta > *:first-child {
   margin-top: 0 !important;
 }
@@ -180,6 +200,6 @@ dt, dd {
   padding: 0;
   color: inherit;
   background-color: inherit;
-  border: none;
+  border: 0;
   font: inherit;
 }
