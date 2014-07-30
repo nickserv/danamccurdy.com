@@ -52,16 +52,12 @@ footer {
   }
 }
 
-h1 {
-  text-align: center;
-}
-
-p {
-  text-align: justify;
-}
-
 dt, dd {
   margin-bottom: 0.5em;
+}
+
+.page-heading {
+  text-align: center;
 }
 
 .before-list {
@@ -72,14 +68,9 @@ dt, dd {
   margin-bottom: 2px;
 }
 
-.manifesto {
-  > * {
-    font-style: italic;
-    text-align: center;
-  }
-  h3 {
-    margin-top: 0;
-  }
+.manifesto, .manifesto p {
+  font-style: italic;
+  text-align: center;
 }
 
 .table {
@@ -140,7 +131,7 @@ dt, dd {
 
 /* home page */
 
-.jumbotron {
+.jumbotron-home {
   /* fall back to the middle color stop on browsers without linear gradients */
   background-color: rgb(43, 75, 90) !important;
   /* this is based off of the really cool gradient on http://bootswatch.com */
@@ -148,18 +139,16 @@ dt, dd {
   h1 {
     font-size: 52px !important;
     margin-top: 0;
-    text-align: left;
   }
 }
 
-@media (max-width: $screen-sm - 1px) {
-  .jumbotron .lead p {
-    text-align: left;
+.excerpts {
+  h2 {
+    text-align: center;
   }
-}
-
-.excerpts h2 {
-  text-align: center;
+  p {
+    text-align: justify;
+  }
 }
 
 .more-link {
@@ -174,17 +163,17 @@ dt, dd {
 
 /* blog posts */
 
+.post {
+  margin-bottom: 75px;
+}
+
 @media (min-width: $screen-sm) {
   .post .meta {
     padding-left: 30px;
   }
 }
-
-.post {
-  h1, h2 {
-    margin-top: 0 !important;
-    text-align: left;
-  }
+.meta > *:first-child {
+  margin-top: 0 !important;
 }
 
 .whitespaced-text {

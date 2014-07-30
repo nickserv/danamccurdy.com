@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="/img/favicon.png">
 
-    <title>{{ site.name }} - {{ page.title }}</title>
+    <title>Dana McCurdy - 404: Page not found</title>
 
     <!-- styles -->
     <link rel="stylesheet" href="/style.css">
@@ -44,29 +44,63 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">{{ site.name }}</a>
+          <a class="navbar-brand" href="/">Dana McCurdy</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            {% for link_page in site.data.pages %}
-              <li{% if page.title == link_page.title %} class="active"{% endif %}>
-                <a href="{{link_page.url}}">
-                  <span class="glyphicon glyphicon-{{link_page.icon}}"></span>
-                  {{link_page.title}}
+            
+              <li>
+                <a href="/teaching_and_consulting/">
+                  <span class="glyphicon glyphicon-question-sign"></span>
+                  Teaching & Consulting
                 </a>
               </li>
-            {% endfor %}
+            
+              <li>
+                <a href="/music_production/">
+                  <span class="glyphicon glyphicon-headphones"></span>
+                  Music/Production
+                </a>
+              </li>
+            
+              <li>
+                <a href="/drum_circles/">
+                  <span class="glyphicon glyphicon-globe"></span>
+                  Drum Circles
+                </a>
+              </li>
+            
+              <li>
+                <a href="/thoughts_and_poems/">
+                  <span class="glyphicon glyphicon-comment"></span>
+                  Thoughts & Poems
+                </a>
+              </li>
+            
           </ul>
         </div><!--/.nav-collapse -->
       </div>
 
-      {{ content }}
+      <div class="row">
+  <div class="col-md-8 col-md-offset-2">
+    <h1 class="page-heading">404: Page not found</h1>
+    <div class="jumbotron lead">
+  <p class="lead">
+    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+    <a href="/">Head back home</a> to try finding it again or
+    <a href="mailto:danamcc221@gmail.com">report an issue</a>.
+  </p>
+</div>
+
+  </div>
+</div>
+
     </div>
 
     <hr>
 
     <footer class="container">
-      <div>&copy; 2014 {{ site.name }}</div>
+      <div>&copy; 2014 Dana McCurdy</div>
       <div>
         <ul class="list-inline">
           <li><a href="mailto:danamcc221@gmail.com">
