@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Moments: 2 Thoughts"
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Two Moments
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Heart and Mind
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The World Hugs Us
 category: life
 ---

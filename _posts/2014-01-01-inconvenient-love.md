@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Inconvenient love
 category: love
 published: true

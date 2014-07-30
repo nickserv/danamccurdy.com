@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Your Picture
 category: love
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Learning To Be Free
 category: life
 ---

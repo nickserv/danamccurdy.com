@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Prayer and Silence
 category: life
 ---

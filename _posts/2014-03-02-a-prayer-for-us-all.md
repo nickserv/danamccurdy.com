@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A Prayer For Us All
 category: life
 published: true

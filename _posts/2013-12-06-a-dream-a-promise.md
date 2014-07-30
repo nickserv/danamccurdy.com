@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Dream: A Promise"
 category: love
 published: true

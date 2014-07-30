@@ -1,6 +1,5 @@
 ---
 title: The Girl Inside
-layout: post
 category: love
 published: true
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Gift You Are
 category: love
 ---

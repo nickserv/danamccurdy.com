@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Song of the Heart
 category: life
 ---

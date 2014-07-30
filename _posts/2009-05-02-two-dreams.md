@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Two Dreams
 category: love
 ---

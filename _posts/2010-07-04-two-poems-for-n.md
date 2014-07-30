@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Two Poems For N
 category: love
 published: true

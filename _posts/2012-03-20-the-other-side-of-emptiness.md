@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Other Side of Emptiness
 category: life
 published: true

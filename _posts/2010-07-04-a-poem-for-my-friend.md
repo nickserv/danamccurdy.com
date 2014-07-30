@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A Poem For My Friend
 category: love
 published: true

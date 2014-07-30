@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Clockwork
 category: love
 published: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What do we deserve?
 category: life
 ---

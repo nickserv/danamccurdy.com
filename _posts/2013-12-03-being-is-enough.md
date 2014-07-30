@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Being Is Enough
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: This Is life!
 category: life
 ---

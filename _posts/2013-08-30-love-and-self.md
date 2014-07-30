@@ -1,5 +1,4 @@
 ---
-layout: post
 title: love and Self
 category: love
 ---

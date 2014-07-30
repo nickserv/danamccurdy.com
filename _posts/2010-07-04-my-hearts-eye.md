@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My Heart’s Eye
 category: love
 ---

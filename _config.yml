@@ -4,3 +4,9 @@ permalink: pretty
 url: http://danamccurdy.com
 gems:
 - jekyll-sitemap
+defaults:
+- scope:
+    path: ""
+    type: "post"
+  values:
+    layout: "post"

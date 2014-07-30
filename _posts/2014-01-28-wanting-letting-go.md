@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wanting/ Letting go
 category: life
 published: true

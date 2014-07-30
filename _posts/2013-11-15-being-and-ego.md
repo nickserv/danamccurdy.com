@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Being and Ego
 category: life
 ---

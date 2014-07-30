@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The truth: 2 snapshots"
 category: life
 ---

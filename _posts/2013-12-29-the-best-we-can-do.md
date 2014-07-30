@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Best We Can Do
 category: life
 ---

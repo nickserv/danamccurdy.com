@@ -1,5 +1,4 @@
 ---
-layout: post
 title: I Could say goodbye
 category: life
 ---

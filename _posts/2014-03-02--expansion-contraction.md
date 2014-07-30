@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Expansion/ Contraction
 category: life
 published: true

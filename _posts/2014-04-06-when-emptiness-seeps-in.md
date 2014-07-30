@@ -1,5 +1,4 @@
 ---
-layout: post
 title: When Emptiness Seeps In
 category: life
 ---

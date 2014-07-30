@@ -1,6 +1,5 @@
 ---
 title: All Your Opinions
-layout: post
 category: love
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The True Gift
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tommorrow Never Tweets
 category: life
 ---

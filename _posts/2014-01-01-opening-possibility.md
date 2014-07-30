@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Opening/ Possibility
 category: love
 published: true

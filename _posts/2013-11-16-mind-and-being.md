@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mind & Being
 category: life
 ---

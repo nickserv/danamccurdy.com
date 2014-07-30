@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Greatest Gifts
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sad Stories
 category: life
 ---

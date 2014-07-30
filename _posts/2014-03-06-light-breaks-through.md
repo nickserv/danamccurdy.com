@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Light Breaks Through
 category: life
 ---

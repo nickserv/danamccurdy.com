@@ -1,5 +1,4 @@
 ---
-layout: post
 title: I Stepped Out
 category: life
 ---

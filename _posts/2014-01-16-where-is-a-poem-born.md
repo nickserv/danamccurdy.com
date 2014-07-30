@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Where Is a Poem Born?
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Loss: Opening"
 category: life
 published: true

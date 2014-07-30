@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Suffering and Peace
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Love, Always"
 categories: life love
 published: true

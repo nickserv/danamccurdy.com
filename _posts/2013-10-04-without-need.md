@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Without Need
 category: life
 ---

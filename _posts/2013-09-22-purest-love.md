@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Purest love
 categories: life love
 ---

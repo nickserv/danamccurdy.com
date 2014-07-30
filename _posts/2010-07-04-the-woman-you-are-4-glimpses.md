@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Woman You Are: 4 Glimpses"
 category: love
 ---

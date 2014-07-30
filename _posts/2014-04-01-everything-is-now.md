@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Everything Is Now
 category: life
 ---

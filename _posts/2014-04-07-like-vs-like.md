@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Like vs. "Like"
 category: life
 ---

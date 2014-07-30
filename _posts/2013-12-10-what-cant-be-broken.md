@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What Can't Be Broken
 category: life
 ---

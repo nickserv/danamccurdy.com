@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A Reflection
 category: life
 ---

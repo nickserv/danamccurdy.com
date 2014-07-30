@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Dream of Separation
 category: life
 ---

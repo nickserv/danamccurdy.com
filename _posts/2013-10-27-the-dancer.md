@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Dancer
 categories: life love
 ---

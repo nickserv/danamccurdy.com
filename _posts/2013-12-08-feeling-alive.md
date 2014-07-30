@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Feeling Alive
 category: life
 ---

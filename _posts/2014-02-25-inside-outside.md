@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Inside:Outside
 category: life
 ---

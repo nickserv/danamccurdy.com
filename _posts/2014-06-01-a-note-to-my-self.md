@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A Note To My Self
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ego, Heart & Spirit
 categories: life love
 ---

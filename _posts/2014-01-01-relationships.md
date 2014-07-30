@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Relationships
 category: life
 ---

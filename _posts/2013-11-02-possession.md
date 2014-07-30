@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Possession
 category: love
 published: true

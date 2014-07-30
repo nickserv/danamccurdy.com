@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Striving for Enlightenment
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Space and Time
 category: love
 published: true

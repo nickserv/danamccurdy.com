@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Greenbrook Sanctuary- 2 poems
 category: life
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Anything Is Possible
 category: life
 ---

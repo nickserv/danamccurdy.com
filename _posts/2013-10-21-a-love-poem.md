@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A love poem
 category: love
 ---

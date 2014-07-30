@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A New York Night
 category: life
 ---

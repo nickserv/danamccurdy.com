@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Body and Spirit
 category: life
 ---

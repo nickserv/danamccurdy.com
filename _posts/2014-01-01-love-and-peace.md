@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Love and Peace
 category: life
 published: true

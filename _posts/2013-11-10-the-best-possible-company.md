@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Best Possible Company
 category: life
 ---

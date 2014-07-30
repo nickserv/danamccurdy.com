@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Our Futures
 category: life
 ---

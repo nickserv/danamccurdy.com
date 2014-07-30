@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My Gohonzon
 category: life
 ---

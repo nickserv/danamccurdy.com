@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Letting Go, Letting In
 category: life
 ---

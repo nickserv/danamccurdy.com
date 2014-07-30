@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Spirit Peeks Through
 category: life
 ---
