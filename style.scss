@@ -12,8 +12,8 @@ $table-border: 1px solid $border-color !important;
 // general
 
 body {
-  padding-top: 20px;
   padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 footer {
@@ -24,8 +24,8 @@ footer {
   }
 
   .list-inline {
-    margin-left: -$footer-list-spacing;
     margin-bottom: 0;
+    margin-left: -$footer-list-spacing;
 
     li {
       padding-left: $footer-list-spacing;
@@ -42,9 +42,9 @@ footer {
     display: flex !important;
 
     > div {
+      -ms-flex: 1;
       -webkit-box-flex: 1;
       -webkit-flex: 1;
-      -ms-flex: 1;
       flex: 1;
 
       &:nth-child(2) {
@@ -176,8 +176,8 @@ dd {
 
 .portrait cite {
   display: block;
-  margin-top: 10px;
   margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 // blog posts
@@ -197,9 +197,9 @@ dd {
 }
 
 .whitespaced-text {
-  padding: 0;
-  color: inherit;
   background-color: inherit;
   border: 0;
+  color: inherit;
   font: inherit;
+  padding: 0;
 }
