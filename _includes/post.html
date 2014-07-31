@@ -5,7 +5,18 @@
     {% else %}
       <h1>{{ include.title }}</h1>
     {% endif %}
+
     <p class="text-info">{{ include.date | date_to_string }}</p>
+
+    {% if include.category %}
+      <p class="category">
+        {% if include.category == "life" %}
+          <a href="/thoughts_and_poems/">life</a>
+        {% else %}
+          <a href="/thoughts_and_poems/{{ include.category }}/">{{ include.category }}</a>
+        {% endif %}
+      </p>
+    {% endif %}
   </div>
 
   <div class="col-sm-8">
