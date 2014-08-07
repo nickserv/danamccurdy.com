@@ -24,6 +24,7 @@ In 2001, I was moved to begin a regular drumming practice in response to my own 
 
 - [**Remo: Drum Circles Defined**](http://www.remo.com/portal/pages/drum_circles/defined/Drum+Circles+Defined+Q+A.html)
 - [**About.com: Drum Therapy**](http://healing.about.com/od/drums/a/drumtherapy.htm)
+- [**Mt. Airy Community Drum Circle**](http://www.newsworks.org/index.php/local/item/71211-regulars-and-newcomers-attend-monthly-mt-airy-community-drum-circle)
 - [**Examiner.com: Health Benefits of Drumming Circles**](http://www.examiner.com/article/research-identifies-health-benefits-from-participation-drumming-circles) 
 - [**New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing**](http://www.psmag.com/blogs/news-blog/drummers-high-evidence-that-playing-music-releases-endorphins-49578/)
 
