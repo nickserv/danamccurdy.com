@@ -1,5 +1,5 @@
 ---
-title: A Wrk in Progress
+title: A Work in Progress
 categories: life love
 ---
 
