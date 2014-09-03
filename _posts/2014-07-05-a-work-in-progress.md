@@ -1,6 +1,6 @@
 ---
 title: A Work in Progress
-categories: life love
+categories: love
 ---
 
 Love is a work in progress.
