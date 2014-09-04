@@ -3,7 +3,7 @@ title: Love
 categories: life
 ---
 There is a scared and whimpering child inside me, 
-and there is a tyrant,  
+and there is a tyrant,    
 a victim,  
 and a judge.
 
