@@ -23,6 +23,7 @@ In 2001, I was moved to begin a regular drumming practice in response to my own 
 <p class="before-list">It has become one of my primary life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles brings. Here's what some others in the drumming community have to say about this, along with some interesting research:</p>
 
 - [**Remo: Drum Circles Defined**](http://www.remo.com/portal/pages/drum_circles/defined/Drum+Circles+Defined+Q+A.html)
+- [**New Jersey Holistic Health Services: Teambuilding through Drumming**](http://www.njholistichealthservices.com/#!links/c1yng)
 - [**Mt. Airy Community Drum Circle**](http://www.newsworks.org/index.php/local/item/71211-regulars-and-newcomers-attend-monthly-mt-airy-community-drum-circle)
 - [**About.com: Drum Therapy**](http://healing.about.com/od/drums/a/drumtherapy.htm)
 - [**Examiner.com: Health Benefits of Drumming Circles**](http://www.examiner.com/article/research-identifies-health-benefits-from-participation-drumming-circles) 
