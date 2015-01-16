@@ -2,7 +2,8 @@
 title: The Sky Is My Gohonzon
 categories: life
 ---
-The sky is my Gohonzon.  
+The sky is my Gohonzon. 
+
 As a train of clouds  
 roll by the moon,  
 tuft upon tuft   
