@@ -5,7 +5,7 @@ categories: love
 Where is that shoulder I leaned on,  
 those sympathetic ears?
 
-Lingering in memory, 
+Lingering in memory,   
 yet burned to dust,   
 which I have sifted in my fingers.
 
