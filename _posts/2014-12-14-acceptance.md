@@ -1,5 +1,5 @@
 ---
-title: A Place of Acceptance
+title: Acceptance
 categories: life
 ---
 In a place without judgement,  
