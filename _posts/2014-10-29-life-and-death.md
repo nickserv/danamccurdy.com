@@ -1,5 +1,5 @@
 ---
-title: Death
+title: Life and Death
 categories: life
 ---
 Death is not a problem.   
