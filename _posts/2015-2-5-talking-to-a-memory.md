@@ -19,3 +19,7 @@ except other hearts
 that seem to beat,  
 in that moment,   
 in time with ours?
+
+Which is the illusion:  
+that we are separate,  
+or that we are One?
