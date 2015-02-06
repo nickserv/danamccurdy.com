@@ -1,5 +1,5 @@
 ---
-title: My wn Best Friend
+title: My Own Best Friend
 categories: life
 ---
 What if I were my own best friend?  
