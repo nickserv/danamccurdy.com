@@ -7,7 +7,7 @@ I look to see who’s there,
 and I see no one.
 
 Is the mirror of my memory,  
-simply an error of my memory?
+only an error of my memory?
 
 Who did I ever see,  
 across from me,  
