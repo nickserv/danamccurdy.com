@@ -4,10 +4,10 @@ category: love
 ---
 In this moment,   
 I look to see who’s there,  
-and see no one.
+and I see no one.
 
 Is the mirror of my memory,  
-just an error of my memory?
+simply an error of my memory?
 
 Who did I ever see,  
 across from me,  
