@@ -6,7 +6,8 @@ From time to time,
 something in me  
 still searches for your nature,  
 some essence  
-that I missed in myself.
+that I missed   
+in myself.
 
 I did not realize  
 that I was not seeing you,  
