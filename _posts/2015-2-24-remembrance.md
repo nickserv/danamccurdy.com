@@ -1,5 +1,5 @@
 ---
-title: An Unexamined Thought
+title: Remembrance
 category: life
 ---
 Bathed in your spirit,  
