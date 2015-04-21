@@ -8,8 +8,8 @@ attributing Godly powers to them.
 
 And yet, a true teacher   
 is simply a facilitator,   
-one who makes the process   
-of learning easier. 
+one who eases   
+the process of learning. 
 
 A teacher is a bridge   
 between the teachings and the student,   
