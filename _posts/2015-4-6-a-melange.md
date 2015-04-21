@@ -5,7 +5,7 @@ category: life
 I arrange  
 a melange  
 of muskellunge,  
-lest a gear change  
+lest a change  
 may impinge,  
 expunge,  
 or rearrange  
