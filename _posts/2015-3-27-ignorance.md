@@ -7,5 +7,5 @@ a simple lack of knowledge.
 
 It is an attachment   
 to a narrow way of thinking,  
-an unwillingness   
+the unwillingness   
 to see things differently.
