@@ -3,7 +3,7 @@ title: Black & White
 category: life
 ---
 Life is not black and white,  
-and neither is truth.
+nor is the truth.
 
 In the light of reality,  
 there are infinite shades  
