@@ -17,8 +17,7 @@ pierces through our darkness,
 And we are already,   
 always  
 Home.
-
-       ________________
+_________________________
 
 
 Our best teachers  
