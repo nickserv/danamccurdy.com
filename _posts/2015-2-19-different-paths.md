@@ -1,5 +1,5 @@
 ---
-title: ADifferent Pathst
+title: Different Paths
 category: life
 ---
 In our world of ideas,  
