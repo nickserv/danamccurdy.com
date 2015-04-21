@@ -17,7 +17,8 @@ And then,
 sometimes,  
 the walls split wide,  
 and we float free,  
-with no myths to hold us.
+with no myths   
+to hold us.
 
 Unbounded   
 by our own descriptions,  
