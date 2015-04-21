@@ -1,5 +1,5 @@
 ---
-title: An Unexamined Thought
+title: Ignorance
 category: life
 ---
 Ignorance is not   
