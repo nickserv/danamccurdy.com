@@ -1,4 +1,3 @@
-
 ---
 title: To Come Unglued
 category: life
