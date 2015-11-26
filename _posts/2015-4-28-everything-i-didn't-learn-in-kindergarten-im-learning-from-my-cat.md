@@ -1,5 +1,5 @@
 ---
-title: Everything I didn't Learn in Kindergarten, I'm Learning from My Cat
+title: everything I didn't learn in kindergarten, I'm learning from my cat
 category: life
 ---
 A cat has a brain  
