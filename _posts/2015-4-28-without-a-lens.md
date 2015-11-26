@@ -2,8 +2,8 @@
 title: Without a Lens
 category: life
 ---
-To see the world 
-without a lens, 
+To see the world   
+without a lens,   
 is to drink it in,  
 into your heart   
 and soul,  
