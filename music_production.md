@@ -1,6 +1,5 @@
 ---
 title: Music/Production
-published: true
 ---
 
 From childhood on, I've always been surrounded by music and musicians, and have been  inspired to follow in their footsteps, both through creating my own music, and supporting others in doing likewise.

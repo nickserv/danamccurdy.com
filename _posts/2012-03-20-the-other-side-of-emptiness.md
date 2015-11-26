@@ -1,7 +1,6 @@
 ---
 title: The Other Side of Emptiness
 category: life
-published: true
 ---
 
 On the other side of emptiness,   

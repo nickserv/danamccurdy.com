@@ -1,7 +1,6 @@
 ---
 title: Expansion/ Contraction
 category: life
-published: true
 ---
 
 For the most part,   

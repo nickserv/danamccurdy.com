@@ -1,7 +1,6 @@
 ---
 title: A Prayer For Us All
 category: life
-published: true
 ---
 
 (_for Nadine, in loving memory_):  

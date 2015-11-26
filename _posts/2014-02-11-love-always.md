@@ -1,7 +1,6 @@
 ---
 title: "Love, Always"
 categories: life love
-published: true
 ---
 
 "I will love you always"  

@@ -1,7 +1,6 @@
 ---
 title: love and Pain
 category: life
-published: true
 ---
 
 Love may be the essence of a spiritual life,  

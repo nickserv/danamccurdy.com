@@ -1,7 +1,6 @@
 ---
 title: Space and Time
 category: love
-published: true
 ---
 
 I wish I was there to hold you,  

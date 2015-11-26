@@ -1,7 +1,6 @@
 ---
 title: Inconvenient love
 category: love
-published: true
 ---
 
 It isn't convenient to love you,  

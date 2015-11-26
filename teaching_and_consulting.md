@@ -1,6 +1,5 @@
 ---
 title: "Teaching & Consulting"
-published: true
 ---
 
 Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've been fascinated by the art and science of music technology, and how it contributes to the process of creative music making.

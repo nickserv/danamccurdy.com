@@ -1,7 +1,6 @@
 ---
 title: Clockwork
 category: love
-published: true
 ---
 
 In your clockwork world,  
