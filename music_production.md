@@ -1,10 +1,9 @@
 ---
-layout: page
 title: Music/Production
 published: true
 ---
 
-From childhood on, I've always been surrounded by music and musicians, and have been  inspired to follow in their footsteps, both through creating my own music, and supporting others in doing likewise. 
+From childhood on, I've always been surrounded by music and musicians, and have been  inspired to follow in their footsteps, both through creating my own music, and supporting others in doing likewise.
 
 From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimental/electronic, and world music, my musical explorations have involved me in many diverse aspects of music creation and production, from composing and producing my own original music, to supporting other musical artists in various capacities.
 
@@ -105,4 +104,3 @@ installation in 1985 - recording, co-production, and mixing
   - audio post-production and mixing for sports broadcasts “Best of the Beach” and the Breeders Cup.
   - "M1: The Video" - script writer and on-screen instructor: a  series of four two-hour instructional    videos on all  operational aspects of the Korg M1 Synthesizer.
   - music for [See Yourself Well](http://www.amazon.com/See-Yourself-Well-Anne-Beattie/dp/1881025306), an audio series of guided meditations by Anne Beattie - original music and MIDI production.
-

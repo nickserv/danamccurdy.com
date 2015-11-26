@@ -5,6 +5,8 @@ url: http://danamccurdy.com
 gems:
 - jekyll-sitemap
 defaults:
+- values:
+    layout: page
 - scope:
     type: posts
   values:
