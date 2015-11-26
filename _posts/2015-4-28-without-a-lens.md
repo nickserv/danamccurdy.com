@@ -8,6 +8,6 @@ is to drink it in,
 into your heart   
 and soul,  
 to taste it,  
-and to feel it   
+and feel it   
 rub against you,  
 like a warm animal.
