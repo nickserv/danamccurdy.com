@@ -3,19 +3,19 @@ title: Wanting/ Letting go
 category: life
 ---
 
-Wanting  
-is the lack  
+Wanting
+is the lack
 of having.
 
-It is grasping  
-that fills 
-emptiness  
+It is grasping
+that fills
+emptiness
 with pain.
 
-Let go,  
-and open 
+Let go,
+and open
 to emptiness.
 
-Let it be filled  
-with what is,  
+Let it be filled
+with what is,
 and what can be.

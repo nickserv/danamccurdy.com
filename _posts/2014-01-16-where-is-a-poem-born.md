@@ -5,11 +5,11 @@ category: life
 
 Where is a poem born?
 
-A spasm of the mind,  
+A spasm of the mind,
 spirit leaking through.
 
-A fit of words,  
+A fit of words,
 a trail of experience behind it.
 
-Being bursting out of nothing  
+Being bursting out of nothing
 into thought.

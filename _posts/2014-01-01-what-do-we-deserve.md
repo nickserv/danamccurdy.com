@@ -5,8 +5,8 @@ category: life
 
 What do we deserve?
 
-Someone who worships us  
+Someone who worships us
 without challenging us?
 
-Or someone who challenges us  
+Or someone who challenges us
 without worshipping us?

@@ -3,5 +3,5 @@ title: Giving & Receiving
 category: life
 ---
 
-Give gratefully;  
+Give gratefully;
 Receive generously.

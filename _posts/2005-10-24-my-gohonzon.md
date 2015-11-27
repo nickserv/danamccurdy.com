@@ -3,15 +3,15 @@ title: My Gohonzon
 category: life
 ---
 
-My Gohonzon  
+My Gohonzon
 is invisible.
 
-It is my voice,  
-chanting,  
-resonating in my room,  
-bathing me in sound,  
-drawing me out of myself,  
+It is my voice,
+chanting,
+resonating in my room,
+bathing me in sound,
+drawing me out of myself,
 expanding outward,
 
-my attention on the pregnant void  
+my attention on the pregnant void
 around me.
