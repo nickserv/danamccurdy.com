@@ -42,5 +42,3 @@ each point a shining light,
 as we have briefly touched
 and been touched,
 time and time again.
-
-- D. McCurdy

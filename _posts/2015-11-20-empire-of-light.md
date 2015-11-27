@@ -24,8 +24,3 @@ in the world around us,
 teasing our senses,
 enlivening our vision,
 awakening wonder.
-
-- D. McCurdy
-
-
-

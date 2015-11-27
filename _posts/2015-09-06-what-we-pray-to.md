@@ -23,6 +23,3 @@ in an infinite kingdom,
 free to wander,
 at home
 in an endless garden.
-
-- D. McCurdy
-

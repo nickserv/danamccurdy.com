@@ -17,5 +17,3 @@ not these obstacles,
 these objects of desire,
 but rather,
 the emptiness between them.
-
-- D. McCurdy

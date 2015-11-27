@@ -26,5 +26,3 @@ stretch our boundaries,
 encompassing
 more and more
 of What Is.
-
-- D. McCurdy

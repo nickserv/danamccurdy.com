@@ -16,6 +16,3 @@ at a fulcrum,
 an opening
 for gratitude
 or action.
-
-- D. McCurdy
-

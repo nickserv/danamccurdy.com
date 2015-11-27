@@ -20,5 +20,3 @@ again and again,
 through who we were,
 unaware of who we are,
 and who we can become.
-
-- D. McCurdy

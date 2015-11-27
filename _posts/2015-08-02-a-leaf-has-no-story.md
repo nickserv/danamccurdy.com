@@ -30,5 +30,3 @@ What a gift
 it would be,
 to see ourselves
 this  simply.
-
-- D. McCurdy

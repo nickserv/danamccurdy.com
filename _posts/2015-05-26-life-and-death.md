@@ -17,5 +17,3 @@ It is the fear of death
 (which is the fear of life),
 not death itself,
 that causes suffering!
-
-- D. McCurdy

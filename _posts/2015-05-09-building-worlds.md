@@ -18,6 +18,3 @@ Knowing this,
 it is our choice
 to build worlds
 worth living in.
-
-- D. McCurdy
-http://danamccurdy.com/thoughts_and_poems/

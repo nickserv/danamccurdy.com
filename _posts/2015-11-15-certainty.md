@@ -14,5 +14,3 @@ within ourselves.
 It is a river,
 changing,
 constantly.
-
-- D. McCurdy

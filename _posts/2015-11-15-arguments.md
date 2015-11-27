@@ -24,5 +24,3 @@ to think always
 in black and white,
 in right and wrong,
 can be our downfall.
-
-- D. McCurdy

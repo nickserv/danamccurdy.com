@@ -14,5 +14,3 @@ is to end the search for it.
 Nothing is needed,
 when everything
 is enough.
-
-- D. McCurdy

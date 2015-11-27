@@ -12,5 +12,3 @@ to embrace the emptiness
 is to breathe freely,
 making room
 to be.
-
-- D. McCurdy

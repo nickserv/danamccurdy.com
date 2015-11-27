@@ -30,5 +30,3 @@ our vision clear.
 Until we see where we are,
 we cannot see the way ahead,
 blinded by where we’ve been.
-
-- D. McCurdy

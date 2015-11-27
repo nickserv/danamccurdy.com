@@ -14,6 +14,3 @@ big or small,
 we are all people,
 sharing the warmth
 of our Mother Earth.
-
-- D. McCurdy
-

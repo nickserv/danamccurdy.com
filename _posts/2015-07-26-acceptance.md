@@ -12,5 +12,3 @@ and rigid world,
 stuck with what we like,
 and stuck, as well,
 with what we don't like.
-
-- D. McCurdy

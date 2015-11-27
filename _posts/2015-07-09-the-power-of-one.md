@@ -31,8 +31,3 @@ there are only
 THIRTY THREE steps
 between peace for one,
 and peace for everyone.
-
-- D. McCurdy
-
-
-

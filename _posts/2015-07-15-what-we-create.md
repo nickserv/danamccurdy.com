@@ -10,5 +10,3 @@ we can imagine.
 
 So, our question is always,
 what is worth imagining?
-
-- D. McCurdy

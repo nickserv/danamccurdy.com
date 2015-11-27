@@ -19,5 +19,3 @@ as easily,
 when my time has come,
 floating on
 to What’s Next?
-
-- D. McCurdy

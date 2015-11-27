@@ -13,5 +13,3 @@ Life dances with death.
 
 Everything
 is a dance.
-
--D. McCurdy
