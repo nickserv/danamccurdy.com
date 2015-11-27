@@ -1,9 +1,9 @@
 ---
-title: A Warning
+title: Warning
 category: life
 ---
 
-*Warning:*
+**Warning:**
 {: .centered}
 
 Language is a mind-altering substance.
