@@ -25,7 +25,7 @@ In 2001, I was moved to begin a regular drumming practice in response to my own 
 - [**Mt. Airy Community Drum Circle**](http://www.newsworks.org/index.php/local/item/71211-regulars-and-newcomers-attend-monthly-mt-airy-community-drum-circle)
 - [**About.com: Drum Therapy**](http://healing.about.com/od/drums/a/drumtherapy.htm)
 - [**Examiner.com: Health Benefits of Drumming Circles**](http://www.examiner.com/article/research-identifies-health-benefits-from-participation-drumming-circles)
-- [**New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing**](http://www.psmag.com/blogs/news-blog/drummers-high-evidence-that-playing-music-releases-endorphins-49578/)
+- [**New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing**](http://www.psmag.com/business-economics/drummers-high-evidence-that-playing-music-releases-endorphins-49578)
 
 As a drum circle facilitator, my commitment is always to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes.
 
