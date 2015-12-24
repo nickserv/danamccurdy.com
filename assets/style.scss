@@ -199,6 +199,26 @@ a {
   margin-top: 10px;
 }
 
+// Drum circles
+
+.photos {
+  .thumbnail {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 150px;
+  }
+
+  img {
+    max-height: 100%;
+  }
+}
+
 // Posts
 
 .post {

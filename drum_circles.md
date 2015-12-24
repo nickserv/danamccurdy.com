@@ -51,4 +51,14 @@ In rhythm together, we direct that energy to our highest purpose,
 For the greater joy and well-being of all.
 {:.well.manifesto}
 
-[Drumming photos](https://www.facebook.com/danamcc/photos)
+<div class="row photos">
+  {% for url in site.data.drum_circle_photos %}
+    <div class="col-sm-3">
+      <a class="thumbnail" href="{{url}}">
+        <img src="{{url}}" alt="Drum Circle Photo">
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+[More photos](https://www.facebook.com/danamcc/photos)
