@@ -1,5 +1,5 @@
 ---
-title: Independence Day: a Reflection
+title: "Independence Day: a Reflection"
 category: life
 ---
 
