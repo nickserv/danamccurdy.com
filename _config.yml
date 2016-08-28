@@ -3,13 +3,13 @@ markdown: kramdown
 permalink: pretty
 url: http://danamccurdy.com
 gems:
-- jekyll-sitemap
+  - jekyll-sitemap
 defaults:
-- values:
-    layout: page
-- scope:
-    type: posts
-  values:
-    layout: post
+  - values:
+      layout: page
+  - scope:
+      type: posts
+    values:
+      layout: post
 kramdown:
   input: GFM
