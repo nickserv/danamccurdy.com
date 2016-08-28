@@ -15,7 +15,6 @@ kramdown:
   input: GFM
 prose:
   rooturl: _posts
-  siteurl: http://danamccurdy.com
   metadata:
     _posts:
       - name: title
