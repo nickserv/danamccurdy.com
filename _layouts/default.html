@@ -16,7 +16,7 @@
 
     {% if page.id %}
       <!-- extra Open Graph metadata for posts -->
-      <meta property="og:description" content="{{ page.excerpt | strip_html }}">
+      <meta property="og:description" content="{{ page.content | markdownify | strip_html }}">
       <meta property="og:type" content="article">
     {% endif %}
 
