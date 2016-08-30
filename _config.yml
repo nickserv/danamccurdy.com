@@ -1,5 +1,4 @@
 name: Dana McCurdy
-markdown: kramdown
 permalink: pretty
 url: http://danamccurdy.com
 gems:
@@ -11,8 +10,6 @@ defaults:
       type: posts
     values:
       layout: post
-kramdown:
-  input: GFM
 prose:
   rooturl: _posts
   metadata:
