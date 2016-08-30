@@ -6,8 +6,18 @@ author:
   name: Dana McCurdy
   uri: http://danamccurdy.com
   email: danamcc221@gmail.com
+facebook:
+  publisher: https://www.facebook.com/danamcc
+social:
+  links:
+    - https://www.facebook.com/danamcc
+    - https://plus.google.com/114358713485860267704
+    - https://www.youtube.com/channel/UC1y3uwrvlA8TqjNJHEi7dpA
+    - https://www.linkedin.com/in/dana-mccurdy-b68872a2
+    - https://soundcloud.com/danam
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
 defaults:
   - values:

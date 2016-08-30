@@ -5,22 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="/img/favicon.png">
-
-    <title>{{ site.title }} - {{ page.title }}</title>
-
-    <!-- Open Graph metadata -->
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:image" content="{{ site.url }}/img/portrait.jpg">
-
-    {% if page.id %}
-      <!-- extra Open Graph metadata for posts -->
-      <meta property="og:description" content="{{ page.excerpt | strip_html }}">
-      <meta property="og:type" content="article">
-    {% endif %}
-
-    <!-- feed metadata -->
+    {% seo %}
     {% feed_meta %}
 
     <!-- styles -->
