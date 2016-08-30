@@ -1,7 +1,13 @@
 name: Dana McCurdy
 permalink: pretty
+description: For me, life is about learning and creative expression. My goal as a human being and a professional is to promote and facilitate these in every way I can.
 url: http://danamccurdy.com
+author:
+  name: Dana McCurdy
+  uri: http://danamccurdy.com
+  email: danamcc221@gmail.com
 gems:
+  - jekyll-feed
   - jekyll-sitemap
 defaults:
   - values:
