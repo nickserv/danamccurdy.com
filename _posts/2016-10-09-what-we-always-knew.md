@@ -1,5 +1,5 @@
 ---
-title: what we always knew
+title: What we always knew
 category: life
 ---
 

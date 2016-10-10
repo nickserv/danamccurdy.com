@@ -1,5 +1,5 @@
 ---
-title: the buddha in me
+title: The buddha in me
 category: life
 ---
 

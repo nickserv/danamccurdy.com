@@ -1,5 +1,5 @@
 ---
-title: inside:outside
+title: Inside Outside
 category: life
 ---
 

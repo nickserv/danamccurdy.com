@@ -1,5 +1,5 @@
 ---
-title: FAILURE AND FORGIVENESS
+title: Failure and Forgiveness
 category: life
 ---
 

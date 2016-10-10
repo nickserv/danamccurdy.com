@@ -1,5 +1,5 @@
 ---
-title: beginning and ending
+title: Beginning and Ending
 category: life
 ---
 

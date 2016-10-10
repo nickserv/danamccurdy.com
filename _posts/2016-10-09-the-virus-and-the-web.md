@@ -1,5 +1,5 @@
 ---
-title: the virus and the web
+title: The Virus and the Web
 category: life
 ---
 

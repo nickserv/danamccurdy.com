@@ -1,5 +1,5 @@
 ---
-title: the person you think you are
+title: The person you think you are
 category: life
 ---
 

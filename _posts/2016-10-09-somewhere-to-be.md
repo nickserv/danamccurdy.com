@@ -1,5 +1,5 @@
 ---
-title: somewhere to be
+title: Somewhere to be
 category: life
 ---
 

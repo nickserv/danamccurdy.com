@@ -1,5 +1,5 @@
 ---
-title: a little bit crazy
+title: A little bit crazy
 category: life
 ---
 

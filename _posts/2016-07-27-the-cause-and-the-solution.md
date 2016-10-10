@@ -1,5 +1,5 @@
 ---
-title: the cause and the solution
+title: The cause and the solution
 category: life
 ---
 

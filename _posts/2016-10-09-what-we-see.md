@@ -1,5 +1,5 @@
 ---
-title: What we see - edit
+title: What we see
 category: life
 ---
 

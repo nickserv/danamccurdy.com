@@ -1,5 +1,5 @@
 ---
-title: expectations
+title: Expectations
 category: life
 ---
 

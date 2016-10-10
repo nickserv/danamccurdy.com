@@ -1,9 +1,7 @@
 ---
-title: THINKING ABOUT EINSTEIN
+title: Thinking About Einstein
 category: life
 ---
-
-THINKING ABOUT EINSTEIN  
   
 If God does not play dice   
 with the Universe,  

@@ -1,5 +1,5 @@
 ---
-title: relationship
+title: Relationship
 category: life
 ---
 

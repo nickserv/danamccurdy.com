@@ -1,5 +1,5 @@
 ---
-title: communication
+title: Communication
 category: life
 ---
 

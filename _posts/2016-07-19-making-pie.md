@@ -1,5 +1,5 @@
 ---
-title: making pie
+title: Making Pie
 category: life
 ---
 

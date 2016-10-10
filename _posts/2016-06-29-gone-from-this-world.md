@@ -1,5 +1,5 @@
 ---
-title: gone from this world
+title: Gone from this world
 category: life
 ---
 

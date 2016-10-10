@@ -1,5 +1,5 @@
 ---
-title: the perfect teacher
+title: The perfect teacher
 category: life
 ---
 

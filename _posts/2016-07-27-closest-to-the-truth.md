@@ -1,5 +1,5 @@
 ---
-title: closest  to the truth
+title: Closest to the truth
 category: life
 ---
 

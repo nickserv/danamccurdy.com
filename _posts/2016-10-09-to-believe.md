@@ -1,5 +1,5 @@
 ---
-title: Tobelieve
+title: To Believe
 category: life
 ---
 

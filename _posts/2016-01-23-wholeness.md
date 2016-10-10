@@ -1,5 +1,5 @@
 ---
-title: wholeness
+title: Wholeness
 category: life
 ---
 

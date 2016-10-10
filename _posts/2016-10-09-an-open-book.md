@@ -1,11 +1,8 @@
 ---
-title: an open book
+title: An open book
 category: life
 ---
 
-  
-  
-  
 The story of your life  
 is only words.  
   

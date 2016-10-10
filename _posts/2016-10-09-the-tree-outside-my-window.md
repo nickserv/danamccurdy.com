@@ -1,5 +1,5 @@
 ---
-title: The tree  outside my window
+title: The tree outside my window
 category: life
 ---
 

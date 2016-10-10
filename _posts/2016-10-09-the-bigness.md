@@ -1,5 +1,5 @@
 ---
-title: the bigness
+title: The bigness
 category: life
 ---
 
