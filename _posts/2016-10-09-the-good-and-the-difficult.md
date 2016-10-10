@@ -1,6 +1,7 @@
 ---
 title: The Good and the Difficult
-category: life
+category: love
+published: true
 ---
 
 You mentioned our friendship   
@@ -12,5 +13,4 @@ They are both gifts:
 it's the good that reminds us   
 how joyful life can be,   
 and the difficult that reminds us   
-how we can learn and grow.  
-  
+how we can learn and grow.
