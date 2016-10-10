@@ -8,12 +8,14 @@ that I think I am
 can not deserve  
 or hold  
 the freedom  
-of being everything.
+of being everything.
+
 But   
 what if  
 that is just a fitful dream,  
 and there is nothing here  
-except everything?
+except everything?
+
 Perhaps the gift   
 of waking up  
 is becoming Nobody,  
