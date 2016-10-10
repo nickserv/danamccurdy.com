@@ -1,9 +1,10 @@
 ---
 title: Through That Lense
 category: life
+published: true
 ---
 
-﻿When someone  
+When someone  
 who has touched us  
 with their love  
 is gone,  
@@ -12,7 +13,8 @@ and our duty,
 to carry that with us,  
 and see the world,  
 whenever we can,  
-through that lense.
-That   
-is how we honor them,  
+through that lense.  
+
+That is how  
+we honor them,  
 and ourselves.
