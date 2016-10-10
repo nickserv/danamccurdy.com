@@ -215,3 +215,8 @@ dd {
 .centered {
   text-align: center;
 }
+
+.vertical-space {
+  // Twice the size of Bootstrap's bottom margin for paragraphs
+  height: 21px;
+}
