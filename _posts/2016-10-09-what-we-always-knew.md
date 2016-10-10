@@ -1,6 +1,7 @@
 ---
 title: What we always knew
-category: life
+category: love
+published: true
 ---
 
 I wish   
@@ -12,4 +13,4 @@ before we tried to say it,
 what we shared  
 when we weren’t trying.  
   
-And I am glad we tried.  
+And I am glad we tried.
