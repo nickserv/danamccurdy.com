@@ -1,6 +1,7 @@
 ---
 title: Disappointment
-category: life
+category: love
+published: true
 ---
 
 The people   
@@ -13,4 +14,4 @@ almost inevitably,
 to attachment,  
 which leads,  
 sooner or later,  
-to disappointment.  
+to disappointment.
