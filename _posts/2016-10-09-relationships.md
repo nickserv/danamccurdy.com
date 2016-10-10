@@ -1,6 +1,7 @@
 ---
 title: Relationships
-category: life
+category: love
+published: true
 ---
 
 We have pushed each other’s buttons,  
@@ -25,4 +26,4 @@ The answer
 may be hard to know,  
 but it may be found  
 through courage   
-and compassion.  
+and compassion.
