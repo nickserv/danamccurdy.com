@@ -1,6 +1,7 @@
 ---
-title: Emptiness
+title: Being Empty
 category: life
+published: true
 ---
 
   
@@ -25,4 +26,4 @@ in and out,
 is the mind’s song,  
 the rhythm  
 of this human  
-experience.  
+experience.
