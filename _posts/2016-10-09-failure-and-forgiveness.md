@@ -1,14 +1,12 @@
 ---
 title: Failure and Forgiveness
-category: life
+category: love
+published: true
 ---
 
-Every failed relationship  
-leaves an imprint on us,  
-both a lesson of what went wrong,  
-and the touch of another soul  
-that has made us richer,  
-and a little wiser:  
+*Every failed relationship leaves an imprint on us,  
+both a lesson of what went wrong, and the touch of another soul  
+that has made us richer,and a little wiser:*   
   
   
 A PRAYER OF FORGIVENESS  
@@ -39,4 +37,4 @@ what love and friendship
 we knew how to give,  
 despite the pain we caused.  
   
-And I forgive us.  
+And I forgive us.
