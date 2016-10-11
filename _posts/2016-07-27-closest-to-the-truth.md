@@ -1,8 +1,10 @@
 ---
 title: Closest to the truth
 category: life
+published: true
 ---
 
-Those who who whine the loudest  
+Those who whine the loudest  
 are seldom those  
-who are closest to the truth.  
+who are closest  
+to the truth.
