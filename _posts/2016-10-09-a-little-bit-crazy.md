@@ -1,6 +1,7 @@
 ---
 title: A little bit crazy
 category: life
+published: true
 ---
 
 Every human being  
@@ -10,12 +11,13 @@ a little bit crazy.
 For most of us,  
 there is a choice:  
   
-listen to the voice,  
-and follow it  
+listen to the voices    
+that drive us,  
+and follow them    
 into craziness,  
-or hear it  
-for what it is:  
+or hear them    
+for what they are:  
   
 empty sounds  
 whistling in the space  
-of our greater minds.  
+of our greater Mind.
