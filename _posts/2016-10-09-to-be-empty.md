@@ -1,5 +1,5 @@
 ---
-title: Being Empty 2
+title: To Be Empty
 category: life
 published: true
 ---
