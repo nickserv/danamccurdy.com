@@ -32,7 +32,7 @@ to feel blessed
 by whatever comes,  
 desired or not.  
   
-To love someoneâ€™s flaws  
+To love someone's flaws  
 and their virtues,  
 equally,  
 is to love them fully.  
