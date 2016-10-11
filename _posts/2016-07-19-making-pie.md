@@ -1,11 +1,11 @@
 ---
 title: Making Pie
 category: life
+published: true
 ---
 
 When life gives you lemons,  
 make key lime pie  
-(the new kind,  
-with lemons,  
-instead of limes!).  
-  
+(a new kind,  
+with lemons  
+instead of limes!).
