@@ -1,6 +1,7 @@
 ---
 title: What we see
 category: life
+published: true
 ---
 
 As we look out at the world,  
@@ -21,12 +22,12 @@ with memory,
 hope, or fear?  
   
 Or can we look more deeply,  
-seeing HOW we see,  
-the forest AND the trees,  
+seeing *how* we see,  
+the forest *and* the trees,  
 the picture and the pixels?  
   
-Only through this inner seeing  
+Only through this inner eye    
 can we learn to see   
 both worlds,  
 the world inside,  
-and the world around us.   
+and the world around us.
