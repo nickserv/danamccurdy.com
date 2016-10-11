@@ -1,29 +1,21 @@
 ---
-title: Being Empty
+title: Emptiness
 category: life
 published: true
 ---
 
-  
-  
-Empty and alone,  
-I stare at the flickering flame,  
-shadows dancing on the wall.  
-  
-Thoughts roll in,  
-dark and heavy,  
-filling the emptiness,  
-oppressive.  
-  
-Then they slip away,  
-unattended,  
-and the emptiness opens,  
-light and expansive.  
-  
-This ebb and flow,  
-like breathing  
-in and out,  
-is the mind’s song,  
-the rhythm  
-of this human  
-experience.
+A place of emptiness  
+is a space to be  
+without a plan,  
+without regret,  
+without boundaries.
+
+It is the silence  
+beyond “not enough”,  
+the peace  
+beyond trying.
+
+It is the still point  
+from which all paths start,  
+a call to action,  
+or to rest.
