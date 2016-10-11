@@ -1,12 +1,14 @@
 ---
 title: What we see
 category: life
+published: true
 ---
 
 When we look at the world,  
-much of what is seen  
+mostly what we see  
 are the artifacts of seeing,  
-glitches in the operating system  
+glitches 
+in the operating system  
 of our minds.  
   
 Filtered and quantized,  
@@ -23,11 +25,4 @@ But to see
 without the mind’s intrusions  
 is to see,  
 perhaps in glimpses,  
-what is real.  
-  
-  
-  
-  
-  
-  
-  
+what is real.
