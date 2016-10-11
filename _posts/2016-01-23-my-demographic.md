@@ -1,10 +1,12 @@
 ---
 title: My Demographic
 category: life
+published: true
 ---
 
 My Demographic  
-- as performed by Little Davey and the Metrics
+- as performed by Little Davey and the Metrics  
+(with apologies and gratitude to Pete Townshend)
 {: .centered}
 
 Companies try to pin us down,  
@@ -39,7 +41,5 @@ I am my own demographic,
 My own demographic, baby!
 {: .centered}
 
-(with apologies  
-and gratitude  
-to Pete Townshend)  
-{: .centered}
+  
+
