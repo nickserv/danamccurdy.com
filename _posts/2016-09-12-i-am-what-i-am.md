@@ -1,5 +1,5 @@
 ---
-title: I am\nwhat I am
+title: I am what I am
 category: life
 published: true
 ---
