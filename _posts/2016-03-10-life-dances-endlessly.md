@@ -11,7 +11,7 @@ each moment perfect,
 in dynamic balance.  
   
 Accepting its flow,  
-we share its power,  
+we share its power    
 as conscious partners.  
   
 Resisted,  
