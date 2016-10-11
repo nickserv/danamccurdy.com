@@ -1,6 +1,7 @@
 ---
 title: The Story of Your Life
 category: life
+published: true
 ---
 
 The story of your life  
@@ -12,7 +13,7 @@ and start anew!
 {: .centered}
 
 May this new chapter  
-be an pen book  
+be an open book  
 in which  
 your most spontaneous  
 and deeply felt wishes  
