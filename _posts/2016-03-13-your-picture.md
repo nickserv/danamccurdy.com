@@ -1,6 +1,7 @@
 ---
 title: Your Picture
-category: life
+category: love
+published: true
 ---
 
 I can look at your picture now,  
@@ -24,4 +25,4 @@ moving on her own path,
 as I move on mine,  
 sometimes intersecting,  
 sometimes veering away,  
-somehow connected in Spirit.  
+somehow connected in Spirit.
