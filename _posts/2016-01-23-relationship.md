@@ -1,12 +1,8 @@
 ---
 title: Relationship
-category: life
+category: love
+published: true
 ---
-
-While thinking about two people  
-I care about,  
-I came up with this:
-
 At its best,  
 a relationship  
 allows two people  
