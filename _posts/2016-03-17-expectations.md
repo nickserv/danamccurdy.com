@@ -1,6 +1,7 @@
 ---
 title: Expectations
-category: life
+category: love
+published: true
 ---
 
 To find someone   
@@ -31,7 +32,7 @@ to feel blessed
 by whatever comes,  
 desired or not.  
   
-To love someone’s flaws  
+To love someoneâ€™s flaws  
 and their virtues,  
 equally,  
 is to love them fully.  
@@ -39,4 +40,4 @@ is to love them fully.
 But to love only   
 what is desired,  
 is to love   
-an empty dream.  
+an empty dream.
