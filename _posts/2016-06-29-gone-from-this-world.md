@@ -1,6 +1,7 @@
 ---
 title: Gone from this world
-category: life
+category: love
+published: true
 ---
 
 It’s okay  
