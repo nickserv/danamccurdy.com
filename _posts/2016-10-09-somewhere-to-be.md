@@ -1,6 +1,7 @@
 ---
 title: Somewhere to be
 category: life
+published: true
 ---
 
 There is nothing  
@@ -16,9 +17,8 @@ the being
 that always was,  
 and always is.  
   
-There is   
-nowhere  
+There is nowhere  
 to go,  
 only the discovery  
 of where  
-we already are.  
+we already are.
