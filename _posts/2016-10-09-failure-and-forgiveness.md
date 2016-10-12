@@ -19,7 +19,7 @@ we were never
 really friends,  
 though I thought we were.  
   
-I forgive you.  
+And I forgive you.  
   
 Perhaps   
 I only imagined  
