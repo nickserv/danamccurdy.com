@@ -1,8 +1,8 @@
 # [Dana McCurdy's Website](http://danamccurdy.com)
 
-Site content and poems: &copy; 2015 [Dana McCurdy](http://danamccurdy.com/)
+Site content and poems: &copy; 2016 [Dana McCurdy](http://danamccurdy.com/)
 
-Other source code: &copy; 2015 [Nick McCurdy](http://nickmccurdy.com/)
+Other source code: &copy; 2016 [Nick McCurdy](http://nickmccurdy.com/)
 
 ## Authoring Posts
 1. Log in to [Prose](http://prose.io/) (which uses your GitHub account).
