@@ -4,7 +4,8 @@ category: life
 published: true
 ---
 
-As I strive to stay connected  
+As I strive  
+to stay connected  
 with this web I live in,  
 caught up  
 in the give and take  
@@ -15,11 +16,13 @@ jumps up on my laptop,
 claiming it  
 as his temporary home,  
 content to be  
-the center of my attention.  
+the center  
+of my attention.  
   
 Cut off from reports  
 of recent happenings,  
-unable to communicate my views,  
+unable  
+to communicate my views,  
 I am nailed to this moment,  
 contemplating this being   
 who shares my home,  
