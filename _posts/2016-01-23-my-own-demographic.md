@@ -5,8 +5,7 @@ published: true
 ---
 
 **MY DEMOGRAPHIC**
-{: .centered} 
-
+{: .centered}
 \- as performed by Little Davey and the Metrics  
 (with apologies and gratitude to Pete Townshend)
 {: .centered}
