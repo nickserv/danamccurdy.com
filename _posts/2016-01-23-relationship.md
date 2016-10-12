@@ -1,6 +1,6 @@
 ---
 title: Relationship
-category: love
+category: [life, love]
 published: true
 ---
 At its best,  
