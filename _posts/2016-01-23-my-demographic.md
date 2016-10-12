@@ -1,5 +1,5 @@
 ---
-title: My Demographic
+title: My Own Demographic
 category: life
 published: true
 ---
@@ -40,6 +40,3 @@ My Demographic, baby.
 I am my own demographic,  
 My own demographic, baby!
 {: .centered}
-
-  
-
