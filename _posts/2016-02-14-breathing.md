@@ -1,6 +1,7 @@
 ---
 title: Breathing
 category: life
+published: true
 ---
 
 Breathing in,  
@@ -13,11 +14,11 @@ For every breath we take in,
 there are countless creatures,  
 those who crawl and walk,  
 swim and fly,  
-likewise gifted.  
+who are likewise gifted.  
   
 And every breath we give out  
 gives life to countless others,  
-those who grow  
-in green profusion,  
-all in perfect balance.  
-  
+growing in green profusion,   
+breathing in  
+what we breathe out,  
+all in perfect balance.
