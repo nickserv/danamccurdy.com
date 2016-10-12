@@ -4,12 +4,12 @@ category: life
 published: true
 ---
 
-**MY DEMOGRAPHIC**
+### My Demographic
 {: .centered}
 
-> as performed by Little Davey and the Metrics  
-> (with apologies and gratitude to Pete Townshend)
-{: .centered}
+as performed by Little Davey and the Metrics  
+(with apologies and gratitude to Pete Townshend)
+{: .centered.lead}
 
 Companies try to pin us down,  
 (Talking’ ‘bout My Demographics)  

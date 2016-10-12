@@ -184,6 +184,10 @@ dd {
 
 .post {
   margin-bottom: 75px;
+
+  .lead {
+    font-size: inherit;
+  }
 }
 
 @media (min-width: $screen-sm) {
