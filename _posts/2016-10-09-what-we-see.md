@@ -15,9 +15,11 @@ do we only see
 what we expect,  
 or can understand?  
   
-Do we look as through   
-a scanner, darkly,  
-filling in teach missing pixel  
+Do we look  
+as through a scanner,  
+darkly,  
+filling in  
+each missing pixel  
 with memory,  
 hope, or fear?  
   
