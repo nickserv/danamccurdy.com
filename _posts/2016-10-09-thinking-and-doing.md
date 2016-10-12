@@ -1,11 +1,12 @@
 ---
 title: Thinking and Doing
 category: life
+published: true
 ---
 
 To think about doing something  
 and to actually do it  
-live in two different worlds.  
+are two different worlds.  
   
 First, there is the conversation,  
 sometimes endless,  
@@ -17,4 +18,4 @@ When the conversation falls away,
 action flows effortlessly,  
 as if energy and skillfulness  
 are what we swim in,  
-when we awaken to it.  
+when we awaken to it.
