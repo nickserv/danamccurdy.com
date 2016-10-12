@@ -4,7 +4,8 @@ category: life
 published: true
 ---
 
-To believe in a noble dream   
+To believe  
+in a noble dream   
 is to imagine  
 with commitment.
  
