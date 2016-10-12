@@ -19,4 +19,4 @@ into awareness.
 To be mindful  
 and ready,  
 in each moment,  
-is our greatest gift.
+is the greatest gift.
