@@ -4,7 +4,8 @@ category: life
 published: true
 ---
 
-My Demographic  
+### My Demographic
+{: .centered}
 - as performed by Little Davey and the Metrics  
 (with apologies and gratitude to Pete Townshend)
 {: .centered}
