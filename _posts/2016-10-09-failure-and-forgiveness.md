@@ -4,9 +4,12 @@ category: love
 published: true
 ---
 
-*Every failed relationship leaves an imprint on us,  
-both a lesson of what went wrong, and the touch of another soul  
-that has made us richer,and a little wiser:*   
+*Every failed relationship  
+leaves an imprint on us,  
+both a lesson of what went wrong,  
+and the touch of another soul  
+that has made us richer,  
+and a little wiser:*   
   
   
 A PRAYER OF FORGIVENESS  
