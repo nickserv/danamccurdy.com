@@ -17,6 +17,7 @@ social:
     - https://soundcloud.com/danam
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 defaults:
