@@ -1,6 +1,5 @@
 ---
 title: Relationships
-category: null
 published: true
 centered: false
 categories:
