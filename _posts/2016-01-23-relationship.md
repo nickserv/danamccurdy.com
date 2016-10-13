@@ -2,6 +2,7 @@
 title: Relationship
 category: [life, love]
 published: true
+centered: true
 ---
 At its best,  
 a relationship  
@@ -17,4 +18,3 @@ and express that,
 without wanting  
 or expecting  
 them to change.
-{: .centered}

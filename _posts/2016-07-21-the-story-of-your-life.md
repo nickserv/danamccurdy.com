@@ -2,15 +2,14 @@
 title: The Story of Your Life
 category: life
 published: true
+centered: true
 ---
 
 The story of your life  
 is only words.
-{: .centered}
 
 Erase them,  
 and start anew!
-{: .centered}
 
 May this new chapter  
 be an open book  
@@ -21,4 +20,3 @@ are written,
 bringing you  
 ever closer  
 to your truest being.
-{: .centered}
