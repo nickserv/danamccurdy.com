@@ -42,3 +42,6 @@ prose:
               value: life
             - name: Love
               value: love
+      - name: centered
+        field:
+          element: checkbox
