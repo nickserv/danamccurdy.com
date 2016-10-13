@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+sed -n 's/title: \(.*\)/\1/p' "$(dirname "$0")"/../_posts/*.md | sort | uniq -d

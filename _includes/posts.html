@@ -1,16 +1,16 @@
-{% capture intro %}{% include thoughts_and_poems_intro.md %}{% endcapture %}
+{% capture intro %}{% include poems_intro.md %}{% endcapture %}
 {{ intro | markdownify }}
 
 <ul class="nav nav-tabs" role="tablist">
   <li {% if include.scope == "life" %}class="active"{% endif %}>
-    <a href="/thoughts_and_poems/">life</a>
+    <a href="/poems/">life</a>
   </li>
   <li {% if include.scope == "love" %}class="active"{% endif %}>
-    <a href="/thoughts_and_poems/love/">love</a>
+    <a href="/poems/love/">love</a>
   </li>
 </ul>
 
 {% for post in include.data %}
   <hr>
-  {% include post.html url=post.url title=post.title date=post.date content=post.content %}
+  {% include post.html url=post.url title=post.title date=post.date centered=post.centered content=post.content %}
 {% endfor %}

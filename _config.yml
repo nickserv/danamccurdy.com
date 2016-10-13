@@ -17,6 +17,7 @@ social:
     - https://soundcloud.com/danam
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 defaults:
@@ -33,11 +34,21 @@ prose:
       - name: title
         field:
           element: text
-      - name: category
+          label: Title
+          help: The title of the post in post listings and tabs.
+      - name: categories
         field:
-          element: select
+          element: multiselect
+          label: Categories
+          help: Categories to display the post in.
+          alterable: false
           options:
             - name: Life
               value: life
             - name: Love
               value: love
+      - name: centered
+        field:
+          element: checkbox
+          label: Centered
+          help: Enable to center the entire post against the left border.

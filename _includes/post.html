@@ -12,11 +12,11 @@
       <ul class="nav nav-tabs nav-tabs-back">
         {% if include.category == "life" %}
           <li class="active">
-            <a href="/thoughts_and_poems/">life</a>
+            <a href="/poems/">life</a>
           </li>
         {% else %}
           <li class="active">
-            <a href="/thoughts_and_poems/{{ include.category }}/">{{ include.category }}</a>
+            <a href="/poems/{{ include.category }}/">{{ include.category }}</a>
           </li>
         {% endif %}
       </ul>
@@ -24,6 +24,10 @@
   </div>
 
   <div class="col-sm-8">
-    {{ include.content }}
+    {% if include.centered %}
+      <div class="centered">{{ include.content }}</div>
+    {% else %}
+      {{ include.content }}
+    {% endif %}
   </div>
 </div>

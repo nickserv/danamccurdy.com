@@ -1,6 +1,7 @@
 ---
 title: New affirmation
 category: life
+centered: true
 ---
 
 I
@@ -13,4 +14,3 @@ awareness,
 compassion,
 and
 readiness.
-{: .centered}
