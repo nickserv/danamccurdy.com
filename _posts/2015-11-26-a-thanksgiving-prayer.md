@@ -12,7 +12,7 @@ Thank you   
 for this day.
 
 Thank you   
-for this beautiful world,  
+for this beautiful world,    
 and thank you   
 for these loving hearts  
 around me.
