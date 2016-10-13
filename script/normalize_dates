@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+for file in "$(dirname "$0")"/../_posts/*.md; do
+  old_date=$(echo "$file" | grep -Eo '\d{2,4}-\d{1,2}-\d{1,2}')
+  new_date=$(date -jf %F +%F "$old_date")
+  mv "$file" "${file/$old_date/$new_date}"
+done
