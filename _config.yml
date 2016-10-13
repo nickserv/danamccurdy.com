@@ -29,7 +29,6 @@ defaults:
       layout: post
 prose:
   rooturl: _posts
-  siteurl: "http://danamccurdy.com"
   metadata:
     _posts:
       - name: title
