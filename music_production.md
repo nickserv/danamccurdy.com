@@ -1,5 +1,9 @@
 ---
 title: Music/Production
+icon: headphones
+position: 2
+excerpt:
+  From childhood on, I've always been surrounded by music and musicians, and felt inspired to follow in their footsteps, both through creating my own music, and supporting others in doing likewise.
 ---
 
 From childhood on, I've always been surrounded by music and musicians, and have been  inspired to follow in their footsteps, both through creating my own music, and supporting others in doing likewise.

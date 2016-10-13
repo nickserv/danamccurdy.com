@@ -1,5 +1,9 @@
 ---
 title: Drum Circles
+icon: globe
+position: 3
+excerpt:
+  Rhythm has always been the most compelling and visceral aspect of music for me, and the sheer variety and power of rhythmic sounds has led me, on my own and with others, to explore the endless potential of various hand drums and percussion instruments to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
 ---
 
 Rhythm has always been the most compelling and visceral aspect of music for me, and the sheer variety and power of rhythmic sounds has led me, on my own and with others, to explore the endless potential of various hand drums and percussion instruments to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
