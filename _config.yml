@@ -34,9 +34,11 @@ prose:
       - name: title
         field:
           element: text
+          label: Title
       - name: category
         field:
           element: select
+          label: Category
           options:
             - name: Life
               value: life
@@ -45,3 +47,4 @@ prose:
       - name: centered
         field:
           element: checkbox
+          label: Centered
