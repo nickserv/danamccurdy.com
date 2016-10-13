@@ -24,6 +24,10 @@
   </div>
 
   <div class="col-sm-8">
-    {{ include.content }}
+    {% if include.centered %}
+      <div class="centered">{{ include.content }}</div>
+    {% else %}
+      {{ include.content }}
+    {% endif %}
   </div>
 </div>
