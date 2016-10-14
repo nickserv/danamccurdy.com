@@ -28,6 +28,8 @@ defaults:
     values:
       layout: post
 incremental: true
+kramdown:
+  hard_wrap: true
 prose:
   rooturl: _posts
   metadata:
