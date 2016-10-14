@@ -1,12 +1,16 @@
 ---
 title: Relationships
-category: life
+published: true
+centered: false
+categories:
+  - life
+  - love
 ---
 
 A relationship
 built on what we long for,
 what we hope to be,
-Is an edifice
+is an edifice
 too weak, too brittle
 to withstand the throws
 of time and change.

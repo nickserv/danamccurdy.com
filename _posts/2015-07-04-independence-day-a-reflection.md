@@ -4,18 +4,18 @@ category: life
 centered: true
 ---
 
-And the sky exploded, 
-bleeding and booming, 
+And the sky exploded,
+bleeding and booming,
 sprouting ruptured rainbows;
 
-a celebration 
-spectacular enough 
+a celebration
+spectacular enough
 to short-circuit the mind
- with the sheer exuberance 
+with the sheer exuberance
 of being alive!
 
-Freedom 
+Freedom
 can be felt,
- but not understood; 
+but not understood;
 it lives in experience,
- not in rhetoric.
+not in rhetoric.

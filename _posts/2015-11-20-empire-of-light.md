@@ -1,6 +1,8 @@
 ---
 title: Empire of Light
 category: life
+published: true
+centered: false
 ---
 
 Outside my window,

@@ -1,6 +1,8 @@
 ---
 title: crossroads
 category: life
+published: true
+centered: false
 ---
 
 On a road
