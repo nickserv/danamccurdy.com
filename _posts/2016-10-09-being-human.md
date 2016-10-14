@@ -4,19 +4,19 @@ category: life
 published: true
 ---
 
-We are all  
-full of shit,  
+We are all
+full of shit,
 from time to time.
 
-We are all  
-mean of spirit,  
+We are all
+mean of spirit,
 from time to time.
-  
-We are all  
-human,  
+
+We are all
+human,
 all the time.
 
-And when we forgive,  
-and then move on,  
-we are most human  
+And when we forgive,
+and then move on,
+we are most human
 of all.
