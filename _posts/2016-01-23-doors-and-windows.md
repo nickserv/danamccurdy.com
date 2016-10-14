@@ -7,12 +7,14 @@ category: life
 inside us
 where everything
 is reachable.
+
 But,
 we build our little worlds
 within our minds,
 rooms of thoughts and memories,
 doors and windows closed
 to the vastness beyond.
+
 How simple
 (in a moment of choice)
 to look beyond them,
