@@ -27,6 +27,7 @@ defaults:
       type: posts
     values:
       layout: post
+incremental: true
 prose:
   rooturl: _posts
   metadata:
