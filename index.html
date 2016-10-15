@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Home
+published: true
 ---
 
-<!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron jumbotron-home">
   <h1>Welcome to Dana McCurdy's website.</h1>
   <br>
@@ -21,7 +21,6 @@ title: Home
   </div>
 </div>
 
-<!-- Example row of columns -->
 <div class="row excerpts">
   {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | sort: 'position' %}
   {% for link_page in link_pages %}
