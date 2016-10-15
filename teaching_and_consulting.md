@@ -33,15 +33,43 @@ Over the years, I have taught countless individuals, usually in their home studi
 - Institute of Audio Research (NYC)
 
 ## Some of my notable students and clients
-<dl class="dl-horizontal">
-  {% for person in site.data.students_and_clients %}
-    <dt>
-      {% if person.link %}
-        <a href="{{ person.link }}">{{ person.name }}</a>
-      {% else %}
-        {{ person.name }}
-      {% endif %}
-    </dt>
-    <dd>{{ person.description | markdownify }}</dd>
-  {% endfor %}
-</dl>
+[Yusef Lateef](http://www.yuseflateef.com)
+
+: Grammy-winning jazz artist
+
+[Chico O'farrill](http://www.allmusic.com/artist/chico-ofarrill-mn0000111794)
+
+: composer/arranger (best known for his Latin jazz projects with _The Machito Band, Dizzie Gillespie,_ and other jazz luminaries)
+
+[Roma Baran](http://www.baranstoll.com/profile.html)
+
+: producer (_Laurie Anderson, Kate and Anna McGarrigle_)
+
+[Lucy Simon](https://en.wikipedia.org/wiki/Lucy_Simon)
+
+: singer/songwriter/composer (best known for her musical “_The Secret Garden_”, and recordings with her sister _Carly Simon_)
+
+[Charlie Clouser](https://en.wikipedia.org/wiki/Charlie_Clouser)
+
+: film and TV composer (formerly of _Nine Inch Nails_)
+
+[Mike Mandel](http://www.discogs.com/artist/138771-Mike-Mandel)
+
+: TV composer and keyboardist (formerly keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
+
+[Donald Stark](http://donaldstark.com)
+
+: theater composer and sound designer (known for his work with various NJ-based theater companies)
+
+[Scott Killian](http://www.zvidance.com/about/collaborators.php)
+
+: dance/theater composer and sound designer (known for his work with various NY-based dance and theater companies)
+
+[Michael Palmieri](http://www.soundclick.com/bands/default.cfm?bandID=209257)
+
+: contemporary classical composer
+
+other
+
+: various clients of the NY and Pennsylvania Commissions for the Blind
+{: .dl-horizontal}
