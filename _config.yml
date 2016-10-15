@@ -36,7 +36,7 @@ permalink: pretty
 
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
-  rooturl: _posts
+  media: img
   metadata:
     _posts:
       - name: title
