@@ -5,13 +5,13 @@ published: true
 ---
 
 <div class="jumbotron jumbotron-home">
-  <h1>Welcome to Dana McCurdy's website.</h1>
+  <h1>{% include home_heading.txt %}</h1>
   <br>
 
   <div class="row">
-    <div class="col-sm-3 portrait">
-      <img class="img-thumbnail" src="/img/portrait.jpg" width="200" alt="photo of Dana">
-      <cite><small>Photo: <em>Marlies Dambrot</em></small></cite>
+    <div class="col-sm-3">
+      {% capture portrait %}{% include home_portrait.md %}{% endcapture %}
+      {{ portrait | markdownify }}
     </div>
 
     <div class="col-sm-9 lead">
