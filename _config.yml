@@ -37,11 +37,11 @@ permalink: pretty
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
   ignore:
-    - _includes/*.html
     - _layouts
     - img
     - poems
     - script
+    - *.html
     - .*
     - 404.html
     - CNAME
