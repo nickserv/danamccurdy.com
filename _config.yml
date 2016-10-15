@@ -38,9 +38,9 @@ permalink: pretty
 prose:
   ignore:
     - _layouts
+    - bin
     - img
     - poems
-    - script
     - '*.html'
     - '*.scss'
     - .*
