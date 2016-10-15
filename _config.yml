@@ -37,7 +37,9 @@ permalink: pretty
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
   ignore:
+    - _layouts
     - img
+    - poems
     - script
     - '*.html'
     - '*.scss'
