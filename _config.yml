@@ -38,15 +38,14 @@ permalink: pretty
 prose:
   ignore:
     - _layouts
+    - assets
     - bin
-    - img
     - poems
     - '*.html'
-    - '*.scss'
     - .*
     - CNAME
     - Gemfile
-  media: img
+  media: assets
   metadata:
     _posts:
       - name: title
