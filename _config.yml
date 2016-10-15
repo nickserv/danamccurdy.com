@@ -41,7 +41,7 @@ prose:
     - img
     - poems
     - script
-    - *.html
+    - '*.html'
     - .*
     - 404.html
     - CNAME
