@@ -36,6 +36,17 @@ permalink: pretty
 
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
+  ignore:
+    - _includes/*.html
+    - _layouts
+    - img
+    - poems
+    - script
+    - .*
+    - 404.html
+    - CNAME
+    - Gemfile
+    - style.scss
   media: img
   metadata:
     _posts:
