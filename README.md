@@ -34,7 +34,7 @@ Please note that the [`hard_wrap` option](http://kramdown.gettalong.org/options.
 Refer to links in the file itself to learn about its configuration options, and [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/) to learn the YAML syntax used in the file.
 
 ### Creating/Editing Posts
-1. Open [`_posts` in Prose](http://prose.io/#danamcc/danamcc.github.io/_posts).
+1. Open [`_posts` in Prose](http://prose.io/#danamcc/danamcc.github.io/tree/master/_posts).
 2. Click on "NEW FILE" to create a post or on an existing post to edit it.
 3. Modify the title if you are creating a new post (where it says "Untitled").
 4. Author the post in Markdown. The default text when creating a post is just for reference, remove it all before starting a new post.
