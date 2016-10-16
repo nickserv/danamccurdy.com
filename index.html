@@ -4,6 +4,9 @@ title: Home
 published: true
 ---
 
+<!-- Modify home page content with files in _includes and page metadata. -->
+
+<!-- Site introduction jumbotron -->
 <div class="jumbotron jumbotron-home">
   {% capture heading %}{% include home_heading.md %}{% endcapture %}
   {{ heading | markdownify }}
@@ -22,6 +25,7 @@ published: true
   </div>
 </div>
 
+<!-- Main page excerpts (taken from page metadata) -->
 <div class="row excerpts">
   {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | sort: 'position' %}
   {% for link_page in link_pages %}

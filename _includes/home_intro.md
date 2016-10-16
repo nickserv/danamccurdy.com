@@ -1,3 +1,5 @@
+<!-- The home page's introduction, displayed in a lead below the heading and next to the portrait. On skinnier devices, this is displayed underneath the portrait. -->
+
 For me, life is about learning and creative expression. My goal as a human being and a professional is to promote and facilitate these in every way I can.
 
 As an educator, consultant, musician, facilitator, and writer, I look for ways to empower myself and others to share who we are with creativity, clarity, and compassion.

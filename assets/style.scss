@@ -1,6 +1,7 @@
 ---
 ---
 
+// Variables
 $a-color: #df691a;
 $border-color: #4e5d6c;
 $footer-list-spacing: 10px;
@@ -9,7 +10,7 @@ $navbar-border: 1px dotted $navbar-white;
 $screen-sm: 768px;
 $table-border: 1px solid $border-color !important;
 
-// general
+// General
 
 body {
   padding-bottom: 20px;
@@ -122,7 +123,7 @@ dd {
   }
 }
 
-// standard navbar
+// Standard navbar
 
 @media (min-width: $screen-sm) {
   .navbar-nav li {
@@ -134,7 +135,7 @@ dd {
   }
 }
 
-// mobile navbar
+// Mobile navbar
 
 @media (max-width: $screen-sm - 1px) {
   .navbar-nav li {
@@ -146,7 +147,7 @@ dd {
   }
 }
 
-// home page
+// Home page
 
 .jumbotron-home {
   // fall back to the middle color stop on browsers without linear gradients
@@ -182,7 +183,7 @@ dd {
   margin-top: 10px;
 }
 
-// blog posts
+// Posts
 
 .post {
   margin-bottom: 75px;

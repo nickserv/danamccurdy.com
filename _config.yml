@@ -1,4 +1,4 @@
-# Metadata
+# Global site metadata (for Feed and SEO Tag plugins)
 title: Dana McCurdy
 description: For me, life is about learning and creative expression. My goal as a human being and a professional is to promote and facilitate these in every way I can.
 url: http://danamccurdy.com
@@ -16,7 +16,7 @@ social:
     - https://www.linkedin.com/in/dana-mccurdy-b68872a2
     - https://soundcloud.com/danam
 
-# Configuration
+# Configuration (https://jekyllrb.com/docs/configuration/)
 defaults:
   - values:
       layout: page
@@ -30,7 +30,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 incremental: true
-kramdown:
+kramdown: # http://kramdown.gettalong.org/options.html
   hard_wrap: true
 permalink: pretty
 

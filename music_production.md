@@ -54,6 +54,8 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 
 ## Live Performances
 
+<!-- Markdown doesn't have a syntax for deemphasized small text, but you can use the <small></small> HTML tag instead. -->
+
 | Name | Description |
 | --- | --- |
 | **Codanceco <small>(modern dance company)</small>** | live performance of a dance score by composer Scott Killian. |

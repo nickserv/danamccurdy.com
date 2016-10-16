@@ -33,6 +33,8 @@ Over the years, I have taught countless individuals, usually in their home studi
 - Institute of Audio Research (NYC)
 
 ## Some of my notable students and clients
+<!-- Start a definition list with a horizontal style and a paragraph tag wrapping each term. -->
+
 [Yusef Lateef](http://www.yuseflateef.com)
 
 : Grammy-winning jazz artist
