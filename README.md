@@ -7,8 +7,18 @@ Other source code: &copy; 2016 [Nick McCurdy](http://nickmccurdy.com/)
 ## Authoring
 This site's content is stored in Markdown syntax, edited in Prose, and generated into a full site with Jekyll.
 
-### Prose
-Before you author any content, you should log in to [Prose](http://prose.io/) (using your GitHub account), visit [this project](http://prose.io/#danamcc/danamcc.github.io), and find the right file(s) to edit with the [file locations table](#file-locations). Check out [Prose's Getting Started Guide](https://github.com/prose/prose/wiki/Getting-Started) to learn more.
+### Using Prose
+Before you author any content, you should log in to [Prose](http://prose.io/) (using your GitHub account) and visit [this project](http://prose.io/#danamcc/danamcc.github.io). Check out [Prose's Getting Started Guide](https://github.com/prose/prose/wiki/Getting-Started) to learn more.
+
+**Note:** If you can't find a sidebar button, mouse over all of them to see their names.
+1. Open the appropriate file according to the [file locations table](#file-locations). If you're creating a post, go to [`_posts`](http://prose.io/#danamcc/danamcc.github.io/tree/master/_posts) and click "NEW FILE".
+2. Make modifications to the file's content, title (above the content), metadata (in sidebar), and filename (settings in sidebar) as needed. If you're creating a post, don't forget to delete the example Markdown content and add a title to your post (it doesn't have to be unique).
+3. If you're editing a Markdown file, check its preview (sidebar).
+4. If you're creating a post, give it at least one category under meta data (sidebar). Most posts are in the life category.
+4. Click save (sidebar).
+5. If you're making a non-trivial change to an existing file, write a brief commit message under "Describe your Changes" (for future reference).
+6. Click "COMMIT" to save the file.
+7. By default, saving a new post will leave it unpublished, meaning that you will not see it on the website. To publish a post, click "Unpublished" in the toolbar, then save the post.
 
 ### File Locations
 **Note**: `*` represents a [wildcard](https://en.wikipedia.org/wiki/Wildcard_character).
@@ -32,15 +42,6 @@ Please note that the [`hard_wrap` option](http://kramdown.gettalong.org/options.
 
 #### Jekyll Config (`_config.yml`)
 Refer to links in the file itself to learn about its configuration options, and [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/) to learn the YAML syntax used in the file.
-
-### Creating/Editing Posts
-1. Open [`_posts` in Prose](http://prose.io/#danamcc/danamcc.github.io/tree/master/_posts).
-2. Click on "NEW FILE" to create a post or on an existing post to edit it.
-3. Modify the title if you are creating a new post (where it says "Untitled").
-4. Author the post in Markdown. The default text when creating a post is just for reference, remove it all before starting a new post.
-5. The default category for all posts is "Life". If you want to change it to the other category ("Love"), go to metadata from the sidebar and select it in the dropdown menu.
-6. In the sidebar, click save. You can then click "COMMIT" to save the post. If you are modifying an existing post, you should add a commit message explaining why you changed the post (for future reference).
-7. By default, saving a new post will leave it unpublished, meaning that you will not see it on the website. To publish a post, click "Unpublished" in the toolbar, then save the post.
 
 ## Private Resources
 - [Trello Board](https://trello.com/b/hK0hhEDy/dana-s-website)
