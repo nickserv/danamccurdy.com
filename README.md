@@ -19,20 +19,20 @@ Before you author any content, you should log in to [Prose](http://prose.io/) (u
 5. Click **Changes to Save**.
 6. If you're making a non-trivial change to an existing file, write a brief commit message under **Describe your Changes** (for future reference).
 7. Click **COMMIT** to save the file.
-8. By default, saving a new post will leave it unpublished, meaning that you will not see it on the website. To publish a post, click "Unpublished" in the toolbar, then save the post.
+8. By default, saving a new post will leave it unpublished, meaning that you will not see it on the website. To publish a post, click `Unpublished` in the toolbar, then save the post.
 
 ### File Locations
 **Note**: `*` represents a [wildcard](https://en.wikipedia.org/wiki/Wildcard_character).
 
 | Content | Location | Note |
 | --- | --- | --- |
-| Site title and SEO data | [_config.yml](_config.yml) | Includes open graph data (for social networks) and linked data |
-| Home page jumbotron | [\_includes/home\_*.md](_includes) | Includes site intro |
-| Main page content | [*.md](.) (based on page name) | Excluding Home and Poems pages |
+| Site title and SEO data | [`_config.yml`](_config.yml) | Includes open graph data (for social networks) and linked data |
+| Home page jumbotron | [`_includes/home_*.md`](_includes) | Includes site intro |
+| Main page content | [`*.md`](.) (based on page name) | Excluding Home and Poems pages |
 | Page excerpts, icons, and ordering | Not available in Prose yet | Displayed in the navigation and home page |
-| Poems | [_posts](_posts) |
-| Poems listing intro | [_includes/poems_intro.md](includes/poems_intro.md) | Displayed at the top of both categories (life and love) |
-| This readme | [README.md](README.md) |
+| Poems | [`_posts`](_posts) |
+| Poems listing intro | [`_includes/poems_intro.md`](includes/poems_intro.md) | Displayed at the top of both categories (life and love) |
+| This readme | [`README.md`](README.md) |
 
 ### Syntax
 
