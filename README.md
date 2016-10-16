@@ -44,6 +44,13 @@ Please note that the [`hard_wrap` option](http://kramdown.gettalong.org/options.
 #### Jekyll Config (`_config.yml`)
 Refer to links in the file itself to learn about its configuration options, and [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/) to learn the YAML syntax used in the file.
 
+## Developing
+1. Install [Ruby](https://www.ruby-lang.org/).
+2. Install Bundler with `gem install bundler`.
+3. Install dependencies with `bundle`.
+4. Run Jekyll with `bundle exec jekyll serve`.
+5. If you need to access the server from other devices, use `--host 0.0.0.0`.
+
 ## Private Resources
 - [Trello Board](https://trello.com/b/hK0hhEDy/dana-s-website)
 - [Google Analytics](https://analytics.google.com/analytics/web/#report/defaultid/a51703743w83996550p87034958/)
