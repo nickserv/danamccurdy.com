@@ -12,14 +12,14 @@ Before you author any content, you should log in to [Prose](http://prose.io/) (u
 
 **Note:** Text in **bold** represents sidebar buttons and text. If you can't find the right button, mouse over them to see their names.
 
-1. Open the appropriate file according to [file locations](#file-locations). If you're creating a post, go to [`_posts`](http://prose.io/#danamcc/danamcc.github.io/tree/master/_posts) and click **NEW FILE**.
+1. Open the appropriate file according to [file locations](#file-locations). If you're creating a poem, go to [`_posts`](http://prose.io/#danamcc/danamcc.github.io/tree/master/_posts) and click **NEW FILE**.
 2. Make modifications to the file's content, title (above the content), **Meta Data**, and filename (under **Settings**) as needed.
-3. If you're creating a post, don't forget to delete the example Markdown content, add a title (it doesn't have to be unique), and give it at least one category under **Meta Data**.
+3. If you're creating a poem, don't forget to delete the example Markdown content, add a title (it doesn't have to be unique), and give it at least one category under **Meta Data**.
 4. If you're editing a Markdown file, check its **Preview**.
 5. Click **Changes to Save**.
 6. If you're making a non-trivial change to an existing file, write a brief commit message under **Describe your Changes** (for future reference).
 7. Click **COMMIT** to save the file.
-8. By default, saving a new post will leave it unpublished, meaning that you will not see it on the website. To publish a post, click `Unpublished` in the toolbar, then save the post.
+8. By default, saving a new poem will leave it unpublished, meaning that you will not see it on the website. To publish a poem, click `Unpublished` in the toolbar, then save the poem.
 
 ### File Locations
 **Note**: `*` represents a [wildcard](https://en.wikipedia.org/wiki/Wildcard_character).

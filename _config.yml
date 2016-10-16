@@ -52,12 +52,12 @@ prose:
         field:
           element: text
           label: Title
-          help: The title of the post in post listings and tabs.
+          help: The title of the poem in poem listings and tabs.
       - name: categories
         field:
           element: multiselect
           label: Categories
-          help: Categories to display the post in.
+          help: Categories to display the poem in.
           alterable: false
           options:
             - name: Life
@@ -68,4 +68,4 @@ prose:
         field:
           element: checkbox
           label: Centered
-          help: Enable to center the entire post against the left border.
+          help: Enable to center the entire poem against the left border.
