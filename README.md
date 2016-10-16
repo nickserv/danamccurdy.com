@@ -13,14 +13,14 @@ Before you author any content, you should log in to [Prose](http://prose.io/) (u
 ### File Locations
 **Note**: `*` represents a [wildcard](https://en.wikipedia.org/wiki/Wildcard_character).
 
-| Content | Location |
-| --- | --- |
-| Site title and SEO data, including open graph data (for social networks) and linked data | [_config.yml](_config.yml) |
-| Home page jumbotron, including intro | [\_includes/home\_*.md](_includes) |
-| Main page content (except for Home and Poems) | [*.md](.) (based on page name) |
-| Page excerpts, icons, and ordering (in the navigation and home page) | Not available in Prose yet (ask developer) |
+| Content | Location | Note |
+| --- | --- | --- |
+| Site title and SEO data | [_config.yml](_config.yml) | Includes open graph data (for social networks) and linked data |
+| Home page jumbotron | [\_includes/home\_*.md](_includes) | Includes site intro |
+| Main page content | [*.md](.) (based on page name) | Excluding Home and Poems pages |
+| Page excerpts, icons, and ordering | Not available in Prose yet | Displayed in the navigation and home page |
 | Poems | [_posts](_posts) |
-| Poems listing intro | [_includes/poems_intro.md](includes/poems_intro.md) |
+| Poems listing intro | [_includes/poems_intro.md](includes/poems_intro.md) | Displayed at the top of both categories (life and love) |
 | This readme | [README.md](README.md) |
 
 ### Syntax
