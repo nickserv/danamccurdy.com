@@ -5,7 +5,8 @@ published: true
 ---
 
 <div class="jumbotron jumbotron-home">
-  <h1>{% include home_heading.txt %}</h1>
+  {% capture heading %}{% include home_heading.md %}{% endcapture %}
+  {{ heading | markdownify }}
   <br>
 
   <div class="row">
