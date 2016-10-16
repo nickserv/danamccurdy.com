@@ -21,6 +21,7 @@ Before you author any content, you should log in to [Prose](http://prose.io/) (u
 | Page excerpts, icons, and ordering (in the navigation and home page) | Not available in Prose yet (ask developer) |
 | Poems | [_posts](_posts) |
 | Poems listing intro | [_includes/poems_intro.md](includes/poems_intro.md) |
+| This readme | [README.md](README.md) |
 
 ### Syntax
 
