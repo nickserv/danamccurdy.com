@@ -11,6 +11,7 @@ This site's content is stored in Markdown syntax, edited in Prose, and generated
 Before you author any content, you should log in to [Prose](http://prose.io/) (using your GitHub account) and visit [this project](http://prose.io/#danamcc/danamcc.github.io). Check out [Prose's Getting Started Guide](https://github.com/prose/prose/wiki/Getting-Started) to learn more.
 
 **Note:** If you can't find a sidebar button, mouse over all of them to see their names.
+
 1. Open the appropriate file according to the [file locations table](#file-locations). If you're creating a post, go to [`_posts`](http://prose.io/#danamcc/danamcc.github.io/tree/master/_posts) and click "NEW FILE".
 2. Make modifications to the file's content, title (above the content), metadata (in sidebar), and filename (settings in sidebar) as needed. If you're creating a post, don't forget to delete the example Markdown content and add a title to your post (it doesn't have to be unique).
 3. If you're editing a Markdown file, check its preview (sidebar).
