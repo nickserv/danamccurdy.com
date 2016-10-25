@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: Want and Fear
 categories:
   - life
@@ -35,4 +35,3 @@ inside our little universes,
 hoping there is 
 a bigger world outside,
 but afraid to find out?
-
