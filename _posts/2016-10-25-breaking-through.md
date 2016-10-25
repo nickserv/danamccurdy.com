@@ -23,4 +23,4 @@ Exploring the borders
 of our own conceptions,
 we break through, 
 we are home,
-in a place we have always known .
+in a place we have always known.
