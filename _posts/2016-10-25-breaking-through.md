@@ -21,6 +21,6 @@ as if there were a greater world
 
 Exploring the borders 
 of our own conceptions,
-we break through, 
+we break through; 
 we are home,
 in a place we have always known.
