@@ -14,5 +14,5 @@
 
 {% for post in include.data %}
   <hr>
-  {% include post.html url=post.url title=post.title date=post.date centered=post.centered content=post.content %}
+  {% include post.html post=post index=true %}
 {% endfor %}

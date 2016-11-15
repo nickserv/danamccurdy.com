@@ -4,25 +4,25 @@
   <!-- Metadata -->
   <div class="col-sm-4 meta">
     <!-- Title -->
-    {% if include.url %}
-      <h2><a href="{{ include.url }}">{{ include.title }}</a></h2>
+    {% if include.index == true %}
+      <h2><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
     {% else %}
-      <h1>{{ include.title }}</h1>
+      <h1>{{ include.post.title }}</h1>
     {% endif %}
 
     <!-- Date -->
-    <p class="text-info">{{ include.date | date_to_string }}</p>
+    <p class="text-info">{{ include.post.date | date_to_string }}</p>
 
     <!-- Category -->
-    {% if include.category %}
+    {% if include.post.category %}
       <ul class="nav nav-tabs nav-tabs-back">
-        {% if include.category == "life" %}
+        {% if include.post.category == "life" %}
           <li class="active">
             <a href="/poems/">life</a>
           </li>
         {% else %}
           <li class="active">
-            <a href="/poems/{{ include.category }}/">{{ include.category }}</a>
+            <a href="/poems/{{ include.post.category }}/">{{ include.post.category }}</a>
           </li>
         {% endif %}
       </ul>
@@ -31,10 +31,10 @@
 
   <!-- Content -->
   <div class="col-sm-8">
-    {% if include.centered == true %}
-      <div class="centered">{{ include.content }}</div>
+    {% if include.post.centered == true %}
+      <div class="centered">{{ include.post.content }}</div>
     {% else %}
-      {{ include.content }}
+      {{ include.post.content }}
     {% endif %}
   </div>
 </div>
