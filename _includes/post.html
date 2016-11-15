@@ -1,15 +1,19 @@
 <!-- Template for rendering a single post, both individually and in a post listing. -->
 
 <div class="row post">
+  <!-- Metadata -->
   <div class="col-sm-4 meta">
+    <!-- Title -->
     {% if include.url %}
       <h2><a href="{{ include.url }}">{{ include.title }}</a></h2>
     {% else %}
       <h1>{{ include.title }}</h1>
     {% endif %}
 
+    <!-- Date -->
     <p class="text-info">{{ include.date | date_to_string }}</p>
 
+    <!-- Category -->
     {% if include.category %}
       <ul class="nav nav-tabs nav-tabs-back">
         {% if include.category == "life" %}
@@ -25,6 +29,7 @@
     {% endif %}
   </div>
 
+  <!-- Content -->
   <div class="col-sm-8">
     {% if include.centered == true %}
       <div class="centered">{{ include.content }}</div>
