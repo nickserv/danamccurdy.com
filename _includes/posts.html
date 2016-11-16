@@ -4,12 +4,13 @@
 {{ intro | markdownify }}
 
 <ul class="nav nav-tabs" role="tablist">
-  <li {% if include.category == "life" %}class="active"{% endif %}>
-    <a href="/poems/">life</a>
-  </li>
-  <li {% if include.category == "love" %}class="active"{% endif %}>
-    <a href="/poems/love/">love</a>
-  </li>
+  {% for category in site.categories %}
+    <li {% if include.category == category[0] %}class="active"{% endif %}>
+      <a href="/poems/{% if category[0] != "life" %}{{ category[0] }}{% endif %}">
+        {{ category[0] }}
+      </a>
+    </li>
+  {% endfor %}
 </ul>
 
 {% for post in site.categories[include.category] %}
