@@ -4,15 +4,15 @@
 {{ intro | markdownify }}
 
 <ul class="nav nav-tabs" role="tablist">
-  <li {% if include.scope == "life" %}class="active"{% endif %}>
+  <li {% if include.category == "life" %}class="active"{% endif %}>
     <a href="/poems/">life</a>
   </li>
-  <li {% if include.scope == "love" %}class="active"{% endif %}>
+  <li {% if include.category == "love" %}class="active"{% endif %}>
     <a href="/poems/love/">love</a>
   </li>
 </ul>
 
-{% for post in include.data %}
+{% for post in site.categories[include.category] %}
   <hr>
   {% include post.html post=post index=true %}
 {% endfor %}
