@@ -14,19 +14,15 @@
     <p class="text-info">{{ include.post.date | date_to_string }}</p>
 
     <!-- Category -->
-    {% if include.post.category %}
-      <ul class="nav nav-tabs nav-tabs-back">
-        {% if include.post.category == "life" %}
-          <li class="active">
-            <a href="/poems/">life</a>
-          </li>
-        {% else %}
-          <li class="active">
-            <a href="/poems/{{ include.post.category }}/">{{ include.post.category }}</a>
-          </li>
-        {% endif %}
-      </ul>
-    {% endif %}
+    <ul class="nav nav-tabs nav-tabs-back">
+      {% for category in include.post.categories %}
+        <li class="active">
+          <a href="/poems/{% if category != "life" %}{{ category }}{% endif %}">
+            {{ category }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
   </div>
 
   <!-- Content -->
