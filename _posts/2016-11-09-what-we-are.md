@@ -5,7 +5,7 @@ title: What We Are
 categories:
   - life
 ---
-A Postscript to the Election:
+_A Postscript to the Election:_
 
 Now is the time to be strong, 
 to look inside 
