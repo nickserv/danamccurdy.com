@@ -5,14 +5,14 @@ title: What We Are
 categories:
   - life
 ---
-_A Postscript to the Election:_
+_Another Postscript to the Election:_
 
 Now is the time to be strong, 
 to look inside 
 for what does not depend 
 on outside circumstance,
 for that which does not change
-as lifeâ€™s calamities 
+as lifeÃ¢â‚¬â„¢s calamities 
 and disappointments 
 roll past us,
 that which is beyond fear or hope,
