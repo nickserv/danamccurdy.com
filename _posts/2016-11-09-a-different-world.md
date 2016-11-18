@@ -5,6 +5,8 @@ title: a different world
 categories:
   - life
 ---
+_Another Postscript to the Election:_
+
 I awoke today
 in a different world,
 where common sense
