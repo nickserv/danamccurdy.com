@@ -1,6 +1,6 @@
 ---
 centered: true
-published: false
+published: true
 title: Partisanship
 categories:
   - life
