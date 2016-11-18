@@ -1,5 +1,5 @@
 ---
-centered: true
+centered: false
 published: true
 title: Partisanship
 categories:
