@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: Devisiveness
 categories:
   - life
@@ -31,4 +31,3 @@ when pride consumes us,
 where we came from:
 we are one family, 
 one mind.
-
