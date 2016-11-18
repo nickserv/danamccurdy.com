@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: a different world
 categories:
   - life
