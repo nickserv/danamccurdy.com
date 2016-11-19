@@ -65,6 +65,11 @@ prose:
               value: life
             - name: Love
               value: love
+      - name: image
+        field:
+          element: text
+          label: Image URL
+          help: An image to be displayed by the poem. The image URL must be absolute or root-relative.
       - name: centered
         field:
           element: checkbox
