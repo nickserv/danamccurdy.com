@@ -4,6 +4,7 @@ published: true
 title: a different world
 categories:
   - life
+image: https://scontent.fewr1-2.fna.fbcdn.net/v/t1.0-9/14963127_10209478696936678_6894252134111348438_n.jpg?oh=a38144f59d57da668bec20eda20e36d1&oe=58C75293
 ---
 _A Postscript to the Election:_
 
