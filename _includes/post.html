@@ -25,6 +25,11 @@
         {% endfor %}
       </ul>
     {% endif %}
+
+    <!-- Image -->
+    {% if include.index != true and include.post.image %}
+      <img class="img-responsive img-thumbnail" src="{{ include.post.image }}">
+    {% endif %}
   </div>
 
   <!-- Content -->
