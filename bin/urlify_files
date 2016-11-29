@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+for file in "$@"; do
+  basename=$(basename "$file")
+  filename="${basename%.*}"
+  extension="${basename##*.}"
+
+  newfilename=$(echo "${filename,,}" | tr " " _ | tr -cd a-z0-9_-)
+  newfile="$(dirname "$file")/$newfilename.$extension"
+
+  mv "$file" "$newfile"
+done
