@@ -11,6 +11,16 @@ excerpt: >-
 published: true
 ---
 
+<div class="row photos">
+  {% for url in site.data.drum_circle_photos %}
+    <div class="col-sm-3">
+      <a class="thumbnail" href="{{url}}">
+        <img src="{{url}}" alt="Drum Circle Photo">
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
 Rhythm has always been the most compelling and visceral aspect of music for me, and the sheer variety and power of rhythmic sounds has led me, on my own and with others, to explore the endless potential of various hand drums and percussion instruments to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
 
 In 2001, I was moved to begin a regular drumming practice in response to my own emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice for my own well-being, and for the well-being of others.
@@ -50,15 +60,5 @@ It is our gift in each moment to direct that energy as we will.
 In rhythm together, we direct that energy to our highest purpose,
 For the greater joy and well-being of all.
 {:.well.manifesto}
-
-<div class="row photos">
-  {% for url in site.data.drum_circle_photos %}
-    <div class="col-sm-3">
-      <a class="thumbnail" href="{{url}}">
-        <img src="{{url}}" alt="Drum Circle Photo">
-      </a>
-    </div>
-  {% endfor %}
-</div>
 
 [More photos](https://www.facebook.com/danamcc/photos)
