@@ -11,8 +11,7 @@ excerpt: >-
 published: true
 ---
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D10206766660177454%26set%3Dp.10206766660177454%26type%3D3&width=500" width="500" height="380" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
+![](https://scontent.fewr1-2.fna.fbcdn.net/v/t1.0-9/12301676_10206766660177454_4183746372474693030_n.jpg?oh=81702d940b6c7e4f865c58f4c954e133&oe=58F90970)
 
 Rhythm has always been the most compelling and visceral aspect of music for me, and the sheer variety and power of rhythmic sounds has led me, on my own and with others, to explore the endless potential of various hand drums and percussion instruments to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
 
