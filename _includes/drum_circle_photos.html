@@ -1,6 +1,6 @@
 <div class="photos">
-  {% for photo in site.data.drum_circle_photos %}
-    {% assign url = "/assets/drum_circles/" | append: photo %}
+  {% for photo in site.data.drum_circle_photos.featured %}
+    {% assign url = "/assets/drum_circles/featured/" | append: photo %}
     <a href="{{url}}"><img src="{{url}}"></a>
   {% endfor %}
 </div>

@@ -53,4 +53,4 @@ In rhythm together, we direct that energy to our highest purpose,
 For the greater joy and well-being of all.
 {:.well.manifesto}
 
-[More photos](https://www.facebook.com/danamcc/photos)
+{% include drum_circle_photos_carousel.html %}
