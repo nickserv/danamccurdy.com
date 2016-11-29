@@ -1,7 +1,6 @@
 <div class="photos">
-  {% for url in site.data.drum_circle_photos %}
-    <a href="/assets/drum_circles/{{url}}">
-      <img src="/assets/drum_circles/{{url}}">
-    </a>
+  {% for photo in site.data.drum_circle_photos %}
+    {% assign url = "/assets/drum_circles/" | append: photo %}
+    <a href="{{url}}"><img src="{{url}}"></a>
   {% endfor %}
 </div>
