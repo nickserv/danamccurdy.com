@@ -14,8 +14,8 @@ published: true
 <div class="row photos">
   {% for url in site.data.drum_circle_photos %}
     <div class="col-sm-4">
-      <a class="thumbnail" href="{{url}}">
-        <img src="{{url}}" alt="Drum Circle Photo">
+      <a class="thumbnail" href="/assets/drum_circles/{{url}}">
+        <img src="/assets/drum_circles/{{url}}" alt="Drum Circle Photo">
       </a>
     </div>
   {% endfor %}
