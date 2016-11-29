@@ -210,10 +210,13 @@ a {
   justify-content: center;
   margin: 30px 0;
 
+  a {
+    margin: 0 15px;
+  }
+
   img {
     border: 1px solid white;
     height: 225px;
-    margin: 0 15px;
   }
 }
 
