@@ -11,13 +11,11 @@ excerpt: >-
 published: true
 ---
 
-<div class="row photos">
+<div class="photos">
   {% for url in site.data.drum_circle_photos %}
-    <div class="col-sm-4">
-      <a class="thumbnail" href="/assets/drum_circles/{{url}}">
-        <img src="/assets/drum_circles/{{url}}" alt="Drum Circle Photo">
-      </a>
-    </div>
+    <a href="/assets/drum_circles/{{url}}">
+      <img src="/assets/drum_circles/{{url}}">
+    </a>
   {% endfor %}
 </div>
 
