@@ -11,8 +11,6 @@ excerpt: >-
 published: true
 ---
 
-![](https://scontent.fewr1-2.fna.fbcdn.net/v/t1.0-9/12301676_10206766660177454_4183746372474693030_n.jpg?oh=81702d940b6c7e4f865c58f4c954e133&oe=58F90970)
-
 Rhythm has always been the most compelling and visceral aspect of music for me, and the sheer variety and power of rhythmic sounds has led me, on my own and with others, to explore the endless potential of various hand drums and percussion instruments to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
 
 In 2001, I was moved to begin a regular drumming practice in response to my own emotional stress from the World Trade Center attack, and I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice for my own well-being, and for the well-being of others.
