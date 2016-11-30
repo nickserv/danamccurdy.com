@@ -32,7 +32,6 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 ## Original Music
 - [Songs](https://soundcloud.com/danam/sets/songs)
 - [Electronic pieces](https://soundcloud.com/danam/sets/electronic-music)
-{:.bold}
 
 ## Recording Credits
 
@@ -51,7 +50,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 | [Dawn Until Dusk](http://www.amazon.com/Dawn-Until-Dusk-Tribal-Didgeridoo/dp/B000001ZBE) | didgeridooist Adam Plack | recording, production, & mixing |
 | [Sacred Songs of America](http://www.folkways.si.edu/ed-and-dana-mccurdy/on-jordans-stormy-banks-i-stand-sacred-songs-of-america/american-folk/music/album/smithsonian) | Ed McCurdy with Dana McCurdy | vocals, guitar, and co-production |
 | [Thoughts After Sixty](https://itunes.apple.com/us/album/thoughts-after-sixty/id465674514) | Ed McCurdy | vocals, guitar, and co-production |
-{: .table.table-first-column-bold}
+{: .table}
 
 ## Live Performances
 
@@ -64,7 +63,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 | [Jane Ira Bloom](http://www.janeirabloom.com/) | collaborations for sax and electronics, including performances with the NY State Council of the Arts New Music Network in 1985 |
 | None of the Above <small>(improvisational/experimental rock band)</small> | various performances in New York and Toronto night clubs |
 | Ear Food <small>(synthesizer duo featuring original music by Dana McCurdy and Brian Flahive)</small> | various performances and workshops in the NY metropolitan area, including Columbia University, WKCR, the Museum of Natural History, and the Ear Inn |
-{: .table.table-first-column-bold}
+{: .table}
 
 ## Other Production Credits 
 - **Various TV & Radio Commercials:** synthesizer programming and/or recording, post-production,and mixing  

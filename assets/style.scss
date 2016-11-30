@@ -119,10 +119,6 @@ a {
   }
 }
 
-.table-first-column-bold td:first-child {
-  font-weight: bold;
-}
-
 .nav-tabs {
   margin-left: 15px;
 
@@ -256,8 +252,4 @@ a {
 .vertical-space {
   // Twice the size of Bootstrap's bottom margin for paragraphs
   height: 21px;
-}
-
-.bold {
-  font-weight: bold;
 }

@@ -38,7 +38,6 @@ It has become one of my primary life goals to promote community drumming as much
 - [About.com: Drum Therapy](http://healing.about.com/od/drums/a/drumtherapy.htm)
 - [10 Health Reasons to Start Drumming](http://www.drnorthrup.com/health-benefits-drumming/)
 - [New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing](http://www.psmag.com/business-economics/drummers-high-evidence-that-playing-music-releases-endorphins-49578)
-{:.bold}
 
 As a drum circle facilitator, my commitment is always to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes.
 
