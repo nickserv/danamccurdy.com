@@ -111,6 +111,10 @@ dd {
   }
 }
 
+.table-first-column-bold td:first-child {
+  font-weight: bold;
+}
+
 .nav-tabs {
   margin-left: 15px;
 
