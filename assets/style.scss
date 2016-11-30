@@ -216,7 +216,8 @@ a {
 
   img {
     border: 1px solid white;
-    height: 225px;
+    max-height: 225px;
+    max-width: 100%;
   }
 }
 
