@@ -30,8 +30,9 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - hand drums/percussion
 
 ## Original Music
-- [**Songs**](https://soundcloud.com/danam/sets/songs)
-- [**Electronic pieces**](https://soundcloud.com/danam/sets/electronic-music)
+- [Songs](https://soundcloud.com/danam/sets/songs)
+- [Electronic pieces](https://soundcloud.com/danam/sets/electronic-music)
+{:.bold}
 
 ## Recording Credits
 

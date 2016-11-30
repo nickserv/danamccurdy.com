@@ -31,12 +31,13 @@ Since then, I've facilitated drum circles in and around northern New Jersey for 
 It has become one of my primary life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles brings. Here's what some others in the drumming community have to say about this, along with some interesting research:
 {:.before-list}
 
-- [**Remo: Drum Circles Defined**](http://www.remo.com/portal/pages/drum_circles/defined/Drum+Circles+Defined+Q+A.html)
-- [**New Jersey Holistic Health Services: Massage - Drumming - Labyrinths - Native Flutes**](http://www.njholistichealthservices.com/#!links/c1yng)
-- [**Mt. Airy Community Drum Circle**](http://www.newsworks.org/index.php/local/item/71211-regulars-and-newcomers-attend-monthly-mt-airy-community-drum-circle)
-- [**About.com: Drum Therapy**](http://healing.about.com/od/drums/a/drumtherapy.htm)
-- [**Examiner.com: Health Benefits of Drumming Circles**](http://www.examiner.com/article/research-identifies-health-benefits-from-participation-drumming-circles)
-- [**New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing**](http://www.psmag.com/business-economics/drummers-high-evidence-that-playing-music-releases-endorphins-49578)
+- [Remo: Drum Circles Defined](http://www.remo.com/portal/pages/drum_circles/defined/Drum+Circles+Defined+Q+A.html)
+- [New Jersey Holistic Health Services: Massage - Drumming - Labyrinths - Native Flutes](http://www.njholistichealthservices.com/#!links/c1yng)
+- [Mt. Airy Community Drum Circle](http://www.newsworks.org/index.php/local/item/71211-regulars-and-newcomers-attend-monthly-mt-airy-community-drum-circle)
+- [About.com: Drum Therapy](http://healing.about.com/od/drums/a/drumtherapy.htm)
+- [Examiner.com: Health Benefits of Drumming Circles](http://www.examiner.com/article/research-identifies-health-benefits-from-participation-drumming-circles)
+- [New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing](http://www.psmag.com/business-economics/drummers-high-evidence-that-playing-music-releases-endorphins-49578)
+{:.bold}
 
 As a drum circle facilitator, my commitment is always to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes.
 
