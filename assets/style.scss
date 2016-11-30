@@ -64,6 +64,14 @@ dd {
   margin-bottom: .5em;
 }
 
+a {
+  text-decoration: underline;
+
+  .glyphicon {
+    margin-right: 0.2em;
+  }
+}
+
 .page-heading {
   text-align: center;
 }
@@ -88,7 +96,6 @@ dd {
 
   a:not(.btn) {
     color: $a-color;
-    text-decoration: none;
   }
 
   > {
@@ -126,9 +133,17 @@ dd {
   .active a {
     border-bottom-color: $border-color !important;
   }
+
+  > li > a:hover {
+    text-decoration: underline;
+  }
 }
 
 // Standard navbar
+
+.navbar a {
+  text-decoration: none !important;
+}
 
 @media (min-width: $screen-sm) {
   .navbar-nav li {
