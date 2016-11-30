@@ -86,8 +86,9 @@ dd {
   border-top: $table-border;
   font-size: inherit !important;
 
-  a {
-    color: $a-color !important;
+  a:not(.btn) {
+    color: $a-color;
+    text-decoration: none;
   }
 
   > {
