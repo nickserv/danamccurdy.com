@@ -210,10 +210,11 @@ a {
 
   .img-responsive {
     margin: 21px 0;
-    max-width: 50%;
+    max-width: 350px;
+    width: 100%;
 
     @media (min-width: $screen-sm) {
-      max-width: 75%;
+      max-width: 90%;
     }
   }
 }
