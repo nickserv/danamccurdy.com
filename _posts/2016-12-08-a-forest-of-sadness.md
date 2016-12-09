@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: A Forest of Sadness
 categories:
   - life
@@ -21,6 +21,3 @@ to pain long past,
 a gentle hug of empathy,
 a breath of courage
 to move on.
-
-
-
