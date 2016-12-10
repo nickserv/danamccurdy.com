@@ -18,6 +18,8 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 - music software:
   - ProTools (Avid-certified user)
   - Digital Performer
+  - Logic
+  - Studio One
   - Reason
   - Recycle
   - Native Instruments Komplete
