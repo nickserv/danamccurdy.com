@@ -80,7 +80,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 
 - **Miscellaneous Projects**
   - pre-production for “Saturday Night Live” (with composer Howard Shore) - synthesizer programming
-  - source music for TV soap opera “Another World” (with composer Mike Mandel) -  recording, production, and mixing
+  - source music for TV soap opera “Another World” (with composer Mike Mandel) -  recording, production, and mixing
   - musical theme for PBS series, “Bookends” (with composer Scott Killian) - recording, co-production, and mixing
   - soundtracks for various works by video artist [Rita Myers](http://www.eai.org/artistTitles.htm?id=402), including a major Whitney Museum
 installation in 1985 - recording, co-production, and mixing
