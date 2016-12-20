@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: Obscured By Clouds
 categories:
   - life
@@ -26,4 +26,3 @@ mindfulness’s patient practice,
 is to break free,
 bursting into brilliance,
 whole once more.
-
