@@ -4,7 +4,7 @@ published: true
 title: This Perfect Moment
 categories:
   - life
-image: 'http://i.imgur.com/AIRONAQ.jpg'
+image: 'http://i.imgur.com/y2brPVs.jpg'
 ---
 In this perfect moment,
 wanting nothing,
