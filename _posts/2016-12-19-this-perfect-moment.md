@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: This Perfect Moment
 categories:
   - life
