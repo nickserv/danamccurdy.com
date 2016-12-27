@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: Thoughts and Inspirations
 categories:
   - life
@@ -15,4 +15,3 @@ of the mind.
 Inspirations
 are the little orgasms
 of the spirit.
-
