@@ -13,6 +13,6 @@ planning nothing,
 I am boundless.
 
 In this perfect moment,
-“I” disappear,
+I disappear,
 becoming all
 I experience.
