@@ -4,6 +4,7 @@ published: false
 title: the wisdom of falling apart
 categories:
   - life
+image: 'http://i.imgur.com/PtQ3Xar.jpg'
 ---
 We are born of Spirit,
 with no shape,
@@ -32,8 +33,3 @@ and release our hold,
 allowing time’s arrow to guide us, 
 the wisdom of falling apart,
 to be naked once again.
-
-
-
-
-
