@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: What Was Hidden
 categories:
   - life
