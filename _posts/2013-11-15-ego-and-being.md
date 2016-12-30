@@ -13,7 +13,7 @@ That is the dream.
 
 Ego dreams the dream.
 But Being IS the dream.
-The dream is already real.
+The dream already real.
 
 Being is inside the dream;
 And the dream is inside Being.
