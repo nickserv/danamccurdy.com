@@ -1,6 +1,5 @@
 ---
 title: A New Year's Prayer
-categories: life
 published: true
 category: life
 ---
