@@ -1,10 +1,9 @@
 ---
 title: THE INNER SEA
 category: life
+published: true
+centered: false
 ---
-
-THE INNER SEA
-
 As I sit, awash
 in an inner sea,
 a greater world
