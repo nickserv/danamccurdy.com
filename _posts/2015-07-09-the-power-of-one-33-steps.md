@@ -1,5 +1,5 @@
 ---
-title: 'The Power Of One: 33 Steps'
+title: The Power Of One (33 Steps)
 category: life
 published: true
 centered: false
