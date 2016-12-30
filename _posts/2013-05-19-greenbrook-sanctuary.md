@@ -1,6 +1,8 @@
 ---
-title: Greenbrook Sanctuary- 2 poems
+title: Greenbrook Sanctuary - 2 poems
 category: life
+published: true
+centered: false
 ---
 
 Awash in my senses,
@@ -10,6 +12,7 @@ I have no poetry.
 Mind abandoned,
 the moment is the poem.
 
+____________________
 
 Geese,
 Following each other's wing,
