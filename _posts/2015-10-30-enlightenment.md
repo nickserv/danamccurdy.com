@@ -13,4 +13,4 @@ but often obscured.
 
 To catch a glimpse of it
 is to know what we already are,
-not something we should become.
+not something to become.
