@@ -9,7 +9,7 @@ A poem or a song
 completes itself;
 it has an end.
 
-A painting, 
+A painting 
 or a sculpture
 stands in its final form
 for everyone to see.
