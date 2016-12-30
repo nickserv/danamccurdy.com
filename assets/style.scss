@@ -135,6 +135,12 @@ a {
   }
 }
 
+.pager {
+  li > a {
+    text-decoration: none;
+  }
+}
+
 // Standard navbar
 
 .navbar a {
