@@ -1,9 +1,8 @@
 ---
 title: KARMA AND IGNORANCE
 category: life
+published: true
+centered: false
 ---
-
-KARMA AND IGNORANCE
-
 Ignorance is bliss,
 until it catches up with you!
