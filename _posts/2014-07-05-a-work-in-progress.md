@@ -1,6 +1,9 @@
 ---
-title: A Work in Progress
-categories: love
+title: Bigger Than Ourselves
+categories:
+  - love
+published: true
+centered: false
 ---
 
 Love is a work in progress.
