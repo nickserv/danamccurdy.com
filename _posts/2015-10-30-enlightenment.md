@@ -1,21 +1,16 @@
 ---
 title: Enlightenment
 category: life
+published: true
+centered: false
 ---
 
-Enlightenment
-is the sky
-behind
-our cloudy thoughts.
+Enlightenment is the sky
+behind our cloudy thoughts.
 
 It is always there,
-though often
-obscured.
+but often obscured.
 
 To catch a glimpse of it
-is to know
-what we already are,
-not
-what we should
-become.
-
+is to know what we already are,
+not something we should become.
