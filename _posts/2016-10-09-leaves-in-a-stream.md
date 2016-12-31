@@ -1,6 +1,7 @@
 ---
 title: leaves in a stream
-category: life
+categories:
+  - life
 ---
 
 Our bodies sail through life

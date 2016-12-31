@@ -1,6 +1,7 @@
 ---
 title: Wanting/ Letting go
-category: life
+categories:
+  - life
 ---
 
 Wanting

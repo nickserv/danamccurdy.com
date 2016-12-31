@@ -1,6 +1,7 @@
 ---
 title: In this sea of uncertainty
-category: life
+categories:
+  - life
 ---
 
 In this sea of uncertainty,

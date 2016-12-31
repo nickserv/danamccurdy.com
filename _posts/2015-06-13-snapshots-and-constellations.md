@@ -1,6 +1,7 @@
 ---
 title: Snapshots and Constellations
-category: life
+categories:
+  - life
 ---
 
 A life's trajectory

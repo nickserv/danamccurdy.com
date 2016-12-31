@@ -1,6 +1,7 @@
 ---
 title: The Virus and the Web
-category: life
+categories:
+  - life
 ---
 
 The world we each live in

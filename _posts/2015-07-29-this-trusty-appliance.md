@@ -1,6 +1,7 @@
 ---
 title: This Trusty Appliance
-category: life
+categories:
+  - life
 ---
 
 This body that I live in

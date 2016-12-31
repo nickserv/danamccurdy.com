@@ -1,6 +1,7 @@
 ---
 title: Two Moments
-category: love
+categories:
+  - love
 ---
 
 What opens the heart?

@@ -1,6 +1,7 @@
 ---
 title: All My Opinions
-category: life
+categories:
+  - life
 ---
 
 All My Opinions

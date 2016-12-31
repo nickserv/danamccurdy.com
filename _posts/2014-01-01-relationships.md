@@ -1,6 +1,7 @@
 ---
 title: Relationships
-category: life
+categories:
+  - life
 ---
 
 All our relationships

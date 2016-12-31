@@ -1,6 +1,7 @@
 ---
 title: Building Worlds
-category: life
+categories:
+  - life
 ---
 
 Writers take their hopes and fears

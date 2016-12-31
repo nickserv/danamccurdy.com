@@ -1,6 +1,8 @@
 ---
 title: The Dancer
-categories: life love
+categories:
+  - life
+  - love
 ---
 
 Abandoned to the dance,

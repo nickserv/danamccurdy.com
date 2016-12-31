@@ -1,6 +1,7 @@
 ---
 title: Your Picture
-category: love
+categories:
+  - love
 ---
 
 Your face,

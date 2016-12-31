@@ -1,6 +1,7 @@
 ---
 title: What We Pray To
-category: life
+categories:
+  - life
 ---
 
 What We Pray To

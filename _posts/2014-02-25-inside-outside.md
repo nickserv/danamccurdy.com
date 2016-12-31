@@ -1,6 +1,7 @@
 ---
 title: Inside:Outside
-category: life
+categories:
+  - life
 ---
 
 Whatever I see

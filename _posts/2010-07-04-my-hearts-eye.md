@@ -1,6 +1,7 @@
 ---
 title: My Heart’s Eye
-category: love
+categories:
+  - love
 ---
 
 In my mind’s eye, I see you sleeping,

@@ -1,6 +1,7 @@
 ---
 title: Expectations
-category: love
+categories:
+  - love
 published: true
 ---
 

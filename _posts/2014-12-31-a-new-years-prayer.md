@@ -1,7 +1,8 @@
 ---
 title: A New Year's Prayer
 published: true
-category: life
+categories:
+  - life
 ---
 As we enter a new year,
 may we greet each day with gratitude,

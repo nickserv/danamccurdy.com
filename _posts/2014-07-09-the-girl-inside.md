@@ -1,6 +1,7 @@
 ---
 title: The Girl Inside
-category: love
+categories:
+  - love
 ---
 
 How safe it must feel,

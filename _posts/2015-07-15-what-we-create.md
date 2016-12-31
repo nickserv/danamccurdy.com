@@ -1,6 +1,7 @@
 ---
 title: What We Create
-category: life
+categories:
+  - life
 ---
 
 Our history shows us

@@ -1,6 +1,7 @@
 ---
 title: Little Houses
-category: life
+categories:
+  - life
 ---
 All our lives,
 we have moved

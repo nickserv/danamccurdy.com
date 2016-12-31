@@ -1,6 +1,7 @@
 ---
 title: Life and Death
-categories: life
+categories:
+  - life
 ---
 Death is not a problem.
 

@@ -1,6 +1,7 @@
 ---
 title: The Sky Is My Gohonzon
-categories: life
+categories:
+  - life
 ---
 The sky is my Gohonzon.
 

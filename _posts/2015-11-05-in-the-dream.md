@@ -1,6 +1,7 @@
 ---
 title: In the Dream
-category: life
+categories:
+  - life
 ---
 
 When we seem to find

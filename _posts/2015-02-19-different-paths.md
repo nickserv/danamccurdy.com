@@ -1,6 +1,7 @@
 ---
 title: Different Paths
-category: life
+categories:
+  - life
 ---
 In our world of ideas,
 there is Buddhism,

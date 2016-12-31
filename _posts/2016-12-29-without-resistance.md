@@ -3,7 +3,7 @@ centered: false
 published: true
 title: Without Resistance
 categories:
-  - life
+- life
 image: 'http://i.imgur.com/gXADsOc.jpg'
 ---
 To be comfortable 

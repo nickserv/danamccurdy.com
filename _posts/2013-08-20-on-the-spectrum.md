@@ -1,6 +1,7 @@
 ---
 title: On the Spectrum
-category: life
+categories:
+  - life
 ---
 
 I live on the edges of things,

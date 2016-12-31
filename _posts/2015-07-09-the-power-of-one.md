@@ -1,6 +1,7 @@
 ---
 title: THE POWER OF ONE
-category: life
+categories:
+  - life
 ---
 
 THE POWER OF ONE (33 Steps)

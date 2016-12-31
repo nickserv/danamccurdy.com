@@ -1,6 +1,7 @@
 ---
 title: My Aspiration
-categories: life
+categories:
+  - life
 ---
 As a little boy,
 I aspired to be a cat.

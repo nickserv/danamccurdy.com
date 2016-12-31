@@ -1,6 +1,7 @@
 ---
 title: love and You
-category: love
+categories:
+  - love
 ---
 
 When first I opened my heart to you,

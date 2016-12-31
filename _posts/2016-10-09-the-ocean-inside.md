@@ -1,6 +1,7 @@
 ---
 title: The Ocean Inside
-category: life
+categories:
+  - life
 ---
 
 ﻿Poised with grace,

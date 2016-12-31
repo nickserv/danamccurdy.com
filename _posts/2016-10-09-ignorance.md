@@ -1,6 +1,7 @@
 ---
 title: Ignorance
-category: life
+categories:
+  - life
 ---
 
 Most ignorance

@@ -1,6 +1,7 @@
 ---
 title: Labels- A Reflection
-category: life
+categories:
+  - life
 ---
 
 Labels: A Reflection

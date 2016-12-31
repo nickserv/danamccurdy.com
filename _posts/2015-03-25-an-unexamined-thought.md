@@ -1,6 +1,7 @@
 ---
 title: An Unexamined Thought
-category: life
+categories:
+  - life
 ---
 An unexamined thought
   is like a knife in a drawer,

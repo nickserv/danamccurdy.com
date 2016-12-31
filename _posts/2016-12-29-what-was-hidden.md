@@ -3,7 +3,7 @@ centered: false
 published: true
 title: What Was Hidden
 categories:
-  - life
+- life
 image: 'http://i.imgur.com/2gTJoRw.jpg'
 ---
 Self-discovery

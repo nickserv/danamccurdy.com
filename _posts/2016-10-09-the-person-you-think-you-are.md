@@ -1,6 +1,7 @@
 ---
 title: The person you think you are
-category: life
+categories:
+  - life
 published: true
 ---
 

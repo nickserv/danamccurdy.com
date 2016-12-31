@@ -1,6 +1,7 @@
 ---
 title: KARMA AND IGNORANCE
-category: life
+categories:
+  - life
 ---
 
 KARMA AND IGNORANCE

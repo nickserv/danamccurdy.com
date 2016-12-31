@@ -1,6 +1,7 @@
 ---
 title: Learning To Be Free
-category: life
+categories:
+  - life
 ---
 
 Empty inside,

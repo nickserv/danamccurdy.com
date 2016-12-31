@@ -1,6 +1,7 @@
 ---
 title: Life Improvises
-categories: life
+categories:
+  - life
 ---
 Life well-lived
 is a dance,

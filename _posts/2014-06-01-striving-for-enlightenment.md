@@ -1,6 +1,7 @@
 ---
 title: Striving for Enlightenment
-category: life
+categories:
+  - life
 ---
 
 We strive after peak experiences,

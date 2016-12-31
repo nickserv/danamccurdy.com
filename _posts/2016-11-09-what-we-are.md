@@ -3,7 +3,7 @@ centered: false
 published: true
 title: What We Are
 categories:
-  - life
+- life
 image: >-
   https://scontent.fewr1-2.fna.fbcdn.net/t31.0-8/15042020_10209473958818228_283842875300196252_o.jpg
 ---

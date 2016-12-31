@@ -1,6 +1,7 @@
 ---
 title: Two Poems For N
-category: love
+categories:
+  - love
 ---
 
 ### TENDERNESS

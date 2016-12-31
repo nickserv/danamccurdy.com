@@ -3,7 +3,7 @@ centered: false
 published: true
 title: Obscured By Clouds
 categories:
-  - life
+- life
 image: 'http://i.imgur.com/y2brPVs.jpg'
 ---
 We are luminous beings,

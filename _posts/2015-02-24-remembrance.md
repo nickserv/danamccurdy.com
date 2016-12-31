@@ -1,6 +1,7 @@
 ---
 title: Remembrance
-category: life
+categories:
+  - life
 ---
 Bathed in your spirit,
 we drummed from our hearts,

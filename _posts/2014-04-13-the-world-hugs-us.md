@@ -1,6 +1,7 @@
 ---
 title: The World Hugs Us
-category: life
+categories:
+  - life
 ---
 
 The world hugs us

@@ -3,7 +3,7 @@ centered: false
 published: true
 title: Breaking Through
 categories:
-  - life
+- life
 ---
 We are born big, 
 born of Spirit,

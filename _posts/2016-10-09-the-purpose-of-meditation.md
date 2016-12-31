@@ -1,6 +1,7 @@
 ---
 title: The purpose of meditation
-category: life
+categories:
+  - life
 ---
 
 The purpose of meditation

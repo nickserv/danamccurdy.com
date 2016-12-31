@@ -1,6 +1,7 @@
 ---
 title: The Balance Artist
-categories: life
+categories:
+  - life
 ---
 You stand at peace,
 in total concentration,

@@ -1,6 +1,7 @@
 ---
 title: Happiness copy
-category: life
+categories:
+  - life
 ---
 
 True happiness

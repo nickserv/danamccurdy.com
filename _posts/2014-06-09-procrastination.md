@@ -1,6 +1,7 @@
 ---
 title: Procrastination
-category: life
+categories:
+  - life
 ---
 
 Why procrastinate now,

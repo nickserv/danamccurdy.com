@@ -1,6 +1,7 @@
 ---
 title: Heart and Mind
-category: life
+categories:
+  - life
 ---
 
 Sometimes the doors of the heart slam shut

@@ -1,6 +1,7 @@
 ---
 title: One Last Poem
-category: life
+categories:
+  - life
 ---
 
 There was a time

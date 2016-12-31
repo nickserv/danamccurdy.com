@@ -1,6 +1,7 @@
 ---
 title: Undersanding & Being
-category: life
+categories:
+  - life
 ---
 The mind will try to understand
 what it cannot do.

@@ -1,6 +1,7 @@
 ---
 title: Responsibility
-category: life
+categories:
+  - life
 ---
 
 We are responsible for our actions,

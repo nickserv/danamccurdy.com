@@ -1,6 +1,7 @@
 ---
 title: "Independence Day: a Reflection"
-category: life
+categories:
+  - life
 centered: true
 ---
 

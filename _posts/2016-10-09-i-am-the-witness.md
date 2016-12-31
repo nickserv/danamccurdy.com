@@ -1,6 +1,7 @@
 ---
 title: I am the witness
-category: life
+categories:
+  - life
 published: true
 ---
 

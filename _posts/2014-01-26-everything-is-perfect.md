@@ -1,6 +1,7 @@
 ---
 title: Everything is perfect
-category: life
+categories:
+  - life
 ---
 
 Nothing matters

@@ -1,6 +1,7 @@
 ---
 title: Inside/outside
-category: life
+categories:
+  - life
 published: true
 ---
 

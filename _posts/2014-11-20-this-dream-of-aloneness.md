@@ -1,6 +1,7 @@
 ---
 title: This Dream of Aloneness
-categories: life
+categories:
+  - life
 ---
 What if the “I” that I think I am
 is just imagining itself,

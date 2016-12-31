@@ -1,6 +1,7 @@
 ---
 title: The Skyline
-categories: life
+categories:
+  - life
 ---
 Vivid in the sun,
 Each building jumps out,

@@ -1,6 +1,7 @@
 ---
 title: Two Worlds
-category: life
+categories:
+  - life
 ---
 
 In every moment,

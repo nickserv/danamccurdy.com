@@ -1,6 +1,7 @@
 ---
 title: Arguments
-category: life
+categories:
+  - life
 ---
 
 Arguments

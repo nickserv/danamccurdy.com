@@ -1,6 +1,7 @@
 ---
 title: "Loss: Opening"
-category: life
+categories:
+  - life
 ---
 
 Loss;

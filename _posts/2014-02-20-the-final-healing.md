@@ -1,6 +1,7 @@
 ---
 title: The Final Healing
-category: life
+categories:
+  - life
 ---
 
 Spirit,

@@ -1,6 +1,7 @@
 ---
 title: A Tree Stands Naked
-categories: life
+categories:
+  - life
 ---
 A tree stands naked
 Against the gently roiling sky,

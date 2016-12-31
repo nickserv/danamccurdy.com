@@ -1,6 +1,7 @@
 ---
 title: This Dream
-categories: love
+categories:
+  - love
 ---
 This wall you built
 does not protect.

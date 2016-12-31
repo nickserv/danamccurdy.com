@@ -1,6 +1,7 @@
 ---
 title: Nothing and Everything
-category: life
+categories:
+  - life
 ---
 
 Out of nothing

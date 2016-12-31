@@ -1,6 +1,7 @@
 ---
 title: A Reflection
-category: life
+categories:
+  - life
 ---
 
 Human beings are, for the most part, unreliable.

@@ -1,6 +1,7 @@
 ---
 title: we are all people
-category: life
+categories:
+  - life
 ---
 
 Walking on 2 feet,

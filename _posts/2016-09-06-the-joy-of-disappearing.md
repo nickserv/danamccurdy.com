@@ -1,6 +1,7 @@
 ---
 title: The Joy of Disappearing
-category: life
+categories:
+  - life
 ---
 
 Most likely,

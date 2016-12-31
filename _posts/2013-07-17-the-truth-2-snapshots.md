@@ -1,6 +1,7 @@
 ---
 title: "The truth: 2 snapshots"
-category: life
+categories:
+  - life
 ---
 
 Every disappointment is a gift.

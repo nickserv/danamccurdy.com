@@ -1,6 +1,7 @@
 ---
 title: Love and Identity
-category: love
+categories:
+  - love
 ---
 
 ### A Reflection

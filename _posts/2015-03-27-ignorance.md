@@ -1,6 +1,7 @@
 ---
 title: Ignorance
-category: life
+categories:
+  - life
 ---
 Ignorance is not
 a simple lack of knowledge.

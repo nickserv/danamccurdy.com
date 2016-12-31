@@ -1,6 +1,7 @@
 ---
 title: Beneath the Lies
-categories: life
+categories:
+  - life
 ---
 If you are truly Spirit,
 Beyond your Little Mind,

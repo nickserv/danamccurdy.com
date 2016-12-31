@@ -1,6 +1,7 @@
 ---
 title: Enlightenment
-category: life
+categories:
+  - life
 ---
 
 Maybe the state of enlightenment

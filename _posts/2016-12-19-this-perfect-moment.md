@@ -3,7 +3,7 @@ centered: false
 published: true
 title: This Perfect Moment
 categories:
-  - life
+- life
 image: 'http://i.imgur.com/AIRONAQ.jpg'
 ---
 In this perfect moment,

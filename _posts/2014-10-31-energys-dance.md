@@ -1,7 +1,8 @@
 ---
 title: Energy's Dance
 published: true
-category: life
+categories:
+  - life
 ---
 Everything experienced
 Is simply energy,

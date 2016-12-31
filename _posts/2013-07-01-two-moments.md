@@ -1,6 +1,7 @@
 ---
 title: Two Moments
-category: life
+categories:
+  - life
 ---
 
 ### Freedom:

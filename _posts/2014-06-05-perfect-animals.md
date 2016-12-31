@@ -1,6 +1,8 @@
 ---
 title: Perfect Animals
-categories: life love
+categories:
+  - life
+  - love
 ---
 
 <pre class="whitespaced-text">

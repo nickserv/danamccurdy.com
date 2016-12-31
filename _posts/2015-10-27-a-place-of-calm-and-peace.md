@@ -1,6 +1,7 @@
 ---
 title: a place of calm and peace
-category: life
+categories:
+  - life
 ---
 
 here is a place

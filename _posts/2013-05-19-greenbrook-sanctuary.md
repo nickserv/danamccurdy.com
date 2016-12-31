@@ -1,6 +1,7 @@
 ---
 title: Greenbrook Sanctuary- 2 poems
-category: life
+categories:
+  - life
 ---
 
 Awash in my senses,

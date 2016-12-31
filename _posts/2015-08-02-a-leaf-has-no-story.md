@@ -1,6 +1,7 @@
 ---
 title: A Leaf Has No Story
-category: life
+categories:
+  - life
 ---
 
 A leaf

@@ -1,6 +1,7 @@
 ---
 title: As in a Mirror
-category: love
+categories:
+  - love
 ---
 From time to time,
 something in me

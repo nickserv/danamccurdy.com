@@ -1,6 +1,7 @@
 ---
 title: Perfection
-category: life
+categories:
+  - life
 ---
 
 The mind

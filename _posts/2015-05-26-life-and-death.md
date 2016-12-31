@@ -1,6 +1,7 @@
 ---
 title: Life and Death
-category: life
+categories:
+  - life
 ---
 
 Life is not safe.

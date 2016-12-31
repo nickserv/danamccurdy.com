@@ -1,6 +1,7 @@
 ---
 title: A Simple Prayer
-category: life
+categories:
+  - life
 ---
 
 I honor my Self,

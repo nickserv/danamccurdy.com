@@ -1,6 +1,7 @@
 ---
 title: Fragments & Glimpses
-categories: life
+categories:
+  - life
 ---
 There is a scared and whimpering child inside me,
 and there is a tyrant,

@@ -1,6 +1,7 @@
 ---
 title: certainty
-category: life
+categories:
+  - life
 ---
 
 Certainty

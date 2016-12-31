@@ -1,6 +1,7 @@
 ---
 title: An Observation
-categories: life
+categories:
+  - life
 ---
 Every time
 I pull my head

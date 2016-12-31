@@ -1,6 +1,7 @@
 ---
 title: Acceptance
-category: life
+categories:
+  - life
 ---
 
 Acceptance

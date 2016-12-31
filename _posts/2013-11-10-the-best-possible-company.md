@@ -1,6 +1,7 @@
 ---
 title: The Best Possible Company
-category: life
+categories:
+  - life
 ---
 
 Cultivate a loving relationship with yourself.

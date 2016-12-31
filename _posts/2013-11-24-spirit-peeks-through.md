@@ -1,6 +1,7 @@
 ---
 title: Spirit Peeks Through
-category: life
+categories:
+  - life
 ---
 
 We cover the world with concepts,

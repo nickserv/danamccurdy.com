@@ -1,6 +1,7 @@
 ---
 title: The Good and the Difficult
-category: love
+categories:
+  - love
 published: true
 ---
 

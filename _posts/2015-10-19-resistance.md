@@ -1,6 +1,7 @@
 ---
 title: Resistance
-category: life
+categories:
+  - life
 ---
 
 Resistance

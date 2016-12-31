@@ -1,6 +1,7 @@
 ---
 title: My Own Demographic
-category: life
+categories:
+  - life
 published: true
 centered: true
 ---

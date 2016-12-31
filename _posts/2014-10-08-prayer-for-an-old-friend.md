@@ -1,6 +1,7 @@
 ---
 title: Prayer for an Old Friend
-categories: love
+categories:
+  - love
 ---
 There is a gift you gave,
 perhaps unknowing.

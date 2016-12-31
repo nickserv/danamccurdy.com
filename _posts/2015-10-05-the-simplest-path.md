@@ -1,6 +1,7 @@
 ---
 title: the simplest path
-category: life
+categories:
+  - life
 ---
 
 To be diligently open

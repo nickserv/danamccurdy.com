@@ -1,6 +1,7 @@
 ---
 title: If the Buddha Had a Smart Phone...
-category: life
+categories:
+  - life
 ---
 If you witness beauty,
 save a picture in your heart.

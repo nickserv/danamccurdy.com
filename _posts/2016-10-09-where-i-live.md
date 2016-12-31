@@ -1,6 +1,7 @@
 ---
 title: Where I Live
-category: life
+categories:
+  - life
 published: true
 ---
 

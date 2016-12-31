@@ -1,6 +1,7 @@
 ---
 title: Relationships
-category: life
+categories:
+  - life
 ---
 Relationships
 are far too complex

@@ -1,6 +1,7 @@
 ---
 title: A Work in Progress
-categories: life
+categories:
+  - life
 ---
 Life is a work in progress.
 
