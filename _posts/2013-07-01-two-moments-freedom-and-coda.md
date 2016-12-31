@@ -11,10 +11,14 @@ Drifting in and out of being.
 
 ________
 
-I look down, to catch this moment in words;
-I look up, and the bright magic has left the sky,
-Leaving a darker beauty, painful to see,
-A poem that does not want to be written;
+I look down, 
+to catch this moment in words;
+I look up, 
+and the bright magic has left the sky,
+Leaving a darker beauty, 
+painful to see,
+A poem that does not want 
+to be written;
 And still the clouds roll on,
 Like the sea,
 Like the earth,
