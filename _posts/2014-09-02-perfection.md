@@ -1,7 +1,11 @@
 ---
 title: Perfection
-categories: life
+categories:
+  - life
+published: true
+centered: false
 ---
-The light of perfection lies hidden,
+The light of perfection 
+lies hidden,
 behind the shadows
 of our expectations.
