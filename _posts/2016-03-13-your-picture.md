@@ -2,6 +2,7 @@
 title: Your Picture
 category: love
 published: true
+centered: false
 ---
 
 I can look at your picture now,
