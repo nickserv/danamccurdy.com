@@ -4,15 +4,12 @@ category: life
 published: true
 centered: false
 ---
-
-### Freedom:
-
 To fly like the clouds,
 Amorphous, rootless,
 Sailing in the sun and wind,
 Drifting in and out of being.
 
-### Coda:
+________
 
 I look down, to catch this moment in words;
 I look up, and the bright magic has left the sky,
