@@ -5,7 +5,8 @@ categories:
 published: true
 centered: false
 ---
-The light of perfection 
+The light 
+of perfection 
 lies hidden,
 behind the shadows
 of our expectations.
