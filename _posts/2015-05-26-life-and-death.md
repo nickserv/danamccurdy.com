@@ -1,6 +1,8 @@
 ---
 title: Life and Death
 category: life
+published: true
+centered: false
 ---
 
 Life is not safe.
@@ -16,4 +18,4 @@ before its time.
 It is the fear of death
 (which is the fear of life),
 not death itself,
-that causes suffering!
+that causes suffering.
