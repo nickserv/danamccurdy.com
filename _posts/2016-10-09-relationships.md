@@ -1,7 +1,8 @@
 ---
-title: Relationships
+title: Relationship
 category: love
 published: true
+centered: false
 ---
 
 We have pushed each other’s buttons,
@@ -24,6 +25,6 @@ meeting in fellowship?
 
 The answer
 may be hard to know,
-but it may be found
+but may be found
 through courage
 and compassion.
