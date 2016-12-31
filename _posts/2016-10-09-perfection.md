@@ -1,6 +1,8 @@
 ---
 title: Perfection
 category: life
+published: true
+centered: false
 ---
 
 The mind
@@ -32,7 +34,7 @@ its own complicity
 (creating the obstacles
 that stand in the way
 of seeing),
-and, in moments of grace,
+and, in a moment of grace,
 it may stand aside,
 allowing us a glimpse
 of our own perfection.
