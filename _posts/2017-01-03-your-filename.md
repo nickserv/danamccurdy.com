@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: Untitled
+title: Gratitude
 image: >-
   https://www.google.com/search?q=gratitude&hl=en&gl=us&authuser=0&tbm=isch&source=lnms&sa=X&ved=0ahUKEwjjnqfF3aXRAhUEziYKHUr6B-QQ_AUICCgB&biw=1309&bih=705&dpr=2.2#imgrc=d6Dht6DubvBZCM%3A
 categories:
