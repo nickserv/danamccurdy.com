@@ -8,8 +8,7 @@ image: 'http://www.consciousreminder.com/wp-content/uploads/2016/09/gratitude-2.
 ---
 Gratitude
 is how we acknowledge
-the serendipity
-of our being here,
+the serendipity of our being here,
 and that we continue,
 moment by moment,
 to recognize this gift,
