@@ -8,11 +8,12 @@ image: 'http://www.consciousreminder.com/wp-content/uploads/2016/09/gratitude-2.
 ---
 Gratitude
 is how we acknowledge
-that we are here by chance
-as well as by choice,
+the serendipity
+of our being here,
 and that we continue,
 moment by moment,
 to recognize this gift,
 this daily miracle,
-this opportunity to share 
-what we’ve been given.
+this opportunity 
+to share what we are
+and what we’ve been given.
