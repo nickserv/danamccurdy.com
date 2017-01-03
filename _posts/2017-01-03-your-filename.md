@@ -3,7 +3,7 @@ centered: false
 published: true
 title: Gratitude
 image: >-
-  https://www.google.com/search?q=gratitude&hl=en&gl=us&authuser=0&tbm=isch&source=lnms&sa=X&ved=0ahUKEwjjnqfF3aXRAhUEziYKHUr6B-QQ_AUICCgB&biw=1309&bih=705&dpr=2.2#imgrc=d6Dht6DubvBZCM%3A
+  https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjUnqnl3aXRAhXI4iYKHYDyB8wQjRwIBw&url=http%3A%2F%2Fwww.consciousreminder.com%2F2016%2F09%2F19%2Fstart-day-gratitude-change-life-better%2F&psig=AFQjCNH0RuBjiBsU80JpaRzzjXGQ02EdbA&ust=1483524498251209
 categories:
   - life
 ---
