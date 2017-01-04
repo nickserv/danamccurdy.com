@@ -28,12 +28,12 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 ## Schools I've taught at
 - New School University <small>(NYC)</small>
-- Harvestworks/Studio PASS (NYC)
-- Mannes School of Music (NYC)
-- High Tech High School (N. Bergen, NJ)
-- Ramapo College (Mahwah, NJ)
-- Vassar College (Poughkeepsie, NY)
-- Institute of Audio Research (NYC)
+- Harvestworks/Studio PASS <small>(NYC)</small>
+- Mannes School of Music <small>(NYC)</small>
+- High Tech High School <small>(N. Bergen, NJ)</small>
+- Ramapo College <small>(Mahwah, NJ)</small>
+- Vassar College <small>(Poughkeepsie, NY)</small>
+- Institute of Audio Research <small>(NYC)</small>
 
 ## Some of my notable students and clients
 <!-- Start a definition list with a horizontal style and a paragraph tag wrapping each term. -->
