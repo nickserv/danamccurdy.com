@@ -25,15 +25,17 @@ Over the years, I have taught countless individuals, usually in their home studi
 - Native Instruments Komplete
 - ProTools (as an Avid-certified instructor)
 - Digital Performer
+- hand drumming
 
 ## Schools I've taught at
-- New School University <small>(NYC)</small>
-- Harvestworks/Studio PASS <small>(NYC)</small>
-- Mannes School of Music <small>(NYC)</small>
-- High Tech High School <small>(N. Bergen, NJ)</small>
-- Ramapo College <small>(Mahwah, NJ)</small>
-- Vassar College <small>(Poughkeepsie, NY)</small>
-- Institute of Audio Research <small>(NYC)</small>
+- New School University <small class="text-muted">(NYC)</small>
+- Harvestworks/Studio PASS <small class="text-muted">(NYC)</small>
+- Mannes School of Music <small class="text-muted">(NYC)</small>
+- High Tech High School <small class="text-muted">(N. Bergen, NJ)</small>
+- Ramapo College <small class="text-muted">(Mahwah, NJ)</small>
+- Vassar College <small class="text-muted">(Poughkeepsie, NY)</small>
+- Institute of Audio Research <small class="text-muted">(NYC)</small>
+- P.S. 24 Elementary School <small class="text-muted">(Paterson, NJ)</small>
 
 ## Some of my notable students and clients
 <!-- Start a definition list with a horizontal style and a paragraph tag wrapping each term. -->
