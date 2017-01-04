@@ -2,8 +2,11 @@
 title: Teaching & Consulting
 icon: question-sign
 position: 1
-excerpt:
-  Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've been fascinated by the art and science of music technology, and how it contributes to the process of creative music making.
+excerpt: >-
+  Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've
+  been fascinated by the art and science of music technology, and how it
+  contributes to the process of creative music making.
+published: true
 ---
 
 Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've been fascinated by the art and science of music technology, and how it contributes to the process of creative music making.
@@ -24,7 +27,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 - Digital Performer
 
 ## Schools I've taught at
-- New School University (NYC)
+- New School University <small>(NYC)</small>
 - Harvestworks/Studio PASS (NYC)
 - Mannes School of Music (NYC)
 - High Tech High School (N. Bergen, NJ)
