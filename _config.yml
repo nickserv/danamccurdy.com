@@ -30,6 +30,7 @@ gems:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+host: 0.0.0.0
 incremental: true
 kramdown: # http://kramdown.gettalong.org/options.html
   hard_wrap: true
