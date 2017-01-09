@@ -10,20 +10,36 @@
       <h1>{{ include.post.title }}</h1>
     {% endif %}
 
-    <!-- Date -->
-    <p class="text-info">{{ include.post.date | date_to_string }}</p>
+    <!-- Info -->
+    <p class="info">
+      <!-- Date -->
+      <span class="text-info">{{ include.post.date | date_to_string }}</span>
 
-    <!-- Category -->
+      <!-- Category -->
+      {% if include.index != true %}
+        <span class="label-group">
+          {% for category in include.post.categories %}
+            <a class="label label-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
+          {% endfor %}
+        </span>
+      {% endif %}
+    </p>
+
+    <!-- Pager -->
     {% if include.index != true %}
-      <ul class="nav nav-tabs nav-tabs-back">
-        {% for category in include.post.categories %}
-          <li class="active">
-            <a href="/poems/{% if category != "life" %}{{ category }}{% endif %}">
-              {{ category }}
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
+      <div class="custom-pager">
+        {% if page.previous != nil %}
+          <a class="btn btn-default btn-sm" href="{{ page.previous.url }}" title="{{ page.previous.title }}" role="button">Previous</a>
+        {% else %}
+          <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Previous</a>
+        {% endif %}
+
+        {% if page.next != nil %}
+          <a class="btn btn-default btn-sm" href="{{ page.next.url }}" title="{{ page.next.title }}" role="button">Next</a>
+        {% else %}
+          <a class="btn btn-deafult btn-sm disabled" href="#" role="button" aria-disabled>Next</a>
+        {% endif %}
+      </div>
     {% endif %}
 
     <!-- Image -->
