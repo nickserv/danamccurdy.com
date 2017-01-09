@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Resizes all drum circle photos so each image's height is equivalent to the minimum height of all images, maintaining aspect ratios.
+dir=$(dirname "$0")/../assets/drum_circles
+images=$(find "$dir" -maxdepth 1 -type f -not -name ".*")
+minheight=$(identify -format "%h\n" $images | sort -n | head -n 1)
+mogrify -geometry "x$minheight" $images
