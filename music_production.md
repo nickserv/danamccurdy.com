@@ -13,26 +13,7 @@ From childhood on, I've always been surrounded by music and musicians, and have 
 
 From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimental/electronic, and world music, my musical explorations have involved me in many diverse aspects of music creation and production, from composing and producing my own original music, to supporting other musical artists in various capacities.
 
-## Skills
-- synthesizer programming/sound design
-- MIDI production
-- music recording, producing, and mixing
-- audio editing
-- music software:
-  - ProTools (Avid-certified user)
-  - Digital Performer
-  - Studio One
-  - Logic
-  - Reason
-  - Recycle
-  - Native Instruments Komplete
-  - Metasynth
-- electronic music composition
-- song writing
-- guitar
-- vocals
-- keyboard
-- hand drums/percussion
+{% include music_skills.html %}
 
 ## Original Music
 {% include music_original.html %}
