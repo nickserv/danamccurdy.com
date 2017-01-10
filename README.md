@@ -21,6 +21,13 @@ Before you author any content, you should log in to [Prose](http://prose.io/) (u
 7. Click **COMMIT** to save the file.
 8. By default, saving a new poem will leave it unpublished, meaning that you will not see it on the website. To publish a poem, click `Unpublished` in the toolbar, then save the poem.
 
+### Updating Facebook Shares
+Facebook caches metadata about a page when its link is shared, so you may notice a share has outdated content after the page is changed. You will need to ask Facebook to refresh its copy of a page if you change the page after sharing its link.
+
+1. Copy the specific link you want to share or have already shared.
+2. Paste the link into the [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/), click `Debug`, and inspect the link preview section. If the preview seems to be out of date or the scrape time is too old, click `Scrape Again`.
+3. If you already have shared the link through a Facebook post, click on the post's chevron menu (upper right) and select `Refresh share attachment`. The post should now display the same preview as the Sharing Debugger.
+
 ### File Locations
 **Note**: `*` represents a [wildcard](https://en.wikipedia.org/wiki/Wildcard_character).
 
