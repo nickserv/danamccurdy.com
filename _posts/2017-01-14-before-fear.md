@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: Before Fear
 categories:
   - life
@@ -20,7 +20,3 @@ but where dreams subside,
 and we come to rest,
 before hope,
 and before fear.
-
-
-
-
