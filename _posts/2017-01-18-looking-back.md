@@ -4,7 +4,7 @@ published: true
 title: Looking Back
 categories:
   - life
-image: 'http://i.imgur.com/X3OYcSR.jpg'
+image: 'http://i.imgur.com/G7kS9Gz.jpg'
 ---
 Looking back
 with a clear and open mind,
