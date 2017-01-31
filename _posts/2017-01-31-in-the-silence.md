@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: In the Silence
 categories:
   - love
