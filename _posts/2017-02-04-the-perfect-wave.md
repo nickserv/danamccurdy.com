@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: The Perfect Wave
 categories:
   - life
