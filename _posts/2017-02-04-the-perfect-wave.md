@@ -6,6 +6,9 @@ categories:
   - life
 image: 'http://i.imgur.com/YVyOscC.jpg'
 ---
+_With much gratitude, 
+to Venerable Amy Miller_
+
 Life can feel
 like an angry sea,
 wave upon wave
