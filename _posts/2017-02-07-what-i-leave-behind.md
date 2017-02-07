@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: What I Leave Behind
 categories:
   - life
