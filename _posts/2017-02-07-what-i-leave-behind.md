@@ -15,7 +15,7 @@ As I sit at this keyboard,
 on the shore of a digital sea,
 I pause, like a castaway,
 as I toss my bits and bytes
-into this world of data,
+into this liquid world of data,
 and consider:
 is THIS how I would choose
 to be remembered?
