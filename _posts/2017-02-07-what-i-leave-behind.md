@@ -13,8 +13,8 @@ are the memories I leave behind.
 
 As I sit at this keyboard,
 on the shore of a digital sea,
-I pause, 
-as I cast my bits and bytes
+I pause, like a castaway,
+as I toss my bits and bytes
 into this world of data,
 and consider:
 is THIS how I would choose
