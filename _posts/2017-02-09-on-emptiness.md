@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: On Emptiness
+title: Resting On Emptiness
 categories:
   - life
 image: 'http://i.imgur.com/LaKOdSf.jpg'
