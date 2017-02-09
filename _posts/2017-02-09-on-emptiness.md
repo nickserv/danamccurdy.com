@@ -6,7 +6,7 @@ categories:
   - life
 image: 'http://i.imgur.com/LaKOdSf.jpg'
 ---
-I have often lived in a dream 
+I have been living in a dream 
 where I am always on the verge
 of being right 
 or being wrong,
