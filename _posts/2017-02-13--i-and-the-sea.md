@@ -34,4 +34,6 @@ may I do what I can,
 while I remain in this body,
 to purify this water that I am,
 this little bit 
-of Everything.
+of Everything,
+which is 
+my lasting gift.
