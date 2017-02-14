@@ -24,16 +24,16 @@ the thoughts and stories
 that are “me”?
 
 Or will it all melt back,
-adding its identity,
-once again,
+yielding its identity
 to the universal “I”?
 
 If I am but a drop
 in this ocean,
 may I do what I can,
 while I remain in this body,
-to purify this water that I am,
-this little bit 
+to purify this bit of water 
+that is me,
+this little particle 
 of Everything,
 which is 
 my lasting gift.
