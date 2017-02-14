@@ -23,7 +23,7 @@ will it retain
 the thoughts and stories
 that are “me”?
 
-Or will it all melt back,
+Or will that all melt away,
 yielding its identity
 to the universal “I”?
 
@@ -33,7 +33,5 @@ may I do what I can,
 while I remain in this body,
 to purify this bit of water 
 that is me,
-this little particle 
-of Everything,
-which is 
-my lasting gift.
+this little particle of Everything,
+which is my lasting gift.
