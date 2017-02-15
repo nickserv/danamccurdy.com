@@ -9,9 +9,9 @@ image: 'http://i.imgur.com/yvQ5Uge.jpg'
 After this body dies,
 will “I” continue on?
 
-This consciousness
+Perhaps this consciousness
 which sees through my eyes
-may be like a drop of water,
+is like a drop of water,
 separated for a while
 from its mother,
 the sea.
