@@ -6,8 +6,8 @@ categories:
   - life
 image: 'http://i.imgur.com/g7hglv7.jpg'
 ---
-“I walked on the moon. What can't you do?”
-- Eugene Cernan
+_“I walked on the moon. What can't you do?”
+- Eugene Cernan_
 
 We are rarely constrained 
 by what has happened,
