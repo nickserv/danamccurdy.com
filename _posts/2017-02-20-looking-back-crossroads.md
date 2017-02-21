@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: Looking Back/ Crossroads
+title: Looking Back / Crossroads
 categories:
   - life
 image: 'http://i.imgur.com/SoiG9Sk.jpg'
