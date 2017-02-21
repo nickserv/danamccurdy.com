@@ -47,7 +47,7 @@ on this day
 breathing 
 and grateful.
 
-
+---
 
 We are always standing 
 at a crossroad,
@@ -55,4 +55,3 @@ between what we believe
 has shaped us,
 and what we believe 
 is possible.
-
