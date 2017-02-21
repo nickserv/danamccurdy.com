@@ -4,6 +4,7 @@ published: false
 title: Looking Back/Crossroads
 categories:
   - life
+image: 'http://i.imgur.com/SoiG9Sk.jpg'
 ---
 Looking back
 across 65 years
