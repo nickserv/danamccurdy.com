@@ -7,7 +7,7 @@ categories:
 image: 'http://i.imgur.com/g7hglv7.jpg'
 ---
 > I walked on the moon. What can't you do?
-> <footer><cite title="Eugene Cernan">Eugene Cernan</cite></footer>
+> <footer>Eugene Cernan</footer>
 
 We are rarely constrained 
 by what has happened,
