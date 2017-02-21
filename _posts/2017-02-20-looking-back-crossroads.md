@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: Looking Back/Crossroads
 categories:
   - life
