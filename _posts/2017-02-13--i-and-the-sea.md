@@ -25,9 +25,10 @@ that are “me”?
 
 Or will it all melt away,
 yielding its identity
-to the universal “I”?
+to the universal?
 
-If I am but a drop
+This is my prayer:
+if I am but a drop
 in this ocean,
 may I do what I can,
 while I remain in this body,
