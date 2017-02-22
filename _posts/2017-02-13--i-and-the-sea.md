@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: '"I" and the Sea'
+title: ' The Sea, and "I"'
 categories:
   - life
 image: 'http://i.imgur.com/yvQ5Uge.jpg'
