@@ -10,7 +10,8 @@ description: Looking back across 65 years of days and moments…
 Looking back across 65 years 
 of days and moments
 mostly not remembered
-there are threads I have woven stories out of
+there are threads 
+I have woven stories out of
 flavors I have tasted
 which linger on the palate 
 like a fading banquet of memory.
@@ -22,12 +23,13 @@ and reasons for rejoicing.
 
 The meaning of it all escapes me
 when I trace the paths
-in narrative detail
+as details in a narrative 
 and the stories dissolve
 into shadows of experience
 and so much smoke.
 
-There has been some pinnacle I searched for
+There has been some pinnacle 
+I searched for
 some peak of understanding
 but looking back
 and looking forward
