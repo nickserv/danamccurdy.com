@@ -4,6 +4,7 @@ published: true
 title: Remembering
 categories:
   - life
+image: 'http://i.imgur.com/C2WgNsM.jpg'
 ---
 >(in memory of Larry Coryell, 
 best friend of one of my best friends)
