@@ -21,7 +21,7 @@ in the flow of time.
 They are mirages,
 shadows cast by clouded vision,
 seen into existence
-by the stubborn persistence of thought.
+by the stubborn persistence of thinking.
 
 In the world of presence,
 they will quickly fade,
