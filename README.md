@@ -2,7 +2,7 @@
 
 &copy; [Dana McCurdy](http://danamccurdy.com/)
 
-Developed by [Nick McCurdy](http://nickmccurdy.com/)
+Website by [Nick McCurdy](http://nickmccurdy.com/)
 
 ## Authoring
 This site's content is stored in Markdown syntax, edited in Prose, and generated into a full site with Jekyll.
