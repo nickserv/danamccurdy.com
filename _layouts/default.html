@@ -48,10 +48,7 @@
               {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | sort: 'position' %}
               {% for link_page in link_pages %}
                 <li{% if page.title == link_page.title %} class="active"{% endif %}>
-                  <a href="{{link_page.url}}">
-                    <span class="glyphicon glyphicon-{{link_page.icon}}" aria-hidden="true"></span>
-                    {{link_page.title}}
-                  </a>
+                  <a href="{{link_page.url}}">{{link_page.title}}</a>
                 </li>
               {% endfor %}
             </ul>
@@ -59,10 +56,12 @@
             <!-- Contact links -->
             <ul class="nav navbar-nav navbar-right">
               <li><a href="mailto:danamcc221@gmail.com">
-                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>Email
+                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                <span class="hidden-sm">Email</span>
               </a></li>
               <li><a href="https://www.facebook.com/danamcc">
-                <span class="glyphicon glyphicon-user" aria-hidden="true"></span>Facebook
+                <span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+                <span class="hidden-sm">Facebook</span>
               </a></li>
             </ul>
           </div>
