@@ -1,6 +1,5 @@
 ---
 title: Drum Circles
-icon: globe
 position: 3
 excerpt: >-
   Rhythm has always been the most compelling and visceral aspect of music for

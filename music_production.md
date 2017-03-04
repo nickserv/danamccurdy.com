@@ -1,6 +1,5 @@
 ---
 title: Music/Production
-icon: headphones
 position: 2
 excerpt: >-
   From childhood on, I've always been surrounded by music and musicians, and

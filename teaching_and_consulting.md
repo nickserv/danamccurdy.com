@@ -1,6 +1,5 @@
 ---
 title: Teaching & Consulting
-icon: question-sign
 position: 1
 excerpt: >-
   Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've

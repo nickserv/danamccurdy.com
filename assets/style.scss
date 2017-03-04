@@ -23,16 +23,6 @@ footer {
   > div {
     margin-bottom: 10.5px;
   }
-
-  .list-inline {
-    margin-bottom: 0;
-    margin-left: -$footer-list-spacing;
-
-    li {
-      padding-left: $footer-list-spacing;
-      padding-right: $footer-list-spacing;
-    }
-  }
 }
 
 @media (min-width: $screen-sm) {
@@ -49,10 +39,6 @@ footer {
       flex: 1;
 
       &:nth-child(2) {
-        text-align: center;
-      }
-
-      &:nth-child(3) {
         text-align: right;
       }
     }
@@ -71,7 +57,7 @@ a {
     text-decoration: none;
   }
 
-  .glyphicon {
+  .fa {
     margin-right: 0.2em;
   }
 }
@@ -154,11 +140,21 @@ blockquote {
 }
 
 @media (min-width: $screen-sm) {
-  .navbar-nav li {
-    border-left: $navbar-border;
+  .navbar .container-fluid {
+    padding-right: 0;
+  }
 
-    &:last-child {
-      border-right: $navbar-border;
+  .navbar-nav {
+    li {
+      border-left: $navbar-border;
+
+      &:last-child {
+        border-right: $navbar-border;
+      }
+    }
+
+    &:last-child li:last-child {
+      border-right: 0;
     }
   }
 }
@@ -166,11 +162,24 @@ blockquote {
 // Mobile navbar
 
 @media (max-width: $screen-sm - 1px) {
-  .navbar-nav li {
-    border-top: $navbar-border;
+  .navbar-nav {
+    margin-bottom: 0;
+    margin-top: 0;
 
-    &:first-child {
-      border-top: 0;
+    li {
+      border-top: $navbar-border;
+
+      &:first-child {
+        border-top: 0;
+      }
+
+      &:last-child {
+        border-bottom: $navbar-border;
+      }
+    }
+
+    &:last-child li:last-child {
+      border-bottom: 0;
     }
   }
 }
