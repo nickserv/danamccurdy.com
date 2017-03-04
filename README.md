@@ -1,8 +1,8 @@
 # [Dana McCurdy's Website](http://danamccurdy.com)
 
-Site content and poems: &copy; 2016 [Dana McCurdy](http://danamccurdy.com/)
+&copy; [Dana McCurdy](http://danamccurdy.com/)
 
-Other source code: &copy; 2016 [Nick McCurdy](http://nickmccurdy.com/)
+Developed by [Nick McCurdy](http://nickmccurdy.com/)
 
 ## Authoring
 This site's content is stored in Markdown syntax, edited in Prose, and generated into a full site with Jekyll.
