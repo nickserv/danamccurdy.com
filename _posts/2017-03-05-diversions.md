@@ -6,8 +6,8 @@ categories:
   - life
 image: 'http://i.imgur.com/dJnjiL6.png'
 ---
-I often awaken
-in the middle of night,
+Often, I awaken
+in the middle of the night,
 convinced there is something 
 I must do,
 some complicated pathway
