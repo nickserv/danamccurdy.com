@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: Diversions
 categories:
   - life
@@ -41,5 +41,4 @@ Awakening from THIS sleep,
 I taste the fulness of the moment,
 a perfection
 that takes no effort 
-to attain. 
-
+to attain.
