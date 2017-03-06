@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: A Prayer of Gratitude
 categories:
   - life
@@ -18,6 +18,3 @@ unearned,
 with gratitude,
 humble and amazed
 at life’s bounty.
-
-
-
