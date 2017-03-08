@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: I am the witness
 categories:
   - life
