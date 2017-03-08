@@ -4,7 +4,7 @@ published: true
 title: I am the witness
 categories:
   - life
-image: 'http://i.imgur.com/1b0d86L.jpg'
+image: 'http://i.imgur.com/DYL1O9e.jpg'
 ---
 As long as I am a human
 walking on this earth,
