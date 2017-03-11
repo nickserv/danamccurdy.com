@@ -26,10 +26,11 @@ Since then, I've facilitated drum circles in and around northern New Jersey for 
 - weddings
 - private parties
 - corporate events
+- college events
 - festivals
 - the general public
 
-It has become one of my primary life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles brings. Here's what some others in the drumming community have to say about this, along with some interesting research:
+It has become one of my primary life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles bring. Here's what some others in the drumming community have to say about this, along with some interesting research:
 {:.before-list}
 
 - [What Is A Community Drum Circle?](http://remo.com/experience/post/what-is-a-community-drum-circle/)
