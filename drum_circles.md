@@ -12,7 +12,7 @@ published: true
 
 {% include drum_circle_photos.html %}
 
-Rhythm has always been the most compelling and visceral aspect of music for me, and the sheer variety and power of rhythmic sounds has led me, on my own and with others, to explore the endless potential of various hand drums and percussion instruments to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
+Rhythm has always been the most compelling and visceral aspect of music for me. The sheer variety and power of rhythmic sounds has led me, on my own and with others, to explore the endless potential of various hand drums and percussion instruments to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
 
 In 2001, I was moved to begin a regular drumming practice in response to my own emotional stress from the World Trade Center attack. I've been drumming with others in various community settings ever since, as a therapeutic, meditative, and recreational practice for my own well-being, and to help promote the well-being of others.
 
@@ -30,18 +30,7 @@ Since then, I've developed a personal style of drum circle facilitation based ma
 - festivals
 - the general public
 
-It has become one of my primary life goals to promote community drumming as much and as far as I can, so that more and more people can experience the joy and well-being that participating in drum circles bring. Here's what some others in the drumming community have to say about this, along with some interesting research:
-{:.before-list}
-
-- [What Is A Community Drum Circle?](http://remo.com/experience/post/what-is-a-community-drum-circle/)
-- [Remo Drum Circles](http://remormc.com/activities/drumcircles/)
-- [Mt. Airy Community Drum Circle](http://www.newsworks.org/index.php/local/item/71211-regulars-and-newcomers-attend-monthly-mt-airy-community-drum-circle)
-- [Drumming For Wellness: The Healing Power Of The Drum](http://www.healthy.net/scr/article.aspx?Id=2181)
-- [About.com: Drum Therapy](http://healing.about.com/od/drums/a/drumtherapy.htm)
-- [New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing](http://www.psmag.com/business-economics/drummers-high-evidence-that-playing-music-releases-endorphins-49578)
-- [Effects of Group Drumming Interventions on Anxiety, Depression, Social Resilience and Inflammatory Immune Response among Mental Health Service Users](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0151136#authcontrib)
-- [10 Health Reasons to Start Drumming](http://www.drnorthrup.com/health-benefits-drumming/)
-
+Along the way, it's become one of my primary life goals to promote community drumming, so that more and more people can experience the joy and well-being that participating in drum circles can bring. As these times we are living in become increasingly stressful, the value of communal drumming for promoting physical, emotional, and spiritual health feel all the more important to me, which strengthens my commitment to share this practice wherever and however I can. 
 
 As a drum circle facilitator, my commitment is always to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes.
 
@@ -54,5 +43,17 @@ It is our gift in each moment to direct that energy as we will.
 In rhythm together, we direct that energy to our highest purpose,
 For the greater joy and well-being of all.
 {:.well.manifesto}
+
+There is a growing body of thought about the benefits of communal drumming, and here's what some others have to say about this, along with some interesting research:
+{:.before-list}
+
+- [What Is A Community Drum Circle?](http://remo.com/experience/post/what-is-a-community-drum-circle/)
+- [Remo Drum Circles](http://remormc.com/activities/drumcircles/)
+- [Mt. Airy Community Drum Circle](http://www.newsworks.org/index.php/local/item/71211-regulars-and-newcomers-attend-monthly-mt-airy-community-drum-circle)
+- [Drumming For Wellness: The Healing Power Of The Drum](http://www.healthy.net/scr/article.aspx?Id=2181)
+- [About.com: Drum Therapy](http://healing.about.com/od/drums/a/drumtherapy.htm)
+- [New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing](http://www.psmag.com/business-economics/drummers-high-evidence-that-playing-music-releases-endorphins-49578)
+- [Effects of Group Drumming Interventions on Anxiety, Depression, Social Resilience and Inflammatory Immune Response among Mental Health Service Users](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0151136#authcontrib)
+- [10 Health Reasons to Start Drumming](http://www.drnorthrup.com/health-benefits-drumming/)
 
 {% include drum_circle_photos_carousel.html %}
