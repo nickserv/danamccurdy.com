@@ -32,7 +32,7 @@ Since then, I've developed a personal style of drum circle facilitation based ma
 
 Along the way, it's become one of my primary life goals to promote community drumming, so that more and more people can experience the joy and well-being of participating in drum circles. As these times we are living in become increasingly stressful, the value of communal drumming for promoting physical, emotional, and spiritual health feels all the more important to me, which strengthens my commitment to share this practice wherever and however I can. 
 
-There is a growing body of thought about the benefits of communal drumming, and here's what some others have to say about this, along with some interesting research:
+There is a growing body of thought about the benefits of communal drumming. Here's what some others have to say about this, along with some interesting research:
 {:.before-list}
 
 - [What Is A Community Drum Circle?](http://remo.com/experience/post/what-is-a-community-drum-circle/)
