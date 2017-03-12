@@ -56,9 +56,7 @@ As a drum circle facilitator, my commitment is always to empower others to exper
 {:.manifesto}
 
 ## Current Drumming Events
-- [Community in Rhythm](https://www.facebook.com/CommunityinRhythm/)
-- [Chatham Drum Circle](https://www.facebook.com/chathamdrumcircle/)
-- [NJ Drum Circles](https://www.facebook.com/njdrumcircles/)
+{% include drum_circle_events.html %}
 
 ## Photos
 {% include drum_circle_photos_carousel.html %}
