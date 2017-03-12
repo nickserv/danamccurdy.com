@@ -70,18 +70,16 @@ blockquote {
   text-align: center;
 }
 
-.before-list {
-  margin-bottom: 0;
-}
+.manifesto {
+  font-size: 15px;
+  padding-top: 5.25px;
+  padding-bottom: 5.25px;
+  text-align: left;
 
-.before-blockquote {
-  margin-bottom: 2px;
-}
-
-.manifesto,
-.manifesto p {
-  font-style: italic;
-  text-align: center;
+  h1, h2, h3, h4, h5, h6 {
+    font-style: normal;
+    margin-top: 0
+  }
 }
 
 .table {
@@ -232,13 +230,12 @@ blockquote {
   }
 }
 
-.carousel {
-  margin-top: 3em;
-  margin-bottom: 0.66em;
+.carousel img {
+  margin: 0 auto;
+}
 
-  img {
-    margin: 0 auto;
-  }
+.drum-circles h4 {
+  margin-bottom: 5.25px;
 }
 
 // Posts
