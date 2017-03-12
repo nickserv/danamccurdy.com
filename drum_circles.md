@@ -50,12 +50,12 @@ There is a growing body of thought about the benefits of communal drumming. Here
 As a drum circle facilitator, my commitment is always to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes.
 
 #### My Drumming Manifesto
-COMMUNITY IN RHYTHM
-We are beings of energy, in a universe of energy.
-It is our gift in each moment to direct that energy as we will.
-In rhythm together, we direct that energy to our highest purpose,
-For the greater joy and well-being of all.
-{:.well.manifesto}
+> ##### Community in Rhythm
+> We are beings of energy, in a universe of energy.
+> It is our gift in each moment to direct that energy as we will.
+> In rhythm together, we direct that energy to our highest purpose,
+> For the greater joy and well-being of all.
+{:.manifesto}
 
 ## Photos
 {% include drum_circle_photos_carousel.html %}

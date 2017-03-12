@@ -70,10 +70,16 @@ blockquote {
   text-align: center;
 }
 
-.manifesto,
-.manifesto p {
-  font-style: italic;
-  text-align: center;
+.manifesto {
+  font-size: 15px;
+  padding-top: 5.25px;
+  padding-bottom: 5.25px;
+  text-align: left;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-style: normal;
+    margin-top: 0
+  }
 }
 
 .table {
