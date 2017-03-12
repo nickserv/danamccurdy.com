@@ -16,7 +16,7 @@ Rhythm has always been the most compelling and visceral aspect of music for me. 
 
 In 2001, in response to my emotional stress from the World Trade Center attack, I was moved to begin a regular communal drumming practice, which I have continued, in various community settings, as a therapeutic, meditative, and recreational practice for my own well-being, and to help promote the well-being of others.
 
-## Drum Circle Faciliation
+## Drum Circle Facilitation
 In my years of community-based drumming, I've developed a personal style of drum circle facilitation based mainly on techniques taught by Arthur Hull (Village Music Circles), and shaped by my own innate sense of the deep human connection between rhythm, community, and spirituality. Along the way, I've facilitated drum circles in and around northern New Jersey for many different types of communities, including the following:
 
 ### Communities
