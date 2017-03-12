@@ -6,6 +6,10 @@ layout: default
 
 <div class="row">
   <div class="col-md-8 col-md-offset-2{% if page.title == "Drum Circles" %} drum-circles{% endif %}">
+    {% if page.title == "Drum Circles" %}
+      {% include drum_circle_photos.html %}
+    {% endif %}
+
     <h1 class="page-heading">{{page.title}}</h1>
     {{content}}
   </div>

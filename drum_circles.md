@@ -10,8 +10,6 @@ excerpt: >-
 published: true
 ---
 
-{% include drum_circle_photos.html %}
-
 Rhythm has always been the most compelling and visceral aspect of music for me. The sheer variety and power of percussive sounds has led me to explore the endless potential of various hand drums and percussion instruments, on my own and with others, to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
 
 In 2001, in response to my emotional stress from the World Trade Center attack, I was moved to begin a regular communal drumming practice, which I have continued, in various community settings, as a therapeutic, meditative, and recreational practice for my own well-being, and to help promote the well-being of others.
@@ -32,7 +30,7 @@ In my years of community-based drumming, I've developed a personal style of drum
 - the general public
 
 ### Well-Being
-As I continue on this path, it's become one of my primary life goals to promote community drumming so that more and more people can experience the joy and well-being of participating in drum circles. As these times we are living in become increasingly stressful, the value of communal drumming for promoting physical, emotional, and spiritual health feels all the more important to me, which strengthens my commitment to share this practice wherever and however I can. 
+As I continue on this path, it's become one of my primary life goals to promote community drumming so that more and more people can experience the joy and well-being of participating in drum circles. As these times we are living in become increasingly stressful, the value of communal drumming for promoting physical, emotional, and spiritual health feels all the more important to me, which strengthens my commitment to share this practice wherever and however I can.
 
 #### Benefits
 There is a growing body of thought about the benefits of communal drumming. Here's what some others have to say about this, along with some interesting research on the subject.
