@@ -62,5 +62,5 @@ As a drum circle facilitator, my commitment is always to empower others to exper
 - {% include facebook_page.html href="https://www.facebook.com/chathamdrumcircle/" name="Chatham Drum Circle" %}
 - {% include facebook_page.html href="https://www.facebook.com/njdrumcircles/" name="New Jersey Drum Circle Community" %}
 
-## Photos
+## More Photos
 {% include drum_circle_photos_carousel.html %}
