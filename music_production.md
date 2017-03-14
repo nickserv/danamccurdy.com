@@ -49,25 +49,18 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 | Ear Food <small>(synthesizer duo featuring original music by Dana McCurdy and Brian Flahive)</small> | various performances and workshops in the NY metropolitan area, including Columbia University, WKCR, the Museum of Natural History, and the Ear Inn |
 {: .table}
 
-## Other Production Credits 
-- **Various TV & Radio Commercials:** synthesizer programming and/or recording, post-production,and mixing  
-  - AMTRAK
-  - Chrysler
-  - Omni Magazine
-  - Singer
-  - Black & Decker
-  - Laughing Cow
-  - Thomas’ English Muffins
-  - Breeders Cup
+## Other Production Credits
 
-- **Miscellaneous Projects**
-  - pre-production for “Saturday Night Live” (with composer Howard Shore) - synthesizer programming
-  - source music for TV soap opera “Another World” (with composer Mike Mandel) -  recording, production, and mixing
-  - musical theme for PBS series, “Bookends” (with composer Scott Killian) - recording, co-production, and mixing
-  - soundtracks for various works by video artist [Rita Myers](http://www.eai.org/artistTitles.htm?id=402), including a major Whitney Museum
-installation in 1985 - recording, co-production, and mixing
-  - various modern dance scores for composers Linda Fisher and Scott Killian - recording, co-production, and mixing
-  - music editing for the network TV broadcast of the 1988 Summer Olympics
-  - audio post-production and mixing for sports broadcasts “Best of the Beach” and the Breeders Cup.
-  - "M1: The Video" - script writer and on-screen instructor: a  series of four two-hour instructional    videos on all  operational aspects of the Korg M1 Synthesizer.
-  - music for [See Yourself Well](http://www.amazon.com/See-Yourself-Well-Anne-Beattie/dp/1881025306), an audio series of guided meditations by Anne Beattie - original music and MIDI production.
+| Project | | Description |
+| --- | --- | --- |
+| Various TV & Radio Commercials | <small>(including AMTRAK, Chrysler, Omni Magazine, Singer, Black & Decker, Laughing Cow, Thomas’ English Muffins, and Breeders’ Cup)</small> | synthesizer programming, recording, post-production, and/or mixing |
+| Pre-production for “Saturday Night Live” | <small>(with composer Howard Shore)</small> | synthesizer programming |
+| “Source” music for TV soap opera “Another World” | <small>(with composer Mike Mandel)</small> | recording, production, and mixing |
+| Musical theme for PBS series “Bookends” | <small>(with composer Scott Killian)</small> | recording, co-production, and mixing |
+| Soundtracks for various works by video artist [Rita Myers](http://www.eai.org/artistTitles.htm?id=402) | <small>(including a major Whitney Museum installation in 1985)</small> | recording, co-production, and mixing |
+| Various modern dance scores | <small>(by composers Linda Fisher and Scott Killian)</small> | recording, co-production, and mixing |
+| 1988 Summer Olympics | <small>(music library for the network TV broadcast)</small> | music editing |
+| “Best of the Beach” and the Breeders Cup | <small>(network TV sports broadcasts)</small> | audio post-production and mixing |
+| "M1: The Video" | <small>(a series of four two-hour instructional videos on all operational aspects of the Korg M1 Synthesizer)</small> | script writer and on-screen instructor |
+| Music for [See Yourself Well](http://www.amazon.com/See-Yourself-Well-Anne-Beattie/dp/1881025306) | <small>(an audio series of guided meditations by Anne Beattie)</small> | original music and MIDI production |
+{:.table}
