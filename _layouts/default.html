@@ -10,6 +10,7 @@
 
     <!-- Styles -->
     <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css" rel="stylesheet" integrity="sha384-Xqcy5ttufkC3rBa8EdiAyA1VgOGrmel2Y+wxm4K3kI3fcjTWlDWrlnxyD6hOi3PF" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/style.css">
 
     <!-- Google Analytics -->
@@ -27,32 +28,69 @@
 
   <body>
 
+    <!-- Facebook SDK -->
+    {% if page.title == "Drum Circles" %}
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml: true,
+            version: 'v2.8'
+          });
+
+          var list = document.getElementsByClassName('facebook-pages')[0];
+          list.classList.add('list-indented');
+        };
+
+        (function(d, s, id){
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) {return;}
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+      </script>
+    {% endif %}
+
     <div class="container">
       <!-- Navigation -->
-      <div class="navbar navbar-inverse" role="navigation">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="/">{{ site.title }}</a>
+      <nav class="navbar navbar-inverse" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"  data-target=".navbar-collapse" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+            <a class="navbar-brand" href="/">{{ site.title }}</a>
+          </div>
+
+          <div class="collapse navbar-collapse">
+            <!-- Pages -->
+            <ul class="nav navbar-nav">
+              {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | sort: 'position' %}
+              {% for link_page in link_pages %}
+                <li{% if page.title == link_page.title %} class="active"{% endif %}>
+                  <a href="{{link_page.url}}">{{link_page.title}}</a>
+                </li>
+              {% endfor %}
+            </ul>
+
+            <!-- Contact links -->
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="mailto:danamcc221@gmail.com">
+                <span class="fa fa-envelope" aria-hidden="true"></span>
+                <span class="hidden-sm">Email</span>
+              </a></li>
+              <li><a href="https://www.facebook.com/danamcc">
+                <span class="fa fa-facebook-official" aria-hidden="true"></span>
+                <span class="hidden-sm">Facebook</span>
+              </a></li>
+            </ul>
+          </div>
         </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | sort: 'position' %}
-            {% for link_page in link_pages %}
-              <li{% if page.title == link_page.title %} class="active"{% endif %}>
-                <a href="{{link_page.url}}">
-                  <span class="glyphicon glyphicon-{{link_page.icon}}"></span>
-                  {{link_page.title}}
-                </a>
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
+      </nav>
 
       <!-- Content -->
       {{ content }}
@@ -62,22 +100,11 @@
 
     <!-- Footer -->
     <footer class="container">
-      <div>&copy; 2016 {{ site.title }}</div>
+      <div>&copy; 2014–{{ 'now' | date: "%Y" }} {{ site.title }}</div>
       <div>
-        <!-- Contact links -->
-        <ul class="list-inline">
-          <li><a href="mailto:danamcc221@gmail.com">
-            <span class="glyphicon glyphicon-envelope"></span>Contact Me
-          </a></li>
-          <li><a href="https://www.facebook.com/danamcc">
-            <span class="glyphicon glyphicon-user"></span>Facebook
-          </a></li>
-        </ul>
+        Website by
+        <a href="http://nickmccurdy.com/">Nick McCurdy</a>
       </div>
-      <div><cite>
-        Website:
-        <a href="http://nickmccurdy.com/" target="_blank">Nick&nbsp;McCurdy</a>
-      </cite></div>
     </footer>
 
     <!-- Scripts -->
