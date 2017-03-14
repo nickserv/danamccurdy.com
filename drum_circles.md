@@ -8,6 +8,7 @@ excerpt: >-
   and with others, to weave beautiful patterns that satisfy and soothe the body,
   heart, and soul.
 published: true
+image: 'http://danamccurdy.com/assets/drum_circles/featured/d_at_morristown.jpg'
 ---
 
 Rhythm has always been the most compelling and visceral aspect of music for me. The sheer variety and power of percussive sounds has led me to explore the endless potential of various hand drums and percussion instruments, on my own and with others, to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
