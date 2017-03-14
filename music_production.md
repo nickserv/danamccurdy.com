@@ -61,7 +61,7 @@ Synthesizer programming and/or recording, post-production, and mixing.
 - Black & Decker
 - Laughing Cow
 - Thomas’ English Muffins
-- Breeders Cup
+- Breeders’ Cup
 
 ### Miscellaneous Projects
 
