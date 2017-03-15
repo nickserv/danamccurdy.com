@@ -252,6 +252,11 @@ blockquote {
 
 .list-indented {
   list-style: none;
+  padding-left: 0;
+
+  @media (min-width: $screen-sm) {
+    padding-left: 40px;
+  }
 }
 
 // Posts
