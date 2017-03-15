@@ -1,5 +1,5 @@
 ---
-title: Music/Production
+title: Music / Production
 position: 2
 excerpt: >-
   From childhood on, I've always been surrounded by music and musicians, and
