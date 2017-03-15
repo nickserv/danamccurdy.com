@@ -14,7 +14,8 @@ A few years later, I started teaching others how to use this technology for thei
 
 Over the years, I have taught countless individuals, usually in their home studios, as well as hundreds of classes in various New York and New Jersey schools. As a consultant, I provide whatever technical support and coaching my clients may need to work effectively and complete their projects, from software and hardware installation and trouble-shooting, to MIDI production, engineering, editing, and mixing.
 
-## Subjects I teach (with some overlap)
+## Subjects I teach
+(with some overlap)
 - sound synthesis
 - sampling
 - home recording
@@ -26,7 +27,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 - Digital Performer
 - hand drumming
 
-## Schools I've taught at
+## Where I've taught
 - New School University <small class="text-info">(NYC)</small>
 - Harvestworks/Studio PASS <small class="text-info">(NYC)</small>
 - Mannes School of Music <small class="text-info">(NYC)</small>
@@ -36,7 +37,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 - Institute of Audio Research <small class="text-info">(NYC)</small>
 - P.S. 24 Elementary School <small class="text-info">(Paterson, NJ)</small>
 
-## Some of my notable students and clients
+## Some notable students and clients
 <!-- Start a definition list with a horizontal style and a paragraph tag wrapping each term. -->
 
 [Yusef Lateef](http://www.yuseflateef.com)
