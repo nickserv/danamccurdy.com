@@ -76,7 +76,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 : contemporary classical composer
 
-other
+Other
 
 : various clients of the NY and Pennsylvania Commissions for the Blind
 {: .dl-horizontal}
