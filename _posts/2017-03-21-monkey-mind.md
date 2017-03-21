@@ -28,5 +28,5 @@ its freedom,
 watching with compassion,
 as it winds its way down
 to silence,
-peacefully,
+and rests peacefully,
 beside me.
