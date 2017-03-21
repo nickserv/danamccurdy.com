@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: monkey mind
+title: Monkey mind
 image: 'http://i.imgur.com/Dt3ltH1.jpg'
 categories:
   - life
