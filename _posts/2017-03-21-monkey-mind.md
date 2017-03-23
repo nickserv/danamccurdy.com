@@ -8,7 +8,7 @@ categories:
 ---
 Sometimes my mind roams
 like a restless animal,
-darting from thought to thought,
+darting from thought to thought
 in a frenzy of unease.
 
 Seeking calm,
