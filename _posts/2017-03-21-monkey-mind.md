@@ -13,7 +13,7 @@ in a frenzy of unease.
 
 Seeking calm,
 I try to quiet it,
-to reign it in,
+to reign it in
 like an unruly child.
 
 And all my effort
