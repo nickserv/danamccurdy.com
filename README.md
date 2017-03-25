@@ -19,7 +19,6 @@ Before you author any content, you should log in to [Prose](http://prose.io/) (u
 5. Click **Changes to Save**.
 6. If you're making a non-trivial change to an existing file, write a brief commit message under **Describe your Changes** (for future reference).
 7. Click **COMMIT** to save the file.
-8. By default, saving a new poem will leave it unpublished, meaning that you will not see it on the website. To publish a poem, click `Unpublished` in the toolbar, then save the poem.
 
 ### Updating Facebook Shares
 Facebook caches metadata about a page when its link is shared, so you may notice a share has outdated content after the page is changed. You will need to ask Facebook to refresh its copy of a page if you change the page after sharing its link.
