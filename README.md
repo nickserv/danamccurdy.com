@@ -32,13 +32,13 @@ Facebook caches metadata about a page when its link is shared, so you may notice
 
 | Content | Location | Note |
 | --- | --- | --- |
-| Site title and SEO data | [`_config.yml`](_config.yml) | Includes open graph data (for social networks) and linked data |
-| Home page jumbotron | [`_includes/home_*.md`](_includes) | Includes site intro |
-| Main page content | [`*.md`](.) (based on page name) | Excluding Home and Poems pages |
-| Page excerpts, icons, and ordering | Not available in Prose yet | Displayed in the navigation and home page |
+| Site metadata | [`_config.yml`](_config.yml) | Includes preview data for social networks and search engines, along with additional configuration for Jekyll and Prose. |
+| Pages | [`*.md`](.) (based on page name) | Page titles, excerpts, and navbar positions can be edited in Prose's **Meta Data** section. Content for the Home and Poems pages is generated based on other files in this table. |
+| Home intro | [`_includes/home_*.md`](_includes) | Includes the home page's heading, portrait photo, and nearby text. |
+| Drum circle photos |  [`_data/drum_circle_photos.yml`](_data/drum_circle_photos.yml) | A list of photo files included at the top of the Drum Circles page, and a second list of photo files displayed in the carousel at the bottom of the page. |
+| Poems intro | [`_includes/poems_intro.md`](includes/poems_intro.md) | Displayed at the top of both categories (life and love). |
 | Poems | [`_posts`](_posts) |
-| Poems listing intro | [`_includes/poems_intro.md`](includes/poems_intro.md) | Displayed at the top of both categories (life and love) |
-| This readme | [`README.md`](README.md) |
+| This readme | [`README.md`](README.md) | Displayed on GitHub and Prose only, but you can edit it like any other Markdown file in this site. |
 
 ### Syntax
 
