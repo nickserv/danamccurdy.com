@@ -15,8 +15,8 @@ Revelling in its differences,
 you would sidestep the familiar,
 grateful and eager for newness.
 
-What if you traveled through your life 
-as you would travel the world, 
+What if we traveled through our lives 
+as we would travel the world, 
 always moving,
 with excitement,
 into a foreign land?
