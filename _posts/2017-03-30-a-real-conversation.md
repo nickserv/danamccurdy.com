@@ -10,7 +10,7 @@ A real conversation
 is not merely two people talking;
 it is two people talking and listening.
 
-It happens when each person
+It happens when each one
 is at least as interested
 in what the other person has to say,
 as they are in what they themselves
