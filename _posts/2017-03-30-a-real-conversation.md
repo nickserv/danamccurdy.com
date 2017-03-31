@@ -7,11 +7,13 @@ categories:
   - life
 ---
 A real conversation
-is not merely two people talking;
-it is two people talking and listening.
+is not merely 
+two people talking;
+it is two 
+talking and listening.
 
-It happens when each one
+It is when each one
 is at least as interested
-in what the other person has to say,
-as they are in what they themselves
-have to say.
+in what the other has to say,
+as in what they have to say
+themselves.
