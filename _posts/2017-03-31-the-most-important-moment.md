@@ -7,8 +7,8 @@ categories:
 image: 'http://i.imgur.com/G5vWd7U.jpg'
 ---
 This
-is the most important moment 
-of your life -
+is the most important 
+moment of your life -
 embrace it!
 
 Let go of your past,
