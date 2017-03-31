@@ -8,9 +8,9 @@ categories:
 ---
 A true conversation
 is not merely 
-two people talking;
-it is two 
-talking and listening.
+when two people talk;
+it is when two 
+talk and listen.
 
 It is when each one
 is at least as interested
