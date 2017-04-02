@@ -18,6 +18,6 @@ I don't know what I should say.
 
 When I'm HERE
 there is an empty space before me,
+right here,
 where I am,
-inviting me on,
-when I am HERE.
+inviting me on.
