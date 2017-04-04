@@ -50,5 +50,5 @@ we can move on,
 sobered by our seeing,
 inspired by our vision 
 of what it could be,
-and what we can do
-to change it.
+and what we can do,
+if we are willing to change it.
