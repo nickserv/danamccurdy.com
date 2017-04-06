@@ -14,7 +14,7 @@ as thoughts peel away.
 One thought at a time,
 in the light of day,
 grows light as a feather,
-and will not stay.
+and does not stay.
 
 As it floats downstream
 in the slightest breeze,
