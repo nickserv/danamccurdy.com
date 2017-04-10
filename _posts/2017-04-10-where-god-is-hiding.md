@@ -19,7 +19,7 @@ our true potential,
 the promise of finding the god
 within us all.
 
-And likewise, 
+And surely 
 all the stories
 of all of our prophets,
 in all of our history,
