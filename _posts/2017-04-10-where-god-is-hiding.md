@@ -4,7 +4,7 @@ published: true
 title: Where God is hiding
 categories:
   - life
-image: where God is hiding
+image: 'http://i.imgur.com/ft0qBJ3.jpg'
 ---
 The story of Jesus,
 profound and beautiful,
