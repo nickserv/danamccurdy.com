@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: ''
+title: the lens of media
 categories:
   - life
 image: 'http://i.imgur.com/gYnRMIB.jpg'
