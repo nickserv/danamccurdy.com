@@ -33,7 +33,7 @@ as well?
 
 Is there not room for all of us,
 when we jettison our judgements,
-let go of competition,
+release the myth of competition,
 and share the world we have built around us
 as the gift it is?
 
