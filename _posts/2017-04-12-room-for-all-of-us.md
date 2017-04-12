@@ -27,7 +27,7 @@ of the rule she lived by?
 Is it my sense of freedom,
 my feeling of belonging,
 that I also share the right to be here,
-that, respecting the needs of others,
+that, if I respect the needs of others,
 I can include my own needs and comfort
 as well?
 
