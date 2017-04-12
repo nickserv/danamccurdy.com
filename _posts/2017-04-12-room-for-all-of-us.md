@@ -34,7 +34,7 @@ as well?
 Is there not room for all of us,
 when we jettison our judgements,
 release the myth of competition,
-and share the world we have built around us
+and share the world we built around us
 as the gift it is?
 
 
