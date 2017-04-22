@@ -6,12 +6,10 @@ categories:
   - life
 image: 'http://i.imgur.com/BmdP5Ct.jpg'
 ---
-My aching limbs 
-remind me,
+My aching limbs remind me,
 at the end of each day,
 what I could have avoided doing,
-but chose to do,
-instead.
+but chose to do,instead.
 
 The aching of my limbs
 is the price my body pays,
@@ -21,8 +19,7 @@ as entropy ticks out
 the minutes, days, and years
 of my life.
 
-My aching limbs 
-admonish me
+My aching limbs admonish me
 that each day is a gift,
 not to be taken for granted.
 
