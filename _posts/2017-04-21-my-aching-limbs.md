@@ -4,7 +4,7 @@ published: true
 title: My Aching Limbs
 categories:
   - life
-image: 'http://i.imgur.com/MVFrCyg.jpg'
+image: 'http://i.imgur.com/BmdP5Ct.jpg'
 ---
 My aching limbs 
 remind me,
