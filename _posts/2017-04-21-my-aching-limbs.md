@@ -21,7 +21,7 @@ of my life.
 
 My aching limbs admonish me
 that each day is a gift,
-not to be taken for granted.
+that it is not to be taken for granted.
 
 The aching of my limbs
 reminds me
