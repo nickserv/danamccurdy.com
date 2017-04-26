@@ -7,8 +7,7 @@ categories:
 image: 'http://i.imgur.com/Nyb1ziD.jpg'
 ---
 My hope for you
-is not for you 
-to become
+is not that you become
 who I think 
 you should be.
 
