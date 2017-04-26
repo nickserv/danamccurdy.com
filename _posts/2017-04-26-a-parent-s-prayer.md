@@ -2,6 +2,9 @@
 centered: false
 published: true
 title: A parent's Prayer
+image: 'http://i.imgur.com/YWuKj8N.jpg'
+categories:
+  - life
 ---
 My hope for you
 is not for you 
