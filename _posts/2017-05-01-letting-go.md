@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: Letting Go (or THE BEST PIZZA IN THE WORLD)
+title: 'Letting Go (or: The Best Pizza in the World)'
 categories:
   - life
 image: 'http://i.imgur.com/Yp7LtPh.jpg'
@@ -80,7 +80,7 @@ I will never know who it was
 whose kindness 
 brought us this little feast,
 or where 
-THE BEST PIZZA IN THE WORLD
+the best pizza in the world
 could be found again,
 and, upon reflection,
 that is okay,
