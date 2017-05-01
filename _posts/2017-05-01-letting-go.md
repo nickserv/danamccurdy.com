@@ -74,15 +74,13 @@ the smell of herbs and garlic
 permeating the house,
 I luxuriate
 in what is, perhaps,
-THE BEST PIZZA
-I HAVE EVER TASTED!
+THE BEST PIZZA IN THE WORLD!
 
 I will never know who it was
 whose kindness 
 brought us this little feast,
 or where 
-THE BEST PIZZA
-I HAVE EVER TASTED
+THE BEST PIZZA IN THE WORLD
 could be found again,
 and, upon reflection,
 that is okay,
