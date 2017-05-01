@@ -79,8 +79,7 @@ THE BEST PIZZA IN THE WORLD!
 I will never know who it was
 whose kindness 
 brought us this little feast,
-or where 
-the best pizza in the world
+or where the best pizza in the world
 could be found again,
 and, upon reflection,
 that is okay,
