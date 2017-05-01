@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: Letting Go
+title: Letting Go (or THE BEST PIZZA IN THE WORLD)
 categories:
   - life
 image: 'http://i.imgur.com/Yp7LtPh.jpg'
