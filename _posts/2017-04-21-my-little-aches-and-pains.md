@@ -1,6 +1,6 @@
 ---
 centered: false
-published: false
+published: true
 title: My Little Aches and Pains
 categories:
   - life
