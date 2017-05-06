@@ -13,7 +13,7 @@ fears to be quelled,
 urges to be satisfied.
 
 in the world of spirit,
-they are only flimsy dreams,
+these are only flimsy dreams,
 fleeting images,
 coming and going
 in the flow of time.
