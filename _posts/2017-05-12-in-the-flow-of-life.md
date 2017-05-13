@@ -34,7 +34,7 @@ as if time did not flow
 at all.
 
 And if it didn't,
-what would it be like 
+what would it feel like 
 to be alive,
 as if in a museum,
 a tribute to life,
