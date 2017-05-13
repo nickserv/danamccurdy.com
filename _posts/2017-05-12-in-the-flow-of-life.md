@@ -36,10 +36,10 @@ at all.
 And if it didn't,
 what would it be like 
 to be alive,
-but to live in a museum,
+as if in a museum,
 a tribute to life,
 a monument,
-but not the flow
+but not in the flow
 of life itself?
 
 
