@@ -15,7 +15,7 @@ Here in my car,
 for two hours now,
 my discomfort grows -
 I am tired and hungry,
-and I have to pee.
+and I need to pee.
 
 But what, I wonder,
 happened up ahead?
