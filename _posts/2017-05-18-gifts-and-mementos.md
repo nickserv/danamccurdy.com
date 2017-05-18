@@ -13,7 +13,7 @@ of past relationships,
 mementos of learning, 
 bit by bit,
 how to love, 
-and how to be loved.
+how to be loved.
 
 This cat beside me
 is a token of my marriage,
@@ -31,27 +31,30 @@ many years past,
 its bell tones recalling
 the harmony and understanding
 we were able to share, 
-within brief islands of calm.
+within brief islands 
+of calm.
 
-Cat and instrument
-sit on a table 
-left by a loving friend,
-as she moved on 
-toward a new life,
-and away from our entanglement.
+Beneath them is a table 
+left, as she moved on 
+toward a new life
+(and away from our entanglement),
+by a loving friend.
 
 Above us,
-a set of chimes tinkle gently,
+a set of delicate chimes 
+tinkle gently,
 singing the spirit 
 of another beloved one,
 now gone from this world;
-its gentle sounds
+its soft melodies,
+like drifting smoke,
 are my inheritance,
 my remembrance.
 
 Each of these
-is a token of love
-tried, failed, or fading with time.
+is another token of love
+tried, failed, or fading 
+with time.
 
 Standing here,
 amidst these reminders,
@@ -61,9 +64,3 @@ and how, with its grace,
 I will continue to learn
 how to give it,
 and how to receive it.
-
-
-
-
-
-
