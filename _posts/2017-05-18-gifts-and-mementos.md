@@ -34,7 +34,7 @@ we were able to share,
 within brief islands 
 of calm.
 
-Beneath them is a table 
+Beneath them is a table, 
 left, as she moved on 
 toward a new life
 (and away from our entanglement),
