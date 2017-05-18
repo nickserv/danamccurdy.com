@@ -63,4 +63,4 @@ has shaped my life,
 and how, with its grace,
 I will continue to learn
 how to give it,
-and how to receive it.
+and how to receive.
