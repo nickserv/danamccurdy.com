@@ -13,7 +13,7 @@ of past relationships,
 mementos of learning, 
 bit by bit,
 how to love, 
-how to be loved.
+and be loved.
 
 This cat beside me
 is a token of my marriage,
