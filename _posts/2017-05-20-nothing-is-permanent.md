@@ -12,5 +12,6 @@ to allow
 the coming 
 and going 
 of everything,  
-is to enjoy life 
+is to enjoy
+the gift of life 
 as it really is.
