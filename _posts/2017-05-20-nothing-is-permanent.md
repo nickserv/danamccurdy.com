@@ -6,11 +6,11 @@ categories:
   - life
 image: 'http://i.imgur.com/zIeSEKm.jpg'
 ---
-To allow 
+To be at peace 
+with change,
+to allow 
 the coming 
 and going 
-of everything, 
-to be at peace 
-with change, 
+of everything,  
 is to enjoy life 
 as it really is.
