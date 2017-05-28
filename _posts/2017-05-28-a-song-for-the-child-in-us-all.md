@@ -26,7 +26,7 @@ because that's who you are?
 
 There is no one
 just like you,
-and that's just who you are.
+and that's just who you are!
 
 
 
