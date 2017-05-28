@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: ''
+title: The Haven We Came From
 categories:
   - life
 image: 'http://i.imgur.com/I1nVt9k.jpg'
