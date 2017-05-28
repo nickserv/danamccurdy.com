@@ -6,7 +6,8 @@ categories:
   - life
 image: 'http://i.imgur.com/I1nVt9k.jpg'
 ---
-Are we born already knowing
+Are we born 
+already knowing
 all we need to know
 to be happy?
 
