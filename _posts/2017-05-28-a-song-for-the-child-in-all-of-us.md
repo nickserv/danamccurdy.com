@@ -18,7 +18,8 @@ you're  just who you are.
 
 You're not so different 
 from anyone else,
-you're  just who you are.
+you're  just exactly
+who you are.
 
 Do you like to be yourself
 because that's who you are?
