@@ -2,6 +2,9 @@
 centered: false
 published: true
 title: A Song For The Child In All Of Us
+categories:
+  - life
+image: 'http://i.imgur.com/y7XD3L3.jpg'
 ---
 Do you like to be yourself
 because that's who you are?
