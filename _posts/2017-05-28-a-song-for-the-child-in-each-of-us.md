@@ -6,6 +6,8 @@ categories:
   - life
 image: 'http://i.imgur.com/y7XD3L3.jpg'
 ---
+_In fond memory of Fred Rogers_
+
 Do you like to be yourself
 because that's who you are?
 
