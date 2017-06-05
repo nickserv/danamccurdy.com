@@ -14,7 +14,7 @@ excited and incensed
 by the slightest stimuli.
 
 Should I hunt him down?
-That will only increase
+That would only increase
 his frenzy!
 
 Better to befriend him,
