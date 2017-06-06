@@ -9,7 +9,7 @@ image: 'http://i.imgur.com/hCNlgoR.jpg'
 I have an angry monkey
 careening through my mind,
 shouting judgements
-from a forest of prejudices,
+from a forest of preconceptions,
 excited and incensed
 by the slightest stimuli.
 
