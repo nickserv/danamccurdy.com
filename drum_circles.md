@@ -21,7 +21,7 @@ In my years of community-based drumming, I've developed a personal style of drum
 ### Communities
 - schools
 - youth groups
-- the elderly
+- senior citizens
 - veterans' groups
 - religious congregations
 - weddings
