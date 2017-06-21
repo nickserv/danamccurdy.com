@@ -9,20 +9,21 @@ image: 'http://i.imgur.com/hCNlgoR.jpg'
 I have an angry monkey
 careening through my mind,
 shouting judgements
-from a forest of preconceptions,
+from a forestful 
+of preconceptions,
 excited and incensed
 by the slightest stimuli.
 
-Should I hunt him down?
-That would only increase
-his frenzy!
+Should I hunt him down,
+or would that only increase
+his frenzy?
 
 Better to befriend him,
 to offer him the calm
 and the patient compassion
-of a Mother Monkey.
+of a mother monkey.
 
-What else 
+What else, indeed, 
 does any creature need,
 except the comfort of acceptance,
-and the confidence of being loved?
+and the strength of being loved?
