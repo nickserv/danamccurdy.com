@@ -22,7 +22,7 @@ who sacrificed their souls
 for their good fortune.
 
 Why don't we see them
-as we see ourselves,
+as our family,
 brothers from the same brood,
 starting from where we started,
 but graced with discovering
