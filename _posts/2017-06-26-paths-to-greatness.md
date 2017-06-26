@@ -21,8 +21,8 @@ like fallen angels
 who sacrificed their souls
 for their good fortune.
 
-And what if they are not 
-different from us,
+And what if they 
+are not different from us,
 but have simply made
 different choices?
 
