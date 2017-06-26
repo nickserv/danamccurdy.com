@@ -21,14 +21,19 @@ like fallen angels
 who sacrificed their souls
 for their good fortune.
 
-Why don't we see them
-as our family,
+And what if they are not 
+different from us,
+but have simply made
+different choices?
+
+Can we not see them
+as our own family,
 brothers from the same brood,
 starting from where we started,
 but graced with discovering
 their special paths to greatness?
 
-Why can't we welcome them
+Can we not welcome them
 as our beloved teachers,
 pointing the ways that are open
 to any of us,
