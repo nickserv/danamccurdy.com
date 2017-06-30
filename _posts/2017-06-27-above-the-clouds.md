@@ -20,5 +20,4 @@ of prejudice and judgement.
 
 We see the hell below us;
 above us, 
-only sky.
-
+there is only only sky.
