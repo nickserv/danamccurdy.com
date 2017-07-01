@@ -18,7 +18,7 @@ as it blesses me.
 I bless this world's spirit,
 as it blesses me.
 
-I bless the universe,
+I bless our universe,
 as it blesses me.
 
 I bless the universal spirit,
