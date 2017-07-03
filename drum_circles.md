@@ -57,6 +57,9 @@ As a drum circle facilitator, my commitment is always to empower others to exper
 > For the greater joy and well-being of all.
 {:.manifesto}
 
+#### "a community in rhythm":some reflections on why I do this, with gratitude, to all I share the joy of drumming with:
+http://danamccurdy.com/life/2017/07/02/a-community-in-rhythm/
+
 ## Current Drumming Events
 
 {: .facebook-pages}
