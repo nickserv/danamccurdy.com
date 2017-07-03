@@ -8,7 +8,8 @@ image: 'http://i.imgur.com/a5APwEf.jpg'
 ---
 A circle of drummers 
 is like a ship,
-built from the sounds 
+its hull,
+the sounds 
 and the rhythms
 of those within it.
 
