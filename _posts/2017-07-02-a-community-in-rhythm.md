@@ -13,8 +13,8 @@ the sounds
 and the rhythms
 of those within it.
 
-One at the helm
-can nudge it
+At the helm,
+one can nudge it
 this way and that,
 but it is a living thing,
 always in flux,
