@@ -71,9 +71,10 @@ blockquote {
 }
 
 .manifesto {
+  border-left: 0;
   font-size: 15px;
-  padding-top: 5.25px;
-  padding-bottom: 5.25px;
+  padding-top: 0;
+  padding-bottom: 0;
   text-align: left;
 
   h1, h2, h3, h4, h5, h6 {
