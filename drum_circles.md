@@ -63,7 +63,7 @@ As a drum circle facilitator, my commitment is always to empower others to exper
 ## Current Drumming Events
 
 {: .facebook-pages}
-- {% include facebook_page.html href="https://www.facebook.com/groups/njdrummers/" name="North Jersey Drum Circles" %}
+- [North Jersey Drum Circles](https://www.facebook.com/groups/njdrummers/)
 - {% include facebook_page.html href="https://www.facebook.com/CommunityinRhythm/" name="Community in Rhythm" %}
 - {% include facebook_page.html href="https://www.facebook.com/chathamdrumcircle/" name="Chatham Drum Circle" %}
 
