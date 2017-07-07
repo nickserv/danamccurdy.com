@@ -247,19 +247,6 @@ blockquote {
   margin-bottom: 5.25px;
 }
 
-.facebook-pages .fb_iframe_widget {
-  margin-bottom: 21px
-}
-
-.list-indented {
-  list-style: none;
-  padding-left: 0;
-
-  @media (min-width: $screen-sm) {
-    padding-left: 40px;
-  }
-}
-
 // Posts
 
 .post {
