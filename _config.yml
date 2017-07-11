@@ -1,3 +1,8 @@
+---
+title: ''
+position: 0
+published: false
+---
 # Global site metadata
 # For Feed and SEO Tag plugins (https://github.com/jekyll/jekyll-seo-tag#usage)
 title: Dana McCurdy
@@ -39,7 +44,6 @@ prose:
     - assets
     - bin
     - poems
-    - '*.html'
     - .*
     - CNAME
     - Gemfile
