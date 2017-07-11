@@ -45,7 +45,7 @@ prose:
   media: assets
   siteurl: http://danamccurdy.com
   metadata:
-    *.md:
+    "*.md":
       - name: title
         field:
           element: text
