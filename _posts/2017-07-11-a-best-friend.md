@@ -4,7 +4,7 @@ published: true
 title: A Best Friend
 categories:
   - life
-image: 'http://i.imgur.com/er61zXK.png'
+image: 'http://i.imgur.com/4hNPuWM.png'
 ---
 Become a friend to yourself,
 and you will never be alone.
