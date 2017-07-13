@@ -6,9 +6,9 @@ categories:
   - life
 image: 'http://i.imgur.com/7VnAdRC.jpg'
 ---
-The least important thing
+The most important thing
 about another human being
-is who they appear to be.
+is not who they are.
 
 In the world of identity,
 they are only
