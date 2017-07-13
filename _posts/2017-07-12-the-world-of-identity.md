@@ -8,7 +8,7 @@ image: 'http://i.imgur.com/7VnAdRC.jpg'
 ---
 The least important thing
 about another human being
-is who they are.
+is who they appear to be.
 
 In the world of identity,
 they are only
@@ -35,5 +35,3 @@ and bound for the same place,
 always sharing 
 our suffering
 and our joy.
-
-
