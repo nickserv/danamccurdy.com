@@ -8,14 +8,14 @@ image: 'http://i.imgur.com/7VnAdRC.jpg'
 ---
 The most important thing
 about another human being
-is not who they are.
+isn't who they are.
 
 In the world of identity,
 they are only
 who they think they are,
 or who you think they are.
 
-And so, in that world,
+In that world,
 we are merely snapshots
 in each other's minds,
 images frozen 
@@ -24,14 +24,17 @@ separate from the flow of time,
 seen only through the lense
 of our own identities.
 
-Without those images,
-we become the same,
-a giant family,
+Beyond those images,
+we are the same,
+one giant family,
 drifting down 
 a common river.
 
-We are born from the same place,
-and bound for the same place,
+We are born 
+from the same place,
+and bound 
+for the same place,
 always sharing 
 our suffering
 and our joy.
+
