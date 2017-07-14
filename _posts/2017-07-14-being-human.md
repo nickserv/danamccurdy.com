@@ -38,11 +38,12 @@ as we look beneath appearances.
 ​
 All of us were born 
 from the same place,
-and we are all  bound 
-for the same place,
-and we are always sharing,
-one and all,
-our suffering 
+and we are all bound 
+for the same place.
+
+We are always,
+each and all of us,
+sharing our suffering 
 and our joy.
 ​
 
