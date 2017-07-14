@@ -4,7 +4,7 @@ published: true
 title: Being Human
 categories:
   - life
-image: 'http://i.imgur.com/7VnAdRC.jpg'
+image: 'http://i.imgur.com/nGHzFDe.jpg'
 ---
 The most important thing
 about another human being
