@@ -27,7 +27,7 @@ seen only
 through the lense
 of our own identities.
 ​
-But stripped of these images,
+But, stripped of these images,
 we are all the same,
 siblings in one great family,
 drifting down a river 
