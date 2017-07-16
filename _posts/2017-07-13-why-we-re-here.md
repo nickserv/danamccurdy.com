@@ -11,7 +11,7 @@ that we were sent here to learn.
 
 Or, perhaps,
 we simply landed here,
-with the opportunity to learn.
+with an opportunity to learn.
 
 Whatever its source,
 to accept this gift
