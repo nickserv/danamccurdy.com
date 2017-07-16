@@ -13,11 +13,11 @@ Or, perhaps,
 we simply landed here,
 with the opportunity to learn.
 
-To accept this gift,
-whatever its source,
+Whatever its source,
+to accept this gift
 is to give our own lives meaning.
 
 To reject it
 is to ride the wheel of suffering,
-hoping for redemption,
+longing for redemption,
 until we die.
