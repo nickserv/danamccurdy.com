@@ -7,11 +7,13 @@ categories:
 image: 'http://i.imgur.com/zwm7mH4.jpg'
 ---
 It's nice to believe
-that we were sent here to learn.
+that we were sent here 
+to learn.
 
 Or, perhaps,
 we simply landed here,
-with an opportunity to learn.
+with an opportunity 
+to learn.
 
 Whatever its source,
 to accept this gift
