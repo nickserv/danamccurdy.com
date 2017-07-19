@@ -20,7 +20,8 @@ as the saying goes,
 "This, too, shall pass!
 
 And there are other times,
-when joy does not leap out at us;
+when joy does not leap 
+out at us;
 when we can look out
 past our thoughts 
 and preconceptions,
