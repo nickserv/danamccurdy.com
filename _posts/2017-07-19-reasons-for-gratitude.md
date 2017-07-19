@@ -29,5 +29,5 @@ and preconceptions,
 and find something, 
 somewhere, 
 beyond our usual seeing,
-to inspire the joy
-of simply being. 
+to re-inspire 
+the joy of simply being. 
