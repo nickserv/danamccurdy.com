@@ -17,7 +17,7 @@ this moment of life,
 and an ever-present promise 
 of change:
 as the saying goes,
-"This, too, shall pass!
+"This, too, shall pass!"
 
 And there are other times,
 when joy does not leap 
