@@ -6,13 +6,15 @@ categories:
   - life
 image: 'http://i.imgur.com/jwPUQax.jpg'
 ---
-We are all assholes,
-and we are
-luminous beings!
+All of us are assholes,
+and all of us 
+are luminous beings!
 
 In the land of ego, 
-we always struggle to be right,
-combatting all the Others
+we are always struggling 
+to be right,
+combatting 
+all those Others
 who are always wrong.
 
 In the land of Spirit,
