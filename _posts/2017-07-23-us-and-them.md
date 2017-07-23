@@ -6,7 +6,8 @@ categories:
   - life
 image: 'http://i.imgur.com/jwPUQax.jpg'
 ---
-All of us are assholes,
+All of us 
+are assholes,
 and all of us 
 are luminous beings!
 
