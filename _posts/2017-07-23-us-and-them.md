@@ -6,10 +6,10 @@ categories:
   - life
 image: 'http://i.imgur.com/jwPUQax.jpg'
 ---
-All of us 
-are assholes,
-and all of us 
-are luminous beings!
+We may all 
+be assholes,
+and we are all 
+luminous beings!
 
 In the land of ego, 
 we are always struggling 
