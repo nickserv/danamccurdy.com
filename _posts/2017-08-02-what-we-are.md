@@ -18,7 +18,7 @@ hidden beneath our labels.
 In the world of ego, 
 we are separated 
 by our struggles to be right,
-combatting all the others
+combatting all those others
 who, by their very differences,
 seem always to be wrong.
 
