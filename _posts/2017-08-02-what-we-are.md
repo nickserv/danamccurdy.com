@@ -24,9 +24,9 @@ seem always to be wrong.
 
 But in the world of spirit,
 right and wrong 
-are merely fever visions;
+are only fever visions;
 our separation,
-only a bad dream.
+just a bad dream.
 
 Beyond these delusions,
 we are the same,
