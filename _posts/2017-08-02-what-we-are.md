@@ -4,7 +4,7 @@ published: true
 title: What We Are
 categories:
   - life
-image: 'http://i.imgur.com/aiowfwp.jpg'
+image: 'http://i.imgur.com/CPLAUsE.jpg'
 ---
 There are no assholes 
 in this world,
