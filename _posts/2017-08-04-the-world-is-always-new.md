@@ -12,7 +12,7 @@ regardless of how we see it.
 Facing the familiar,
 we tend to see 
 what we have already seen,
-like a string of fading photos,
+like a blur of fading photos,
 the differences between them
 unseen, inconsequential.
 
