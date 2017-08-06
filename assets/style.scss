@@ -120,19 +120,14 @@ blockquote {
   }
 }
 
-.nav-tabs {
-  margin-left: 15px;
-
+.nav-pills {
   a {
     color: $a-color !important;
+    text-decoration: none;
   }
 
   .active a {
-    border-bottom-color: $border-color !important;
-  }
-
-  > li > a:hover {
-    text-decoration: underline;
+    color: $navbar-white !important;
   }
 }
 
