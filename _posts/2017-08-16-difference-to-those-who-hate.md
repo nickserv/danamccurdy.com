@@ -22,8 +22,8 @@ who built this wall around you,
 brick by brick,
 borrowing ignorance and prejudice
 from those around you,
-until all you can see of yourself
-is this wall that separates you
+until you see yourself only
+as this wall that separates you
 from the rest of humanity.
 
 And what if you refrained
