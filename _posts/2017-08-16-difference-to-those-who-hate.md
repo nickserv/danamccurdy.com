@@ -17,7 +17,7 @@ the urge to be rid of
 all who seem to threaten
 your sense of identity.
 
-But it it YOU
+But it is YOU
 who built this wall around yourself,
 brick by brick,
 borrowing ignorance and prejudice
