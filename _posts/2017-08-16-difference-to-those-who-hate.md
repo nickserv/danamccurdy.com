@@ -26,11 +26,11 @@ until you see yourself only
 as this wall that separates you
 from the rest of humanity.
 
-And what if you refrained
+What if you refrained
 from pushing away
 all that you don't understand?
 
-What if you refrained
+And what if you refrained
 from allowing your inner fears
 to drive your outer behavior?
 
