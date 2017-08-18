@@ -18,7 +18,7 @@ all who seem to threaten
 your sense of identity.
 
 But it is YOU
-who built this wall around yourself,
+who built this wall around you,
 brick by brick,
 borrowing ignorance and prejudice
 from those around you,
