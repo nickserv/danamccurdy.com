@@ -33,7 +33,8 @@ and nurturing home,
 so has our own genius
 bequeathed us these digital waters,
 in which we are privileged  
-to share a world
+to float together
+in a shared world
 of feelings and ideas.
 
 So, as we each drift 
