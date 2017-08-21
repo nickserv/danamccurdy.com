@@ -9,7 +9,7 @@ image: 'http://i.imgur.com/7vSRWyB.jpg'
 _(A reflection on how we use the gift of social media)_
 
 The most powerful question I have ever heard
-is "Where are you directing your energy?".
+is "Where are you directing your energy?"
 
 Every word, or thought, or image
 that we add to our informational soup
