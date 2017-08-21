@@ -6,7 +6,7 @@ categories:
   - life
 image: 'http://i.imgur.com/7vSRWyB.jpg'
 ---
-_A reflection on how we use the gift of social media_
+_(A reflection on how we use the gift of social media)_
 
 The most powerful question I have ever heard
 is "Where are you directing your energy?".
