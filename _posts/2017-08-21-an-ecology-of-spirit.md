@@ -6,6 +6,8 @@ categories:
   - life
 image: 'http://i.imgur.com/7vSRWyB.jpg'
 ---
+_A reflection on how we use the gift of social media_
+
 The most powerful question I have ever heard
 is "Where are you directing your energy?".
 
@@ -47,5 +49,3 @@ would this be the kind of sea
 I would choose
 for myself and others
 to swim in?"
-
-
