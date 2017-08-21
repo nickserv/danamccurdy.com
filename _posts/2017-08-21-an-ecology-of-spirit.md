@@ -12,7 +12,7 @@ The most powerful question I have ever heard
 is "Where are you directing your energy?".
 
 Every word, or thought, or image
-that we add to the informational soup
+that we add to our informational soup
 becomes part of this sea of ideas
 we all swim and breathe in.
 
