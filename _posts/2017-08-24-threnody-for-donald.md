@@ -14,7 +14,7 @@ in their imagined strength,
 torture us all, as well.
 
 As we watch a fellow human slowly sinking 
-to the depths of emotional depravity,
+into the depths of emotional depravity,
 how should we name what we see?
 
 If we watched it on Netflix or HBO,
