@@ -25,7 +25,7 @@ we call it news.
 How have we come
 to accept these as equivalent,
 as if our worst imaginings,
-delightful as they are,
+delightful as they are
 if only as fantasies,
 were acceptable as reality
 which we would live in willingly,
