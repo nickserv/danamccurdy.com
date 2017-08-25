@@ -11,7 +11,7 @@ in their imagined weakness,
 torture only themselves;
 and there are tortured souls who,
 in their imagined strength,
-torture us all, as well.
+torture all of us as well.
 
 As we watch a fellow human slowly sinking 
 into the depths of emotional depravity,
@@ -31,4 +31,3 @@ were acceptable as reality
 which we would live in willingly,
 as if it were merely
 a form of entertainment?
-
