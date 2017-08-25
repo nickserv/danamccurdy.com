@@ -28,6 +28,6 @@ as if our worst imaginings,
 delightful as they are
 if only as fantasies,
 were acceptable as reality
-which we would live in willingly,
+to be lived in willingly,
 as if it were merely
 a form of entertainment?
