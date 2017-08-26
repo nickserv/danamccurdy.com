@@ -30,7 +30,7 @@ with so little empathy
 or understanding,
 as if our worst imaginings
 (delightful as they seem,
-when only fantasies)
+as mere fantasies)
 were acceptable as a reality
 to actually live in, 
 without complaint,
