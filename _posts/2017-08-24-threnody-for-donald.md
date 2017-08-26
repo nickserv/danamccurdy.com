@@ -32,7 +32,7 @@ as if our worst imaginings
 (delightful as they seem,
 as mere fantasies)
 were acceptable as a reality
-to actually live in, 
+we will actually live in, 
 without complaint,
-as if it were merely
+as if it were only
 a form of entertainment?
