@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: Our Agreement
-image: 'http://i.imgur.com/67QVBMh.jpg'
+image: 'http://i.imgur.com/FYhlTzK.jpg'
 ---
 When we come together 
 to drum and dance,
