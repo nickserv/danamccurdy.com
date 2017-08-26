@@ -4,7 +4,7 @@ published: true
 title: Threnody for Donald
 categories:
   - life
-image: 'http://i.imgur.com/7z4Cm2l.jpg'
+image: 'http://i.imgur.com/WzE118M.jpg'
 ---
 There are tortured souls who,
 in their imagined weakness,
