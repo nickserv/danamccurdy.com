@@ -9,9 +9,10 @@ will I be able to let go,
 and say, with gratitude,
 "This has been a life worth living!"?
 
-And, in each moment,
+So may I,
+in each moment
 from now until then,
-may I likewise let go
+likewise let go
 of all regrets and aspirations,
-saying joyfully, 
+and say joyfully, 
 "Yes, this is a life worth living!"
