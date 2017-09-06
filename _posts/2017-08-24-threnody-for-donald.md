@@ -16,7 +16,7 @@ torture us all.
 So, as we watch a fellow human 
 slowly sinking into the depths 
 of his own depravity,
-how should we name what we see?
+how do we name what we see?
 
 If it were on Netflix or HBO,
 we would call it entertainment;
