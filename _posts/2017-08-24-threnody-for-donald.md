@@ -7,14 +7,14 @@ categories:
 image: 'http://i.imgur.com/WzE118M.jpg'
 ---
 There are tortured souls 
-who, in their imagined weakness,
+who, in their dream of weakness,
 only torture themselves;
-and there are tortured souls 
-who, in their imagined strength,
+but there are tortured souls 
+who, in their dream of strength,
 torture us all.
 
-So, as we watch a fellow human 
-slowly sinking into the depths 
+And so, as we watch a fellow human 
+sinking slowly into the depths 
 of his own depravity,
 how do we name what we see?
 
@@ -24,15 +24,13 @@ on CNN, or in the NY Times,
 we call it news.
 
 How have we come,
-with so little empathy 
-or understanding,
+with so little empathy, 
+so little understanding,
 to accept these as equivalent,
 as if our worst imaginings,
-delightful as they may be
+delightful as they might be
 as mere fantasy,
 were acceptable as reality,
-to be lived in 
-without complaint,
+to be lived in without complaint,
 as if this were only
-another form 
-of entertainment?
+another form of entertainment?
