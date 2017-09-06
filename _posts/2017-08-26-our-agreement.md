@@ -3,6 +3,8 @@ centered: false
 published: true
 title: Our Agreement
 image: 'http://i.imgur.com/FYhlTzK.jpg'
+categories:
+  - life
 ---
 When we come together 
 to drum and dance,
@@ -38,10 +40,3 @@ to allow ourselves to meld
 back to our common source,
 when all we were 
 is "us".
-
-
-
-
-
-
-
