@@ -11,7 +11,7 @@ to drum and dance,
 it is our agreement,
 unspoken among us,
 to abandon our apparent differences,
-and to celebrate what it is
+and to celebrate all
 that connects us.
 
 In this sacred circle,
