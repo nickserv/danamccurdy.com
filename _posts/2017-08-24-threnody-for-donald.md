@@ -18,7 +18,7 @@ sinking slowly into the depths
 of his own depravity,
 how do we name what we see?
 
-If we watched it on Netflix, on HBO,
+If we watched it on Netflix, or HBO,
 we would call it entertainment;
 on CNN, or in the NY Times,
 we call it news.
