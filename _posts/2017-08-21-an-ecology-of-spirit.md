@@ -1,12 +1,12 @@
 ---
 centered: false
 published: true
-title: An Ecology of Spirit
+title: The Waters We Swim In
 categories:
   - life
 image: 'http://i.imgur.com/7vSRWyB.jpg'
 ---
-_(A reflection on how we use the gift of social media)_
+_(A reflection on mindfulness and social media)_
 
 The most powerful question I have ever heard
 is "Where are you directing your energy?"
@@ -14,9 +14,9 @@ is "Where are you directing your energy?"
 Every word, or thought, or image
 that we add to our informational soup
 becomes part of this sea of ideas
-we all swim and breathe in.
+that we all swim and breathe in.
 
-Just as our oceans 
+And just as our oceans 
 become befouled
 with our waste,
 so does our virtual sea
@@ -25,28 +25,25 @@ with a million tokens
 of emotional violence
 tossed carelessly into its depths.
 
-And just as the Earth, 
-our Mother,
+And just as the Earth, our Mother,
 has graced us 
-with this beautiful 
-and nurturing home,
-so has our own genius
-bequeathed us these digital waters,
-in which we are privileged  
-to float together
-in a shared world
+with this beautiful and nurturing home,
+so have we been gifted,
+through own brilliance,
+with this digital ocean,
+in which we are privileged 
+to share a universe 
 of feelings and ideas.
 
-So, as we each drift 
+So, as we drift 
 in our little boats of identity,
-there is a chance, each time, 
-before we toss 
-our mental progeny
+there is a chance for each of us, 
+as we toss our minds' progeny
 into the depths around us,
-to stop and wonder,
+to pause, and wonder,
 "If this were the only thing 
 that comprised this sea,
-would this be the kind of sea 
-I would choose
-for myself and others
+would these be the kind of waters 
+I would choose for myself 
+and those I love
 to swim in?"
