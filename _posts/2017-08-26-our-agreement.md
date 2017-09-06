@@ -26,7 +26,7 @@ on communicating
 through our rhythms,
 with which we share 
 this sacred space,
-and not through our cell phones
+and not through a cell phone
 (that digital garden of ego),
 with those whose approval
 we so habitually seek.
@@ -34,9 +34,8 @@ we so habitually seek.
 We agree to set aside 
 this sense of "me",
 if only for the moment,
-and, immersed 
-in this rhythmic communion,
-to allow ourselves to meld
-back to our common source,
-when all we were 
+and, immersed in this rhythmic communion,
+to allow ourselves to melt back 
+to our common source,
+where all there is
 is "us".
