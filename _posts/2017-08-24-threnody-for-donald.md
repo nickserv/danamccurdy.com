@@ -32,5 +32,5 @@ delightful as they might be
 as mere fantasy,
 were acceptable as reality,
 to be lived in without complaint,
-as if this were only
-another form of entertainment?
+as if this were only another form 
+of entertainment?
