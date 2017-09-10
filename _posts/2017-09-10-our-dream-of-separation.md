@@ -19,4 +19,5 @@ pale into insignificance.
 
 We are either all the same,
 or, in our dream of separation,
-we are nothing.
+we are nothing 
+but dust.
