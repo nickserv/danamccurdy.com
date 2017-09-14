@@ -29,6 +29,6 @@ of universes?
 
 What if karma, itself,
 is not a mechanism,
-but, simply, 
+but simply 
 the greatest dance
 of all?
