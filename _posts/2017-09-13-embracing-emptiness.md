@@ -7,8 +7,7 @@ title: Embracing Emptiness
 image: 'https://i.imgur.com/LwV22Dt.jpg'
 ---
 Embracing emptiness
-is not the same 
-as succumbing 
+is not like succumbing 
 to nothingness.
 
 It is cleaning the closet 
