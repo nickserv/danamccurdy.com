@@ -21,6 +21,8 @@ defaults:
       type: posts
     values:
       layout: post
+-gems:
+  - jekyll-feed
 host: 0.0.0.0
 incremental: true
 kramdown: # http://kramdown.gettalong.org/options.html
