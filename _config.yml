@@ -21,7 +21,7 @@ defaults:
       type: posts
     values:
       layout: post
--gems:
+gems:
   - jekyll-feed
 host: 0.0.0.0
 incremental: true
