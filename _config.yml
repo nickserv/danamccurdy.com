@@ -21,7 +21,7 @@ defaults:
       type: posts
     values:
       layout: post
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
