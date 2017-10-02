@@ -20,10 +20,10 @@ Love is accepting
 that everything changes,
 and that each object of our love
 eventually passes out of our lives,
-as all things 
+just as all things 
 flow in and out of being.
 
 Love is cherishing 
 what we have,
-content and grateful,
+grateful and content,
 not demanding more.
