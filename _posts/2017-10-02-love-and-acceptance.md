@@ -8,8 +8,8 @@ title: Love and Acceptance
 image: 'https://i.imgur.com/OMtaWOv.jpg'
 ---
 Love 
-is accepting someone 
-or something, 
+is total acceptance 
+of someone or something, 
 exactly as they are.
 
 Love is celebrating
