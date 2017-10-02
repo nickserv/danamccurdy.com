@@ -8,7 +8,7 @@ title: Love and Acceptance
 image: 'https://i.imgur.com/OMtaWOv.jpg'
 ---
 Love 
-is completely accepting someone 
+is accepting someone 
 or something, 
 exactly as they are.
 
