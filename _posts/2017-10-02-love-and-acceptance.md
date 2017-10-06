@@ -7,23 +7,24 @@ published: true
 title: Love and Acceptance
 image: 'https://i.imgur.com/OMtaWOv.jpg'
 ---
-Love 
-is total acceptance 
-of someone or something, 
+To love someone 
+or something,
+is to accept them totally,  
 exactly as they are.
 
-Love is celebrating
+It is celebrating
 your connection with them,
-and their own uniqueness.
+and the subtle differences
+that make them unique.
 
 Love is accepting
-that everything changes,
-and that each object of our love
-eventually passes out of our lives,
-just as all things 
-flow in and out of being.
+that everything changes;
+that the objects of our love
+will eventually leave us,
+in the natural flow 
+of living and dying.
 
 Love is cherishing 
-what we have,
-grateful and content,
+the gifts of each moment,
+being grateful and content;
 not demanding more.
