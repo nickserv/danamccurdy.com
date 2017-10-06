@@ -8,7 +8,7 @@ title: Momentary Angels
 image: 'https://i.imgur.com/OMtaWOv.jpg'
 ---
 To love someone 
-or something,
+or something
 is to accept them totally,  
 exactly as they are.
 
