@@ -26,5 +26,5 @@ of living and dying.
 
 Love is cherishing
 our momentary angels,
-the gifts of each moment,
+our gifts in each moment,
 without demanding more.
