@@ -26,5 +26,5 @@ of living and dying.
 
 Love is cherishing 
 the gifts of each moment,
-being grateful and content;
-not demanding more.
+grateful and content,
+and not demanding more.
