@@ -24,7 +24,7 @@ will eventually leave us,
 in the natural flow 
 of living and dying.
 
-Love is cherishing 
+Love is cherishing
+our momentary angels,
 the gifts of each moment,
-grateful and content,
 without demanding more.
