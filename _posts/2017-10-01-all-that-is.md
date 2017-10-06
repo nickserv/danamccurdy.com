@@ -8,31 +8,25 @@ image: 'https://i.imgur.com/NxXn6lv.jpg'
 ---
 _(reflections on my car and the universe)_
 
-I pat my car fondly
-as I walk away,
-thanking it
-for carrying me,
-wondering:
+As I walk away from my car,
+thanking it for carrying me,
+I pat it fondly,
+as I wonder:
 does it have a spirit?
 
-And I remember -
-it is made
-of the same stuff
+And I remember:
+it is made of the same stuff
 that I am,
-that all things
-are made of.
+that comprises all things.
 
-What else is all this,
+And what else is all of this,
 except spirit,
-flowing
-in an infinity
-of forms?
+flowing in its infinite forms?
 
 Everything we know
-is built from the dust
-of a distant singularity,
-still bound,
-through some spooky entanglement, 
+is just a passing cloud 
+from the dust of a distant singularity,
+still bound, through some spooky entanglement, 
 to its original spirit,
 the seed of all that is.
 
@@ -40,7 +34,5 @@ We are all its progeny,
 man and beast,
 animate and inanimate,
 and all of it
-is worthy of our love
-and our gratitude.
-
-
+deserves our love
+and gratitude.
