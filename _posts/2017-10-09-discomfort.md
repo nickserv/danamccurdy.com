@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: Discomfort
-image: 'https://i.imgur.com/S2vjN79.jpg'
+image: 'https://i.imgur.com/5GEYeDD.jpg'
 ---
 The most uncomfortable thing
 about being uncomfortable
