@@ -4,7 +4,7 @@ published: true
 title: the lens of media
 categories:
   - life
-image: 'http://i.imgur.com/gYnRMIB.jpg'
+image: 'https://i.imgur.com/2QEkv9A.jpg'
 ---
 It is not the news 
 of what actually happens 
