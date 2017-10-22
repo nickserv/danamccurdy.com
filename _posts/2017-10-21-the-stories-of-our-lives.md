@@ -13,8 +13,17 @@ are not our lives.
 They are merely 
 what we tell ourselves
 about moments past,
-or moments not yet arrived.
+or moments that might be.
 
-They are the worlds we live in 
+We spend our lives in these dreams,
+revising and embellishing them,
+like re-arranging deck chairs on the Titanic,
+never realizing that,
+if the ship of our identity 
+would dissolve around us,
+we would not drown!
+
+These are the worlds we live in, 
 when we forget the present moment,
-when we forget to be here, now. 
+forgetting to be here, 
+now. 
