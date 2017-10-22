@@ -7,7 +7,7 @@ title: The You  I Imagined
 image: 'https://i.imgur.com/N4KCqoi.jpg'
 ---
 The you 
-I imagined you to be
+I imagined that you were
 is the drink
 I should not drink.
 
