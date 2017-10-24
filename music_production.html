@@ -51,38 +51,40 @@ layout: default
   </div>
 </div>
 
-<h2 id="original-music">Original Music</h2>
+{% for category in site.data.music %}
+  <h2 id="original-music">{{category[0]}}</h2>
 
-<div class="row">
-  {% for item in site.data.music %}
-    <div class="col-md-3">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">
-            {{item.name}}
-           {% if item.artist %}<br><small>{{item.artist}}</small>{% endif %}
-          </h3>
+  <div class="row">
+    {% for item in category[1] %}
+      <div class="col-md-3">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">
+              {{item[0]}}
+              {% if item[1].artist %}<br><small>{{item[1].artist}}</small>{% endif %}
+            </h3>
+          </div>
+
+          {% if item[1].soundcloud %}
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{item[1].soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+            </div>
+          {% endif %}
+
+          {% if item[1].youtube %}
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{item[1].youtube}}?rel=0" allowfullscreen=""></iframe>
+            </div>
+          {% endif %}
+
+          {% if item[1].description %}
+            <div class="panel-body">{{item[1].description}}</div>
+          {% endif %}
         </div>
-
-        {% if item.soundcloud %}
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{item.soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-          </div>
-        {% endif %}
-
-        {% if item.youtube %}
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{item.youtube}}?rel=0" allowfullscreen=""></iframe>
-          </div>
-        {% endif %}
-
-        {% if item.description %}
-         <div class="panel-body">{{item.description}}</div>
-        {% endif %}
       </div>
-    </div>
-  {% endfor %}
-</div>
+    {% endfor %}
+  </div>
+{% endfor  %}
 
 <h2 id="contemporary-classical-pieces">Contemporary Classical Pieces</h2>
 
@@ -104,7 +106,7 @@ layout: default
   </div>
 </div>
 
-  <h2 id="recording-credits">Recording Credits</h2>
+<h2 id="recording-credits">Recording Credits</h2>
 
   <table class="table">
     <thead>
