@@ -54,59 +54,34 @@ layout: default
 <h2 id="original-music">Original Music</h2>
 
 <div class="row">
-  <div class="col-md-3">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h3 class="panel-title">
-          Serendipity Doo Dah
-          <br>
-          <small>Dana McCurdy and Kim Starner</small>
-        </h3>
-      </div>
+  {% for item in site.data.music %}
+    <div class="col-md-3">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">
+            {{item.name}}
+           {% if item.artist %}<br><small>{{item.artist}}</small>{% endif %}
+          </h3>
+        </div>
 
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/99634633&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-      </div>
+        {% if item.soundcloud %}
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{item.soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+          </div>
+        {% endif %}
 
-      <div class="panel-body">New world fusion pieces for synthesizer, guitar, percussion, and vocals.</div>
-    </div>
-  </div>
+        {% if item.youtube %}
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{item.youtube}}?rel=0" allowfullscreen=""></iframe>
+          </div>
+        {% endif %}
 
-  <div class="col-md-3">
-    <div class="panel panel-default">
-      <div class="panel-heading"><h3 class="panel-title">Electronic Music</h3></div>
-
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/43073312&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-      </div>
-
-      <div class="panel-body">Solo pieces for synthesizer, sampler, and processed audio.</div>
-    </div>
-  </div>
-
-  <div class="col-md-3">
-    <div class="panel panel-default">
-      <div class="panel-heading"><h3 class="panel-title">Songs</h3></div>
-
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/43061568&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-      </div>
-
-      <div class="panel-body">Some of my singer-songwriter tunes (self-produced).</div>
-    </div>
-  </div>
-
-  <div class="col-md-3">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h3 class="panel-title">Dinosaur Dance</h3>
-      </div>
-
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/DXTjNYapqEk?rel=0" allowfullscreen=""></iframe>
+        {% if item.description %}
+         <div class="panel-body">{{item.description}}</div>
+        {% endif %}
       </div>
     </div>
-  </div>
+  {% endfor %}
 </div>
 
 <h2 id="contemporary-classical-pieces">Contemporary Classical Pieces</h2>
