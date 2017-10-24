@@ -17,7 +17,8 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 ## Original Music
 {% include music_original.html %}
 
-## Contemporary Classical Pieces<br><small>[Compositions by Michael Palmieri](http://www.soundclick.com/bands/page_music.cfm?bandID=209257)</small>
+## Contemporary Classical Pieces
+### [Compositions by Michael Palmieri](http://www.soundclick.com/bands/page_music.cfm?bandID=209257)
 Mixing/post-production/technical support: Dana McCurdy
 
 ## Recording Credits
