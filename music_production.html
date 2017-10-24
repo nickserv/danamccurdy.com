@@ -90,6 +90,9 @@ layout: default
           {% endif %}
         </div>
       </div>
+
+      {% assign mod = forloop.index | modulo: 4 %}
+      {% if mod == 0 and mod != forloop.last%}</div><div class="row">{% endif %}
     {% endfor %}
   </div>
 {% endfor %}
