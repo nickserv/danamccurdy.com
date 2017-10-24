@@ -57,19 +57,14 @@ layout: default
   <div class="row">
     {% for item in category[1] %}
       <div class="col-md-3">
-        <div class="panel panel-default">
+        <div class="panel panel-{% if item[1].url %}primary{% else %}default{% endif %}">
           <div class="panel-heading">
             <h3 class="panel-title">
-              {% if item[1].url %}
-                <a href="{{item[1].url}}">{{item[0] | smartify}}</a>
-              {% else %}
+              {% if item[1].url %}<a href="{{item[1].url}}">{% endif %}
                 {{item[0] | smartify}}
-              {% endif %}
-
-              {% if item[1].artist %}
                 <br>
                 <small>{{item[1].artist | smartify}}</small>
-              {% endif %}
+              {% if item[1].url %}</a>{% endif %}
             </h3>
           </div>
 
