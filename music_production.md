@@ -15,7 +15,7 @@ From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimenta
 {% include music_skills.html %}
 
 ## Original Music
-{% include music_original.html %}
+{% include music_projects.html %}
 
 ## Contemporary Classical Pieces
 [Compositions by Michael Palmieri](http://www.soundclick.com/bands/page_music.cfm?bandID=209257)
