@@ -61,14 +61,14 @@ layout: default
           <div class="panel-heading">
             <h3 class="panel-title">
               {% if item[1].url %}
-                <a href="{{item[1].url}}">{{item[0]}}</a>
+                <a href="{{item[1].url}}">{{item[0] | smartify}}</a>
               {% else %}
-                {{item[0]}}
+                {{item[0] | smartify}}
               {% endif %}
 
               {% if item[1].artist %}
                 <br>
-                <small>{{item[1].artist}}</small>
+                <small>{{item[1].artist | smartify}}</small>
               {% endif %}
             </h3>
           </div>
@@ -86,186 +86,10 @@ layout: default
           {% endif %}
 
           {% if item[1].description %}
-            <div class="panel-body">{{item[1].description}}</div>
+            <div class="panel-body">{{item[1].description | smartify}}</div>
           {% endif %}
         </div>
       </div>
     {% endfor %}
   </div>
 {% endfor %}
-
-<h2 id="recording-credits">Recording Credits</h2>
-
-<table class="table">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Artist</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="http://www.allmusic.com/album/feel-like-makin-love-mw0000654661">Feel Like Makin’ Love</a></td>
-      <td>Roberta Flack</td>
-      <td>synthesizer programming</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.allmusic.com/album/afro-cuban-jazz-moods-mw0000308238">Afro-Cuban Jazz Moods</a></td>
-      <td>Dizzy Gillespie/Machito</td>
-      <td>synthesizer programming</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.allmusic.com/album/mike-oldfield-the-collection-mw0001424206/credits">Guilty</a></td>
-      <td>Mike Oldfield</td>
-      <td>synthesizer programming</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.allmusic.com/album/the-doctor-is-in-out-mw0000228181">The Doctor Is In and Out</a></td>
-      <td>Yusef Lateef</td>
-      <td>synthesizer and sound design</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.cdbaby.com/cd/palmieri">Fantasy</a></td>
-      <td>composer Michael Palmieri</td>
-      <td>mixing, co-production, &amp; technical support</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.allmusic.com/album/pleasure-principle-mw0000463806/credits">Pleasure Principle</a></td>
-      <td>“contemporary jazz” composer/keyboardist Joe Rubenstein</td>
-      <td>mixing &amp; technical support</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.amazon.com/gp/product/B00004T2N2/ref=cm_cr_pr_pb_item">Livin’ for the Feelin’</a></td>
-      <td>NY-based pop/dance music duo DNA</td>
-      <td>arranging, MIDI production, keyboards, percussion, recording, mixing</td>
-    </tr>
-    <tr>
-      <td><a href="https://myspace.com/viajerosdelamusica/music/album/sonidos-migrantes-5703414">Sonidos Migrantes</a></td>
-      <td>Colombian folkloric/pop duo Viajeros de la Musica</td>
-      <td>recording, mixing, &amp; production</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.amazon.com/Children-Amazon-Kudzu-Peter-Griggs/dp/B00000G1RZ">Children of the Amazon</a></td>
-      <td>instrumentalists Kudzu &amp; Peter Griggs</td>
-      <td>recording &amp; mixing</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.discogs.com/Christine-Baczewska-Tribe-Of-One/release/2616270">Tribe of One</a></td>
-      <td>singer-songwriter Christine Baczewska</td>
-      <td>recording &amp; mixing</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.amazon.com/Dawn-Until-Dusk-Tribal-Didgeridoo/dp/B000001ZBE">Dawn Until Dusk</a></td>
-      <td>didgeridooist Adam Plack</td>
-      <td>recording, production, &amp; mixing</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.folkways.si.edu/ed-and-dana-mccurdy/on-jordans-stormy-banks-i-stand-sacred-songs-of-america/american-folk/music/album/smithsonian">Sacred Songs of America</a></td>
-      <td>Ed McCurdy with Dana McCurdy</td>
-      <td>vocals, guitar, and co-production</td>
-    </tr>
-    <tr>
-      <td><a href="https://itunes.apple.com/us/album/thoughts-after-sixty/id465674514">Thoughts After Sixty</a></td>
-      <td>Ed McCurdy</td>
-      <td>vocals, guitar, and co-production</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="live-performances">Live Performances</h2>
-
-<table class="table">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Codanceco <small>(modern dance company)</small></td>
-      <td>live performance of a dance score by composer Scott Killian.</td>
-    </tr>
-    <tr>
-      <td>Circle of One</td>
-      <td>solo percussion and electronics (Good Shepherd Lutheran Church, Weehawken, NJ)</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.janeirabloom.com/">Jane Ira Bloom</a></td>
-      <td>collaborations for sax and electronics, including performances with the NY State Council of the Arts New Music Network in 1985</td>
-    </tr>
-    <tr>
-      <td>None of the Above <small>(improvisational/experimental rock band)</small></td>
-      <td>various performances in New York and Toronto night clubs</td>
-    </tr>
-    <tr>
-      <td>Ear Food <small>(synthesizer duo featuring original music by Dana McCurdy and Brian Flahive)</small></td>
-      <td>various performances and workshops in the NY metropolitan area, including Columbia University, WKCR, the Museum of Natural History, and the Ear Inn</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="other-production-credits">Other Production Credits</h2>
-
-<table class="table">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th> </th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Various TV &amp; Radio Commercials</td>
-      <td><small>(including AMTRAK, Chrysler, Omni Magazine, Singer, Black &amp; Decker, Laughing Cow, Thomas’ English Muffins, and Breeders’ Cup)</small></td>
-      <td>synthesizer programming, recording, post-production, and/or mixing</td>
-    </tr>
-    <tr>
-      <td>Pre-production for “Saturday Night Live”</td>
-      <td><small>(with composer Howard Shore)</small></td>
-      <td>synthesizer programming</td>
-    </tr>
-    <tr>
-      <td>“Source” music for TV soap opera “Another World”</td>
-      <td><small>(with composer Mike Mandel)</small></td>
-      <td>recording, production, and mixing</td>
-    </tr>
-    <tr>
-      <td>Musical theme for PBS series “Bookends”</td>
-      <td><small>(with composer Scott Killian)</small></td>
-      <td>recording, co-production, and mixing</td>
-    </tr>
-    <tr>
-      <td>Soundtracks for various works by video artist <a href="http://www.eai.org/artistTitles.htm?id=402">Rita Myers</a></td>
-      <td><small>(including a major Whitney Museum installation in 1985)</small></td>
-      <td>recording, co-production, and mixing</td>
-    </tr>
-    <tr>
-      <td>Various modern dance scores</td>
-      <td><small>(by composers Linda Fisher and Scott Killian)</small></td>
-      <td>recording, co-production, and mixing</td>
-    </tr>
-    <tr>
-      <td>1988 Summer Olympics</td>
-      <td><small>(music library for the network TV broadcast)</small></td>
-      <td>music editing</td>
-    </tr>
-    <tr>
-      <td>“Best of the Beach” and the Breeders Cup</td>
-      <td><small>(network TV sports broadcasts)</small></td>
-      <td>audio post-production and mixing</td>
-    </tr>
-    <tr>
-      <td>“M1: The Video”</td>
-      <td><small>(a series of four two-hour instructional videos on all operational aspects of the Korg M1 Synthesizer)</small></td>
-      <td>script writer and on-screen instructor</td>
-    </tr>
-    <tr>
-      <td>Music for <a href="http://www.amazon.com/See-Yourself-Well-Anne-Beattie/dp/1881025306">See Yourself Well</a></td>
-      <td><small>(an audio series of guided meditations by Anne Beattie)</small></td>
-      <td>original music and MIDI production</td>
-    </tr>
-  </tbody>
-</table>
