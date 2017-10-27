@@ -16,7 +16,7 @@ I have a body,
 but I am not my body.
 
 I have a mind, 
-but I am not my mind;
+but I am not my mind,
 not my thoughts,
 my feelings,
 my dreams,
