@@ -11,7 +11,7 @@ _(reflections on my car and the universe)_
 As I walk away from my car,
 thanking it for carrying me,
 I pat it fondly,
-as I wonder:
+wondering:
 does it have a spirit?
 
 And I remember:
@@ -26,7 +26,8 @@ flowing in its infinite forms?
 Everything we know
 is just a passing cloud 
 from the dust of a distant singularity,
-still bound, through some spooky entanglement, 
+still bound, 
+through some spooky entanglement, 
 to its original spirit,
 the seed of all that is.
 
