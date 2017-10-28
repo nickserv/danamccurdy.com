@@ -36,4 +36,4 @@ man and beast,
 animate and inanimate,
 and all of it
 deserves our love
-and gratitude.
+and our gratitude.
