@@ -213,9 +213,16 @@ blockquote {
 }
 
 // Music production
+
 .panel-title a {
   display: block;
   text-decoration: none;
+}
+
+.panel-body ul {
+  list-style: inside;
+  margin-bottom: 0;
+  padding-left: 0;
 }
 
 // Drum circles

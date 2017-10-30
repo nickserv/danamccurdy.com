@@ -11,64 +11,98 @@ Music:
     description: Some of my singer-songwriter tunes (self-produced).
   Dinosaur Dance:
     youtube: DXTjNYapqEk
-Contemporary Classical Pieces:
-  Compositions:
-    artist: Michael Palmieri
+  Contemporary Classical Pieces:
+    artist: "Composer: Michael Palmieri"
     url: http://www.soundclick.com/bands/page_music.cfm?bandID=209257
-    description: Mixing/post-production/technical support
+    labels:
+      - mixing
+      - post-production
+      - technical support
 Recording Credits:
   "Feel Like Makin' Love":
     artist: Roberta Flack
     url: http://www.allmusic.com/album/feel-like-makin-love-mw0000654661
-    description: synthesizer programming
+    labels:
+      - synthesizer programming
   Afro-Cuban Jazz Moods:
     artist: Dizzy Gillespie/Machito
     url: http://www.allmusic.com/album/afro-cuban-jazz-moods-mw0000308238
-    description: synthesizer programming
+    labels:
+      - synthesizer programming
   Guilty:
     url: http://www.allmusic.com/album/mike-oldfield-the-collection-mw0001424206/credits
     artist: Mike Oldfield
-    description: synthesizer programming
+    labels:
+      - synthesizer programming
   The Doctor Is In and Out:
     url: http://www.allmusic.com/album/the-doctor-is-in-out-mw0000228181
     artist: Yusef Lateef
-    description: synthesizer and sound design
+    labels:
+      - synthesizer
+      - sound design
   Fantasy:
     url: http://www.cdbaby.com/cd/palmieri
-    artist: composer Michael Palmieri
-    description: mixing, co-production, &amp; technical support
+    artist: "Composer: Michael Palmieri"
+    labels:
+      - mixing
+      - co-production
+      - technical support
   Pleasure Principle:
     url: http://www.allmusic.com/album/pleasure-principle-mw0000463806/credits
     artist: "\"contemporary jazz\" composer/keyboardist Joe Rubenstein"
-    description: mixing &amp; technical support
+    labels:
+      - mixing
+      - technical support
   "Livin' for the Feelin'":
     url: http://www.amazon.com/gp/product/B00004T2N2/ref=cm_cr_pr_pb_item
     artist: NY-based pop/dance music duo DNA
-    description: arranging, MIDI production, keyboards, percussion, recording, mixing
+    labels:
+      - arranging
+      - MIDI production
+      - keyboards
+      - percussion
+      - recording
+      - mixing
   Sonidos Migrantes:
     url: https://myspace.com/viajerosdelamusica/music/album/sonidos-migrantes-5703414
     artist: Colombian folkloric/pop duo Viajeros de la Musica
-    description: recording, mixing, &amp; production
+    labels:
+      - recording
+      - mixing
+      - production
   Children of the Amazon:
     url: http://www.amazon.com/Children-Amazon-Kudzu-Peter-Griggs/dp/B00000G1RZ
     artist: instrumentalists Kudzu &amp; Peter Griggs
-    description: recording &amp; mixing
+    labels:
+      - recording
+      - mixing
   Tribe of One:
     url: http://www.discogs.com/Christine-Baczewska-Tribe-Of-One/release/2616270
     artist: singer-songwriter Christine Baczewska
-    description: recording &amp; mixing
+    labels:
+      - recording
+      - mixing
   Dawn Until Dusk:
     url: http://www.amazon.com/Dawn-Until-Dusk-Tribal-Didgeridoo/dp/B000001ZBE
     artist: didgeridooist Adam Plack
-    description: recording, production, &amp; mixing
+    labels:
+      - recording
+      - production
+      - mixing
   Sacred Songs of America:
     url: http://www.folkways.si.edu/ed-and-dana-mccurdy/on-jordans-stormy-banks-i-stand-sacred-songs-of-america/american-folk/music/album/smithsonian
     artist: Ed McCurdy with Dana McCurdy
-    description: vocals, guitar, and co-production
+    labels:
+      - vocals
+      - guitar
+      - co-production
   Thoughts After Sixty:
     url: https://itunes.apple.com/us/album/thoughts-after-sixty/id465674514
     artist: Ed McCurdy
-    description: vocals, guitar, and co-production
+    labels:
+      - vocals
+      - guitar
+      - co-production
 Live Performances:
   Codanceco:
     artist: modern dance company
@@ -87,32 +121,56 @@ Live Performances:
 Production Credits:
   "Various TV & Radio Commercials":
     artist: "including AMTRAK, Chrysler, Omni Magazine, Singer, Black & Decker, Laughing Cow, Thomas’ English Muffins, and Breeders’ Cup"
-    description: synthesizer programming, recording, post-production, and/or mixing
+    labels:
+      - synthesizer programming
+      - recording
+      - post-production
+      - mixing
   "Pre-production for \"Saturday Night Live\"":
-    artist: with composer Howard Shore
-    description: synthesizer programming
+    artist: "Composer: Howard Shore"
+    labels:
+      - synthesizer programming
   "\"Source\" music for TV soap opera \"Another World\"":
-    artist: with composer Mike Mandel
-    description: recording, production, and mixing
+    artist: "Composer: Mike Mandel"
+    labels:
+      - recording
+      - production
+      - mixing
   "Musical theme for PBS series \"Bookends\"":
-    artist: with composer Scott Killian
-    description: recording, co-production, and mixing
+    artist: "Composer: Scott Killian"
+    labels:
+      - recording
+      - co-production
+      - mixing
   "Soundtracks for various works by video artist Rita Myers":
     url: http://www.eai.org/artistTitles.htm?id=402
     artist: including a major Whitney Museum installation in 1985
-    description: recording, co-production, and mixing
+    labels:
+      - recording
+      - co-production
+      - mixing
   Various modern dance scores:
-    artist: by composers Linda Fisher and Scott Killian
-    description: recording, co-production, and mixing
+    artist: "Composers: Linda Fisher and Scott Killian"
+    labels:
+      - recording
+      - co-production
+      - mixing
   1988 Summer Olympics:
     artist: music library for the network TV broadcast
-    description: music editing
+    labels:
+      - music editing
   "\"Best of the Beach\" and the Breeders Cup":
     artist: network TV sports broadcasts
-    description: audio post-production and mixing
+    labels:
+      - audio post-production
+      - mixing
   "M1: The Video":
     artist: a series of four two-hour instructional videos on all operational aspects of the Korg M1 Synthesizer
-    description: script writer and on-screen instructor
+    labels:
+      - script writer
+      - on-screen instructor
   Music for See Yourself Well:
     artist: an audio series of guided meditations by Anne Beattie
-    description: original music and MIDI production
+    labels:
+      - original music
+      - MIDI production
