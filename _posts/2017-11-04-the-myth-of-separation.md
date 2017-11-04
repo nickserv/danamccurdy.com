@@ -14,7 +14,7 @@ part of what defines us?
 Why can't we accept 
 that in the stream of life, 
 pleasures and pains
-will jostle us all
+will jostle all of us
 as they tumble by?
 
 Why do we claim each one
