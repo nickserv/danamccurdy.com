@@ -15,7 +15,7 @@ Why can't we accept
 that in the stream of life, 
 pleasures and pains
 will jostle us all
-as they flow by?
+as they tumble by?
 
 Why do we claim each one
 as MINE,
@@ -32,7 +32,7 @@ when there is so much comfort to be found
 in what we hold in common?
 
 Why do we not remember
-the sea we were all born into,
+the sea we were all born in,
 that we always share,
 even when we're gone?
 
