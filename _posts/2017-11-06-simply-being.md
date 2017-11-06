@@ -16,7 +16,6 @@ What do I need
 to know, or think,
 to simply be?
 
-Nothing,
 I need nothing,
 except to be,
 without knowing
