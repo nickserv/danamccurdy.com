@@ -1,7 +1,7 @@
 ---
 centered: false
 published: true
-title: ç
+title: Equanimity
 categories:
   - life
 image: 'http://i.imgur.com/a3dsINZ.jpg'
