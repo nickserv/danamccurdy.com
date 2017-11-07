@@ -8,7 +8,7 @@ image: 'http://i.imgur.com/jwPUQax.jpg'
 ---
 We may all 
 be assholes,
-and we are all 
+and yet we are all 
 luminous beings!
 
 In the land of ego, 
@@ -29,5 +29,3 @@ or we are nothing
 but smoke,
 dissipating
 in the wind of time.
-
-
