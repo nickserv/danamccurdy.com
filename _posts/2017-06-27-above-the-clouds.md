@@ -7,17 +7,19 @@ categories:
   - life
 ---
 To rise above our own opinions,
-like a plane ascending above the clouds,
-is to break through into a clear sky,
+like a plane ascending 
+above the clouds,
+is to break through 
+into a clear sky,
 where there is nothing
 but clarity and peace.
 
 Looking down,
 we see the cloudy confines
-of our usual abode,
-a comfortable prison
+where we usually dwell,
+our comfortable prison
 of prejudice and judgement.
 
 We see the hell below us;
-above us, 
+and above us, 
 only sky.
