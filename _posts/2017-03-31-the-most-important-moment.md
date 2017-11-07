@@ -6,13 +6,13 @@ categories:
   - life
 image: 'http://i.imgur.com/G5vWd7U.jpg'
 ---
-This
-is the most important moment 
+THIS 
+is the Most Important Moment 
 of your life.
 
 Embrace it!
 
 Let go of your past,
-release your hold on the future,
+forget the future,
 and dive into presence,
-right now.
+RIGHT NOW.
