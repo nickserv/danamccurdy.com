@@ -18,5 +18,5 @@ grateful and eager for newness.
 What if we traveled through our lives 
 as we would travel the world, 
 always moving,
-with excitement,
+with welcoming excitement,
 into a foreign land?
