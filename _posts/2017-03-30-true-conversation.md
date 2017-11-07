@@ -7,10 +7,8 @@ categories:
   - life
 ---
 A true conversation
-is not merely 
-when two people talk;
-it is when two 
-talk and listen.
+is not merely when two people talk;
+it is when they talk and listen.
 
 It is when each one
 is at least as interested
