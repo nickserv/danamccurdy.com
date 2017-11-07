@@ -7,7 +7,8 @@ categories:
 image: 'http://i.imgur.com/G5vWd7U.jpg'
 ---
 THIS 
-is the Most Important Moment 
+is the 
+Most Important Moment 
 of your life.
 
 Embrace it!
