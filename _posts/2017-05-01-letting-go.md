@@ -15,7 +15,7 @@ with random carelessness,
 and random kindness,
 exquisitely balanced,
 if we are willing
-to accept them.
+to accept them both.
 
 Yesterday,
 I strolled the park, 
