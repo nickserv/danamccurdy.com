@@ -6,28 +6,22 @@ image: 'http://i.imgur.com/ArDDVe3.jpg'
 categories:
   - life
 ---
-There are always reasons
-for gratitude,
-though they may not always 
-be easy to find.
+There are always reasons for gratitude,
+though they are not always easy to find.
 
 In the worst of times,
 there is at least this breath,
-this moment of life,
-and an ever-present promise 
-of change:
-"This, too, shall pass!",
-as the saying goes.
-
+this next moment of life,
+and the ever-present promise of change,
+that "this, too, shall pass".
 
 And there are other times,
-when joy does not leap 
-out at us;
+when joy seems absent,
 when we can look out
 past our thoughts 
 and preconceptions,
+past our usual awareness,
 and find something, 
-somewhere, 
-beyond our usual seeing,
-to re-inspire 
-the joy of simply being. 
+somewhere,
+to inspire the joy
+of simply being. 
