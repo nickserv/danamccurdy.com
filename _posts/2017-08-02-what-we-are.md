@@ -6,8 +6,8 @@ categories:
   - life
 image: 'http://i.imgur.com/CPLAUsE.jpg'
 ---
-There are no assholes 
-in this world,
+There is no such thing
+as an asshole,
 unless we are all assholes.
 
 We are what we are labelled,
@@ -34,5 +34,3 @@ in our suffering and our joy,
 or we are nothing at all
 but smoke,
 dissipating with the wind.
-
-
