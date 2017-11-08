@@ -27,7 +27,7 @@ and, in our grief,
 we wonder why.
 
 But there are those
-who always recognize these gifts,
+who always see these gifts,
 who see each day
 with grateful eyes;
 they are the ones
