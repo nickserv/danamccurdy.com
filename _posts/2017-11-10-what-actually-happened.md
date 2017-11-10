@@ -28,7 +28,8 @@ if we were inspired by the possibility
 of finding out the truth? 
 
 Should we wait for the prodding 
-of some enlightened soul's initiative, 
+of some enlightened soul's initiative,
+spoonfed for our own internet enlightenment,
 or should we take it upon ourselves 
 to ferret out what is real, and what isn't, 
 in this deluge of information 
