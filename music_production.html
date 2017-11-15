@@ -56,7 +56,7 @@ layout: default
 
   <div class="row">
     {% for item in category[1] %}
-      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
+      <div class="col-md-6 col-lg-4">
         <div class="panel panel-{% if item[1].url %}primary{% else %}default{% endif %}">
           <div class="panel-heading{% if item[1].soundcloud or item[1].youtube %} text-center{% endif  %}">
             <h3 class="panel-title">
