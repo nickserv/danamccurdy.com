@@ -4,7 +4,7 @@ categories:
 centered: true
 published: true
 title: The Futility of Trying
-image: 'https://i.imgur.com/k7Msf4z.jpg'
+image: 'https://i.imgur.com/uHXzq0z.jpg'
 ---
 I have been trying,
 for so many years,
