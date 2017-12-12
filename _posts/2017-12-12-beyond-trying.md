@@ -4,6 +4,7 @@ categories:
 centered: false
 published: true
 title: Beyond Trying
+image: 'https://i.imgur.com/uHXzq0z.jpg'
 ---
 Trying
 is the path
