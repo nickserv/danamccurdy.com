@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/uHXzq0z.jpg'
 ---
 Trying
 is the path
-to a thousand failures
+to a thousand failures,
 
 and failure 
 is the path
