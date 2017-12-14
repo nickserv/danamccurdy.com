@@ -17,12 +17,13 @@ to learning.
 Learning
 is the path
 to wisdom,
-which is the path
-to freedom.
+which, with patience,
+leads to freedom.
 
-And I have been trying,
+And I have been trying
+and failing,
 for so many years,
-just to be myself
+just to be myself,
 
 only to find
 that I am only myself
