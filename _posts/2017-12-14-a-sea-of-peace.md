@@ -7,9 +7,9 @@ title: A Sea of Peace
 image: 'https://i.imgur.com/fwQnFvZ.jpg'
 ---
 There is peace to be found
-in peaceful waters,
-if we let the turbulence within
-be calmed 
+in tranquil waters,
+if we allow the turbulence within
+to be calmed 
 by the peace around it.
 
 Likewise,
@@ -19,5 +19,3 @@ if we can only look beyond them,
 to the sea of peace
 that surrounds them
 and us, and everything.
-
-
