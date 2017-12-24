@@ -3,15 +3,15 @@ categories:
   - life
 centered: true
 published: true
-title: This Time of Change
+title: A Payer for the Holidays
 image: 'https://i.imgur.com/hGPpv7C.png'
 ---
 _In this time of change, 
 as the days grow longer,
 may are hearts be open,
-and our will grow stronger_
+and our will grow stronger
 
-_To spread the dream
+To spread the dream
 that suffering may cease,
 to fill our world 
 with joy and peace._
