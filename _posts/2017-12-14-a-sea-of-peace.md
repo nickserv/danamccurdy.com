@@ -6,7 +6,7 @@ published: true
 title: A Sea of Peace
 image: 'https://i.imgur.com/fwQnFvZ.jpg'
 ---
-There is peace to be found
+Peace can easily be found
 in tranquil waters,
 if we allow the turbulence within
 to be calmed 
