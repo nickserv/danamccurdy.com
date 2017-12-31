@@ -1,4 +1,4 @@
-<!-- The home page's portrait photo, displayed underneath the heading with a small citation. -->
+<!-- The home page's portrait photo, displayed with a small citation. -->
 
 ![photo of Dana](/assets/portrait.jpg){: .img-thumbnail width="200"}
 Photo: Marlies Dambrot

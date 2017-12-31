@@ -35,7 +35,7 @@ Facebook caches metadata about a page when its link is shared, so you may notice
 | --- | --- | --- |
 | Site metadata | [`_config.yml`](_config.yml) | Includes preview data for social networks and search engines, along with additional configuration for Jekyll and Prose. |
 | Pages | [`*.md`](.) (based on page name) | Page titles, excerpts, and navbar positions can be edited in Prose's **Meta Data** section. |
-| Home intro | [`_includes/home_*.md`](_includes) | Includes the home page's heading, portrait photo, and nearby text. |
+| Home intro | [`_includes/home_*.md`](_includes) | Includes the home page's portrait photo and nearby text. |
 | Drum circle photos |  [`_data/drum_circle_photos.yml`](_data/drum_circle_photos.yml) | A list of photo files included at the top of the Drum Circles page, and a second list of photo files displayed in the carousel at the bottom of the page. |
 | Poems intro | [`_includes/poems_intro.md`](includes/poems_intro.md) | Displayed at the top of both categories (life and love). |
 | Poems | [`_posts`](_posts) |
