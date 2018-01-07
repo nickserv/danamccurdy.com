@@ -19,7 +19,7 @@ that schemes to rule your consciousness,
 interrupting the flow of experience
 with its constant stream of analysis.
 
-It will distract you, if it can,
+It will distract you, if you let it,
 from the little epiphanies 
 that come from simply listening, 
 looking, and feeling,
