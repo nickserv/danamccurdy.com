@@ -6,7 +6,7 @@ published: true
 title: The Little Despot
 image: 'https://i.imgur.com/qFv5so6.jpg'
 ---
-_Sure, our minds can be useful, but they can also become destructive, 
+_Sure, our minds can be useful, but they can also turn against us, 
 when we let them take over our sense of who we are._
 
 Your mind will tell you
