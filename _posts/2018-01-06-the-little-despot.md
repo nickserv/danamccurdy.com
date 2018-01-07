@@ -20,7 +20,7 @@ interrupting the flow of experience
 with a constant flow of analysis.
 
 It will distract you, if it can,
-from the simple epiphanies 
+from the little epiphanies 
 that come from simply listening, 
 looking, and feeling,
 and accepting the gifts 
