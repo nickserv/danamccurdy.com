@@ -6,8 +6,8 @@ published: true
 title: The Little Despot
 image: 'https://i.imgur.com/qFv5so6.jpg'
 ---
-_Our minds can be useful, but they can turn against us, 
-when we let them commandeer our sense of who we are:_
+_Thinking can be useful, but it can also turn against you, 
+when you let it commandeer your sense of who you are:_
 
 Your mind will tell you
 that it has an answer for everything,
@@ -24,5 +24,5 @@ from the little epiphanies
 that come from simply listening, 
 simply looking, 
 simply feeling,
-and accepting the gifts 
+and accepting the bounty 
 of spontaneous knowing.
