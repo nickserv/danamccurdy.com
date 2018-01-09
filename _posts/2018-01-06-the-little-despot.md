@@ -22,7 +22,6 @@ with its constant stream of analysis.
 It will distract you, if you let it,
 from the little epiphanies 
 that come from simply listening, 
-simply looking, 
-simply feeling,
+simply looking, simply feeling,
 and accepting the bounty 
 of spontaneous knowing.
