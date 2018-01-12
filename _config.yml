@@ -40,7 +40,6 @@ prose:
     - bin
     - poems
     - .*
-    - CNAME
     - Gemfile
   media: assets
   siteurl: http://danamccurdy.com
