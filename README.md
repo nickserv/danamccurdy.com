@@ -1,6 +1,6 @@
-# [Dana McCurdy's Website](http://danamccurdy.com)
+# [Dana McCurdy's Website](https://danamccurdy.com)
 
-&copy; [Dana McCurdy](http://danamccurdy.com/)
+&copy; [Dana McCurdy](https://danamccurdy.com/)
 
 Website by [Nick McCurdy](http://nickmccurdy.com/)
 

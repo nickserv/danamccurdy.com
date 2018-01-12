@@ -2,7 +2,7 @@
 # For Feed and SEO Tag plugins (https://github.com/jekyll/jekyll-seo-tag#usage)
 title: Dana McCurdy
 description: For me, life is about learning and creative expression. My goal as a human being and a professional is to promote and facilitate these in every way I can.
-url: http://danamccurdy.com
+url: https://danamccurdy.com
 logo: /assets/favicon.png
 social:
   links:
@@ -42,7 +42,7 @@ prose:
     - .*
     - Gemfile
   media: assets
-  siteurl: http://danamccurdy.com
+  siteurl: https://danamccurdy.com
   metadata:
     _posts:
       - name: title
