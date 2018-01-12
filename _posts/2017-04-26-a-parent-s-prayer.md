@@ -4,7 +4,7 @@ published: true
 title: A parent's Prayer
 categories:
   - life
-image: 'http://i.imgur.com/Nyb1ziD.jpg'
+image: 'https://i.imgur.com/Nyb1ziD.jpg'
 ---
 My hope for you
 is not that you become

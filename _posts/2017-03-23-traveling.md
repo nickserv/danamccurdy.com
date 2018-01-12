@@ -4,7 +4,7 @@ published: true
 title: Traveling
 categories:
   - life
-image: 'http://i.imgur.com/Fmycxol.jpg'
+image: 'https://i.imgur.com/Fmycxol.jpg'
 ---
 What if you stepped into each moment
 like a new country,

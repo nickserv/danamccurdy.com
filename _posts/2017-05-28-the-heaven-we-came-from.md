@@ -4,7 +4,7 @@ published: true
 title: The Heaven We Came From
 categories:
   - life
-image: 'http://i.imgur.com/I1nVt9k.jpg'
+image: 'https://i.imgur.com/I1nVt9k.jpg'
 ---
 Are we born 
 already knowing

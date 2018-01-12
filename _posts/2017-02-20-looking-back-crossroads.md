@@ -4,7 +4,7 @@ published: true
 title: Looking Back / Crossroads
 categories:
   - life
-image: 'http://i.imgur.com/SoiG9Sk.jpg'
+image: 'https://i.imgur.com/SoiG9Sk.jpg'
 description: Looking back across 65 years of days and moments…
 ---
 Looking back across 65 years 

@@ -4,7 +4,7 @@ published: true
 title: A Song For The Child In Each Of Us
 categories:
   - life
-image: 'http://i.imgur.com/y7XD3L3.jpg'
+image: 'https://i.imgur.com/y7XD3L3.jpg'
 ---
 _In fond memory of Fred Rogers_
 

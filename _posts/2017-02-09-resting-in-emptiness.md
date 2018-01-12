@@ -4,7 +4,7 @@ published: true
 title: Resting In Emptiness
 categories:
   - life
-image: 'http://i.imgur.com/LaKOdSf.jpg'
+image: 'https://i.imgur.com/LaKOdSf.jpg'
 ---
 I have been living in a dream 
 where I am always on the verge

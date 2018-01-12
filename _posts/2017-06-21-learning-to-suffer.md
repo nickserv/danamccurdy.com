@@ -4,7 +4,7 @@ published: true
 title: Learning To Suffer
 categories:
   - life
-image: 'http://i.imgur.com/RsNYR0y.jpg'
+image: 'https://i.imgur.com/RsNYR0y.jpg'
 ---
 If you relax your hold
 on the rudder of your life,

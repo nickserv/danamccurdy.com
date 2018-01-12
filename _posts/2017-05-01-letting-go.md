@@ -4,7 +4,7 @@ published: true
 title: 'Letting Go (or: The Best Pizza in the World)'
 categories:
   - life
-image: 'http://i.imgur.com/Yp7LtPh.jpg'
+image: 'https://i.imgur.com/Yp7LtPh.jpg'
 ---
 The world giveth,
 and the world taketh away,

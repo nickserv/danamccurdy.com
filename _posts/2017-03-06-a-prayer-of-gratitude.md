@@ -4,7 +4,7 @@ published: true
 title: A Prayer of Gratitude
 categories:
   - life
-image: 'http://i.imgur.com/87HO3W6.jpg'
+image: 'https://i.imgur.com/87HO3W6.jpg'
 ---
 In this moment,
 I am alive,

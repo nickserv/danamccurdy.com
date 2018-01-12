@@ -4,7 +4,7 @@ published: true
 title: Us and Them
 categories:
   - life
-image: 'http://i.imgur.com/jwPUQax.jpg'
+image: 'https://i.imgur.com/jwPUQax.jpg'
 ---
 We may all 
 be assholes,

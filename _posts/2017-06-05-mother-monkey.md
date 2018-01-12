@@ -4,7 +4,7 @@ published: true
 title: Mother Monkey
 categories:
   - life
-image: 'http://i.imgur.com/hCNlgoR.jpg'
+image: 'https://i.imgur.com/hCNlgoR.jpg'
 ---
 I have an angry monkey
 careening through my mind,

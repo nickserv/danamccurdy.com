@@ -4,7 +4,7 @@ published: true
 title: Room for All of Us
 categories:
   - life
-image: 'http://i.imgur.com/BD7KVU6.jpg'
+image: 'https://i.imgur.com/BD7KVU6.jpg'
 ---
 There was a woman on the train
 who swatted out at me

@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: Practicing Dying
-image: 'http://i.imgur.com/R0vg10X.png'
+image: 'https://i.imgur.com/R0vg10X.png'
 categories:
   - life
 ---

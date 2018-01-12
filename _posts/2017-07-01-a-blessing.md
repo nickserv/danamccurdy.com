@@ -4,7 +4,7 @@ published: true
 title: A Blessing
 categories:
   - life
-image: 'http://i.imgur.com/l7E8MV3.jpg'
+image: 'https://i.imgur.com/l7E8MV3.jpg'
 ---
 I bless my body,
 as it blesses me.

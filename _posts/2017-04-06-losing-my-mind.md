@@ -4,7 +4,7 @@ published: true
 title: Losing My Mind
 categories:
   - life
-image: 'http://i.imgur.com/oyNbNUI.jpg'
+image: 'https://i.imgur.com/oyNbNUI.jpg'
 ---
 I am losing my mind,
 day by day,

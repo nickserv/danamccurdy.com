@@ -28,7 +28,7 @@ plugins:
   - jekyll-sitemap
 host: 0.0.0.0
 incremental: true
-kramdown: # http://kramdown.gettalong.org/options.html
+kramdown: # https://kramdown.gettalong.org/options.html
   hard_wrap: true
 permalink: pretty
 

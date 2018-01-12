@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: Completeness
-image: 'http://i.imgur.com/zi79YaB.jpg'
+image: 'https://i.imgur.com/zi79YaB.jpg'
 categories:
   - life
   - love

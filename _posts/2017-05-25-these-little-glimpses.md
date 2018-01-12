@@ -4,7 +4,7 @@ published: true
 title: these little glimpses
 categories:
   - life
-image: 'http://i.imgur.com/QMAhw1m.jpg'
+image: 'https://i.imgur.com/QMAhw1m.jpg'
 ---
 How can we be complacent,
 when we live in a universe like this?

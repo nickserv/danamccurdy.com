@@ -4,7 +4,7 @@ published: true
 title: My Little Aches and Pains
 categories:
   - life
-image: 'http://i.imgur.com/uqlM0fq.jpg'
+image: 'https://i.imgur.com/uqlM0fq.jpg'
 ---
 My little aches and pains 
 remind me,

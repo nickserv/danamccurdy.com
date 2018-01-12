@@ -4,7 +4,7 @@ published: true
 title: In the flow of life
 categories:
   - life
-image: 'http://i.imgur.com/VjAaHvm.jpg'
+image: 'https://i.imgur.com/VjAaHvm.jpg'
 ---
 The magic of a painting
 (or a photograph)

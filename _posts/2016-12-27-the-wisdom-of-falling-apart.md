@@ -4,7 +4,7 @@ published: true
 title: the wisdom of falling apart
 categories:
   - life
-image: 'http://i.imgur.com/PtQ3Xar.jpg'
+image: 'https://i.imgur.com/PtQ3Xar.jpg'
 ---
 We are born of Spirit,
 with no shape,

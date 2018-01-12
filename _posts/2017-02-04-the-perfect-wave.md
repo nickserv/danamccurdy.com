@@ -4,7 +4,7 @@ published: true
 title: The Perfect Wave
 categories:
   - life
-image: 'http://i.imgur.com/YVyOscC.jpg'
+image: 'https://i.imgur.com/YVyOscC.jpg'
 ---
 _With much gratitude
 to Venerable Amy Miller_

@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: Reasons for Gratitude
-image: 'http://i.imgur.com/ArDDVe3.jpg'
+image: 'https://i.imgur.com/ArDDVe3.jpg'
 categories:
   - life
 ---

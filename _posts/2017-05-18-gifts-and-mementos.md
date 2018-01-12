@@ -5,7 +5,7 @@ title: Gifts and Mementos
 categories:
   - life
   - love
-image: 'http://i.imgur.com/3J40C6S.png'
+image: 'https://i.imgur.com/3J40C6S.png'
 ---
 At this window,
 I stand in a tableau 

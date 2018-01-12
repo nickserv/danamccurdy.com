@@ -4,7 +4,7 @@ published: true
 title: What Was Hidden
 categories:
   - life
-image: 'http://i.imgur.com/2gTJoRw.jpg'
+image: 'https://i.imgur.com/2gTJoRw.jpg'
 ---
 Self-discovery
 is discarding who we think we are,

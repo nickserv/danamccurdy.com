@@ -4,7 +4,7 @@ published: true
 title: Presence
 categories:
   - life
-image: 'http://i.imgur.com/0swyDt5.jpg'
+image: 'https://i.imgur.com/0swyDt5.jpg'
 ---
 When I am HERE
 I don't know 

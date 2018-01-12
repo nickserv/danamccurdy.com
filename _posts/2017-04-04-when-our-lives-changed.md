@@ -4,7 +4,7 @@ published: true
 title: When Our Lives Changed
 categories:
   - life
-image: 'http://i.imgur.com/Fp0ih8Y.jpg'
+image: 'https://i.imgur.com/Fp0ih8Y.jpg'
 ---
 There was a time
 when we stood proud and secure,

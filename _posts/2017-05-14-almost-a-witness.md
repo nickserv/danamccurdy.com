@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: Almost a Witness
-image: 'http://i.imgur.com/QmZq4XV.jpg'
+image: 'https://i.imgur.com/QmZq4XV.jpg'
 categories:
   - life
 ---

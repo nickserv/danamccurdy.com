@@ -4,7 +4,7 @@ published: true
 title: ' The Sea, and "I"'
 categories:
   - life
-image: 'http://i.imgur.com/yvQ5Uge.jpg'
+image: 'https://i.imgur.com/yvQ5Uge.jpg'
 ---
 After this body dies,
 will “I” continue on?

@@ -4,7 +4,7 @@ published: true
 title: Bad and Good
 categories:
   - life
-image: 'http://i.imgur.com/PBNA7gu.jpg'
+image: 'https://i.imgur.com/PBNA7gu.jpg'
 ---
 Nothing is entirely bad,
 Or entirely good.
