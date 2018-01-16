@@ -11,7 +11,7 @@ exists only in my memory,
 a chain of thoughts
 I have thought about myself.
 
-It is the story strung together
+It is a story strung together
 from thought after thought,
 until this train of thought 
 seems to solidify 
