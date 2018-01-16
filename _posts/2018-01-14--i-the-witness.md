@@ -27,8 +27,8 @@ who sees these thoughts
 come and go,
 who sees everything
 come and go,
-welcoming 
-each new experience,
+welcoming
+each new moment,
 needing no story,
 no explanation.
 
