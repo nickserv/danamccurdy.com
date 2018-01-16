@@ -12,7 +12,7 @@ a chain of thoughts
 I have thought about myself.
 
 It is the story strung together
-from thoughts following thoughts,
+from thought after thought,
 until this train of thought 
 seems to solidify 
 into a sense of "me",
