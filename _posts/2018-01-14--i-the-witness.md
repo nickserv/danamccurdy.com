@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/rlSxNqF.jpg'
 ---
 The "me" I think I am
 exists only in my memory,
-as the chain of thoughts
+a chain of thoughts
 I have thought about myself.
 
 It is the story strung together
@@ -22,8 +22,7 @@ of my experience.
 
 How often I forget
 that there is an "I"
-who is the witness 
-of all this,
+who is witness to all this,
 who sees these thoughts
 come and go,
 who sees everything
