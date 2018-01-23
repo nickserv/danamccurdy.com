@@ -26,6 +26,7 @@ incremental: true
 kramdown: # https://kramdown.gettalong.org/options.html
   hard_wrap: true
 permalink: pretty
+livereload: true
 
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
