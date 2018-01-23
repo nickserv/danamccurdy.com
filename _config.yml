@@ -26,6 +26,7 @@ incremental: true
 kramdown: # https://kramdown.gettalong.org/options.html
   hard_wrap: true
 permalink: pretty
+livereload: true
 pagination:
   enabled: true
   sort_reverse: true
