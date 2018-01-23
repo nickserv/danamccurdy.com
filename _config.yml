@@ -21,11 +21,6 @@ defaults:
       type: posts
     values:
       layout: post
-plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
 host: 0.0.0.0
 incremental: true
 kramdown: # https://kramdown.gettalong.org/options.html
