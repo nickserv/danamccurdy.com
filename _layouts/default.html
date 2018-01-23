@@ -43,7 +43,7 @@
           <div class="collapse navbar-collapse">
             <!-- Pages -->
             <ul class="nav navbar-nav">
-              {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | sort: 'position' %}
+              {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | where_exp: 'link_page','link_page.autogen == nil' | sort: 'position' %}
               {% for link_page in link_pages %}
                 <li{% if page.title == link_page.title %} class="active"{% endif %}>
                   <a href="{{link_page.url}}">{{link_page.title}}</a>
