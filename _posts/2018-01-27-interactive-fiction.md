@@ -17,7 +17,7 @@ to this vortex of judgements,
 this cauldron of conflict?
 
 Why are we seduced
-by these delicious fabrications,
+by these delicious distortions,
 stoking the flames of our indignation,
 stroking our sense of righteousness?
 
