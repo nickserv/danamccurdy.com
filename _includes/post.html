@@ -40,7 +40,7 @@
     {% endif %}
 
     <!-- Image -->
-    {% if include.post.image %}
+    {% if include.post.image != "/assets/portrait.jpg" %}
       <img class="img-thumbnail" src="{{ include.post.image }}">
     {% endif %}
   </div>
