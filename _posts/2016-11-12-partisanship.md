@@ -3,7 +3,7 @@ centered: false
 published: true
 title: Partisanship
 categories:
-  -life
+  - life
 image: https://scontent.fewr1-2.fna.fbcdn.net/v/t1.0-9/14992051_10209516675366115_545883609890515864_n.jpg?oh=ab4f149a2f6c6b71d0ad5179dea8dddd&oe=58C71912
 ---
 There is something in the human mind

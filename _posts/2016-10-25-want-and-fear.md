@@ -3,7 +3,7 @@ centered: false
 published: true
 title: Want and Fear
 categories:
-  -life
+  - life
   - love
 ---
 I have wanted things
