@@ -2,11 +2,7 @@
 ---
 
 // Variables
-$a-color: #df691a;
-$border-color: #4e5d6c;
-$footer-list-spacing: 10px;
 $screen-sm: 768px;
-$table-border: 1px solid $border-color !important;
 
 // General
 
@@ -25,15 +21,9 @@ footer {
 
 @media (min-width: $screen-sm) {
   footer {
-    display: -webkit-box !important;
-    display: -webkit-flex !important;
-    display: -ms-flexbox !important;
-    display: flex !important;
+    display: flex;
 
     > div {
-      -ms-flex: 1;
-      -webkit-box-flex: 1;
-      -webkit-flex: 1;
       flex: 1;
 
       &:nth-child(2) {
@@ -69,7 +59,6 @@ blockquote {
   font-size: 15px;
   padding-top: 0;
   padding-bottom: 0;
-  text-align: left;
 
   h1, h2, h3, h4, h5, h6 {
     font-style: normal;
@@ -77,52 +66,9 @@ blockquote {
   }
 }
 
-.table {
-  border-top: $table-border;
-  font-size: inherit !important;
-
-  a:not(.btn) {
-    color: $a-color;
-  }
-
-  > {
-    thead > tr > th {
-      text-align: center;
-    }
-
-    tbody > tr > th,
-    thead > tr > th,
-    tbody > tr > td,
-    thead > tr > td {
-      border-bottom: $table-border;
-
-      &:not(:first-child) {
-        padding-left: 12px;
-      }
-
-      &:not(:last-child) {
-        padding-right: 12px;
-      }
-    }
-
-    tbody > tr:last-child > {
-      th,
-      td {
-        border-bottom: none !important;
-      }
-    }
-  }
-}
-
-.nav-pills {
-  a {
-    color: $a-color !important;
-    text-decoration: none;
-  }
-
-  .active a {
-    color: #ebebeb !important;
-  }
+.nav-pills > li > a {
+  color: #df691a;
+  text-decoration: none;
 }
 
 .custom-pager {
@@ -137,7 +83,7 @@ blockquote {
 // Standard navbar
 
 .navbar a {
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 @media (min-width: $screen-sm) {
@@ -163,13 +109,11 @@ blockquote {
 // Home page
 
 .jumbotron-home {
-  // fall back to the middle color stop on browsers without linear gradients
-  background-color: rgb(43, 75, 90) !important;
   // this is based off of the really cool gradient on https://bootswatch.com/
   background-image: linear-gradient(to top right, rgb(16, 30, 62) 0%, rgb(43, 75, 90) 87%, rgb(67, 94, 103) 100%);
 
   h1 {
-    font-size: 52px !important;
+    font-size: 52px;
     margin-top: 0;
   }
 
@@ -202,11 +146,7 @@ blockquote {
 // Drum circles
 
 .photos {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
   justify-content: center;
   margin: 1.25em 0;
 
@@ -241,8 +181,8 @@ blockquote {
   }
 
   > *:first-child {
-    margin-top: 0 !important;
-    margin-bottom: 5.25px !important;
+    margin-top: 0;
+    margin-bottom: 5.25px;
   }
 
   .img-thumbnail {
