@@ -2,9 +2,11 @@
 title: Relationships
 categories:
   - life
+published: true
+centered: false
 ---
 Relationships
-are far too complex
+are too complex
 to ever fully understand.
 
 The best we can do

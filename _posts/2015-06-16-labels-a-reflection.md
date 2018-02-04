@@ -1,11 +1,10 @@
 ---
-title: Labels- A Reflection
+title: Labels - A Reflection
 categories:
   - life
+published: true
+centered: false
 ---
-
-Labels: A Reflection
-
 If there were no Conservatives,
 no Libertarians,
 no Liberals,

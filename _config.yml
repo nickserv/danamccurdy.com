@@ -2,13 +2,8 @@
 # For Feed and SEO Tag plugins (https://github.com/jekyll/jekyll-seo-tag#usage)
 title: Dana McCurdy
 description: For me, life is about learning and creative expression. My goal as a human being and a professional is to promote and facilitate these in every way I can.
-url: http://danamccurdy.com
-author:
-  name: Dana McCurdy
-  uri: http://danamccurdy.com
-  email: danamcc221@gmail.com
-facebook:
-  publisher: https://www.facebook.com/danamcc
+url: https://danamccurdy.com
+logo: /assets/favicon.png
 social:
   links:
     - https://www.facebook.com/danamcc
@@ -20,20 +15,17 @@ social:
 # Configuration (https://jekyllrb.com/docs/configuration/)
 defaults:
   - values:
+      image: /assets/portrait.jpg
       layout: page
   - scope:
       type: posts
     values:
       layout: post
-gems:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
 incremental: true
-kramdown: # http://kramdown.gettalong.org/options.html
+kramdown: # https://kramdown.gettalong.org/options.html
   hard_wrap: true
 permalink: pretty
+livereload: true
 
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
@@ -42,36 +34,50 @@ prose:
     - assets
     - bin
     - poems
-    - '*.html'
     - .*
-    - CNAME
     - Gemfile
+    - Gemfile.lock
   media: assets
+  siteurl: https://danamccurdy.com
   metadata:
     _posts:
       - name: title
         field:
           element: text
           label: Title
-          help: The title of the poem in poem listings and tabs.
+          help: "The title of the post, page, or document. This is usually displayed in browsers, link previews, and headings on the website. Page titles also show up in the navbar and home page previews."
+          placeholder: REQUIRED
+      - name: description
+        field:
+          element: text
+          label: Description
+          help: "A short description of the page's content. This defaults to the excerpt, so you shouldn't need to change it normally. Unlike the excerpt, other sites can use this for previews."
+      - name: image
+        field:
+          element: text
+          label: Image URL
+          help: URL to an image associated with the post, page, or document (e.g., /assets/page-pic.jpg). The image URL must be absolute or root-relative. Defaults to the portrait photo. Posts display their image automatically, other documents only use them for previews. Images must be owned by you or licensed for free use.
       - name: categories
         field:
           element: multiselect
-          label: Categories
-          help: Categories to display the poem in.
+          label: Post Categories
+          help: The list of categories to which this post belongs. If this is left blank, the post will be hidden from the post listings.
+          placeholder: REQUIRED
           alterable: false
           options:
             - name: Life
               value: life
             - name: Love
               value: love
-      - name: image
-        field:
-          element: text
-          label: Image URL
-          help: An image to be displayed by the poem. The image URL must be absolute or root-relative.
+          value: life
       - name: centered
         field:
           element: checkbox
-          label: Centered
-          help: Enable to center the entire poem against the left border.
+          label: Centered Text
+          help: Enable to center the entire post against the left border.
+      - name: published
+        field:
+          element: checkbox
+          label: Published
+          help: "Disable to avoid automatically publishing the page. After the post's first commit, this can be changed through the editor's Published button."
+          value: true

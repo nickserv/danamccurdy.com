@@ -26,13 +26,13 @@ published: true
 </div>
 
 <!-- Main page excerpts (taken from page metadata) -->
-<div class="row excerpts">
+<div class="row">
   {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | sort: 'position' %}
   {% for link_page in link_pages %}
     <div class="col-md-3">
       <h2>{{ link_page.title }}</h2>
-      <p>{{ link_page.excerpt }}</p>
-      <a class="more-link" href="{{link_page.url}}">see more...</a>
+      <p>{{ link_page.excerpt | smartify }}</p>
+      <a href="{{link_page.url}}">see more...</a>
     </div>
   {% endfor %}
 </div>

@@ -2,13 +2,7 @@
 ---
 
 // Variables
-$a-color: #df691a;
-$border-color: #4e5d6c;
-$footer-list-spacing: 10px;
-$navbar-white: #ebebeb;
-$navbar-border: 1px dotted $navbar-white;
 $screen-sm: 768px;
-$table-border: 1px solid $border-color !important;
 
 // General
 
@@ -23,36 +17,16 @@ footer {
   > div {
     margin-bottom: 10.5px;
   }
-
-  .list-inline {
-    margin-bottom: 0;
-    margin-left: -$footer-list-spacing;
-
-    li {
-      padding-left: $footer-list-spacing;
-      padding-right: $footer-list-spacing;
-    }
-  }
 }
 
 @media (min-width: $screen-sm) {
   footer {
-    display: -webkit-box !important;
-    display: -webkit-flex !important;
-    display: -ms-flexbox !important;
-    display: flex !important;
+    display: flex;
 
     > div {
-      -ms-flex: 1;
-      -webkit-box-flex: 1;
-      -webkit-flex: 1;
       flex: 1;
 
       &:nth-child(2) {
-        text-align: center;
-      }
-
-      &:nth-child(3) {
         text-align: right;
       }
     }
@@ -67,136 +41,127 @@ dd {
 a {
   text-decoration: underline;
 
-  .glyphicon {
-    margin-right: 0.2em;
+  &.btn, &.label {
+    text-decoration: none;
   }
+}
+
+blockquote {
+  font-style: italic;
 }
 
 .page-heading {
   text-align: center;
 }
 
-.before-list {
-  margin-bottom: 0;
-}
+.manifesto {
+  border-left: 0;
+  font-size: 15px;
+  padding-top: 0;
+  padding-bottom: 0;
 
-.before-blockquote {
-  margin-bottom: 2px;
-}
-
-.manifesto,
-.manifesto p {
-  font-style: italic;
-  text-align: center;
-}
-
-.table {
-  border-top: $table-border;
-  font-size: inherit !important;
-
-  a:not(.btn) {
-    color: $a-color;
-  }
-
-  > {
-    thead > tr > th {
-      text-align: center;
-    }
-
-    tbody > tr > th,
-    thead > tr > th,
-    tbody > tr > td,
-    thead > tr > td {
-      border-bottom: $table-border;
-    }
-
-    tbody > tr:last-child > {
-      th,
-      td {
-        border-bottom: none !important;
-      }
-    }
+  h1, h2, h3, h4, h5, h6 {
+    font-style: normal;
+    margin-top: 0
   }
 }
 
-.nav-tabs {
-  margin-left: 15px;
+.nav-pills > li > a {
+  color: #df691a;
+  text-decoration: none;
+}
 
-  a {
-    color: $a-color !important;
-  }
-
-  .active a {
-    border-bottom-color: $border-color !important;
-  }
-
-  > li > a:hover {
-    text-decoration: underline;
-  }
+.custom-pager .btn {
+  margin-right: 0.25em;
 }
 
 // Standard navbar
 
 .navbar a {
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 @media (min-width: $screen-sm) {
-  .navbar-nav li {
-    border-left: $navbar-border;
-
-    &:last-child {
-      border-right: $navbar-border;
-    }
+  .navbar .container-fluid {
+    padding-right: 0;
   }
 }
 
 // Mobile navbar
 
 @media (max-width: $screen-sm - 1px) {
-  .navbar-nav li {
-    border-top: $navbar-border;
+  .navbar-collapse {
+    border-top: 0;
+  }
 
-    &:first-child {
-      border-top: 0;
-    }
+  .navbar-nav {
+    border-top: 1px solid #bf5a16;
+    margin-bottom: 0;
+    margin-top: 0;
   }
 }
 
 // Home page
 
 .jumbotron-home {
-  // fall back to the middle color stop on browsers without linear gradients
-  background-color: rgb(43, 75, 90) !important;
-  // this is based off of the really cool gradient on http://bootswatch.com
+  // this is based off of the really cool gradient on https://bootswatch.com/
   background-image: linear-gradient(to top right, rgb(16, 30, 62) 0%, rgb(43, 75, 90) 87%, rgb(67, 94, 103) 100%);
 
   h1 {
-    font-size: 52px !important;
+    font-size: 52px;
     margin-top: 0;
   }
-}
 
-.excerpts {
-  h2 {
-    text-align: center;
+  .portrait {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    margin-bottom: 15px;
+    margin-top: 0;
+
+    img {
+      margin-bottom: 10px;
+    }
   }
-
-  p {
-    text-align: justify;
-  }
 }
 
-.more-link {
-  margin-left: 20px;
-}
+// Music production
 
-.portrait cite {
+.panel-title a {
   display: block;
-  font-size: 12px;
-  font-weight: normal;
-  margin-bottom: 10px;
-  margin-top: 10px;
+  text-decoration: none;
+}
+
+.panel-body ul {
+  list-style: inside;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+// Drum circles
+
+.photos {
+  display: flex;
+  justify-content: center;
+  margin: 1.25em 0;
+
+  a {
+    margin: 0 2.08%;
+  }
+
+  img {
+    border: 1px solid white;
+    max-height: 15em;
+    max-width: 100%;
+  }
+}
+
+.carousel img {
+  margin: 0 auto;
+}
+
+.drum-circles h4 {
+  margin-bottom: 5.25px;
 }
 
 // Posts
@@ -207,9 +172,20 @@ a {
   .lead {
     font-size: inherit;
   }
+}
+
+.meta {
+  @media (min-width: $screen-sm) {
+    padding-left: 30px;
+  }
+
+  > *:first-child {
+    margin-top: 0;
+    margin-bottom: 5.25px;
+  }
 
   .img-responsive {
-    margin: 21px 0;
+    margin-top: 31.5px;
     max-width: 350px;
     width: 100%;
 
@@ -217,23 +193,13 @@ a {
       max-width: 90%;
     }
   }
-}
 
-@media (min-width: $screen-sm) {
-  .post .meta {
-    padding-left: 30px;
-  }
-}
+  .info {
+    margin-bottom: 31.5px;
 
-.meta > *:first-child {
-  margin-top: 0 !important;
-}
-
-.nav-tabs-back {
-  margin-left: 0;
-
-  a {
-    cursor: pointer !important;
+    .label, .label-group {
+      margin-left: 0.25em;
+    }
   }
 }
 

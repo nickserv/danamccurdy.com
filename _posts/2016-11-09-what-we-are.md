@@ -5,7 +5,7 @@ title: What We Are
 categories:
   -life
 image: >-
-  https://scontent.fewr1-2.fna.fbcdn.net/t31.0-8/15042020_10209473958818228_283842875300196252_o.jpg
+  https://scontent.fewr1-1.fna.fbcdn.net/v/t31.0-8/15042020_10209473958818228_283842875300196252_o.jpg?oh=b656088e338226ef747612b41d6ed7c0&oe=58E385B8
 ---
 _Another Postscript to the Election:_
 

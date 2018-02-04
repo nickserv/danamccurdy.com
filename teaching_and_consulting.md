@@ -1,9 +1,11 @@
 ---
 title: Teaching & Consulting
-icon: question-sign
 position: 1
-excerpt:
-  Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've been fascinated by the art and science of music technology, and how it contributes to the process of creative music making.
+excerpt: >-
+  Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've
+  been fascinated by the art and science of music technology, and how it
+  contributes to the process of creative music making.
+published: true
 ---
 
 Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've been fascinated by the art and science of music technology, and how it contributes to the process of creative music making.
@@ -12,7 +14,8 @@ A few years later, I started teaching others how to use this technology for thei
 
 Over the years, I have taught countless individuals, usually in their home studios, as well as hundreds of classes in various New York and New Jersey schools. As a consultant, I provide whatever technical support and coaching my clients may need to work effectively and complete their projects, from software and hardware installation and trouble-shooting, to MIDI production, engineering, editing, and mixing.
 
-## Subjects I teach (with some overlap)
+## Subjects I teach
+(with some overlap)
 - sound synthesis
 - sampling
 - home recording
@@ -22,24 +25,26 @@ Over the years, I have taught countless individuals, usually in their home studi
 - Native Instruments Komplete
 - ProTools (as an Avid-certified instructor)
 - Digital Performer
+- hand drumming
 
-## Schools I've taught at
-- New School University (NYC)
-- Harvestworks/Studio PASS (NYC)
-- Mannes School of Music (NYC)
-- High Tech High School (N. Bergen, NJ)
-- Ramapo College (Mahwah, NJ)
-- Vassar College (Poughkeepsie, NY)
-- Institute of Audio Research (NYC)
+## Where I've taught
+- New School University <small class="text-info">(NYC)</small>
+- Harvestworks/Studio PASS <small class="text-info">(NYC)</small>
+- Mannes School of Music <small class="text-info">(NYC)</small>
+- High Tech High School <small class="text-info">(N. Bergen, NJ)</small>
+- Ramapo College <small class="text-info">(Mahwah, NJ)</small>
+- Vassar College <small class="text-info">(Poughkeepsie, NY)</small>
+- Institute of Audio Research <small class="text-info">(NYC)</small>
+- P.S. 24 Elementary School <small class="text-info">(Paterson, NJ)</small>
 
-## Some of my notable students and clients
+## Some notable students and clients
 <!-- Start a definition list with a horizontal style and a paragraph tag wrapping each term. -->
 
 [Yusef Lateef](http://www.yuseflateef.com)
 
 : Grammy-winning jazz artist
 
-[Chico O'farrill](http://www.allmusic.com/artist/chico-ofarrill-mn0000111794)
+[Chico O'farrill](https://www.allmusic.com/artist/chico-ofarrill-mn0000111794)
 
 : composer/arranger (best known for his Latin jazz projects with _The Machito Band, Dizzie Gillespie,_ and other jazz luminaries)
 
@@ -55,7 +60,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 : film and TV composer (formerly of _Nine Inch Nails_)
 
-[Mike Mandel](http://www.discogs.com/artist/138771-Mike-Mandel)
+[Mike Mandel](https://www.discogs.com/artist/138771-Mike-Mandel)
 
 : TV composer and keyboardist (formerly keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
 
@@ -71,7 +76,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 : contemporary classical composer
 
-other
+Other
 
 : various clients of the NY and Pennsylvania Commissions for the Blind
 {: .dl-horizontal}

@@ -1,18 +1,23 @@
 ---
-title: Greenbrook Sanctuary- 2 poems
+title: Greenbrook Sanctuary - 2 poems
 categories:
   - life
+published: true
+centered: false
 ---
 
 Awash in my senses,
-I let go of words;
+I let go of words.
+
 Nailed to the moment,
 I have no poetry.
+
 Mind abandoned,
 the moment is the poem.
 
+____________________
 
 Geese,
-Following each other's wing,
-Write calligraphy,
-Adrift in the sky.
+following each other's wing,
+write calligraphy,
+adrift in the sky.

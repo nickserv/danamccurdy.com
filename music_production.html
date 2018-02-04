@@ -1,0 +1,103 @@
+---
+title: Music / Production
+position: 2
+excerpt: >-
+  From childhood on, I've always been surrounded by music and musicians, and
+  felt inspired to follow in their footsteps, both through creating my own
+  music, and supporting others in doing likewise.
+published: true
+layout: default
+---
+
+<div class="row">
+  <div class="col-md-8 col-md-offset-2">
+    <h1 class="page-heading">{{page.title}}</h1>
+
+    <p>From childhood on, I’ve always been surrounded by music and musicians, and have been  inspired to follow in their footsteps, both through creating my own music, and supporting others in doing likewise.</p>
+
+    <p>From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimental/electronic, and world music, my musical explorations have involved me in many diverse aspects of music creation and production, from composing and producing my own original music, to supporting other musical artists in various capacities.</p>
+
+    <div class="row">
+      <div class="col-sm-6">
+        <h2>Skills</h2>
+        <ul>
+          <li>synthesizer programming/sound design</li>
+          <li>MIDI production</li>
+          <li>music recording, producing, and mixing</li>
+          <li>audio editing</li>
+          <li>electronic music composition</li>
+          <li>song writing</li>
+          <li>guitar</li>
+          <li>vocals</li>
+          <li>keyboard</li>
+          <li>hand drums/percussion</li>
+        </ul>
+      </div>
+
+      <div class="col-sm-6">
+        <h3>Music Software</h3>
+        <ul>
+          <li>ProTools (Avid-certified user)</li>
+          <li>Digital Performer</li>
+          <li>Studio One</li>
+          <li>Logic</li>
+          <li>Reason</li>
+          <li>Recycle</li>
+          <li>Native Instruments Komplete</li>
+          <li>Metasynth</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% for category in site.data.music %}
+  <h2>{{category[0]}}</h2>
+
+  <div class="row">
+    {% for item in category[1] %}
+      <div class="col-md-6 col-lg-4">
+        <div class="panel panel-{% if item[1].url %}primary{% else %}default{% endif %}">
+          <div class="panel-heading{% if item[1].soundcloud or item[1].youtube %} text-center{% endif  %}">
+            <h3 class="panel-title">
+              {% if item[1].url %}<a href="{{item[1].url}}">{% endif %}
+                {{item[0] | smartify}}
+                <br>
+                <small>{{item[1].artist | smartify}}</small>
+              {% if item[1].url %}</a>{% endif %}
+            </h3>
+          </div>
+
+          {% if item[1].soundcloud %}
+            <div class="embed-responsive embed-responsive-4by3">
+              <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{item[1].soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+            </div>
+          {% endif %}
+
+          {% if item[1].youtube %}
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{item[1].youtube}}?rel=0" allowfullscreen=""></iframe>
+            </div>
+          {% endif %}
+
+          {% if item[1].description or item[1].labels.size > 0 %}
+            <div class="panel-body">
+              {{ item[1].description | smartify }}
+
+              {% if item[1].labels.size > 0 %}
+                <ul>
+                  {% for label in  item[1].labels %}
+                    <li>{{ label  }}</li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+
+      {% assign mod = forloop.index | modulo: 3 %}
+      {% if mod == 0 and mod != forloop.last%}</div><div class="row">{% endif %}
+    {% endfor %}
+  </div>
+{% endfor %}

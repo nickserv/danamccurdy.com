@@ -2,6 +2,8 @@
 title: Opening/ Possibility
 categories:
   - love
+published: true
+centered: false
 ---
 
 ### Opening
@@ -30,6 +32,8 @@ I see the child in you,
                         and see my soul,
       the soul we share.
 </pre>
+
+---
 
 ### Possibility
 

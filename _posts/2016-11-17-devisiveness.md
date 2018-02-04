@@ -3,8 +3,9 @@ centered: false
 published: true
 title: Devisiveness
 categories:
-  -life
-image: https://scontent.fewr1-2.fna.fbcdn.net/v/t1.0-9/15107280_10209553793734051_3085495207334398404_n.jpg?oh=f888cc350c33190f8059b01e13f69326&oe=58D34B58
+  - life
+image: >-
+  https://scontent.fewr1-2.fna.fbcdn.net/v/t1.0-9/15107280_10209553793734051_3085495207334398404_n.jpg?oh=f888cc350c33190f8059b01e13f69326&oe=58D34B58
 ---
 All too often,
 when emotions swamp us,
@@ -29,6 +30,7 @@ a thicket of division.
 
 How easily we forget,
 when pride consumes us,
-where we came from:
+the common source
+we came from:
 we are one family, 
 one mind.

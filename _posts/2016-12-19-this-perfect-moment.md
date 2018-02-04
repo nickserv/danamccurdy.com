@@ -3,8 +3,8 @@ centered: false
 published: true
 title: This Perfect Moment
 categories:
-  -life
-image: 'http://i.imgur.com/AIRONAQ.jpg'
+  - life
+image: 'https://i.imgur.com/AIRONAQ.jpg'
 ---
 In this perfect moment,
 wanting nothing,

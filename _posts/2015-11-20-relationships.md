@@ -11,7 +11,8 @@ A relationship
 built on what we long for,
 what we hope to be,
 is an edifice
-too weak, too brittle
+too weak, 
+too brittle
 to withstand the throws
 of time and change.
 

@@ -1,7 +1,9 @@
 ---
-title: Everything I didn't learn in kindergarten, I'm learning from my cat.
+title: 'Everything I didn''t learn in kindergarten, I''m learning from my cat'
 categories:
   - life
+published: true
+centered: false
 ---
 A cat has a brain
 The size of a walnut,
