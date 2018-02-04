@@ -125,12 +125,8 @@ blockquote {
   }
 }
 
-.custom-pager {
-  text-align: center;
-
-  .btn {
-    margin-right: 0.25em;
-  }
+.custom-pager .btn {
+  margin-right: 0.25em;
 }
 
 // Standard navbar
