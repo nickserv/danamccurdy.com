@@ -3,7 +3,7 @@ centered: false
 published: true
 title: Thoughts and Inspirations
 categories:
-- life
+  -life
 image: 'http://i.imgur.com/6xCeO6F.jpg'
 ---
 With Gratitude to Pema Chodron:

@@ -3,7 +3,7 @@ centered: false
 published: true
 title: the wisdom of falling apart
 categories:
-- life
+  -life
 image: 'http://i.imgur.com/PtQ3Xar.jpg'
 ---
 We are born of Spirit,

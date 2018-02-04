@@ -3,7 +3,7 @@ title: Relationships
 published: true
 centered: false
 categories:
-- life
+  -life
   - love
 ---
 
