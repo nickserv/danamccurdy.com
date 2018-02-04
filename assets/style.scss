@@ -248,10 +248,9 @@ blockquote {
     margin-bottom: 5.25px !important;
   }
 
-  .img-responsive {
+  .img-thumbnail {
     margin-top: 31.5px;
     max-width: 350px;
-    width: 100%;
 
     @media (min-width: $screen-sm) {
       max-width: 90%;
