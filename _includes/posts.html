@@ -18,16 +18,16 @@
   {% include post.html post=post %}
 {% endfor %}
 
-<ul class="pager">
+<div class="custom-pager">
   {% if paginator.previous_page %}
-    <li><a href="{{site.baseurl}}{{paginator.previous_page_path}}">Previous</a></li>
+    <a class="btn btn-default btn-sm" href="{{ paginator.previous_page_path }}" role="button">Previous</a>
   {% else %}
-    <li class="disabled"><a href="#">Previous</a></li>
+    <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Previous</a>
   {% endif %}
 
   {% if paginator.next_page %}
-    <li><a href="{{site.baseurl}}{{paginator.next_page_path}}">Next</a></li>
+    <a class="btn btn-default btn-sm" href="{{ paginator.next_page_path }}" role="button">Next</a>
   {% else %}
-    <li class="disabled"><a href="#">Next</a></li>
+    <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Next</a>
   {% endif %}
-</ul>
+</div>
