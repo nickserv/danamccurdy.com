@@ -97,7 +97,7 @@ layout: default
       </div>
 
       {% assign mod = forloop.index | modulo: 3 %}
-      {% unless forloop.last or mod != 0 %}</div><div class="row">{% endif %}
+      {% unless forloop.last or mod != 0 %}</div><div class="row">{% endunless %}
     {% endfor %}
   </div>
 {% endfor %}
