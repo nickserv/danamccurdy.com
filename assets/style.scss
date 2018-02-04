@@ -230,12 +230,8 @@ blockquote {
 
 // Posts
 
-.post {
-  margin-bottom: 21px;
-
-  .lead {
-    font-size: inherit;
-  }
+.post .lead {
+  font-size: inherit;
 }
 
 .meta {
