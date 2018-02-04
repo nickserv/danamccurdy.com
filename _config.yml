@@ -21,6 +21,11 @@ defaults:
       type: posts
     values:
       layout: post
+  - scope:
+      path: poems
+    values:
+      layout: posts
+      title: Poems
 incremental: true
 kramdown: # https://kramdown.gettalong.org/options.html
   hard_wrap: true
