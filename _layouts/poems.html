@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<!-- Template for a post listing within a specific category. -->
+<!-- Template for a poem listing within a specific category. -->
 
 {% capture intro %}{% include poems_intro.md %}{% endcapture %}
 {{ intro | markdownify }}
@@ -19,9 +19,9 @@ layout: page
   {% endfor %}
 </ul>
 
-{% for post in paginator.posts %}
+{% for poem in paginator.posts %}
   <hr>
-  {% include post.html post=post %}
+  {% include poem.html poem=poem %}
 {% endfor %}
 
 <hr>

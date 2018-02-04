@@ -1,21 +1,21 @@
-<!-- Template for rendering a single post, both individually and in a post listing. -->
+<!-- Template for rendering a single poem, both individually and in a poem listing. -->
 
-<div class="row post">
+<div class="row poem">
   <!-- Metadata -->
   <div class="col-sm-4 meta">
     <!-- Title -->
-    {% capture heading %}{% if page.layout == "post" %}h1{% else %}h2{% endif %}{% endcapture %}
-    <{{heading}}><a href="{{ include.post.url }}">{{ include.post.title }}</a></{{heading}}>
+    {% capture heading %}{% if page.layout == "poem" %}h1{% else %}h2{% endif %}{% endcapture %}
+    <{{heading}}><a href="{{ include.poem.url }}">{{ include.poem.title }}</a></{{heading}}>
 
     <!-- Info -->
     <p class="info">
       <!-- Date -->
-      <span class="text-info">{{ include.post.date | date_to_string }}</span>
+      <span class="text-info">{{ include.poem.date | date_to_string }}</span>
 
       <!-- Category -->
-      {% if page.layout == "post" %}
+      {% if page.layout == "poem" %}
         <span class="label-group">
-          {% for category in include.post.categories %}
+          {% for category in include.poem.categories %}
             <a class="label label-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
           {% endfor %}
         </span>
@@ -23,7 +23,7 @@
     </p>
 
     <!-- Pager -->
-    {% if page.layout == "post" %}
+    {% if page.layout == "poem" %}
       <div class="custom-pager">
         {% if page.previous %}
           <a class="btn btn-default btn-sm" href="{{ page.previous.url }}" title="{{ page.previous.title }}" role="button">Previous</a>
@@ -40,17 +40,17 @@
     {% endif %}
 
     <!-- Image -->
-    {% if include.post.image != "/assets/portrait.jpg" %}
-      <img class="img-thumbnail" src="{{ include.post.image }}">
+    {% if include.poem.image != "/assets/portrait.jpg" %}
+      <img class="img-thumbnail" src="{{ include.poem.image }}">
     {% endif %}
   </div>
 
   <!-- Content -->
   <div class="col-sm-8">
-    {% if include.post.centered %}
-      <div class="centered">{{ include.post.content }}</div>
+    {% if include.poem.centered %}
+      <div class="centered">{{ include.poem.content }}</div>
     {% else %}
-      {{ include.post.content }}
+      {{ include.poem.content }}
     {% endif %}
   </div>
 </div>
