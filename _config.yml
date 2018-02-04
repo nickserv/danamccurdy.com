@@ -39,6 +39,7 @@ prose:
     - poems
     - .*
     - Gemfile
+    - Gemfile.lock
   media: assets
   siteurl: https://danamccurdy.com
   metadata:
