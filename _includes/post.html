@@ -13,11 +13,13 @@
       <span class="text-info">{{ include.post.date | date_to_string }}</span>
 
       <!-- Category -->
-      <span class="label-group">
-        {% for category in include.post.categories %}
-          <a class="label label-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
-        {% endfor %}
-      </span>
+      {% if page.layout == "post" %}
+        <span class="label-group">
+          {% for category in include.post.categories %}
+            <a class="label label-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
+          {% endfor %}
+        </span>
+      {% endif %}
     </p>
 
     <!-- Pager -->
