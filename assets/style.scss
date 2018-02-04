@@ -245,10 +245,24 @@ blockquote {
 
   > *:first-child {
     margin-top: 0 !important;
+    margin-bottom: 5.25px !important;
   }
 
-  .label, .label-group {
-    margin-left: 0.25em;
+  .img-thumbnail {
+    margin-top: 31.5px;
+    max-width: 350px;
+
+    @media (min-width: $screen-sm) {
+      max-width: 90%;
+    }
+  }
+
+  .info {
+    margin-bottom: 31.5px;
+
+    .label, .label-group {
+      margin-left: 0.25em;
+    }
   }
 }
 
