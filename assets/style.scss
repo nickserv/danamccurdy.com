@@ -125,8 +125,12 @@ blockquote {
   }
 }
 
-.custom-pager .btn {
-  margin-right: 0.25em;
+.custom-pager {
+  text-align: center;
+
+  .btn {
+    margin-right: 0.25em;
+  }
 }
 
 // Standard navbar
@@ -227,7 +231,7 @@ blockquote {
 // Posts
 
 .post {
-  margin-bottom: 75px;
+  margin-bottom: 21px;
 
   .lead {
     font-size: inherit;

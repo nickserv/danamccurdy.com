@@ -20,23 +20,6 @@
       </span>
     </p>
 
-    <!-- Pager -->
-    {% if page.layout == "post" %}
-      <div class="custom-pager">
-        {% if page.previous != nil %}
-          <a class="btn btn-default btn-sm" href="{{ page.previous.url }}" title="{{ page.previous.title }}" role="button">Previous</a>
-        {% else %}
-          <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Previous</a>
-        {% endif %}
-
-        {% if page.next != nil %}
-          <a class="btn btn-default btn-sm" href="{{ page.next.url }}" title="{{ page.next.title }}" role="button">Next</a>
-        {% else %}
-          <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Next</a>
-        {% endif %}
-      </div>
-    {% endif %}
-
     <!-- Image -->
     {% if include.post.image %}
       <img class="img-responsive img-thumbnail" src="{{ include.post.image }}">
@@ -52,3 +35,20 @@
     {% endif %}
   </div>
 </div>
+
+<!-- Pager -->
+{% if page.layout == "post" %}
+  <div class="custom-pager">
+    {% if page.previous != nil %}
+      <a class="btn btn-default btn-sm" href="{{ page.previous.url }}" title="{{ page.previous.title }}" role="button">Previous</a>
+    {% else %}
+      <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Previous</a>
+    {% endif %}
+
+    {% if page.next != nil %}
+      <a class="btn btn-default btn-sm" href="{{ page.next.url }}" title="{{ page.next.title }}" role="button">Next</a>
+    {% else %}
+      <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Next</a>
+    {% endif %}
+  </div>
+{% endif %}
