@@ -80,14 +80,14 @@ layout: default
             </div>
           {% endif %}
 
-          {% if item[1].description or item[1].labels.size > 0 %}
+          {% if item[1].description or item[1].labels %}
             <div class="panel-body">
               {{ item[1].description | smartify }}
 
-              {% if item[1].labels.size > 0 %}
+              {% if item[1].labels %}
                 <ul>
-                  {% for label in  item[1].labels %}
-                    <li>{{ label  }}</li>
+                  {% for label in item[1].labels %}
+                    <li>{{ label }}</li>
                   {% endfor %}
                 </ul>
               {% endif %}
@@ -97,7 +97,7 @@ layout: default
       </div>
 
       {% assign mod = forloop.index | modulo: 3 %}
-      {% if mod == 0 and mod != forloop.last%}</div><div class="row">{% endif %}
+      {% unless forloop.last or mod != 0 %}</div><div class="row">{% endif %}
     {% endfor %}
   </div>
 {% endfor %}
