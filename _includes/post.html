@@ -4,10 +4,10 @@
   <!-- Metadata -->
   <div class="col-sm-4 meta">
     <!-- Title -->
-    {% if include.index == true %}
-      <h2><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
-    {% else %}
+    {% if page.layout == "post" %}
       <h1>{{ include.post.title }}</h1>
+    {% else %}
+      <h2><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
     {% endif %}
 
     <!-- Info -->
@@ -16,7 +16,7 @@
       <span class="text-info">{{ include.post.date | date_to_string }}</span>
 
       <!-- Category -->
-      {% if include.index != true %}
+      {% if page.layout == "post" %}
         <span class="label-group">
           {% for category in include.post.categories %}
             <a class="label label-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
@@ -26,7 +26,7 @@
     </p>
 
     <!-- Pager -->
-    {% if include.index != true %}
+    {% if page.layout == "post" %}
       <div class="custom-pager">
         {% if page.previous != nil %}
           <a class="btn btn-default btn-sm" href="{{ page.previous.url }}" title="{{ page.previous.title }}" role="button">Previous</a>
@@ -43,7 +43,7 @@
     {% endif %}
 
     <!-- Image -->
-    {% if include.index != true and include.post.image %}
+    {% if page.layout == "post" and include.post.image %}
       <img class="img-responsive img-thumbnail" src="{{ include.post.image }}">
     {% endif %}
   </div>
