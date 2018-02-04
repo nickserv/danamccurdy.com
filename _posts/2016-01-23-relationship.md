@@ -1,7 +1,8 @@
 ---
 title: Relationship
 categories:
-[life, love]
+  - life
+  - love
 published: true
 centered: true
 ---
