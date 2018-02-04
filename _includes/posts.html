@@ -19,14 +19,14 @@
 {% endfor %}
 
 <div class="custom-pager text-center">
-  {% if paginator.previous_page %}
-    <a class="btn btn-default btn-sm" href="{{ paginator.previous_page_path }}" role="button">Previous</a>
+  {% if paginator.next_page %}
+    <a class="btn btn-default btn-sm" href="{{ paginator.next_page_path }}" role="button">Previous</a>
   {% else %}
     <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Previous</a>
   {% endif %}
 
-  {% if paginator.next_page %}
-    <a class="btn btn-default btn-sm" href="{{ paginator.next_page_path }}" role="button">Next</a>
+  {% if paginator.previous_page %}
+    <a class="btn btn-default btn-sm" href="{{ paginator.previous_page_path }}" role="button">Next</a>
   {% else %}
     <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Next</a>
   {% endif %}
