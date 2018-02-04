@@ -17,6 +17,14 @@ layout: page
       </a>
     </li>
   {% endfor %}
+
+  {% capture path %}/poems/all/{% endcapture %}
+
+  <li {% if paginator.first_page_path == path %}class="active"{% endif %}>
+    <a href="{{ path }}">
+      all
+    </a>
+  </li>
 </ul>
 
 {% for poem in paginator.posts %}
