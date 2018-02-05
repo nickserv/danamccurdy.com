@@ -26,7 +26,7 @@ published: true
   {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | sort: 'position' %}
   {% for link_page in link_pages %}
     <div class="col-md-3">
-      <h2>{{ link_page.title }}</h2>
+      <h1>{{ link_page.title }}</h1>
       <p>{{ link_page.excerpt | smartify }}</p>
       <a href="{{link_page.url}}">see more...</a>
     </div>
