@@ -1,8 +1,6 @@
 # [Dana McCurdy's Website](https://danamccurdy.com)
 
-&copy; [Dana McCurdy](https://danamccurdy.com/)
-
-Website by [Nick McCurdy](http://nickmccurdy.com/)
+&copy; [Dana McCurdy](https://danamccurdy.com/) and [Nick McCurdy](http://nickmccurdy.com/)
 
 ## Authoring
 This site's content is stored in Markdown syntax, edited in Prose, and generated into a full site with Jekyll.
