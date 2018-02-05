@@ -1,6 +1,7 @@
 ---
 title: Acceptance
-categories: life
+categories:
+  - life
 ---
 In a place without judgement,
 there is room for acceptance.

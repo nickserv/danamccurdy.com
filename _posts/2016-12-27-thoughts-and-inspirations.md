@@ -4,7 +4,7 @@ published: true
 title: Thoughts and Inspirations
 categories:
   - life
-image: 'http://i.imgur.com/6xCeO6F.jpg'
+image: 'https://i.imgur.com/6xCeO6F.jpg'
 ---
 With Gratitude to Pema Chodron:
 

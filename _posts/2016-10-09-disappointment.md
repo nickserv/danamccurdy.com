@@ -1,6 +1,7 @@
 ---
 title: Disappointment
-category: love
+categories:
+  - love
 published: true
 ---
 

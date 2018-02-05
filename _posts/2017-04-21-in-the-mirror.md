@@ -4,7 +4,7 @@ published: true
 title: In the Mirror
 categories:
   - life
-image: 'http://i.imgur.com/5SCSXoh.jpg'
+image: 'https://i.imgur.com/5SCSXoh.jpg'
 ---
 As I look in the mirror
 with an open heart,

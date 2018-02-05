@@ -1,6 +1,7 @@
 ---
 title: I am what I am
-category: life
+categories:
+  - life
 published: true
 ---
 

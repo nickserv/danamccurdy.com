@@ -1,6 +1,7 @@
 ---
 title: The True Gift
-category: life
+categories:
+  - life
 ---
 
 When you lose somebody, look inside

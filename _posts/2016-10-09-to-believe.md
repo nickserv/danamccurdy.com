@@ -1,6 +1,7 @@
 ---
 title: To Believe
-category: life
+categories:
+  - life
 published: true
 ---
 

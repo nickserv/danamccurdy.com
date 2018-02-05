@@ -4,7 +4,7 @@ published: true
 title: 'Difference: To Those Who Hate'
 categories:
   - life
-image: 'http://i.imgur.com/MfGesk7.jpg'
+image: 'https://i.imgur.com/MfGesk7.jpg'
 ---
 You don't have to like
 those who seem different from you,

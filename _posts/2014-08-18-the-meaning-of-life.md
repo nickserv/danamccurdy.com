@@ -1,6 +1,7 @@
 ---
 title: The Meaning of Life
-categories: life
+categories:
+  - life
 ---
 To know the meaning of life,
 watch an animal

@@ -1,6 +1,7 @@
 ---
 title: My Gohonzon
-category: life
+categories:
+  - life
 ---
 
 My Gohonzon

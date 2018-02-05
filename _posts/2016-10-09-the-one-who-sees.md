@@ -1,6 +1,7 @@
 ---
 title: The One Who Sees
-category: life
+categories:
+  - life
 ---
 
 ﻿As you observe yourself,

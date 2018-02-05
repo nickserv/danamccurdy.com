@@ -1,6 +1,7 @@
 ---
 title: Perspective
-category: life
+categories:
+  - life
 ---
 I have hung
 my favorite painting

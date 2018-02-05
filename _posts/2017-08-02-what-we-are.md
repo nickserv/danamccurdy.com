@@ -4,7 +4,7 @@ published: true
 title: What We Are
 categories:
   - life
-image: 'http://i.imgur.com/CPLAUsE.jpg'
+image: 'https://i.imgur.com/CPLAUsE.jpg'
 ---
 There is no such thing
 as an asshole,

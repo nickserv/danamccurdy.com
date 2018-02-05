@@ -1,6 +1,7 @@
 ---
 title: The perfect teacher
-category: life
+categories:
+  - life
 ---
 
 A cat

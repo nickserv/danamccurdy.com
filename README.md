@@ -1,8 +1,6 @@
-# [Dana McCurdy's Website](http://danamccurdy.com)
+# [Dana McCurdy's Website](https://danamccurdy.com)
 
-&copy; [Dana McCurdy](http://danamccurdy.com/)
-
-Website by [Nick McCurdy](http://nickmccurdy.com/)
+&copy; [Dana McCurdy](https://danamccurdy.com/) and [Nick McCurdy](http://nickmccurdy.com/)
 
 ## Authoring
 This site's content is stored in Markdown syntax, edited in Prose, and generated into a full site with Jekyll.
@@ -44,9 +42,9 @@ Facebook caches metadata about a page when its link is shared, so you may notice
 ### Syntax
 
 #### Markdown Files (`*.md`)
-Refer to [Kramdown's quick reference](http://kramdown.gettalong.org/quickref.html) to learn the Markdown syntax supported in this site.
+Refer to [Kramdown's quick reference](https://kramdown.gettalong.org/quickref.html) to learn the Markdown syntax supported in this site.
 
-Please note that the [`hard_wrap` option](http://kramdown.gettalong.org/options.html#option-hard-wrap) is enabled, so returning to the next line will insert a line break without requiring you to append spaces or backslashes to the previous line. Additionally, Prose does not support this option nor some of the other extra features in Kramdown's version of the Markdown syntax, so Prose's Markdown preview may behave differently from the actual site.
+Please note that the [`hard_wrap` option](https://kramdown.gettalong.org/options.html#option-hard-wrap) is enabled, so returning to the next line will insert a line break without requiring you to append spaces or backslashes to the previous line. Additionally, Prose does not support this option nor some of the other extra features in Kramdown's version of the Markdown syntax, so Prose's Markdown preview may behave differently from the actual site.
 
 #### Jekyll Config (`_config.yml`)
 Refer to links in the file itself to learn about its configuration options, and [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/) to learn the YAML syntax used in the file.

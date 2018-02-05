@@ -1,6 +1,7 @@
 ---
 title: My Gift, My Burden
-category: life
+categories:
+  - life
 ---
 
 The world is a dangerous place,

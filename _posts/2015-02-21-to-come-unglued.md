@@ -1,6 +1,7 @@
 ---
 title: To Come Unglued
-category: life
+categories:
+  - life
 ---
 If I were to come unglued,
 what would I be,

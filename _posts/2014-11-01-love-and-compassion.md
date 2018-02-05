@@ -1,6 +1,7 @@
 ---
 title: Love and Compassion
-categories: life
+categories:
+  - life
 ---
 What unclenches
 the fist of fear?

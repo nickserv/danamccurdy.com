@@ -1,6 +1,7 @@
 ---
 title: Body and Spirit
-category: life
+categories:
+  - life
 ---
 
 As each moment rolls by,

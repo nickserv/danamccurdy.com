@@ -1,6 +1,7 @@
 ---
 title: my kingdom
-category: life
+categories:
+  - life
 ---
 
 If ego falls away,

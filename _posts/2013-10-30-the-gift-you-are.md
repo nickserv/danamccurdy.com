@@ -1,6 +1,7 @@
 ---
 title: The Gift You Are
-category: love
+categories:
+  - love
 ---
 
 The gift you are

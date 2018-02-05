@@ -1,6 +1,7 @@
 ---
 title: Who Is Jesus?
-category: life
+categories:
+  - life
 ---
 
 He was a man

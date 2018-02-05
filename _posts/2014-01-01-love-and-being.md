@@ -1,6 +1,8 @@
 ---
 title: love and Being
-categories: life love
+categories:
+  - life
+  - love
 ---
 
 It lies between us,

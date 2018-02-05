@@ -1,6 +1,7 @@
 ---
 title: Experience
-categories: life
+categories:
+  - life
 ---
 This is the fulcrum,
 This moment,

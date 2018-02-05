@@ -1,6 +1,7 @@
 ---
 title: I Stepped Out
-category: life
+categories:
+  - life
 ---
 
 A sound pulled me in,

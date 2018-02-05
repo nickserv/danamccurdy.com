@@ -1,6 +1,7 @@
 ---
 title: The "I Am" that I Am
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

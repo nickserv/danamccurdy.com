@@ -4,7 +4,7 @@ published: true
 title: Paths To Greatness
 categories:
   - life
-image: 'http://i.imgur.com/otga010.jpg'
+image: 'https://i.imgur.com/otga010.jpg'
 ---
 There are people we revere
 because they have done

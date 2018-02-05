@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: Your Selves
-image: 'http://i.imgur.com/dGWSYrX.png'
+image: 'https://i.imgur.com/dGWSYrX.png'
 categories:
   - life
 ---

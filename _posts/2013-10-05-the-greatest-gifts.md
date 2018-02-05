@@ -1,6 +1,7 @@
 ---
 title: The Greatest Gifts
-category: life
+categories:
+  - life
 ---
 
 The greatest gifts

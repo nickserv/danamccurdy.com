@@ -1,6 +1,7 @@
 ---
 title: The buddha in me
-category: life
+categories:
+  - life
 ---
 
 I have seen glimpses

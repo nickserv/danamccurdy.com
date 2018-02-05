@@ -4,7 +4,7 @@ published: true
 title: What I Leave Behind
 categories:
   - life
-image: 'http://i.imgur.com/2z2O6ZC.png'
+image: 'https://i.imgur.com/2z2O6ZC.png'
 ---
 There will come a time
 when I am dead and gone,

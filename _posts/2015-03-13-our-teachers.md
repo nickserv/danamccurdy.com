@@ -1,6 +1,7 @@
 ---
 title: Our Teachers
-category: life
+categories:
+  - life
 ---
 Spiritual seekers
 tend to deify their teachers,

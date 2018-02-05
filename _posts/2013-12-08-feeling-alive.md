@@ -1,6 +1,7 @@
 ---
 title: Feeling Alive
-category: life
+categories:
+  - life
 ---
 
 Sometimes,

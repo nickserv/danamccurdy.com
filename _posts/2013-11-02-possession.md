@@ -1,6 +1,7 @@
 ---
 title: Possession
-category: love
+categories:
+  - love
 ---
 
 You have never been mine,

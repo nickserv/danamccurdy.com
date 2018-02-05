@@ -1,6 +1,7 @@
 ---
 title: Two Ways Home
-category: life
+categories:
+  - life
 ---
 We came from Spirit,
 and we will return to Spirit.

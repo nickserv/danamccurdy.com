@@ -1,6 +1,7 @@
 ---
 title: Where Is a Poem Born?
-category: life
+categories:
+  - life
 ---
 
 Where is a poem born?

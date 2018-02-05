@@ -1,6 +1,7 @@
 ---
 title: Priorities
-category: life
+categories:
+  - life
 ---
 
 The mind

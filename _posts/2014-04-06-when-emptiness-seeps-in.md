@@ -1,6 +1,7 @@
 ---
 title: When Emptiness Seeps In
-category: life
+categories:
+  - life
 ---
 
 When your entertainment ends,

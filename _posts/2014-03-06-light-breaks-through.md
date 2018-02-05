@@ -1,6 +1,7 @@
 ---
 title: Light Breaks Through
-category: life
+categories:
+  - life
 ---
 
 Heart heavy,

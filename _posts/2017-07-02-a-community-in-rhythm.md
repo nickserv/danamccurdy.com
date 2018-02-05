@@ -4,7 +4,7 @@ published: true
 title: a community in rhythm
 categories:
   - life
-image: 'http://i.imgur.com/a5APwEf.jpg'
+image: 'https://i.imgur.com/a5APwEf.jpg'
 ---
 A circle of drummers 
 is like a ship,

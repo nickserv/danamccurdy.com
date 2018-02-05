@@ -1,6 +1,7 @@
 ---
 title: Thinking and Doing
-category: life
+categories:
+  - life
 published: true
 ---
 

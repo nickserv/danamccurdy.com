@@ -1,6 +1,7 @@
 ---
 title: Not Knowing
-category: life
+categories:
+  - life
 ---
 Not knowing
 is, perhaps,

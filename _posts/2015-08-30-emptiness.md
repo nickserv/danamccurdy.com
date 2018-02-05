@@ -1,6 +1,7 @@
 ---
 title: Emptiness
-category: life
+categories:
+  - life
 ---
 
 Our lives are spent

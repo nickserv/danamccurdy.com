@@ -1,6 +1,7 @@
 ---
 title: The Universe
-category: life
+categories:
+  - life
 ---
 Most likely,
 the universe doesn’t care,

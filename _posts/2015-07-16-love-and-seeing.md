@@ -1,6 +1,7 @@
 ---
 title: Love and Seeing
-category: life
+categories:
+  - life
 ---
 
 Each pair of eyes

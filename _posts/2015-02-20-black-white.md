@@ -1,6 +1,7 @@
 ---
 title: Black & White
-category: life
+categories:
+  - life
 ---
 Life is not black and white,
 nor is the truth.

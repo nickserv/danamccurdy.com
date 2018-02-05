@@ -1,6 +1,7 @@
 ---
 title: Life Well Lived
-categories: life
+categories:
+  - life
 ---
 Life well lived is a dance,
 a spontaneous song.

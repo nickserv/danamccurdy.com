@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: The world is always new
-image: 'http://i.imgur.com/MOf3N3u.jpg'
+image: 'https://i.imgur.com/MOf3N3u.jpg'
 categories:
   - life
 ---

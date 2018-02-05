@@ -1,6 +1,7 @@
 ---
 title: the sea I swim in
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

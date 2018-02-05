@@ -1,6 +1,7 @@
 ---
 title: Valentine
-category: love
+categories:
+  - love
 ---
 
 Well, we may not be Valentines

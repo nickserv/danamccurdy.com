@@ -4,7 +4,7 @@ published: true
 title: Gratitude
 categories:
   - life
-image: 'http://www.consciousreminder.com/wp-content/uploads/2016/09/gratitude-2.jpg'
+image: 'https://www.consciousreminder.com/wp-content/uploads/2016/09/gratitude-2.jpg'
 ---
 Gratitude
 is how we acknowledge

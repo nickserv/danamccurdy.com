@@ -1,6 +1,7 @@
 ---
 title: 'Ego and Being '
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

@@ -1,6 +1,7 @@
 ---
 title: Clouds and Sky
-category: life
+categories:
+  - life
 ---
 
 Thoughts and feelings

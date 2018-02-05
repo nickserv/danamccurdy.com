@@ -1,6 +1,7 @@
 ---
 title: Communication
-category: life
+categories:
+  - life
 published: true
 ---
 

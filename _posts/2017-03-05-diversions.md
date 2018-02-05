@@ -4,7 +4,7 @@ published: true
 title: Diversions
 categories:
   - life
-image: 'http://i.imgur.com/dJnjiL6.png'
+image: 'https://i.imgur.com/dJnjiL6.png'
 ---
 Often, I awaken
 in the middle of the night,

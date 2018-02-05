@@ -1,6 +1,7 @@
 ---
 title: The Power Of One (33 Steps)
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

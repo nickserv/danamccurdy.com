@@ -1,6 +1,7 @@
 ---
 title: Thinking About Einstein
-category: life
+categories:
+  - life
 ---
 
 If God does not play dice

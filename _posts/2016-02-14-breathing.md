@@ -1,6 +1,7 @@
 ---
 title: Breathing
-category: life
+categories:
+  - life
 published: true
 ---
 

@@ -4,7 +4,7 @@ published: true
 title: Why We're Here
 categories:
   - life
-image: 'http://i.imgur.com/zwm7mH4.jpg'
+image: 'https://i.imgur.com/zwm7mH4.jpg'
 ---
 It's nice to believe
 that we were sent here 

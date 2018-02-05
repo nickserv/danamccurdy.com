@@ -1,6 +1,7 @@
 ---
 title: Happiness
-category: life
+categories:
+  - life
 ---
 
 Face lit with glee,

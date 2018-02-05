@@ -1,6 +1,7 @@
 ---
 title: Time Spins On
-categories: life
+categories:
+  - life
 ---
 Time spins on,
 and the sun sinks below the sky,

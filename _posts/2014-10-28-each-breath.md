@@ -1,6 +1,7 @@
 ---
 title: Each Breath
-categories: life
+categories:
+  - life
 ---
 Disease is life’s way of reminding us
 that living is not always safe,

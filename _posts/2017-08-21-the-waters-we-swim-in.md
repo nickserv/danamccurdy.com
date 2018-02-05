@@ -4,7 +4,7 @@ published: true
 title: The Waters We Swim In
 categories:
   - life
-image: 'http://i.imgur.com/7vSRWyB.jpg'
+image: 'https://i.imgur.com/7vSRWyB.jpg'
 ---
 _(A reflection on mindfulness and social media)_
 

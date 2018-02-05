@@ -1,6 +1,7 @@
 ---
 title: Sad Stories
-category: life
+categories:
+  - life
 ---
 
 The sad stories we tell ourselves

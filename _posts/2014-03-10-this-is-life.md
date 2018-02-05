@@ -1,6 +1,7 @@
 ---
 title: This Is life!
-category: life
+categories:
+  - life
 ---
 
 Pry open the lid of your mind.

@@ -1,6 +1,7 @@
 ---
 title: Something tender
-category: love
+categories:
+  - love
 ---
 
 Something raw and tender

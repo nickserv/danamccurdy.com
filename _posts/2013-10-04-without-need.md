@@ -1,6 +1,7 @@
 ---
 title: Without Need
-category: life
+categories:
+  - life
 ---
 
 Without need,

@@ -1,6 +1,7 @@
 ---
 title: I Am the River
-categories: life
+categories:
+  - life
 ---
 I am the child,
 flailing in the river,

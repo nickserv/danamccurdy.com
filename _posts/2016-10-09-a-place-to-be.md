@@ -1,6 +1,7 @@
 ---
 title: A Place To Be
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

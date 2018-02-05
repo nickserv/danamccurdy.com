@@ -1,6 +1,7 @@
 ---
 title: our greatest gift
-category: life
+categories:
+  - life
 ---
 
 Our deepest love

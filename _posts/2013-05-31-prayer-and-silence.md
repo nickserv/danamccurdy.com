@@ -1,6 +1,7 @@
 ---
 title: Prayer and Silence
-category: life
+categories:
+  - life
 ---
 
 No loud or urgent prayer

@@ -4,7 +4,7 @@ published: true
 title: Equanimity
 categories:
   - life
-image: 'http://i.imgur.com/a3dsINZ.jpg'
+image: 'https://i.imgur.com/a3dsINZ.jpg'
 ---
 Equanimity
 is not indifference.

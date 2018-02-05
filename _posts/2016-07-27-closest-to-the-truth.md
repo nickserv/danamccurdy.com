@@ -1,6 +1,7 @@
 ---
 title: Closest to the truth
-category: life
+categories:
+  - life
 published: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: The Gifts of Life
-category: life
+categories:
+  - life
 ---
 
 Sometimes

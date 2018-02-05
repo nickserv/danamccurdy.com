@@ -1,6 +1,7 @@
 ---
 title: Emergencies
-categories: life
+categories:
+  - life
 ---
 Complacency is a drug.
 

@@ -4,7 +4,7 @@ published: true
 title: The World of Identity
 categories:
   - life
-image: 'http://i.imgur.com/7VnAdRC.jpg'
+image: 'https://i.imgur.com/7VnAdRC.jpg'
 ---
 The most important thing
 about another human being

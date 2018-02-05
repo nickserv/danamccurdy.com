@@ -1,6 +1,7 @@
 ---
 title: Love and Peace
-category: life
+categories:
+  - life
 ---
 
 love digs deep into the soul.

@@ -1,6 +1,7 @@
 ---
 title: THE INNER SEA
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

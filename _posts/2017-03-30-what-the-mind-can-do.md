@@ -4,7 +4,7 @@ published: true
 title: What the mind can do
 categories:
   - life
-image: 'http://i.imgur.com/8lsShEy.jpg'
+image: 'https://i.imgur.com/8lsShEy.jpg'
 ---
 What can the mind do
 when it isn't thinking?

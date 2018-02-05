@@ -1,6 +1,7 @@
 ---
 title: A Pathway Back
-category: life
+categories:
+  - life
 ---
 In every one of us,
 there is a universe of pain

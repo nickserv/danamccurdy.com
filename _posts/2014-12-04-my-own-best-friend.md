@@ -1,6 +1,7 @@
 ---
 title: My Own Best Friend
-categories: life
+categories:
+  - life
 ---
 What if I were my own best friend?
 

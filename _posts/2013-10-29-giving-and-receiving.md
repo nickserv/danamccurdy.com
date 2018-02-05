@@ -1,6 +1,7 @@
 ---
 title: Giving & Receiving
-category: life
+categories:
+  - life
 ---
 
 Give gratefully;

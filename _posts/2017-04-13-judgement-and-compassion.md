@@ -4,7 +4,7 @@ published: true
 title: Judgement and Compassion
 categories:
   - life
-image: 'http://i.imgur.com/6U9lUZH.jpg'
+image: 'https://i.imgur.com/6U9lUZH.jpg'
 ---
 There are two approaches 
 to viewing our human experience:

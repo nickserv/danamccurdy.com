@@ -4,7 +4,7 @@ published: true
 title: The Way Forward
 categories:
   - life
-image: 'http://i.imgur.com/pdYbOvE.jpg'
+image: 'https://i.imgur.com/pdYbOvE.jpg'
 ---
 Do not look back with regret
 At what you haven't done.

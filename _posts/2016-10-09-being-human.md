@@ -1,6 +1,7 @@
 ---
 title: Being Human
-category: life
+categories:
+  - life
 published: true
 ---
 

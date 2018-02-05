@@ -1,6 +1,7 @@
 ---
 title: Everything
-category: life
+categories:
+  - life
 ---
 
 ﻿This little me

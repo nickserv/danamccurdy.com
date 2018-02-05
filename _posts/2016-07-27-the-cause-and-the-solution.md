@@ -1,6 +1,7 @@
 ---
 title: The cause and the solution
-category: life
+categories:
+  - life
 ---
 
 Everywhere we look,

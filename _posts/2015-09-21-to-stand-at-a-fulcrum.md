@@ -1,6 +1,7 @@
 ---
 title: To Stand at a Fulcrum
-category: life
+categories:
+  - life
 ---
 
 Every moment

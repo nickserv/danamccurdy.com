@@ -1,6 +1,7 @@
 ---
 title: "A Dream: A Promise"
-category: love
+categories:
+  - love
 ---
 
 If you were naked beside me,

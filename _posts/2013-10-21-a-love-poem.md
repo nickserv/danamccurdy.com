@@ -1,6 +1,7 @@
 ---
 title: A love poem
-category: love
+categories:
+  - love
 ---
 
 There is a dream,

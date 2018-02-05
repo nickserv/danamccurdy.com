@@ -1,6 +1,7 @@
 ---
 title: 'Two Moments: Freedom & Coda'
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

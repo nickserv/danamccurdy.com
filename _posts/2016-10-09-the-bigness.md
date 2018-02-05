@@ -1,6 +1,7 @@
 ---
 title: The bigness
-category: life
+categories:
+  - life
 ---
 
 We mostly live In bubbles

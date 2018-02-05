@@ -1,6 +1,7 @@
 ---
 title: The Best Possible Company
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

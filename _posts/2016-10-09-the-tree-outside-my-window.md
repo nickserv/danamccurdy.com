@@ -1,6 +1,7 @@
 ---
 title: The tree outside my window
-category: life
+categories:
+  - life
 ---
 
 The tree

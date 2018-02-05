@@ -1,6 +1,7 @@
 ---
 title: Serendipity
-category: life
+categories:
+  - life
 published: true
 ---
 

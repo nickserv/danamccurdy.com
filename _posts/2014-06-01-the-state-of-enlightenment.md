@@ -1,6 +1,7 @@
 ---
 title: The State of Enlightenment
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

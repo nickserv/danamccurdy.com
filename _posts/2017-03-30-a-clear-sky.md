@@ -4,7 +4,7 @@ published: true
 title: A Clear Sky
 categories:
   - life
-image: 'http://i.imgur.com/3oPlYRy.jpg'
+image: 'https://i.imgur.com/3oPlYRy.jpg'
 ---
 Enlightenment 
 is like a clear sky,

@@ -1,6 +1,7 @@
 ---
 title: Against the quiet night
-category: life
+categories:
+  - life
 ---
 
 Against the quiet night,

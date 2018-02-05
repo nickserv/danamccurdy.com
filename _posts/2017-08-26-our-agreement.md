@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: Our Agreement
-image: 'http://i.imgur.com/FYhlTzK.jpg'
+image: 'https://i.imgur.com/FYhlTzK.jpg'
 categories:
   - life
 ---

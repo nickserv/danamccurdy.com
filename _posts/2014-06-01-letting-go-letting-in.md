@@ -1,6 +1,7 @@
 ---
 title: Letting Go, Letting In
-category: life
+categories:
+  - life
 ---
 
 Ony when you let everything go

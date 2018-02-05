@@ -1,6 +1,7 @@
 ---
 title: Wholeness
-category: life
+categories:
+  - life
 ---
 
 Each moment

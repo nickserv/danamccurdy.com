@@ -1,6 +1,7 @@
 ---
 title: In Love with Everything
-category: life
+categories:
+  - life
 ---
 
 To throw your heart

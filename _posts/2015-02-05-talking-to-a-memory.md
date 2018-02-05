@@ -1,6 +1,7 @@
 ---
 title: Talking to a Memory
-category: love
+categories:
+  - love
 ---
 In this moment,
 I look to see who’s there,

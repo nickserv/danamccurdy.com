@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: Above the Clouds
-image: 'http://i.imgur.com/5hklcES.jpg'
+image: 'https://i.imgur.com/5hklcES.jpg'
 categories:
   - life
 ---

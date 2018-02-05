@@ -1,6 +1,7 @@
 ---
 title: Helplessness
-category: life
+categories:
+  - life
 ---
 
 Helplessness

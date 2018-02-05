@@ -1,6 +1,7 @@
 ---
 title: Ending and Beginning
-category: life
+categories:
+  - life
 ---
 
 Bare branches

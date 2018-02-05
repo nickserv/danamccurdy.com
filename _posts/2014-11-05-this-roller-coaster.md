@@ -1,6 +1,7 @@
 ---
 title: This Roller Coaster
-categories: life
+categories:
+  - life
 ---
 On this roller coaster,
 there are no tracks,

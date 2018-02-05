@@ -1,6 +1,7 @@
 ---
 title: Opening/ Possibility
-category: love
+categories:
+  - love
 published: true
 centered: false
 ---

@@ -1,6 +1,7 @@
 ---
 title: The World Inside
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

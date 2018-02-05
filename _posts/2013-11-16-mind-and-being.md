@@ -1,6 +1,7 @@
 ---
 title: Mind & Being
-category: life
+categories:
+  - life
 ---
 
 In the tiny world of mind,

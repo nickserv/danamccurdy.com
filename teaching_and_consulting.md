@@ -44,7 +44,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 : Grammy-winning jazz artist
 
-[Chico O'farrill](http://www.allmusic.com/artist/chico-ofarrill-mn0000111794)
+[Chico O'farrill](https://www.allmusic.com/artist/chico-ofarrill-mn0000111794)
 
 : composer/arranger (best known for his Latin jazz projects with _The Machito Band, Dizzie Gillespie,_ and other jazz luminaries)
 
@@ -60,7 +60,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 : film and TV composer (formerly of _Nine Inch Nails_)
 
-[Mike Mandel](http://www.discogs.com/artist/138771-Mike-Mandel)
+[Mike Mandel](https://www.discogs.com/artist/138771-Mike-Mandel)
 
 : TV composer and keyboardist (formerly keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
 

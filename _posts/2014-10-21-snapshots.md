@@ -1,6 +1,7 @@
 ---
 title: Snapshots
-categories: life
+categories:
+  - life
 ---
 As the landscape around us comes and goes,
 so does the landscape within.

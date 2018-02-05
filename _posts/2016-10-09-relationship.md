@@ -1,6 +1,7 @@
 ---
 title: Relationship
-category: love
+categories:
+  - love
 published: true
 centered: false
 ---

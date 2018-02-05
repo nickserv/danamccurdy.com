@@ -4,7 +4,7 @@ published: true
 title: The Narrative
 categories:
   - life
-image: 'http://i.imgur.com/3vZsGqu.png'
+image: 'https://i.imgur.com/3vZsGqu.png'
 ---
 I don't give a shit about Donald Trump.
  

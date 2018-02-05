@@ -1,6 +1,7 @@
 ---
 title: Suffering and Peace
-category: life
+categories:
+  - life
 ---
 
 All our stories of suffering

@@ -4,7 +4,7 @@ published: true
 title: I Am Nothing
 categories:
   - life
-image: 'http://i.imgur.com/xdBKGe9.jpg'
+image: 'https://i.imgur.com/xdBKGe9.jpg'
 ---
 Empty and open,
 I am nothing 

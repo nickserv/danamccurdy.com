@@ -2,7 +2,7 @@
 centered: false
 published: true
 title: Dear Mr. President
-image: 'http://i.imgur.com/mneaWLH.jpg'
+image: 'https://i.imgur.com/mneaWLH.jpg'
 categories:
   - life
 ---

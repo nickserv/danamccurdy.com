@@ -1,6 +1,7 @@
 ---
 title: Life dances endlessly
-category: life
+categories:
+  - life
 published: true
 ---
 

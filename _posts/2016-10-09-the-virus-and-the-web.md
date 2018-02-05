@@ -1,9 +1,10 @@
 ---
 title: The Virus and the Web
-category: life
+categories:
+  - life
 published: true
 centered: false
-image: 'http://i.imgur.com/acYoW7z.jpg'
+image: 'https://i.imgur.com/acYoW7z.jpg'
 ---
 
 The world we each live in

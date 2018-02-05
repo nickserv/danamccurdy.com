@@ -1,6 +1,7 @@
 ---
 title: love and Self
-category: love
+categories:
+  - love
 ---
 
 When I talk to you,
