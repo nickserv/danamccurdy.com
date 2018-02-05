@@ -1,6 +1,7 @@
 ---
 title: This Night
-categories: life
+categories:
+  - life
 ---
 The vividness of this night
 Explodes against the senses,

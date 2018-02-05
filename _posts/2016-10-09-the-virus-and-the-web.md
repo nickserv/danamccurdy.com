@@ -1,6 +1,7 @@
 ---
 title: The Virus and the Web
-category: life
+categories:
+  - life
 published: true
 centered: false
 image: 'https://i.imgur.com/acYoW7z.jpg'

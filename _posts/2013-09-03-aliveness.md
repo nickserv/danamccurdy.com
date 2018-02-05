@@ -1,6 +1,7 @@
 ---
 title: Aliveness
-category: life
+categories:
+  - life
 ---
 
 Scared awake,

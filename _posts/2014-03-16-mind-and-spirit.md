@@ -1,6 +1,7 @@
 ---
 title: Mind and Spirit
-category: life
+categories:
+  - life
 ---
 
 The mind says

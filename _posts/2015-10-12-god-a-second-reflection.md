@@ -1,6 +1,7 @@
 ---
 title: God ( a second reflection)
-category: life
+categories:
+  - life
 ---
 
 God ( a second reflection)

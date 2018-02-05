@@ -1,6 +1,7 @@
 ---
 title: Like vs. "Like"
-category: life
+categories:
+  - life
 ---
 
 I used to like a lot of things,

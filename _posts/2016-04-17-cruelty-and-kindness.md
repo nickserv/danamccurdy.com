@@ -1,6 +1,7 @@
 ---
 title: Cruelty and kindness
-category: life
+categories:
+  - life
 published: true
 ---
 

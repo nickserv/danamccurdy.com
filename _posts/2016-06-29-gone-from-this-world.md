@@ -1,6 +1,7 @@
 ---
 title: Gone from this world
-category: love
+categories:
+  - love
 published: true
 centered: true
 ---

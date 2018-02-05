@@ -1,6 +1,7 @@
 ---
 title: What we see
-category: life
+categories:
+  - life
 published: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: the path forward
-category: life
+categories:
+  - life
 ---
 
 All too often,

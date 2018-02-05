@@ -1,6 +1,7 @@
 ---
 title: My Four Agreements (with gratitude to Don Miguel Ruiz)
-category: life
+categories:
+  - life
 ---
 
 In each moment,

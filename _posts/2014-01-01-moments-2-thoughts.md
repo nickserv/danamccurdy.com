@@ -1,6 +1,7 @@
 ---
 title: "Moments: 2 Thoughts"
-category: life
+categories:
+  - life
 ---
 
 Afloat in a river of moments,

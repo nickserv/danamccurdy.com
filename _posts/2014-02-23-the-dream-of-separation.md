@@ -1,6 +1,7 @@
 ---
 title: The Dream of Separation
-category: life
+categories:
+  - life
 ---
 
 Do not give your love away,

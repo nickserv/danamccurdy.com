@@ -1,6 +1,7 @@
 ---
 title: What Can't Be Broken
-category: life
+categories:
+  - life
 ---
 
 When something feels broken,

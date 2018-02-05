@@ -1,6 +1,7 @@
 ---
 title: Somewhere to be
-category: life
+categories:
+  - life
 published: true
 ---
 

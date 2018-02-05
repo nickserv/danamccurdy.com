@@ -1,6 +1,7 @@
 ---
 title: Everything and Nothing
-category: life
+categories:
+  - life
 ---
 My God
    is within me.

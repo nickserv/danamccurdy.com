@@ -1,6 +1,7 @@
 ---
 title: A Note To My Self
-category: life
+categories:
+  - life
 ---
 
 All my life,

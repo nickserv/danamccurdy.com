@@ -1,6 +1,7 @@
 ---
 title: On Awakening
-category: love
+categories:
+  - love
 published: true
 ---
 

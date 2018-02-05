@@ -1,6 +1,7 @@
 ---
 title: A Beautiful Animal
-categories: love
+categories:
+  - love
 ---
 You appeared in my life
 as a beautiful animal,

@@ -1,6 +1,7 @@
 ---
 title: Everything Dances
-category: life
+categories:
+  - life
 ---
 
 Everything dances.

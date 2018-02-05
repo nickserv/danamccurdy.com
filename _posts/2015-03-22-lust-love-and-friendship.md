@@ -1,6 +1,7 @@
 ---
 title: Lust, Love, & Friendship
-category: love
+categories:
+  - love
 ---
 Lust can open a door,
 But only love

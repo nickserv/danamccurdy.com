@@ -1,6 +1,7 @@
 ---
 title: Communion
-category: life
+categories:
+  - life
 ---
 
 Through the communion of your hands,

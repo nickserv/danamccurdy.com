@@ -1,6 +1,7 @@
 ---
 title: Being Is Enough
-category: life
+categories:
+  - life
 ---
 
 Sometimes,

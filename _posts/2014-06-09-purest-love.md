@@ -1,6 +1,8 @@
 ---
 title: Purest Love
-categories: life love
+categories:
+  - life
+  - love
 ---
 The purest love
 is like fresh air to the heart.

@@ -1,6 +1,7 @@
 ---
 title: New affirmation
-category: life
+categories:
+  - life
 centered: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: What Shakespeare Knew
-categories: life
+categories:
+  - life
 ---
 We are all actors,
 acting in our own plays.

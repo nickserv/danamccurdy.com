@@ -1,6 +1,7 @@
 ---
 title: If I am not the person...
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

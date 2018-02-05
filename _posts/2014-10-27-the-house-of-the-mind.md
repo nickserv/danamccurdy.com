@@ -1,6 +1,7 @@
 ---
 title: The House of the Mind
-categories: life
+categories:
+  - life
 ---
 The house of the mind
 is too small to live in.

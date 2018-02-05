@@ -1,6 +1,7 @@
 ---
 title: Little Rooms
-category: life
+categories:
+  - life
 ---
 In most moments,
 we live in little locked rooms,

@@ -1,6 +1,7 @@
 ---
 title: Through That Lense
-category: life
+categories:
+  - life
 published: true
 ---
 

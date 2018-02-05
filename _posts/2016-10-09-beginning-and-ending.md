@@ -1,6 +1,7 @@
 ---
 title: Beginning and Ending
-category: life
+categories:
+  - life
 ---
 
 Time

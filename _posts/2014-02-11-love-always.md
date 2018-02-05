@@ -1,6 +1,8 @@
 ---
 title: "Love, Always"
-categories: life love
+categories:
+  - life
+  - love
 ---
 
 "I will love you always"

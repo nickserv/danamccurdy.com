@@ -1,6 +1,7 @@
 ---
 title: Life and Death
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

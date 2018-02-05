@@ -1,6 +1,7 @@
 ---
 title: Tommorrow Never Tweets
-category: life
+categories:
+  - life
 ---
 
 Turn off your phone,

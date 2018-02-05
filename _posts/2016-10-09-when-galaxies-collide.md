@@ -1,6 +1,7 @@
 ---
 title: When galaxies collide
-category: life
+categories:
+  - life
 ---
 
 When galaxies collide,

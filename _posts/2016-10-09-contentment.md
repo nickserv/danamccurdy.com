@@ -1,6 +1,7 @@
 ---
 title: Contentment
-category: life
+categories:
+  - life
 ---
 
 ﻿Well fed,

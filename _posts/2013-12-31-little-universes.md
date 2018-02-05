@@ -1,6 +1,7 @@
 ---
 title: Little Universes
-category: life
+categories:
+  - life
 ---
 
 We live in a BIG universe.

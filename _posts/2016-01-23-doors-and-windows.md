@@ -1,6 +1,7 @@
 ---
 title: Doors and Windows
-category: life
+categories:
+  - life
 ---
 
 ﻿There is a universe

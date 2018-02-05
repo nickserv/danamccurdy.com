@@ -1,6 +1,7 @@
 ---
 title: I Could say goodbye
-category: life
+categories:
+  - life
 ---
 
 I could say goodbye

@@ -1,6 +1,7 @@
 ---
 title: To Create My Life
-category: life
+categories:
+  - life
 ---
 I am finding the strength
 and inspiration,

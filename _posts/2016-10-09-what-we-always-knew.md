@@ -1,6 +1,7 @@
 ---
 title: What we always knew
-category: love
+categories:
+  - love
 published: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Ego & Freedom
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

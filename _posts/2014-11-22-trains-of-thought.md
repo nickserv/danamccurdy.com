@@ -1,6 +1,7 @@
 ---
 title: Trains of Thought
-categories: life
+categories:
+  - life
 ---
 When a train of thought begins,
 it has no tracks,

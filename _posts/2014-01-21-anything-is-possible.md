@@ -1,6 +1,7 @@
 ---
 title: Anything Is Possible
-category: life
+categories:
+  - life
 ---
 
 We give power to what we pay attention to.

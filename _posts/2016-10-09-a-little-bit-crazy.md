@@ -1,6 +1,7 @@
 ---
 title: A little bit crazy
-category: life
+categories:
+  - life
 published: true
 ---
 

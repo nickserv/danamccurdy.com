@@ -1,6 +1,7 @@
 ---
 title: To a Departed Friend
-categories: love
+categories:
+  - love
 ---
 Where is that shoulder I leaned on,
 those sympathetic ears?

@@ -1,6 +1,8 @@
 ---
 title: Purest love
-categories: life love
+categories:
+  - life
+  - love
 ---
 
 The purest love

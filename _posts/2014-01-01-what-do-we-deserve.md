@@ -1,6 +1,7 @@
 ---
 title: What do we deserve?
-category: life
+categories:
+  - life
 ---
 
 What do we deserve?

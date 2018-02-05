@@ -1,6 +1,7 @@
 ---
 title: who I am not
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

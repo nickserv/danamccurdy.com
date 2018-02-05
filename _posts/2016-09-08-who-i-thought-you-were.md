@@ -1,6 +1,7 @@
 ---
 title: who I thought you were
-category: love
+categories:
+  - love
 published: true
 ---
 

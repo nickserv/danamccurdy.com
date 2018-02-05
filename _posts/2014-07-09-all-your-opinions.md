@@ -1,6 +1,7 @@
 ---
 title: All Your Opinions
-category: love
+categories:
+  - love
 ---
 
 All your opinions

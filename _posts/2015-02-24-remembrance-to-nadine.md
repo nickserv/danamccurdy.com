@@ -1,6 +1,7 @@
 ---
 title: Remembrance - To Nadine
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

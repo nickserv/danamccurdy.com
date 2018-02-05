@@ -1,6 +1,7 @@
 ---
 title: Failure and Forgiveness
-category: love
+categories:
+  - love
 published: true
 ---
 

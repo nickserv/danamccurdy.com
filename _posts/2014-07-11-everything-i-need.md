@@ -1,6 +1,7 @@
 ---
 title: Everything I need
-categories: life
+categories:
+  - life
 ---
 I have everything I need.
 

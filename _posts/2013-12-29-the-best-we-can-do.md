@@ -1,6 +1,7 @@
 ---
 title: The Best We Can Do
-category: life
+categories:
+  - life
 ---
 
 It is beyond human capacity for anyone

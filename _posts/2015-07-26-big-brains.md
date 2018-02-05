@@ -1,6 +1,7 @@
 ---
 title: Big Brains
-category: life
+categories:
+  - life
 ---
 
 Before history,

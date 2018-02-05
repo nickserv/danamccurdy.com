@@ -1,6 +1,7 @@
 ---
 title: Life Moves On
-category: life
+categories:
+  - life
 ---
 Life moves on.
 

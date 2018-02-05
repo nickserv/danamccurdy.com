@@ -1,6 +1,7 @@
 ---
 title: Two Thoughts on Letting Go
-category: life
+categories:
+  - life
 ---
 
 I am dying,

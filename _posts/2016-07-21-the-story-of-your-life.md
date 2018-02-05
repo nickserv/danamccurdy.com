@@ -1,6 +1,7 @@
 ---
 title: The Story of Your Life
-category: life
+categories:
+  - life
 published: true
 centered: true
 ---

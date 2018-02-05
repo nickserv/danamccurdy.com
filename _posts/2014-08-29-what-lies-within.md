@@ -1,6 +1,7 @@
 ---
 title: What Lies Within
-categories: life
+categories:
+  - life
 ---
 Why do we try so hard to protect ourselves,
 when what lies within us

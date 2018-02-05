@@ -1,6 +1,7 @@
 ---
 title: To A Lost Colleague
-categories: life
+categories:
+  - life
 ---
 Walking to the door with your mask of indifference,
 What price do you pay for your daily compromise?

@@ -1,6 +1,7 @@
 ---
 title: Without a Lens
-category: life
+categories:
+  - life
 ---
 To see the world
 without a lens,

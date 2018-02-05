@@ -1,6 +1,7 @@
 ---
 title: My Vehicle
-category: life
+categories:
+  - life
 ---
 
 I have an old car -

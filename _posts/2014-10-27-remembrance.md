@@ -1,6 +1,7 @@
 ---
 title: Remembrance
-categories: love
+categories:
+  - love
 ---
 Your picture frame needs cleaning,
 your essence obscured by the grime of entropy.

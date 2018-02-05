@@ -1,6 +1,7 @@
 ---
 title: Our Futures
-category: life
+categories:
+  - life
 ---
 
 All futures are possible.

@@ -1,6 +1,7 @@
 ---
 title: Our True Power
-category: life
+categories:
+  - life
 centered: true
 ---
 

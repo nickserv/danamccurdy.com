@@ -1,6 +1,7 @@
 ---
 title: A Poem For My Friend
-category: love
+categories:
+  - love
 ---
 
 Sometimes, words aren’t enough,

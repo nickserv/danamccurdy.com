@@ -1,6 +1,7 @@
 ---
 title: Truth and Words
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

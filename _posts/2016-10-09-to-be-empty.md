@@ -1,6 +1,7 @@
 ---
 title: To Be Empty
-category: life
+categories:
+  - life
 published: true
 ---
 

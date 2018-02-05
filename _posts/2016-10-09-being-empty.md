@@ -1,6 +1,7 @@
 ---
 title: Being Empty
-category: life
+categories:
+  - life
 ---
 
 When you are empty,

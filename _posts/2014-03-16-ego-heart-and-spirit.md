@@ -1,6 +1,8 @@
 ---
 title: Ego, Heart & Spirit
-categories: life love
+categories:
+  - life
+  - love
 ---
 
 Between two egos,

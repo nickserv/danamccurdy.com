@@ -1,6 +1,7 @@
 ---
 title: Grace creeps up
-category: life
+categories:
+  - life
 published: true
 ---
 

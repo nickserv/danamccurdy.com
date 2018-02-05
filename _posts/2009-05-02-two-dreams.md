@@ -1,6 +1,7 @@
 ---
 title: Two Dreams
-category: love
+categories:
+  - love
 ---
 
 What if you turned to me, in the middle of the night,

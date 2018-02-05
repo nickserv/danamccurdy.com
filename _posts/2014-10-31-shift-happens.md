@@ -1,6 +1,7 @@
 ---
 title: Shift Happens
-categories: life
+categories:
+  - life
 ---
 When something inside shifts,
 and the light shines through,

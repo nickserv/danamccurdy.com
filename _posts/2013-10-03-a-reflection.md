@@ -1,6 +1,7 @@
 ---
 title: A Reflection
-category: life
+categories:
+  - life
 published: true
 centered: false
 ---

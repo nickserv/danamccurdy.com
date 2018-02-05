@@ -1,6 +1,7 @@
 ---
 title: Two Moments
-category: love
+categories:
+  - love
 published: true
 centered: false
 ---

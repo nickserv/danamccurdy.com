@@ -1,6 +1,7 @@
 ---
 title: Everything Is Now
-category: life
+categories:
+  - life
 ---
 
 Everything is Now,

@@ -1,6 +1,7 @@
 ---
 title: Born in This Moment
-category: life
+categories:
+  - life
 published: true
 ---
 

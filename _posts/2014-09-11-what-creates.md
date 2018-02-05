@@ -1,6 +1,7 @@
 ---
 title: What Creates?
-categories: life
+categories:
+  - life
 ---
 What creates?
 

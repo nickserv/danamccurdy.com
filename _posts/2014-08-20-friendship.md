@@ -1,6 +1,7 @@
 ---
 title: Friendship
-categories: life
+categories:
+  - life
 ---
 What is the thread of friendship?
 Is it seeing and knowing another as they are,

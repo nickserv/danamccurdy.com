@@ -1,6 +1,7 @@
 ---
 title: To a New Friend
-categories: love
+categories:
+  - love
 ---
 Your friendship
 is like a warm blanket,

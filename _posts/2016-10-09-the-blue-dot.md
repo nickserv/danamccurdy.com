@@ -1,6 +1,7 @@
 ---
 title: The Blue Dot
-category: life
+categories:
+  - life
 published: true
 ---
 

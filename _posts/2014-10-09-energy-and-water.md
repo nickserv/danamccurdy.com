@@ -1,6 +1,7 @@
 ---
 title: Energy and Water
-categories: life
+categories:
+  - life
 ---
 Human energy
 is like water,
