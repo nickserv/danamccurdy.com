@@ -45,9 +45,13 @@ blockquote {
   }
 }
 
-.nav-pills > li > a {
-  color: #df691a;
-  text-decoration: none;
+.nav-pills {
+  margin: 21px 0;
+
+  > li > a {
+    color: #df691a;
+    text-decoration: none;
+  }
 }
 
 .custom-pager .btn {
@@ -171,6 +175,10 @@ blockquote {
       margin-left: 0.25em;
     }
   }
+}
+
+.content {
+  margin-bottom: 31.5px;
 }
 
 .whitespaced-text {
