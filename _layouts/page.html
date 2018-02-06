@@ -5,11 +5,7 @@ layout: default
 <!-- Layout for main pages -->
 
 <div class="row">
-  <div class="col-md-8 col-md-offset-2{% if page.title == "Drum Circles" %} drum-circles{% endif %}">
-    {% if page.title == "Drum Circles" %}
-      {% include drum_circle_photos.html %}
-    {% endif %}
-
+  <div class="col-md-8 col-md-offset-2">
     {{content}}
   </div>
 </div>

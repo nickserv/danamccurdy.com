@@ -11,6 +11,8 @@ published: true
 image: '/assets/drum_circles/featured/d_at_morristown.jpg'
 ---
 
+{% include drum_circle_photos.html %}
+
 Rhythm has always been the most compelling and visceral aspect of music for me. The sheer variety and power of percussive sounds has led me to explore the endless potential of various hand drums and percussion instruments, on my own and with others, to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
 
 In 2001, in response to my emotional stress from the World Trade Center attack, I was moved to begin a regular communal drumming practice, which I have continued, in various community settings, as a therapeutic, meditative, and recreational practice for my own well-being, and to help promote the well-being of others.
