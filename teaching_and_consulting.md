@@ -1,4 +1,5 @@
 ---
+layout: narrow
 title: Teaching & Consulting
 position: 1
 excerpt: >-

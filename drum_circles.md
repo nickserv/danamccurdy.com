@@ -1,4 +1,5 @@
 ---
+layout: narrow
 title: Drum Circles
 position: 3
 excerpt: >-
