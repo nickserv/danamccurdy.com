@@ -50,13 +50,8 @@ blockquote {
   text-decoration: none;
 }
 
-.custom-pager {
-  margin-bottom: 31.5px;
-  margin-top: 31.5px;
-
-  .btn {
-    margin-right: 0.25em;
-  }
+.custom-pager .btn {
+  margin-right: 0.25em;
 }
 
 // Standard navbar
@@ -160,6 +155,8 @@ blockquote {
   }
 
   .img-thumbnail {
+    display: block;
+    margin: 31.5px 0;
     max-width: 350px;
 
     @media (min-width: $screen-sm) {
@@ -168,6 +165,8 @@ blockquote {
   }
 
   .info {
+    margin-bottom: 31.5px;
+
     .label, .label-group {
       margin-left: 0.25em;
     }
