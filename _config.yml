@@ -16,7 +16,7 @@ social:
 defaults:
   - values:
       image: /assets/portrait.jpg
-      layout: default
+      layout: page
   - scope:
       type: posts
     values:

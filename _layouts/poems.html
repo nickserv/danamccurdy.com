@@ -4,8 +4,13 @@ layout: default
 
 <!-- Template for a poem listing within a specific category. -->
 
-{% capture intro %}{% include poems_intro.md %}{% endcapture %}
-{{ intro | markdownify }}
+<div class="row">
+  <div class="col-md-8 col-md-offset-2">
+
+    {% capture intro %}{% include poems_intro.md %}{% endcapture %}
+    {{ intro | markdownify }}
+  </div>
+</div>
 
 <ul class="nav nav-pills" role="tablist">
   {% for category in site.categories %}
