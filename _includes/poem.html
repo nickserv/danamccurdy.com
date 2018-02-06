@@ -4,8 +4,7 @@
   <!-- Metadata -->
   <div class="col-sm-4 meta">
     <!-- Title -->
-    {% capture heading %}{% if page.layout == "poem" %}h1{% else %}h2{% endif %}{% endcapture %}
-    <{{heading}}><a href="{{ include.poem.url }}">{{ include.poem.title }}</a></{{heading}}>
+    <h1><a href="{{ include.poem.url }}">{{ include.poem.title }}</a></h1>
 
     <!-- Info -->
     <p class="info">

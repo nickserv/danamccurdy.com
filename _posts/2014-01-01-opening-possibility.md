@@ -6,7 +6,7 @@ published: true
 centered: false
 ---
 
-### Opening
+# Opening
 
 <pre class="whitespaced-text">
 it's nice to love you,
@@ -35,7 +35,7 @@ I see the child in you,
 
 ---
 
-### Possibility
+# Possibility
 
 <pre class="whitespaced-text">
 It's nice to love you,

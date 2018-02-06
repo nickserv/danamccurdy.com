@@ -4,7 +4,7 @@ categories:
   - love
 ---
 
-### A Reflection
+# A Reflection
 
 There was a moment
 when we shared being,
@@ -16,7 +16,7 @@ egos relaxing,
 we discovered ourselves
 in each other.
 
-### Another Reflection
+# Another Reflection
 
 What do we protect,
 when we protect ourselves?
