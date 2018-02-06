@@ -54,8 +54,13 @@ blockquote {
   text-decoration: none;
 }
 
-.custom-pager .btn {
-  margin-right: 0.25em;
+.custom-pager {
+  margin-bottom: 31.5px;
+  margin-top: 31.5px;
+
+  .btn {
+    margin-right: 0.25em;
+  }
 }
 
 // Standard navbar
@@ -147,14 +152,10 @@ blockquote {
   margin-bottom: 5.25px;
 }
 
-// Posts
+// Poems
 
-.post {
-  margin-bottom: 75px;
-
-  .lead {
-    font-size: inherit;
-  }
+.poem .lead {
+  font-size: inherit;
 }
 
 .meta {
@@ -167,10 +168,8 @@ blockquote {
     margin-bottom: 5.25px;
   }
 
-  .img-responsive {
-    margin-top: 31.5px;
+  .img-thumbnail {
     max-width: 350px;
-    width: 100%;
 
     @media (min-width: $screen-sm) {
       max-width: 90%;
@@ -178,8 +177,6 @@ blockquote {
   }
 
   .info {
-    margin-bottom: 31.5px;
-
     .label, .label-group {
       margin-left: 0.25em;
     }

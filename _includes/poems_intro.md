@@ -1,4 +1,4 @@
-<!-- The introduction for both post listings (both life and love poems). -->
+<!-- The introduction for both poem listings (both life and love poems). -->
 
 Beyond the world of discovery that music has been for me, there was always the bigger world, the universe of questions about what we're a part of, how it works, and how to best fit into the larger whole.
 

@@ -23,7 +23,7 @@ published: true
 
 <!-- Main page excerpts (taken from page metadata) -->
 <div class="row">
-  {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position != nil' | sort: 'position' %}
+  {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position' | where_exp: 'link_page','link_page.autogen == nil' | sort: 'position' %}
   {% for link_page in link_pages %}
     <div class="col-md-3">
       <h1>{{ link_page.title }}</h1>

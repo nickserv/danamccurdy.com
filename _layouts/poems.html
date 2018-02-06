@@ -1,0 +1,51 @@
+---
+layout: page
+---
+
+<!-- Template for a poem listing within a specific category. -->
+
+{% capture intro %}{% include poems_intro.md %}{% endcapture %}
+{{ intro | markdownify }}
+
+<ul class="nav nav-pills" role="tablist">
+  {% for category in site.categories %}
+    {% capture path %}/poems/{% if category[0] != "life" %}{{ category[0] }}/{% endif %}{% endcapture %}
+
+    <li {% if paginator.first_page_path == path %}class="active"{% endif %}>
+      <a href="{{ path }}">
+        {{ category[0] }}
+      </a>
+    </li>
+  {% endfor %}
+
+  {% capture path %}/poems/all/{% endcapture %}
+
+  <li {% if paginator.first_page_path == path %}class="active"{% endif %}>
+    <a href="{{ path }}">
+      all
+    </a>
+  </li>
+</ul>
+
+{% for poem in paginator.posts %}
+  <hr>
+  {% include poem.html poem=poem %}
+{% endfor %}
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-offset-4 col-sm-8 custom-pager">
+    {% if paginator.next_page %}
+      <a class="btn btn-default btn-sm" href="{{ paginator.next_page_path }}" role="button">Previous</a>
+    {% else %}
+      <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Previous</a>
+    {% endif %}
+
+    {% if paginator.previous_page %}
+      <a class="btn btn-default btn-sm" href="{{ paginator.previous_page_path }}" role="button">Next</a>
+    {% else %}
+      <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Next</a>
+    {% endif %}
+  </div>
+</div>

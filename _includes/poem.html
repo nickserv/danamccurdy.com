@@ -1,24 +1,21 @@
-<!-- Template for rendering a single post, both individually and in a post listing. -->
+<!-- Template for rendering a single poem, both individually and in a poem listing. -->
 
-<div class="row post">
+<div class="row poem">
   <!-- Metadata -->
   <div class="col-sm-4 meta">
     <!-- Title -->
-    {% if include.index == true %}
-      <h2><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
-    {% else %}
-      <h1>{{ include.post.title }}</h1>
-    {% endif %}
+    {% capture heading %}{% if page.layout == "poem" %}h1{% else %}h2{% endif %}{% endcapture %}
+    <{{heading}}><a href="{{ include.poem.url }}">{{ include.poem.title }}</a></{{heading}}>
 
     <!-- Info -->
     <p class="info">
       <!-- Date -->
-      <span class="text-info">{{ include.post.date | date_to_string }}</span>
+      <span class="text-info">{{ include.poem.date | date_to_string }}</span>
 
       <!-- Category -->
-      {% if include.index != true %}
+      {% if page.layout == "poem" %}
         <span class="label-group">
-          {% for category in include.post.categories %}
+          {% for category in include.poem.categories %}
             <a class="label label-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
           {% endfor %}
         </span>
@@ -26,15 +23,15 @@
     </p>
 
     <!-- Pager -->
-    {% if include.index != true %}
+    {% if page.layout == "poem" %}
       <div class="custom-pager">
-        {% if page.previous != nil %}
+        {% if page.previous %}
           <a class="btn btn-default btn-sm" href="{{ page.previous.url }}" title="{{ page.previous.title }}" role="button">Previous</a>
         {% else %}
           <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Previous</a>
         {% endif %}
 
-        {% if page.next != nil %}
+        {% if page.next %}
           <a class="btn btn-default btn-sm" href="{{ page.next.url }}" title="{{ page.next.title }}" role="button">Next</a>
         {% else %}
           <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Next</a>
@@ -43,17 +40,17 @@
     {% endif %}
 
     <!-- Image -->
-    {% if include.index != true and include.post.image %}
-      <img class="img-responsive img-thumbnail" src="{{ include.post.image }}">
+    {% if include.poem.image != "/assets/portrait.jpg" %}
+      <img class="img-thumbnail" src="{{ include.poem.image }}">
     {% endif %}
   </div>
 
   <!-- Content -->
   <div class="col-sm-8">
-    {% if include.post.centered == true %}
-      <div class="centered">{{ include.post.content }}</div>
+    {% if include.poem.centered %}
+      <div class="centered">{{ include.poem.content }}</div>
     {% else %}
-      {{ include.post.content }}
+      {{ include.poem.content }}
     {% endif %}
   </div>
 </div>
