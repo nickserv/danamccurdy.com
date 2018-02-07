@@ -1,7 +1,7 @@
 <!-- Template for rendering a single poem, both individually and in a poem listing. -->
 
 <div class="row poem">
-  <div class="col-sm-4">
+  <div class="col-sm-4 hidden-xs">
     <!-- Image -->
     {% if include.poem.image != "/assets/portrait.jpg" %}
       <img class="img-thumbnail" src="{{ include.poem.image }}">
@@ -25,6 +25,13 @@
         </span>
       {% endif %}
     </p>
+
+    <div class="visible-xs-block">
+      <!-- Image -->
+      {% if include.poem.image != "/assets/portrait.jpg" %}
+        <img class="img-thumbnail" src="{{ include.poem.image }}">
+      {% endif %}
+    </div>
 
     <!-- Content -->
     <div class="content {% if include.poem.centered %}centered{% endif %}">
