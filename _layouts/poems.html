@@ -33,11 +33,8 @@ layout: default
 </ul>
 
 {% for poem in paginator.posts %}
-  <hr>
   {% include poem.html poem=poem %}
 {% endfor %}
-
-<hr>
 
 <div class="row">
   <div class="col-sm-offset-4 col-sm-8 custom-pager">
