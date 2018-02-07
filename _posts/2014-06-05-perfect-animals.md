@@ -5,13 +5,11 @@ categories:
   - love
 ---
 
-<pre class="whitespaced-text">
-Being and playing,
-  We are perfect animals;
-Drumming and dancing,
-  We are perfect animals;
-Entwined in love,
-  We are perfect animals;
-Our minds at peace,
-  We are perfect animals.
-</pre>
+    Being and playing,
+      We are perfect animals;
+    Drumming and dancing,
+      We are perfect animals;
+    Entwined in love,
+      We are perfect animals;
+    Our minds at peace,
+      We are perfect animals.

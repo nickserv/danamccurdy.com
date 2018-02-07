@@ -8,9 +8,8 @@ centered: true
 
 # My Demographic
 
-as performed by Little Davey and the Metrics
-(with apologies and gratitude to Pete Townshend)
-{: .lead}
+_as performed by Little Davey and the Metrics
+(with apologies and gratitude to Pete Townshend)_
 
 Companies try to pin us down,
 (Talking’ ‘bout My Demographics)

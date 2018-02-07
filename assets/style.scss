@@ -104,6 +104,7 @@ blockquote {
 
     img {
       margin-bottom: 10px;
+      width: 200px;
     }
   }
 }
@@ -152,10 +153,6 @@ blockquote {
     padding-left: 0;
   }
 
-  .lead {
-    font-size: inherit;
-  }
-
   h1 {
     margin-top: 0;
   }
@@ -172,22 +169,18 @@ blockquote {
   .label, .label-group {
     margin-left: 0.25em;
   }
-}
 
-.whitespaced-text {
-  background-color: inherit;
-  border: 0;
-  color: inherit;
-  font: inherit;
-  padding: 0;
-}
+  pre, code {
+    all: unset;
+    white-space: pre;
 
-.centered {
-  display: inline-block;
-  text-align: center;
-}
+    code {
+      all: unset;
+    }
+  }
 
-.vertical-space {
-  // Twice the size of Bootstrap's bottom margin for paragraphs
-  height: 21px;
+  .centered {
+    display: inline-block;
+    text-align: center;
+  }
 }

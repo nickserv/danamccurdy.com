@@ -23,7 +23,7 @@ safely,
 without incident,
 and I am grateful.
 
-<div class="vertical-space"></div>
+---
 
 I have a body
 which has known
