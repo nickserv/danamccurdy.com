@@ -144,23 +144,16 @@ blockquote {
 
 // Poems
 
-.poem .lead {
-  font-size: inherit;
-}
-
-.meta {
-  @media (min-width: $screen-sm) {
-    padding-left: 30px;
+.poem {
+  .lead {
+    font-size: inherit;
   }
 
-  > *:first-child {
+  h1 {
     margin-top: 0;
-    margin-bottom: 5.25px;
   }
 
   .img-thumbnail {
-    display: block;
-    margin: 31.5px 0;
     max-width: 350px;
 
     @media (min-width: $screen-sm) {
@@ -168,17 +161,9 @@ blockquote {
     }
   }
 
-  .info {
-    margin-bottom: 31.5px;
-
-    .label, .label-group {
-      margin-left: 0.25em;
-    }
+  .label, .label-group {
+    margin-left: 0.25em;
   }
-}
-
-.content {
-  margin-bottom: 31.5px;
 }
 
 .whitespaced-text {

@@ -1,13 +1,18 @@
 <!-- Template for rendering a single poem, both individually and in a poem listing. -->
 
 <div class="row poem">
-  <!-- Metadata -->
-  <div class="col-sm-4 meta">
+  <div class="col-sm-4">
+    <!-- Image -->
+    {% if include.poem.image != "/assets/portrait.jpg" %}
+      <img class="img-thumbnail" src="{{ include.poem.image }}">
+    {% endif %}
+  </div>
+
+  <div class="col-sm-8">
     <!-- Title -->
     <h1><a href="{{ include.poem.url }}">{{ include.poem.title }}</a></h1>
 
-    <!-- Info -->
-    <p class="info">
+    <p>
       <!-- Date -->
       <span class="text-info">{{ include.poem.date | date_to_string }}</span>
 
@@ -20,6 +25,13 @@
         </span>
       {% endif %}
     </p>
+
+    <!-- Content -->
+    {% if include.poem.centered %}
+      <div class="centered">{{ include.poem.content }}</div>
+    {% else %}
+      {{ include.poem.content }}
+    {% endif %}
 
     <!-- Pager -->
     {% if page.layout == "poem" %}
@@ -36,20 +48,6 @@
           <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Next</a>
         {% endif %}
       </div>
-    {% endif %}
-
-    <!-- Image -->
-    {% if include.poem.image != "/assets/portrait.jpg" %}
-      <img class="img-thumbnail" src="{{ include.poem.image }}">
-    {% endif %}
-  </div>
-
-  <!-- Content -->
-  <div class="col-sm-8 content">
-    {% if include.poem.centered %}
-      <div class="centered">{{ include.poem.content }}</div>
-    {% else %}
-      {{ include.poem.content }}
     {% endif %}
   </div>
 </div>
