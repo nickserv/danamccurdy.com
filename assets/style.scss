@@ -13,6 +13,7 @@ body {
 
 footer {
   font-size: 12px;
+  margin-top: 42px;
   text-align: right;
 }
 
@@ -46,7 +47,7 @@ blockquote {
 }
 
 .nav-pills {
-  margin: 21px 0;
+  margin: 42px 0;
 
   > li > a {
     color: #df691a;
@@ -145,7 +146,11 @@ blockquote {
 // Poems
 
 .poem {
-  margin-top: 42px;
+  margin: 42px 0;
+
+  > * {
+    padding-left: 0;
+  }
 
   .lead {
     font-size: inherit;
@@ -156,7 +161,7 @@ blockquote {
   }
 
   .img-thumbnail {
-    margin-bottom: 25.5px;
+    margin-bottom: 10.5px;
     max-width: 350px;
 
     @media (min-width: $screen-sm) {
@@ -166,10 +171,6 @@ blockquote {
 
   .label, .label-group {
     margin-left: 0.25em;
-  }
-
-  .content {
-    margin-bottom: 25.5px;
   }
 }
 
