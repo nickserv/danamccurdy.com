@@ -154,6 +154,7 @@ blockquote {
   }
 
   .img-thumbnail {
+    margin-bottom: 25.5px;
     max-width: 350px;
 
     @media (min-width: $screen-sm) {
@@ -163,6 +164,10 @@ blockquote {
 
   .label, .label-group {
     margin-left: 0.25em;
+  }
+
+  .content {
+    margin-bottom: 25.5px;
   }
 }
 

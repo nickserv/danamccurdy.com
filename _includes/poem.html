@@ -27,11 +27,9 @@
     </p>
 
     <!-- Content -->
-    {% if include.poem.centered %}
-      <div class="centered">{{ include.poem.content }}</div>
-    {% else %}
+    <div class="content {% if include.poem.centered %}centered{% endif %}">
       {{ include.poem.content }}
-    {% endif %}
+    </div>
 
     <!-- Pager -->
     {% if page.layout == "poem" %}
