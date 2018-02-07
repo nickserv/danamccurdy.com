@@ -9,12 +9,12 @@ $screen-sm: 768px;
 body {
   padding-bottom: 21px;
   padding-top: 21px;
-}
 
-footer {
-  font-size: 12px;
-  margin-top: 42px;
-  text-align: right;
+  > footer {
+    font-size: 12px;
+    margin-top: 42px;
+    text-align: right;
+  }
 }
 
 dt,
