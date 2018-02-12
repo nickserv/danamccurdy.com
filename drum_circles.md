@@ -9,7 +9,7 @@ excerpt: >-
   and with others, to weave beautiful patterns that satisfy and soothe the body,
   heart, and soul.
 published: true
-image: '/assets/drum_circles/featured/d_at_morristown.jpg'
+image: /assets/drum_circles/featured/d_at_morristown.jpg
 ---
 
 {% include drum_circle_photos.html %}
@@ -41,8 +41,7 @@ As I continue on this path, it's become one of my primary life goals to promote 
 There is a growing body of thought about the benefits of communal drumming. Here's what some others have to say about this, along with some interesting research on the subject.
 
 - [What Is A Community Drum Circle?](http://remo.com/experience/post/what-is-a-community-drum-circle/)
-- [Remo Drum Circles](http://remormc.com/activities/drumcircles/)
-- [Mt. Airy Community Drum Circle](https://www.newsworks.org/index.php/local/item/71211-regulars-and-newcomers-attend-monthly-mt-airy-community-drum-circle)
+- [Why Drums and Drum Circles?](http://remo.com/experience/post/why-drums-and-drum-circles/)
 - [Drumming For Wellness: The Healing Power Of The Drum](http://www.healthy.net/scr/article.aspx?Id=2181)
 - [Drum Therapy](https://www.thoughtco.com/drum-therapy-1729574)
 - [New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing](https://psmag.com/economics/drummers-high-evidence-that-playing-music-releases-endorphins-49578)
