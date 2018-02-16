@@ -17,5 +17,5 @@ I rejoice in your presence.
 Alive with me 
 in this moment,
 you are the gift
-my own life is giving me
+that my own life gives me
 right now.
