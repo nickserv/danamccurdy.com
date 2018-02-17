@@ -1,7 +1,7 @@
 ---
 categories:
   - life
-centered: false
+centered: true
 published: true
 title: in the emptiness
 image: 'https://i.imgur.com/1h9xSbr.jpg'
