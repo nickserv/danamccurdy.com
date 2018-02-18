@@ -10,7 +10,7 @@ Each uncomfortable moment
 is a doorway,
 a peek beyond our boundaries,
 a glimpse through the cracks
-in a world of fears.
+between our fears.
 
 To stand in that doorway,
 and look through it, 
