@@ -40,6 +40,8 @@ As I continue on this path, it's become one of my primary life goals to promote 
 ### Benefits
 There is a growing body of thought about the benefits of communal drumming. Here's what some others have to say about this, along with some interesting research on the subject.
 
+{% include drum_circle_videos.html %}
+
 - [What Is A Community Drum Circle?](http://remo.com/experience/post/what-is-a-community-drum-circle/)
 - [Why Drums and Drum Circles?](http://remo.com/experience/post/why-drums-and-drum-circles/)
 - [Drumming For Wellness: The Healing Power Of The Drum](http://www.healthy.net/scr/article.aspx?Id=2181)
