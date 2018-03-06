@@ -51,7 +51,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 [Steve Orich](https://www.steveorich.com)
 
-: Orchestrator/Composer/Musical Director (Grammy Award winner and Tony Award nominee for his orchestration of the score for Tony winner _Jersey Boys_)
+: orchestrator/composer/musical director (Grammy Award winner and Tony Award nominee for his orchestration of the score for Tony winner _Jersey Boys_)
 
 [Roma Baran](http://www.baranstoll.com/profile.html)
 
