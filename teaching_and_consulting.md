@@ -49,6 +49,10 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 : composer/arranger (best known for his Latin jazz projects with _The Machito Band, Dizzie Gillespie,_ and other jazz luminaries)
 
+[Steve Orich](https://www.steveorich.com)
+
+:Orchestrator/Composer/Musical Director (Grammy Award winner and Tony Award nominee for his orchestration of the score for Tony winner Jersey Boys)
+
 [Roma Baran](http://www.baranstoll.com/profile.html)
 
 : producer (_Laurie Anderson, Kate and Anna McGarrigle_)
