@@ -17,8 +17,8 @@ that someone told me
 I should stay inside.
 
 I had forgotten
-the bigness
-beyond these walls,
+the vastness
+outside these walls,
 gotten used 
 to how small,
 how tight
