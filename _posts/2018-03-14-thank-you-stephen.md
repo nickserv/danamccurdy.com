@@ -7,7 +7,7 @@ title: 'Thank You, Stephen'
 image: 'https://i.imgur.com/2dqCFCF.jpg'
 ---
 Sitting in that chair,
-body broken,
+body almost broken,
 your mind and spirit soared,
 way beyond 
 what most of us 
