@@ -16,7 +16,7 @@ to share that beauty,
 and to ease the suffering,
 as best we can.
 
-With joy
+With our joy
 and compassion,
 we fulfill the gift
 of being human.
