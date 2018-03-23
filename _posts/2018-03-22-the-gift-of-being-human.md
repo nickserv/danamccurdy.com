@@ -17,6 +17,6 @@ and to ease the suffering,
 as best we can.
 
 With our joy
-and compassion,
+and our compassion,
 we fulfill the gift
 of being human.
