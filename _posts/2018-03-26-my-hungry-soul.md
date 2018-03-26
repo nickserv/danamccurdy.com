@@ -20,5 +20,5 @@ and all those tasty,
 tantalizing morsels
 recede into my imagination,
 and I am free to swim again
-in the clear water
-that is my real home.
+in clear water,
+my real home.
