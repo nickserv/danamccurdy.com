@@ -83,5 +83,5 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 Other
 
-: various clients of the NY and Pennsylvania Commissions for the Blind
+: various clients of the NY, NJ, and Pennsylvania Commissions for the Blind
 {: .dl-horizontal}
