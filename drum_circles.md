@@ -26,6 +26,7 @@ In my years of community-based drumming, I've developed a personal style of drum
 - youth groups
 - senior citizens
 - veterans' groups
+- recovery programs
 - religious congregations
 - weddings
 - private parties
