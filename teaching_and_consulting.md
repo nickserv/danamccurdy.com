@@ -67,7 +67,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 [Mike Mandel](https://www.discogs.com/artist/138771-Mike-Mandel)
 
-: TV composer and keyboardist (formerly keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
+: TV composer and keyboardist (former keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
 
 [Donald Stark](http://donaldstark.com)
 
