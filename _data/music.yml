@@ -9,6 +9,15 @@ Music:
   Songs:
     soundcloud: 43061568
     description: Some of my singer-songwriter tunes (self-produced).
+  The Clifton Tribe:
+    url: https://cliftontribe.bandcamp.com/  
+    artist: The Clifton Tribe
+    description: Improvised music for drums, mallet & wind instruments, and percussion.
+    labels:
+      - drums & percussion
+      - recording
+      - editing
+      - post-production/mixing
   Dinosaur Dance:
     youtube: DXTjNYapqEk
   Havana Nocturne:
@@ -105,15 +114,6 @@ Recording Credits:
       - vocals
       - guitar
       - co-production
-  The Clifton Tribe:
-    url: https://cliftontribe.bandcamp.com/  
-    artist: The Clifton Tribe
-    description: Improvised music for drums, mallet & wind instruments, and percussion.
-    labels:
-      - drums & percussion
-      - recording
-      - editing
-      - post-production/mixing
 Live Performances:
   Codanceco:
     artist: modern dance company
