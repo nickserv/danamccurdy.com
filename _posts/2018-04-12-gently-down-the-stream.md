@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: 'Gently, Down the Stream'
-image: 'https://i.imgur.com/51vAQA7.jpg'
+image: 'https://i.imgur.com/wcCBkjM.jpg'
 ---
 I row this boat
 that I call "my life"
@@ -27,6 +27,3 @@ tranquil and trusting
 that these waters will take me
 wherever 
 I am meant to go.
-
-
-
