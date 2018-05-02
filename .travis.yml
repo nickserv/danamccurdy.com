@@ -7,4 +7,4 @@ deploy:
   github-token: $GITHUB_TOKEN
   local-dir: _site
   on:
-    branch: cd
+    branch: master
