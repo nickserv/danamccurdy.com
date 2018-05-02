@@ -1,0 +1,10 @@
+cache:
+  bundler: true
+script: bundle exec jekyll build
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  local-dir: _site
+  on:
+    branch: cd
