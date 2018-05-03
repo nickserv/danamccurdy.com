@@ -22,8 +22,8 @@ of being alive.
 It stings,
 to be without the bandaid
 of the drug we choose,
-the liquid, or chemical, 
-or digital distraction
+the liquid, the chemical, 
+the digital distraction
 that lulls us.
 
 It is like coming out 
