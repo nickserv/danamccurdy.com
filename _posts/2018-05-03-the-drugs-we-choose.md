@@ -3,7 +3,7 @@ categories:
   - life
 centered: false
 published: true
-title: The Drugs we Choose
+title: The Drugs We Choose
 image: 'https://i.imgur.com/bMzwXXD.jpg'
 ---
 There is so much to drink in,
