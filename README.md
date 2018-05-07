@@ -2,17 +2,17 @@
 
 [![Build Status](https://travis-ci.org/nickmccurdy/danamccurdy.com.svg?branch=master)](https://travis-ci.org/nickmccurdy/danamccurdy.com)
 
-&copy; [Dana McCurdy](https://danamccurdy.com/) & [Nick McCurdy](http://nickmccurdy.com/)
+&copy; [Dana McCurdy](https://danamccurdy.com/) & [Nick McCurdy](https://nickmccurdy.com/)
 
 ## Authoring
 This site's content is stored in Markdown syntax, edited in Prose, and generated into a full site with Jekyll.
 
 ### Using Prose
-Before you author any content, you should log in to [Prose](http://prose.io/) (using your GitHub account) and visit [this project](http://prose.io/#danamcc/danamcc.github.io). Check out [Prose's Getting Started Guide](https://github.com/prose/prose/wiki/Getting-Started) to learn more.
+Before you author any content, you should log in to [Prose](https://prose.io/) (using your GitHub account) and visit [this project](https://prose.io/#danamcc/danamcc.github.io). Check out [Prose's Getting Started Guide](https://github.com/prose/prose/wiki/Getting-Started) to learn more.
 
 **Note:** Text in **bold** represents sidebar buttons and text. If you can't find the right button, mouse over them to see their names.
 
-1. Open the appropriate file according to [file locations](#file-locations). If you're creating a poem, go to [`_posts`](http://prose.io/#danamcc/danamcc.github.io/tree/master/_posts) and click **NEW FILE**.
+1. Open the appropriate file according to [file locations](#file-locations). If you're creating a poem, go to [`_posts`](https://prose.io/#danamcc/danamcc.github.io/tree/master/_posts) and click **NEW FILE**.
 2. Make modifications to the file's content and **Meta Data** (optional) as needed.
 3. If you're renaming a poem, modify its title (above the content). If you have already shared links to the poem, you must also open **Settings** for the poem and change its **File Path** back to the original file name, otherwise your links will break.
 4. If you're creating a poem, don't forget to delete the example Markdown content, add a title (it doesn't have to be unique), and optionally adjust categories or other fields in **Meta Data**.
