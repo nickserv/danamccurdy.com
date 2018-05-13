@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Paths To Greatness
 categories:

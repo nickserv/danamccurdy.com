@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: The world is always new
 image: 'https://i.imgur.com/MOf3N3u.jpg'

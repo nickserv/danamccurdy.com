@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: 'Gently, Down the Stream'
 image: 'https://i.imgur.com/wcCBkjM.jpg'

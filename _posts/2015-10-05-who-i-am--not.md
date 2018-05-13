@@ -3,7 +3,6 @@ title: who I am not
 categories:
   - life
 published: true
-centered: false
 ---
 
 I am not

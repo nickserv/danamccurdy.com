@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: Joy and Heartbreak
 image: 'https://i.imgur.com/euTrwde.jpg'

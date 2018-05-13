@@ -2,7 +2,6 @@
 categories:
   - life
   - love
-centered: false
 published: true
 title: how to be a friend
 image: 'https://i.imgur.com/wHqP857.jpg'

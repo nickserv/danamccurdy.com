@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: To a Loved One
 categories:

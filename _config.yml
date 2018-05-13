@@ -78,11 +78,6 @@ prose:
             - name: Love
               value: love
           value: life
-      - name: centered
-        field:
-          element: checkbox
-          label: Centered Text
-          help: Enable to center the entire poem against the left border.
       - name: published
         field:
           element: checkbox

@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: one step away
 image: 'https://i.imgur.com/oG0zWRH.jpg'

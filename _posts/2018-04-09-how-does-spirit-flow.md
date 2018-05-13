@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: How Does Spirit Flow?
 image: 'https://i.imgur.com/805tEpQ.png'

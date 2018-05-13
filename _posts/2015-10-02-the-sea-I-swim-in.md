@@ -3,7 +3,6 @@ title: the sea I swim in
 categories:
   - life
 published: true
-centered: false
 ---
 
 All my life,

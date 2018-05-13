@@ -3,7 +3,6 @@ title: Empire of Light
 categories:
   - life
 published: true
-centered: false
 ---
 
 Outside my window,

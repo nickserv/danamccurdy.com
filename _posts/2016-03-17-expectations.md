@@ -3,7 +3,6 @@ title: Expectations
 categories:
   - love
 published: true
-centered: false
 ---
 
 To find someone who meets your expectations

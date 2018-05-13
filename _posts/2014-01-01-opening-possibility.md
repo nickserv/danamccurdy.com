@@ -3,7 +3,6 @@ title: Opening/ Possibility
 categories:
   - love
 published: true
-centered: false
 ---
 
 # Opening

@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Karma and the Quantum Dance
 categories:

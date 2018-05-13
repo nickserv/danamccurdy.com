@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: True conversation
 image: 'https://i.imgur.com/oltiI5r.jpg'

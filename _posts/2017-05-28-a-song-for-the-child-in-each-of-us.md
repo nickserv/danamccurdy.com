@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: A Song For The Child In Each Of Us
 categories:

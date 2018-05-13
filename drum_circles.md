@@ -7,7 +7,7 @@ excerpt: >-
   me. The sheer variety and power of percussive sounds has led me to explore the
   endless potential of various hand drums and percussion instruments, on my own
   and with others, to weave beautiful patterns that satisfy and soothe the body,
-  heart, and soul.
+  heart, and soul…
 published: true
 image: /assets/drum_circles/featured/d_at_morristown.jpg
 ---
@@ -61,7 +61,7 @@ As a drum circle facilitator, my commitment is always to empower others to exper
 > It is our gift in each moment to direct that energy as we will.
 > In rhythm together, we direct that energy to our highest purpose,
 > For the greater joy and well-being of all.
-{:.manifesto}
+{:.blockquote}
 
 ### [Some reflections on why I do this]({% post_url 2017-07-02-a-community-in-rhythm %})
 (with gratitude, to all I share the joy of drumming with)

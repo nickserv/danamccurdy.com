@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Dear Mr. President
 image: 'https://i.imgur.com/mneaWLH.jpg'

@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: The Myth of Separation
 image: 'https://i.imgur.com/YaRRwbr.jpg'

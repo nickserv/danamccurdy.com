@@ -2,7 +2,6 @@
 categories:
   - life
   - love
-centered: false
 published: true
 title: Momentary Angels
 image: 'https://i.imgur.com/OMtaWOv.jpg'

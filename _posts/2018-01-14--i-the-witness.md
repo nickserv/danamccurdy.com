@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: '"I", the Witness'
 image: 'https://i.imgur.com/rlSxNqF.jpg'

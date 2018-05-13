@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: a wisp of smoke
 image: 'https://i.imgur.com/guCsaaX.jpg'

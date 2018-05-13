@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Almost a Witness
 image: 'https://i.imgur.com/QmZq4XV.jpg'

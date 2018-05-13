@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Being Human
 categories:

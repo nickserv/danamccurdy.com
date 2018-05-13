@@ -4,7 +4,6 @@ categories:
   - life
   - love
 published: true
-centered: true
 ---
 At its best,
 a relationship

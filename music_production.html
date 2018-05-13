@@ -1,21 +1,21 @@
 ---
-title: Music / Production
+title: Music & Production
 position: 2
 excerpt: >-
   From childhood on, I've always been surrounded by music and musicians, and
   felt inspired to follow in their footsteps, both through creating my own
-  music, and supporting others in doing likewise.
+  music, and supporting others in doing likewise…
 published: true
 ---
 
-<div class="row">
-  <div class="col-md-8 col-md-offset-2">
+<div class="row justify-content-center">
+  <div class="col-lg-8">
     <p>From childhood on, I’ve always been surrounded by music and musicians, and have been  inspired to follow in their footsteps, both through creating my own music, and supporting others in doing likewise.</p>
 
     <p>From folk music (my dad was a folk singer/songwriter), to jazz, pop, experimental/electronic, and world music, my musical explorations have involved me in many diverse aspects of music creation and production, from composing and producing my own original music, to supporting other musical artists in various capacities.</p>
 
     <div class="row">
-      <div class="col-sm-6">
+      <div class="col-md">
         <h1>Skills</h1>
         <ul>
           <li>synthesizer programming/sound design</li>
@@ -31,7 +31,7 @@ published: true
         </ul>
       </div>
 
-      <div class="col-sm-6">
+      <div class="col">
         <h2>Music Software</h2>
         <ul>
           <li>ProTools (Avid-certified user/instructor)</li>
@@ -52,50 +52,39 @@ published: true
 {% for category in site.data.music %}
   <h1>{{category[0]}}</h1>
 
-  <div class="row">
+  <div class="card-columns">
     {% for item in category[1] %}
-      <div class="col-md-6 col-lg-4">
-        <div class="panel panel-{% if item[1].url %}primary{% else %}default{% endif %}">
-          <div class="panel-heading{% if item[1].soundcloud or item[1].youtube %} text-center{% endif  %}">
-            <h2 class="panel-title">
-              {% if item[1].url %}<a href="{{item[1].url}}">{% endif %}
-                {{item[0] | smartify}}
-                <br>
-                <small>{{item[1].artist | smartify}}</small>
-              {% if item[1].url %}</a>{% endif %}
-            </h2>
-          </div>
-
-          {% if item[1].soundcloud %}
-            <div class="embed-responsive embed-responsive-4by3">
-              <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{item[1].soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-            </div>
-          {% endif %}
-
-          {% if item[1].youtube %}
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{item[1].youtube}}?rel=0" allowfullscreen=""></iframe>
-            </div>
-          {% endif %}
-
-          {% if item[1].description or item[1].labels %}
-            <div class="panel-body">
-              {{ item[1].description | smartify }}
-
-              {% if item[1].labels %}
-                <ul>
-                  {% for label in item[1].labels %}
-                    <li>{{ label }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </div>
-          {% endif %}
+      <div class="card">
+        <div class="card-header">
+          {% if item[1].url %}<a href="{{item[1].url}}">{% endif %}
+            {{item[0] | smartify}}   
+            <br>
+            <small>{{item[1].artist | smartify}}</small>
+          {% if item[1].url %}</a>{% endif %}
         </div>
-      </div>
 
-      {% assign mod = forloop.index | modulo: 3 %}
-      {% unless forloop.last or mod != 0 %}</div><div class="row">{% endunless %}
+        {% if item[1].soundcloud %}
+          <div class="embed-responsive embed-responsive-1by1">
+            <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{item[1].soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+          </div>
+        {% endif %}
+
+        {% if item[1].youtube %}
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{item[1].youtube}}?rel=0" allowfullscreen=""></iframe>
+          </div>
+        {% endif %}
+
+        {% if item[1].description or item[1].labels %}
+          <div class="card-body">
+            {{ item[1].description | smartify }}
+
+            {% for label in item[1].labels %}
+              <span class="badge badge-light">{{ label }}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
     {% endfor %}
   </div>
 {% endfor %}

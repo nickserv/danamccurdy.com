@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Where God is hiding
 categories:

@@ -2,7 +2,6 @@
 title: "Independence Day: a Reflection"
 categories:
   - life
-centered: true
 ---
 
 And the sky exploded,

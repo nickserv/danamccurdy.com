@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: The Placebo Effect
 image: 'https://i.imgur.com/iFbfMHO.jpg'

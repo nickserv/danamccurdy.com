@@ -3,7 +3,6 @@ title: Life and Death
 categories:
   - life
 published: true
-centered: false
 ---
 
 Life is not safe.

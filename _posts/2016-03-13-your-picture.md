@@ -3,7 +3,6 @@ title: Your Picture
 categories:
   - love
 published: true
-centered: false
 ---
 
 I can look at your picture now,

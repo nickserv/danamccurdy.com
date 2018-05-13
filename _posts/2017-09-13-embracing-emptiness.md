@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: Embracing Emptiness
 image: 'https://i.imgur.com/LwV22Dt.jpg'

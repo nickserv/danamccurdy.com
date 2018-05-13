@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Reasons for Gratitude
 image: 'https://i.imgur.com/ArDDVe3.jpg'

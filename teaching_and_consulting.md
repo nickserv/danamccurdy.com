@@ -5,7 +5,7 @@ position: 1
 excerpt: >-
   Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've
   been fascinated by the art and science of music technology, and how it
-  contributes to the process of creative music making.
+  contributes to the process of creative music making…
 published: true
 ---
 
@@ -39,49 +39,36 @@ Over the years, I have taught countless individuals, usually in their home studi
 - P.S. 24 Elementary School <small class="text-info">(Paterson, NJ)</small>
 
 # Some notable students and clients
-<!-- Start a definition list with a horizontal style and a paragraph tag wrapping each term. -->
 
-[Yusef Lateef](http://www.yuseflateef.com)
+## [Yusef Lateef](http://www.yuseflateef.com)
+Grammy-winning jazz artist
 
-: Grammy-winning jazz artist
+## [Chico O'farrill](https://www.allmusic.com/artist/chico-ofarrill-mn0000111794)
+composer/arranger (best known for his Latin jazz projects with _The Machito Band, Dizzie Gillespie,_ and other jazz luminaries)
 
-[Chico O'farrill](https://www.allmusic.com/artist/chico-ofarrill-mn0000111794)
+## [Steve Orich](https://www.steveorich.com)
+orchestrator/composer/musical director (Grammy Award winner and Tony Award nominee for his orchestration of the score for Tony winner _Jersey Boys_)
 
-: composer/arranger (best known for his Latin jazz projects with _The Machito Band, Dizzie Gillespie,_ and other jazz luminaries)
+## [Roma Baran](http://www.baranstoll.com/profile.html)
+producer (_Laurie Anderson, Kate and Anna McGarrigle_)
 
-[Steve Orich](https://www.steveorich.com)
+## [Lucy Simon](https://en.wikipedia.org/wiki/Lucy_Simon)
+singer/songwriter/composer (best known for her musical “_The Secret Garden_”, and recordings with her sister _Carly Simon_)
 
-: orchestrator/composer/musical director (Grammy Award winner and Tony Award nominee for his orchestration of the score for Tony winner _Jersey Boys_)
+## [Charlie Clouser](https://en.wikipedia.org/wiki/Charlie_Clouser)
+film and TV composer (formerly of _Nine Inch Nails_)
 
-[Roma Baran](http://www.baranstoll.com/profile.html)
+## [Mike Mandel](https://www.discogs.com/artist/138771-Mike-Mandel)
+TV composer and keyboardist (former keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
 
-: producer (_Laurie Anderson, Kate and Anna McGarrigle_)
+## [Donald Stark](http://donaldstark.com)
+theater composer and sound designer (known for his work with various NJ-based theater companies)
 
-[Lucy Simon](https://en.wikipedia.org/wiki/Lucy_Simon)
+## [Scott Killian](http://www.zvidance.com/about/collaborators.php)
+dance/theater composer and sound designer (known for his work with various NY-based dance and theater companies)
 
-: singer/songwriter/composer (best known for her musical “_The Secret Garden_”, and recordings with her sister _Carly Simon_)
+## [Michael Palmieri](http://www.soundclick.com/bands/default.cfm?bandID=209257)
+contemporary classical composer
 
-[Charlie Clouser](https://en.wikipedia.org/wiki/Charlie_Clouser)
-
-: film and TV composer (formerly of _Nine Inch Nails_)
-
-[Mike Mandel](https://www.discogs.com/artist/138771-Mike-Mandel)
-
-: TV composer and keyboardist (former keyboardist with _Larry Coryell and the Eleventh House;_ currently composing music for _The Ellen Degeneres Show, TMZ,_ and various other programs)
-
-[Donald Stark](http://donaldstark.com)
-
-: theater composer and sound designer (known for his work with various NJ-based theater companies)
-
-[Scott Killian](http://www.zvidance.com/about/collaborators.php)
-
-: dance/theater composer and sound designer (known for his work with various NY-based dance and theater companies)
-
-[Michael Palmieri](http://www.soundclick.com/bands/default.cfm?bandID=209257)
-
-: contemporary classical composer
-
-Other
-
-: various clients of the NY, NJ, and Pennsylvania Commissions for the Blind
-{: .dl-horizontal}
+## Other
+various clients of the NY, NJ, and Pennsylvania Commissions for the Blind

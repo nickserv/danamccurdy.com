@@ -3,7 +3,6 @@ title: 'Ego and Being '
 categories:
   - life
 published: true
-centered: false
 ---
 
 _Sometimes, we long to be what we think we aren't, but really already are. Maybe it's as simple as letting go of wanting. This isn't the only path to happiness, but  certainly it's a good start._

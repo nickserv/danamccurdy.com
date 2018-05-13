@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: Advice to Myself
 image: 'https://i.imgur.com/JcSzdCu.jpg'

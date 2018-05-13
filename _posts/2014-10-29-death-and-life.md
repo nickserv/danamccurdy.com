@@ -3,7 +3,6 @@ title: Death and Life
 categories:
   - life
 published: true
-centered: false
 ---
 Death is not a problem.
 

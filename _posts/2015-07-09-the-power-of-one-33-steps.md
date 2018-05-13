@@ -3,7 +3,6 @@ title: The Power Of One (33 Steps)
 categories:
   - life
 published: true
-centered: false
 ---
 To bring peace to the world
 may seem an impossible task.

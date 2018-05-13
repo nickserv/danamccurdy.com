@@ -1,6 +1,7 @@
-<div class="photos">
+<div class="row">
   {% for photo in site.data.drum_circle_photos.featured %}
-    {% assign url = "/assets/drum_circles/featured/" | append: photo %}
-    <a href="{{url}}"><img src="{{url}}"></a>
+    <div class="col">
+      <img class="w-100" src="/assets/drum_circles/featured/{{photo}}">
+    </div>
   {% endfor %}
 </div>

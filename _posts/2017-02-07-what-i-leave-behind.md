@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: What I Leave Behind
 categories:

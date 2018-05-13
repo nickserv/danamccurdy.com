@@ -1,7 +1,6 @@
 ---
 title: Relationships
 published: true
-centered: false
 categories:
   - life
   - love

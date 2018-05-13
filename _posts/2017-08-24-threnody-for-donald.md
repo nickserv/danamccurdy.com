@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Threnody for Donald
 categories:

@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: Serendipity
 image: 'https://i.imgur.com/znr4esg.jpg'

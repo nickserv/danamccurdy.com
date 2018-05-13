@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: The Doorway
 image: 'https://i.imgur.com/SKyfY6L.jpg'

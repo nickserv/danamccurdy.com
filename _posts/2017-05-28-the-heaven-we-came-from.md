@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: The Heaven We Came From
 categories:

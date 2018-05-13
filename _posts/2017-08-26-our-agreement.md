@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Our Agreement
 image: 'https://i.imgur.com/FYhlTzK.jpg'

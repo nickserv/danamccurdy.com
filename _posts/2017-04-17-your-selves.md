@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Your Selves
 image: 'https://i.imgur.com/dGWSYrX.png'

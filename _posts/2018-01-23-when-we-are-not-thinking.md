@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: when we are not thinking
 image: 'https://i.imgur.com/qmdzRxc.jpg'

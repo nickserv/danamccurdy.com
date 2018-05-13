@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Thoughts and Inspirations
 categories:

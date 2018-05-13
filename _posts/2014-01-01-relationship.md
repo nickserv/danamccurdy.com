@@ -3,7 +3,6 @@ title: Relationship
 categories:
   - life
 published: true
-centered: false
 ---
 
 All our relationships

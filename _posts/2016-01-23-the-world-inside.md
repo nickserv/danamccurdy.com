@@ -3,7 +3,6 @@ title: The World Inside
 categories:
   - life
 published: true
-centered: false
 ---
 
 Insanity

@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: My Hungry Soul
 image: 'https://i.imgur.com/w8CTwPo.jpg'

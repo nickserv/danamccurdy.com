@@ -3,7 +3,6 @@ title: A Reflection
 categories:
   - life
 published: true
-centered: false
 ---
 
 Human beings are, 

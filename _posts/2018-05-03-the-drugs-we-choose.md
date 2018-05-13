@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: The Drugs We Choose
 image: 'https://i.imgur.com/bMzwXXD.jpg'

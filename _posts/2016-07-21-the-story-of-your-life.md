@@ -3,7 +3,6 @@ title: The Story of Your Life
 categories:
   - life
 published: true
-centered: true
 ---
 
 The story of your life

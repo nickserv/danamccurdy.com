@@ -3,7 +3,6 @@ title: Happiness
 categories:
   - life
 published: true
-centered: false
 ---
 
 True happiness

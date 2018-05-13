@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: To a Short-lived Friend
 image: 'https://i.imgur.com/VVSHd29.jpg'

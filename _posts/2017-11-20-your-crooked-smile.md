@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: Your Crooked Smile
 image: 'https://i.imgur.com/orKhF2l.jpg'

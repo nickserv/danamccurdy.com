@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: this little room
 image: 'https://i.imgur.com/Ew6SNHW.jpg'

@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: I am the witness
 categories:

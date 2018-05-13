@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Above the Clouds
 image: 'https://i.imgur.com/5hklcES.jpg'

@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: The Stories of Our Lives
 image: 'https://i.imgur.com/rmBE8rA.jpg'

@@ -3,7 +3,6 @@ title: A Place To Be
 categories:
   - life
 published: true
-centered: false
 ---
 
 Emptiness

@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: What the mind can do
 categories:

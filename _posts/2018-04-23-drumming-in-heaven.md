@@ -1,7 +1,6 @@
 ---
 categories:
   - life
-centered: false
 published: true
 title: Drumming in Heaven
 image: 'https://i.imgur.com/qWHYZ6T.png'

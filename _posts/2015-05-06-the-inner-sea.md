@@ -3,7 +3,6 @@ title: THE INNER SEA
 categories:
   - life
 published: true
-centered: false
 ---
 As I sit, 
 awash

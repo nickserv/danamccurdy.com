@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: 'Letting Go (or: The Best Pizza in the World)'
 categories:

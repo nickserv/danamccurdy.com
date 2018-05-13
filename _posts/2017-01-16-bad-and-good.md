@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: Bad and Good
 categories:

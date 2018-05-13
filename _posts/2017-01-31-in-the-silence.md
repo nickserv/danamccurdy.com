@@ -1,5 +1,4 @@
 ---
-centered: false
 published: true
 title: In the Silence
 categories:
