@@ -2,6 +2,7 @@
 title: Our True Power
 categories:
   - life
+centered: true
 ---
 
 Our true power

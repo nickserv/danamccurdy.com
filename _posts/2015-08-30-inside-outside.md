@@ -3,6 +3,7 @@ title: Inside/Outside
 categories:
   - life
 published: true
+centered: false
 ---
 In the mind's eye,
 things arrange themselves

@@ -3,6 +3,7 @@ title: Truth and Words
 categories:
   - life
 published: true
+centered: false
 ---
 
 Truth

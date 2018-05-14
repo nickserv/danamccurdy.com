@@ -3,6 +3,7 @@ title: Relationships
 categories:
   - life
 published: true
+centered: false
 ---
 Relationships
 are too complex

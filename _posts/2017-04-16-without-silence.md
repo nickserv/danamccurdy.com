@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: Without Silence
 image: 'https://i.imgur.com/RmdntZK.jpg'

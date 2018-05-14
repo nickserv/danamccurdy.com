@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: true
 published: true
 title: A Prayer for the Holidays
 image: 'https://i.imgur.com/hGPpv7C.png'

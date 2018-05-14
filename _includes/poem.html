@@ -1,40 +1,42 @@
 <!-- Template for rendering a single poem, both individually and in a poem listing. -->
 
 <div class="row">
-  <div class="col-md-4 d-none d-md-block">
-    <!-- Image -->
-    <img class="img-fluid" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
-  </div>
-
-  <div class="col">
-    <!-- Title -->
-    <h1><a href="{{ include.poem.url }}">{{ include.poem.title | smartify }}</a></h1>
-
-    <p>
-      <!-- Date -->
-      <span class="text-info">{{ include.poem.date | date_to_string }}</span>
-
-      <!-- Category -->
-      {% if page.layout == "poem" %}
-        {% for category in include.poem.categories %}
-          <a class="badge badge-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
-        {% endfor %}
-      {% endif %}
-    </p>
-
-    <div class="d-md-none">
+    <div class="col-md-4 d-none d-md-block">
       <!-- Image -->
       <img class="img-fluid" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
     </div>
+  
+    <div class="col">
+      <!-- Title -->
+      <h1><a href="{{ include.poem.url }}">{{ include.poem.title | smartify }}</a></h1>
+  
+      <p>
+        <!-- Date -->
+        <span class="text-info">{{ include.poem.date | date_to_string }}</span>
+  
+        <!-- Category -->
+        {% if page.layout == "poem" %}
+          {% for category in include.poem.categories %}
+            <a class="badge badge-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
+          {% endfor %}
+        {% endif %}
+      </p>
+
+      <div class="d-md-none">
+        <!-- Image -->
+        <img class="img-fluid" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
+      </div>
 
     <!-- Content -->
-    {{ include.poem.content }}
+    <div {% if include.poem.centered %}class="text-center"{% endif %}>
+      {{ include.poem.content }}
+    </div>
   </div>
 </div>
 
 <!-- Pager -->
 {% if page.layout == "poem" %}
-  <div class="row justify-content-end">
+<div class="row justify-content-end">
     <div class="col-md-8">
       <nav>
         <ul class="pagination">

@@ -3,6 +3,7 @@ title: 'Two Moments: Freedom & Coda'
 categories:
   - life
 published: true
+centered: false
 ---
 To fly like the clouds,
 amorphous, rootless,

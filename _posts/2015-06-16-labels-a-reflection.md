@@ -3,6 +3,7 @@ title: Labels - A Reflection
 categories:
   - life
 published: true
+centered: false
 ---
 If there were no Conservatives,
 no Libertarians,

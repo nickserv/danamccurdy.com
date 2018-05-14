@@ -3,6 +3,7 @@ title: If I am not the person...
 categories:
   - life
 published: true
+centered: false
 ---
 
 If I am not the person

@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: What Actually Happened
 image: 'https://i.imgur.com/DDwoRsE.png'

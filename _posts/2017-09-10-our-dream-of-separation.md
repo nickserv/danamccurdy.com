@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: our dream of separation
 image: 'https://i.imgur.com/karhf6i.jpg'

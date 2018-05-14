@@ -3,6 +3,7 @@ title: Gone from this world
 categories:
   - love
 published: true
+centered: true
 ---
 
 It’s okay

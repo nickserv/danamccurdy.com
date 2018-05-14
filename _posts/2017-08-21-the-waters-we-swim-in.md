@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: The Waters We Swim In
 categories:

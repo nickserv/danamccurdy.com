@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: This Simple Truth
 image: 'https://i.imgur.com/j3bUKGo.jpg'

@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: This Perfect Moment
 categories:

@@ -3,6 +3,7 @@ title: Life Is a Work in Progress
 categories:
   - life
 published: true
+centered: false
 ---
 A poem or a song 
 completes itself;

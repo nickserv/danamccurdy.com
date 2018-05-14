@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: the wisdom of falling apart
 categories:

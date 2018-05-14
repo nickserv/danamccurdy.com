@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: The World of Form
 image: 'https://i.imgur.com/8eG7WKX.jpg'

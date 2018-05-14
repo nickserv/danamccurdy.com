@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: When Our Lives Changed
 categories:

@@ -3,6 +3,7 @@ title: My Own Demographic
 categories:
   - life
 published: true
+centered: true
 ---
 
 # My Demographic

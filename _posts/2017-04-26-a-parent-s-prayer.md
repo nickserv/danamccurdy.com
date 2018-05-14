@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: A parent's Prayer
 categories:

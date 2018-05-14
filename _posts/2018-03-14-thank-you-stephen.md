@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: 'Thank You, Stephen'
 image: 'https://i.imgur.com/2dqCFCF.jpg'

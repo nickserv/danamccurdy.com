@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: Practicing Dying
 image: 'https://i.imgur.com/R0vg10X.png'

@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: The Flow of Time
 image: 'https://i.imgur.com/ak7EtT4.jpg'

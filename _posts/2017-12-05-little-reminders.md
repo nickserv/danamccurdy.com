@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: Little Reminders
 image: 'https://i.imgur.com/nLboaRN.jpg'

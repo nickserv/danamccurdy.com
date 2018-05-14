@@ -3,6 +3,7 @@ title: The State of Enlightenment
 categories:
   - life
 published: true
+centered: false
 ---
 
 Maybe the state of enlightenment

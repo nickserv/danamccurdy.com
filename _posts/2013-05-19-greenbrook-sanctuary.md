@@ -3,6 +3,7 @@ title: Greenbrook Sanctuary - 2 poems
 categories:
   - life
 published: true
+centered: false
 ---
 
 Awash in my senses,

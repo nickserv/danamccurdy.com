@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: Monkey mind
 image: 'https://i.imgur.com/hEX4LLy.jpg'

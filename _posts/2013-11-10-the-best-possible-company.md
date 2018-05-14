@@ -3,6 +3,7 @@ title: The Best Possible Company
 categories:
   - life
 published: true
+centered: false
 ---
 
 Cultivate a loving relationship 

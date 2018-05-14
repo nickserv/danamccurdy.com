@@ -1,6 +1,7 @@
 ---
 categories:
   - love
+centered: false
 published: true
 title: The You  I Imagined
 image: 'https://i.imgur.com/N4KCqoi.jpg'

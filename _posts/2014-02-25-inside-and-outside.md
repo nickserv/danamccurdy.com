@@ -3,6 +3,7 @@ title: Inside and Outside
 categories:
   - life
 published: true
+centered: false
 ---
 
 Whatever I see

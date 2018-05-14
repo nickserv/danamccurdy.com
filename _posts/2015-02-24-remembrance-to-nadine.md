@@ -3,6 +3,7 @@ title: Remembrance - To Nadine
 categories:
   - life
 published: true
+centered: false
 ---
 Bathed in your spirit,
 we drummed from our hearts,

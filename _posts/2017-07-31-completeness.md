@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: Completeness
 image: 'https://i.imgur.com/zi79YaB.jpg'

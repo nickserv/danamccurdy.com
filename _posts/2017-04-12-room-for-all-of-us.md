@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: Room for All of Us
 categories:

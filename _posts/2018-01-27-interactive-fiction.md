@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: Interactive Fiction
 image: 'https://i.imgur.com/D9ZXIBO.png'

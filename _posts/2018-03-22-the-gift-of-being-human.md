@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: the gift of being human
 image: 'https://i.imgur.com/yvzCvtH.jpg'

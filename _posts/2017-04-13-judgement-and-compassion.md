@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: Judgement and Compassion
 categories:

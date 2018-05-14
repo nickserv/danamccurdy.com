@@ -3,6 +3,7 @@ title: crossroads
 categories:
   - life
 published: true
+centered: false
 ---
 
 On a road

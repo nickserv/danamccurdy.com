@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: 'Difference: To Those Who Hate'
 categories:

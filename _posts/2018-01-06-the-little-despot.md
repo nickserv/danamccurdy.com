@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: The Little Despot
 image: 'https://i.imgur.com/qFv5so6.jpg'

@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: Discomfort
 image: 'https://i.imgur.com/5GEYeDD.jpg'

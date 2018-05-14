@@ -1,4 +1,5 @@
 ---
+centered: true
 published: true
 title: The Most Important Moment
 categories:

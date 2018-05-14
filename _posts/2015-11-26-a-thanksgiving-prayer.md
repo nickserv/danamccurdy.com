@@ -3,6 +3,7 @@ title: A Thanksgiving Prayer
 categories:
   - life
 published: true
+centered: false
 ---
 
 Thank you

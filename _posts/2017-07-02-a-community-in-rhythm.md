@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: a community in rhythm
 categories:

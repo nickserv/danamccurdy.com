@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: the lens of media
 categories:

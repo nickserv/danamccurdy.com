@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: A Sea of Peace
 image: 'https://i.imgur.com/fwQnFvZ.jpg'

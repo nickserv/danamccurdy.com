@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: A Prayer of Gratitude
 categories:

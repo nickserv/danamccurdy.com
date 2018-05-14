@@ -2,6 +2,7 @@
 title: New affirmation
 categories:
   - life
+centered: true
 ---
 
 I

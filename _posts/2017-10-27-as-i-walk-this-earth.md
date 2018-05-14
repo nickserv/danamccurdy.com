@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: As I walk this earth
 image: 'https://i.imgur.com/rbKzDo9.jpg'

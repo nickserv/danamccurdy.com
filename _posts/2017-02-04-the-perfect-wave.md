@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: The Perfect Wave
 categories:

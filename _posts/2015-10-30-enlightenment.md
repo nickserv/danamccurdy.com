@@ -3,6 +3,7 @@ title: Enlightenment
 categories:
   - life
 published: true
+centered: false
 ---
 
 Enlightenment is the sky

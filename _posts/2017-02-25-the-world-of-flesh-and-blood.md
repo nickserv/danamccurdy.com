@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: The world of flesh and blood
 categories:

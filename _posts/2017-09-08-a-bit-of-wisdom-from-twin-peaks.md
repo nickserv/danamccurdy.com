@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: 'A Bit of Wisdom, from Twin Peaks'
 categories:

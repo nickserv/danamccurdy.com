@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: In the Mirror
 categories:

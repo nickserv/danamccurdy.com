@@ -1,4 +1,5 @@
 ---
+centered: true
 published: true
 title: Nothing Is Permanent
 categories:

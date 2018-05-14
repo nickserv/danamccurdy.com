@@ -3,6 +3,7 @@ title: Ego & Freedom
 categories:
   - life
 published: true
+centered: false
 ---
 When your ego is broken,
 it can be painful news.

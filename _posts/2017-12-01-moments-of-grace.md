@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: Moments of Grace
 image: 'https://i.imgur.com/efBGwBu.jpg'

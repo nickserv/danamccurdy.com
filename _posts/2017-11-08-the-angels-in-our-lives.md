@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: the angels in our lives
 image: 'https://i.imgur.com/FB4mmYe.png'

@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: What We Are
 categories:

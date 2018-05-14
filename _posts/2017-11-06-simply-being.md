@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: Simply Being
 image: 'https://i.imgur.com/Ex1POoS.jpg'

@@ -3,6 +3,7 @@ title: The "I Am" that I Am
 categories:
   - life
 published: true
+centered: false
 ---
 
 The air,

@@ -3,6 +3,7 @@ title: Two Moments
 categories:
   - love
 published: true
+centered: false
 ---
 
 What opens the heart?

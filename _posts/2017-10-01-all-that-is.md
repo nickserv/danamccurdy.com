@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+centered: false
 published: true
 title: All That Is
 image: 'https://i.imgur.com/NxXn6lv.jpg'

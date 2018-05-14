@@ -3,6 +3,7 @@ title: Making Pie
 categories:
   - life
 published: true
+centered: false
 ---
 
 When life gives you lemons,

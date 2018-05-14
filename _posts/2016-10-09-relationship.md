@@ -3,6 +3,7 @@ title: Relationship
 categories:
   - love
 published: true
+centered: false
 ---
 
 We have pushed each other’s buttons,

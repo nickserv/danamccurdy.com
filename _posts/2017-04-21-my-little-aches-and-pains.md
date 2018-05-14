@@ -1,4 +1,5 @@
 ---
+centered: false
 published: true
 title: My Little Aches and Pains
 categories:

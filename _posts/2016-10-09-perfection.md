@@ -3,6 +3,7 @@ title: Perfection
 categories:
   - life
 published: true
+centered: false
 ---
 
 The mind
