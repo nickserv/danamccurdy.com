@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: This uncomfortable feeling
-image: 'https://i.imgur.com/q6Efz6s.png'
+image: 'https://i.imgur.com/ufMBJZm.png'
 ---
 This uncomfortable feeling
 wouldn't seem so bad,
