@@ -4,6 +4,7 @@ categories:
 centered: false
 published: true
 title: When the Magic Happens
+image: 'https://i.imgur.com/QoFfPCa.jpg'
 ---
 Cooking
 is like writing,
@@ -17,4 +18,3 @@ that is when
 there is no one there,
 and that is when 
 the  magic happens.
-
