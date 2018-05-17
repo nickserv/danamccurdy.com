@@ -15,7 +15,7 @@ to be done;
 then empty your mind,
 and do it;
 
-empty your mind,
+and then empty your mind,
 and keep doing it,
 until you see 
 that it is done.
