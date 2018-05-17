@@ -12,7 +12,7 @@ empty your mind,
 and see what needs 
 to be done;
 
-empty your mind,
+then empty your mind,
 and do it;
 
 empty your mind,
