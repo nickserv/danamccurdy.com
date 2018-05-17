@@ -18,19 +18,4 @@ and do it;
 and then empty your mind,
 and keep doing it,
 until you see 
-that it is done.
-
-___
-
-Cooking
-is like writing,
-or painting,
-like making music,
-or making love.
-
-When "what should I do?"
-falls away,
-that is when
-there is no one there,
-and that is when 
-the  magic happens.
+that it is done.	
