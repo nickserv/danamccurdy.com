@@ -13,7 +13,7 @@ distant hills framed in their embrace,
 as the road snakes before me.
 
 Propelled down this highway
-like blood shooting through a vein,
+like blood pumping through a vein,
 I glide through this wonderland
 on the edge between two worlds.
 
