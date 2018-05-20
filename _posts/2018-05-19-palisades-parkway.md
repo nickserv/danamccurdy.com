@@ -13,14 +13,14 @@ as the road snakes ahead of me.
 
 Sliding down this highway
 like blood through a vein,
-I glide along this borderland,
+I glide through this borderland,
 the edge between two worlds.
 
 How beautiful, this dance 
-between the works of Nature
-and the artifices of Man!
+between the world of Nature
+and the world of Man!
 
 What serendipity,
 to be cradled thus,
 in my little machine,
-within this verdant bounty!
+within these verdant arms!
