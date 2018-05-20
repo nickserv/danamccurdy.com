@@ -23,4 +23,4 @@ and the artifices of Man!
 What serendipity,
 to be cradled thus,
 in my little machine,
-amongst this verdant bounty!
+within this verdant bounty!
