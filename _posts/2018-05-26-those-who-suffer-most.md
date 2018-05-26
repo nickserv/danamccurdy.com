@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: Those Who Suffer Most
-image: 'https://i.imgur.com/vUSaXWd.jpg'
+image: 'https://i.imgur.com/8a44C0R.jpg'
 ---
 There are those
 who have the insight and compassion
