@@ -38,6 +38,7 @@ pagination:
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
   ignore:
+    - _config.yml
     - _includes/*.html
     - _layouts
     - .*

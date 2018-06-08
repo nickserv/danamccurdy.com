@@ -33,22 +33,16 @@ Facebook caches metadata about a page when its link is shared, so you may notice
 
 | Content | Location | Note |
 | --- | --- | --- |
-| Site metadata | [`_config.yml`](_config.yml) | Includes preview data for social networks and search engines, along with additional configuration for Jekyll and Prose. |
 | Pages | [`*.md`](.) (based on page name) | Page titles, excerpts, and navbar positions can be edited in Prose's **Meta Data** section. |
 | Home intro | [`_includes/home_*.md`](_includes) | Includes the home page's portrait photo and nearby text. |
 | Poems intro | [`_includes/poems_intro.md`](includes/poems_intro.md) | Displayed at the top of both categories (life and love). |
 | Poems | [`_posts`](_posts) |
 | This readme | [`README.md`](README.md) | Displayed on GitHub and Prose only, but you can edit it like any other Markdown file in this site. |
 
-### Syntax
-
-#### Markdown Files (`*.md`)
+### Markdown (`*.md` files)
 Refer to [Kramdown's quick reference](https://kramdown.gettalong.org/quickref.html) to learn the Markdown syntax supported in this site.
 
 Please note that the [`hard_wrap` option](https://kramdown.gettalong.org/options.html#option-hard-wrap) is enabled, so returning to the next line will insert a line break without requiring you to append spaces or backslashes to the previous line. Additionally, Prose does not support this option nor some of the other extra features in Kramdown's version of the Markdown syntax, so Prose's Markdown preview may behave differently from the actual site.
-
-#### Jekyll Config (`_config.yml`)
-Refer to links in the file itself to learn about its configuration options, and [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/) to learn the YAML syntax used in the file.
 
 ## Developing
 1. Install [Ruby](https://www.ruby-lang.org/).
