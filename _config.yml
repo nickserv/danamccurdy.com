@@ -38,11 +38,13 @@ pagination:
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
   ignore:
+    - _includes/*.html
     - _layouts
     - assets
     - bin
     - poems
     - .*
+    - CNAME
     - Gemfile
     - Gemfile.lock
   media: assets
