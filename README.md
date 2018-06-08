@@ -33,11 +33,8 @@ Facebook caches metadata about a page when its link is shared, so you may notice
 
 | Content | Location | Note |
 | --- | --- | --- |
-| Pages | [`*.md`](.) (based on page name) | Page titles, excerpts, and navbar positions can be edited in Prose's **Meta Data** section. |
-| Home intro | [`_includes/home_*.md`](_includes) | Includes the home page's portrait photo and nearby text. |
-| Poems intro | [`_includes/poems_intro.md`](includes/poems_intro.md) | Displayed at the top of both categories (life and love). |
+| Pages | [`*.html,md`](.) (based on page name) | Page titles, excerpts, and navbar positions can be edited in Prose's **Meta Data** section. |
 | Poems | [`_posts`](_posts) |
-| This readme | [`README.md`](README.md) | Displayed on GitHub and Prose only, but you can edit it like any other Markdown file in this site. |
 
 ### Markdown (`*.md` files)
 Refer to [Kramdown's quick reference](https://kramdown.gettalong.org/quickref.html) to learn the Markdown syntax supported in this site.

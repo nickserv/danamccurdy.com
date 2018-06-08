@@ -39,7 +39,7 @@ pagination:
 prose:
   ignore:
     - _config.yml
-    - _includes/*.html
+    - _includes
     - _layouts
     - .*
     - assets
@@ -48,6 +48,7 @@ prose:
     - Gemfile
     - Gemfile.lock
     - poems
+    - README.md
   media: assets
   siteurl: https://danamccurdy.com
   metadata:
