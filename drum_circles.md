@@ -10,9 +10,29 @@ excerpt: >-
   heart, and soul.
 published: true
 image: /assets/drum_circles/featured/d_at_morristown.jpg
+featured:
+  - d_at_rest_stop.jpg
+  - d_at_morristown.jpg
+  - d_in_jersey_city.jpg
+carousel:
+  - d_at_belmar.jpg
+  - d_at_chatham.jpg
+  - d_at_chatham_drum_circle.jpg
+  - d_at_rutgers_circle_edit.png
+  - d_at_highland_park.jpg
+  - d_at_johnson_park_2.jpg
+  - d_at_life_movement.jpg
+  - d_at_paterson_falls.jpg
+  - d_at_sandy_hook.jpg
+  - d_at_sandy_hook_2.jpg
+  - d_at_sandy_hook_3.jpg
+  - d_at_thanksgiving.jpg
+  - d_at_wash_sq_2.jpg
+  - d_in_wash_sq.jpg
+  - d_with_dancers_at_long_branch.jpg
 ---
 
-{% include drum_circle_photos.html %}
+{% include drum_circle_photos.html photos=page.featured %}
 
 Rhythm has always been the most compelling and visceral aspect of music for me. The sheer variety and power of percussive sounds has led me to explore the endless potential of various hand drums and percussion instruments, on my own and with others, to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
 
@@ -74,4 +94,4 @@ As a drum circle facilitator, my commitment is always to empower others to exper
 - [Chatham Drum Circle](https://www.facebook.com/chathamdrumcircle/)
 
 # More Photos
-{% include drum_circle_photos_carousel.html %}
+{% include drum_circle_photos_carousel.html photos=page.carousel %}
