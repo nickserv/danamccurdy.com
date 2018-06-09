@@ -5,7 +5,7 @@ categories:
 centered: false
 published: true
 title: Letting Go
-image: 'https://i.imgur.com/RicDx7Q.jpg'
+image: 'https://i.imgur.com/uQvB93u.jpg'
 ---
 If you have trouble letting go,
 let yourself love a cat!
