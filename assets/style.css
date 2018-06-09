@@ -7,3 +7,8 @@
     rgb(67, 94, 103) 100%
   );
 }
+
+.jumbotron figure,
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
