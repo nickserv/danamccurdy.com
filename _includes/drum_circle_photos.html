@@ -1,6 +1,6 @@
 <div class="photos">
   {% for photo in include.photos %}
-    {% assign url = "/assets/drum_circles/featured/" | append: photo %}
+    {% assign url = "/assets/drum_circles/" | append: photo %}
     <a href="{{url}}"><img src="{{url}}"></a>
   {% endfor %}
 </div>
