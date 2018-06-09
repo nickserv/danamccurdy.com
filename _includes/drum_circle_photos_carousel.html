@@ -1,15 +1,21 @@
 <div id="carousel" class="carousel slide" data-ride="carousel">
+  {% assign photos = site.static_files | where_exp: "photo", "photo.path contains 'assets/drum_circles'" %}
+
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    {% for photo in site.data.drum_circle_photos.carousel %}
-      <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+    {% for photo in photos %}
+      {% unless include.photos contains photo.name %}
+        <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+      {% endunless %}
     {% endfor %}
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
-    {% for photo in site.data.drum_circle_photos.carousel %}
-      <div class="carousel-item{% if forloop.first %} active{% endif %}"><img class="w-100" src="/assets/drum_circles/{{ photo }}"></div>
+    {% for photo in photos %}
+      {% unless include.photos contains photo.name %}
+        <div class="carousel-item{% if forloop.first %} active{% endif %}"><img class="w-100" src="{{ photo.path }}"></div>
+      {% endunless %}
     {% endfor %}
   </div>
 

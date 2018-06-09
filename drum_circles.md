@@ -10,9 +10,13 @@ excerpt: >-
   heart, and soul…
 published: true
 image: /assets/drum_circles/featured/d_at_morristown.jpg
+featured:
+  - d_at_rest_stop.jpg
+  - d_at_morristown.jpg
+  - d_in_jersey_city.jpg
 ---
 
-{% include drum_circle_photos.html %}
+{% include drum_circle_photos.html photos=page.featured %}
 
 Rhythm has always been the most compelling and visceral aspect of music for me. The sheer variety and power of percussive sounds has led me to explore the endless potential of various hand drums and percussion instruments, on my own and with others, to weave beautiful patterns that satisfy and soothe the body, heart, and soul.
 
@@ -69,8 +73,9 @@ As a drum circle facilitator, my commitment is always to empower others to exper
 # Current Drumming Events
 
 - [North Jersey Drum Circles](https://www.facebook.com/groups/njdrummers/)
+- [New Jersey Drum Community](https://www.facebook.com/pg/njdrumcircles/posts/)
 - [Community in Rhythm](https://www.facebook.com/CommunityinRhythm/)
 - [Chatham Drum Circle](https://www.facebook.com/chathamdrumcircle/)
 
 # More Photos
-{% include drum_circle_photos_carousel.html %}
+{% include drum_circle_photos_carousel.html photos=page.featured %}

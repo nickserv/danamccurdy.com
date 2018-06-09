@@ -1,7 +1,7 @@
 <div class="row">
-  {% for photo in site.data.drum_circle_photos.featured %}
+  {% for photo in include.photos %}
     <div class="col">
-      <img class="w-100" src="/assets/drum_circles/featured/{{photo}}">
+      <img class="w-100" src="/assets/drum_circles/{{ photo }}">
     </div>
   {% endfor %}
 </div>
