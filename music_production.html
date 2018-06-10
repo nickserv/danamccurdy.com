@@ -243,28 +243,28 @@ music:
   <div class="card-columns">
     {% for item in category[1] %}
       <div class="card">
-        <div class="card-header">
-          {% if item[1].url %}<a href="{{item[1].url}}">{% endif %}
-            {{item[0] | smartify}}
-            <br>
-            <small>{{item[1].artist | smartify}}</small>
+        <div class="card-body">
+          <h2 class="card-title text-light">
+            {% if item[1].url %}<a href="{{item[1].url}}">{% endif %}
+              {{item[0] | smartify}}
             {% if item[1].url %}</a>{% endif %}
-        </div>
+          </h2>
 
-        {% if item[1].soundcloud %}
-        <div class="embed-responsive embed-responsive-4by3">
-          <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{item[1].soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-        </div>
-        {% endif %}
-        
-        {% if item[1].youtube %}
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe src="https://www.youtube.com/embed/{{item[1].youtube}}?rel=0" allowfullscreen></iframe>
-          </div>
-        {% endif %} 
-        
-        {% if item[1].description or item[1].labels %} 
-          <div class="card-body">
+          {{item[1].artist | smartify}}
+
+          {% if item[1].soundcloud %}
+            <div class="embed-responsive embed-responsive-4by3">
+              <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{item[1].soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+            </div>
+          {% endif %}
+
+          {% if item[1].youtube %}
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe src="https://www.youtube.com/embed/{{item[1].youtube}}?rel=0" allowfullscreen></iframe>
+            </div>
+          {% endif %}
+
+          {% if item[1].description or item[1].labels %}
             {{ item[1].description | smartify }}
 
             {% if item[1].labels %}
@@ -274,8 +274,8 @@ music:
                 {% endfor %}
               </ul>
             {% endif %}
-          </div>
-        {% endif %}
+          {% endif %}
+        </div>
       </div>
     {% endfor %}
   </div>
