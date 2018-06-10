@@ -1,3 +1,5 @@
+/* Home page */
+
 .jumbotron {
   /* this is based off of the really cool gradient on https://bootswatch.com/ */
   background: linear-gradient(
@@ -11,4 +13,12 @@
 .jumbotron figure,
 .jumbotron p:last-child {
   margin-bottom: 0;
+}
+
+/* Music production */
+
+.card ul {
+  list-style: inside;
+  margin-bottom: 0;
+  padding-left: 0;
 }
