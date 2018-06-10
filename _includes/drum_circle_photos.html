@@ -1,7 +1,5 @@
-<div class="row">
+<div class="photos">
   {% for photo in include.photos %}
-    <div class="col">
-      <img class="w-100" src="/assets/drum_circles/{{ photo }}">
-    </div>
+    <img src="/assets/drum_circles/{{ photo }}">
   {% endfor %}
 </div>
