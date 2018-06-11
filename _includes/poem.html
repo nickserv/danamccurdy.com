@@ -1,7 +1,7 @@
 <!-- Template for rendering a single poem, both individually and in a poem listing. -->
 
 <div class="row my-3">
-    <div class="col-md-4 d-none d-md-block">
+  <div class="col-md-3 d-none d-md-block">
       <!-- Image -->
       <img class="img-fluid" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
     </div>
@@ -37,7 +37,7 @@
 <!-- Pager -->
 {% if page.layout == "poem" %}
 <div class="row justify-content-end">
-    <div class="col-md-8">
+  <div class="col-md-9">
       <nav>
         <ul class="pagination">
           {% if page.previous %}
