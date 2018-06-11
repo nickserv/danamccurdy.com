@@ -13,7 +13,6 @@ image: /assets/drum_circles/featured/d_at_morristown.jpg
 featured:
   - d_at_rest_stop.jpg
   - d_at_morristown.jpg
-  - d_in_jersey_city.jpg
   - d_at_touch_mother_earth.jpg
 ---
 
