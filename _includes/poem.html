@@ -2,65 +2,65 @@
 
 <div class="row my-3">
   <div class="col-md-3 d-none d-md-block">
-      <!-- Image -->
-      <img class="img-fluid" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
-    </div>
-  
-    <div class="col">
-      <!-- Title -->
-      <h1><a href="{{ include.poem.url }}">{{ include.poem.title | smartify }}</a></h1>
-  
-      <p>
-        <!-- Date -->
-        <span class="text-info">{{ include.poem.date | date_to_string }}</span>
-  
-        <!-- Category -->
-        {% if page.layout == "poem" %}
-          {% for category in include.poem.categories %}
-            <a class="badge badge-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
-          {% endfor %}
-        {% endif %}
-      </p>
-
-      <div class="d-md-none">
-        <!-- Image -->
-        <img class="img-fluid" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
-      </div>
-
-    <!-- Content -->
-    <div {% if include.poem.centered %}class="text-center"{% endif %}>
-      {{ include.poem.content }}
-    </div>
+    <!-- Image -->
+    <img class="img-thumbnail" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
   </div>
+
+  <div class="col">
+    <!-- Title -->
+    <h1><a href="{{ include.poem.url }}">{{ include.poem.title | smartify }}</a></h1>
+
+    <p>
+      <!-- Date -->
+      <span class="text-info">{{ include.poem.date | date_to_string }}</span>
+
+      <!-- Category -->
+      {% if page.layout == "poem" %}
+        {% for category in include.poem.categories %}
+          <a class="badge badge-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
+        {% endfor %}
+      {% endif %}
+    </p>
+
+    <div class="d-md-none">
+      <!-- Image -->
+      <img class="img-thumbnail" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
+    </div>
+
+  <!-- Content -->
+  <div {% if include.poem.centered %}class="text-center"{% endif %}>
+    {{ include.poem.content }}
+  </div>
+</div>
 </div>
 
 <!-- Pager -->
 {% if page.layout == "poem" %}
 <div class="row justify-content-end">
   <div class="col-md-9">
-      <nav>
-        <ul class="pagination">
-          {% if page.previous %}
-            <li class="page-item">
-              <a class="page-link" href="{{ page.previous.url }}">Previous</a>
-            </li>
-          {% else %}
-            <li class="page-item disabled">
-              <a class="page-link" href="#">Previous</a>
-            </li>
-          {% endif %}
+    <nav>
+      <ul class="pagination">
+        {% if page.previous %}
+          <li class="page-item">
+            <a class="page-link" href="{{ page.previous.url }}">Previous</a>
+          </li>
+        {% else %}
+          <li class="page-item disabled">
+            <a class="page-link" href="#">Previous</a>
+          </li>
+        {% endif %}
 
-          {% if page.next %}
-            <li class="page-item">
-              <a class="page-link" href="{{ page.next.url }}">Next</a>
-            </li>
-          {% else %}
-            <li class="page-item disabled">
-              <a class="page-link" href="#">Next</a>
-            </li>
-          {% endif %}
-        </ul>
-      </nav>
-    </div>
+        {% if page.next %}
+          <li class="page-item">
+            <a class="page-link" href="{{ page.next.url }}">Next</a>
+          </li>
+        {% else %}
+          <li class="page-item disabled">
+            <a class="page-link" href="#">Next</a>
+          </li>
+        {% endif %}
+      </ul>
+    </nav>
   </div>
+</div>
 {% endif %}
