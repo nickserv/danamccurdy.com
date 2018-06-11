@@ -22,3 +22,19 @@
   margin-bottom: 0;
   padding-left: 0;
 }
+
+/* Drum circles */
+
+.photos {
+  display: flex;
+  margin-bottom: 1.25em;
+}
+
+.photos a {
+  margin: 0 2.08%;
+}
+
+.photos img {
+  max-height: 15em;
+  max-width: 100%;
+}
