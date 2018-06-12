@@ -9,7 +9,7 @@ excerpt: >-
   and with others, to weave beautiful patterns that satisfy and soothe the body,
   heart, and soul.
 published: true
-image: /assets/drum_circles/featured/d_at_morristown.jpg
+image: /assets/drum_circles/d_at_morristown.jpg
 featured:
   - d_at_rest_stop.jpg
   - d_at_morristown.jpg
