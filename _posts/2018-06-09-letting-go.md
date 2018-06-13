@@ -5,7 +5,7 @@ categories:
 centered: false
 published: true
 title: Letting Go
-image: 'https://i.imgur.com/uQvB93u.jpg'
+image: 'https://i.imgur.com/K7bwV8C.jpg'
 ---
 If you have trouble letting go,
 let yourself love a cat!
@@ -27,5 +27,3 @@ and, if we accept their gift
 of teaching us how to let go,
 then they will offer us that,
 for free!
-
-
