@@ -29,9 +29,10 @@ We have a choice,
 in what we read,
 in what we say, 
 in what we do,
-to live in a world
-we would all
-be happier to live in,
+to act as if
+we live in a world
+we would all be happier 
+to live in,
 until, through our vision
 and our persistence,
 it becomes reality
