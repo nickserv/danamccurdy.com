@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: The World We Live In
-image: 'https://i.imgur.com/LfJORx6.jpg'
+image: 'https://i.imgur.com/hH1caZI.jpg'
 ---
 This much I know
 from the internet:
