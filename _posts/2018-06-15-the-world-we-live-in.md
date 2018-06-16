@@ -35,7 +35,7 @@ we would all be happier
 to live in,
 until, through our vision
 and our persistence,
-it becomes a reality
+it becomes reality
 for everyone.
 
 
