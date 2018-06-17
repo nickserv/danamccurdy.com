@@ -4,50 +4,57 @@ layout: default
 
 <!-- Template for a poem listing within a specific category. -->
 
-<div class="row">
-  <div class="col-md-8 col-md-offset-2">
-
+<div class="row justify-content-center">
+  <div class="col-lg-8">
     {% capture intro %}{% include poems_intro.md %}{% endcapture %}
     {{ intro | markdownify }}
   </div>
 </div>
 
-<ul class="nav nav-pills" role="tablist">
+<nav class="nav nav-pills">
   {% for category in site.categories %}
     {% capture path %}/poems/{% if category[0] != "life" %}{{ category[0] }}/{% endif %}{% endcapture %}
 
-    <li {% if paginator.first_page_path == path %}class="active"{% endif %}>
-      <a href="{{ path }}">
-        {{ category[0] }}
-      </a>
-    </li>
+    <a class="nav-link{% if paginator.first_page_path == path %} active{% endif %}" href="{{ path }}">
+      {{ category[0] }}
+    </a>
   {% endfor %}
 
   {% capture path %}/poems/all/{% endcapture %}
 
-  <li {% if paginator.first_page_path == path %}class="active"{% endif %}>
-    <a href="{{ path }}">
-      all
-    </a>
-  </li>
-</ul>
+  <a class="nav-link{% if paginator.first_page_path == path %} active{% endif %}" href="{{ path }}">
+    all
+  </a>
+</nav>
 
 {% for poem in paginator.posts %}
   {% include poem.html poem=poem %}
 {% endfor %}
 
-<div class="row">
-  <div class="col-sm-offset-4 col-sm-8 custom-pager">
-    {% if paginator.next_page %}
-      <a class="btn btn-default btn-sm" href="{{ paginator.next_page_path }}" role="button">Previous</a>
-    {% else %}
-      <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Previous</a>
-    {% endif %}
+<div class="row justify-content-end">
+  <div class="col-md-8">
+    <nav>
+      <ul class="pagination">
+        {% if paginator.next_page %}
+          <li class="page-item">
+            <a class="page-link" href="{{ paginator.next_page_path }}">Previous</a>
+          </li>
+        {% else %}
+          <li class="page-item disabled">
+            <a class="page-link" href="#">Previous</a>
+          </li>
+        {% endif %}
 
-    {% if paginator.previous_page %}
-      <a class="btn btn-default btn-sm" href="{{ paginator.previous_page_path }}" role="button">Next</a>
-    {% else %}
-      <a class="btn btn-default btn-sm disabled" href="#" role="button" aria-disabled>Next</a>
-    {% endif %}
+        {% if paginator.previous_page %}
+          <li class="page-item">
+            <a class="page-link" href="{{ paginator.previous_page_path }}">Next</a>
+          </li>
+        {% else %}
+          <li class="page-item disabled">
+            <a class="page-link" href="#">Next</a>
+          </li>
+        {% endif %}
+      </ul>
+    </nav>
   </div>
 </div>

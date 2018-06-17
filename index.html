@@ -6,14 +6,17 @@ published: true
 <!-- Modify home page content with files in _includes and page metadata. -->
 
 <!-- Site introduction jumbotron -->
-<div class="jumbotron jumbotron-home">
+<div class="jumbotron">
   <div class="row">
-    <div class="col-sm-3">
-      {% capture portrait %}{% include home_portrait.md %}{% endcapture %}
-      {{ portrait | markdownify }}
+    <div class="col-md-3">
+       <!-- The home page's portrait photo, displayed with a small citation. -->
+       <figure class="figure">
+        <img src="/assets/portrait.jpg" class="figure-img img-fluid" alt="photo of Dana">
+        <figcaption class="figure-caption">Photo: Marlies Dambrot</figcaption>
+      </figure>
     </div>
 
-    <div class="col-sm-9 lead">
+    <div class="col lead">
       {% capture intro %}{% include home_intro.md %}{% endcapture %}
       {{ intro | markdownify }}
     </div>
@@ -24,10 +27,12 @@ published: true
 <div class="row">
   {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position' | where_exp: 'link_page','link_page.autogen == nil' | sort: 'position' %}
   {% for link_page in link_pages %}
-    <div class="col-md-3">
-      <h1>{{ link_page.title }}</h1>
-      <p>{{ link_page.excerpt | smartify }}</p>
-      <a href="{{link_page.url}}">see more...</a>
+    <div class="col-lg">
+      <h1><a href="{{link_page.url}}">{{ link_page.title }}</a></h1>
+      <p>
+        {{ link_page.excerpt | smartify }}<br>
+        <a href="{{link_page.url}}">(more)</a>
+      </p>
     </div>
   {% endfor %}
 </div>

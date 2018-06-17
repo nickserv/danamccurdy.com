@@ -7,13 +7,13 @@ excerpt: >-
   me. The sheer variety and power of percussive sounds has led me to explore the
   endless potential of various hand drums and percussion instruments, on my own
   and with others, to weave beautiful patterns that satisfy and soothe the body,
-  heart, and soul.
+  heart, and soul…
 published: true
 image: /assets/drum_circles/d_at_morristown.jpg
 featured:
   - d_at_rest_stop.jpg
   - d_at_morristown.jpg
-  - d_in_jersey_city.jpg
+  - d_at_touch_mother_earth.jpg
 ---
 
 {% include drum_circle_photos.html photos=page.featured %}
@@ -45,8 +45,7 @@ As I continue on this path, it's become one of my primary life goals to promote 
 ### Benefits
 There is a growing body of thought about the benefits of communal drumming. Here's what some others have to say about this, along with some interesting research on the subject.
 
-{% include drum_circle_videos.html %}
-
+- {% include drum_circle_videos.html %}
 - [What Is A Community Drum Circle?](http://remo.com/experience/post/what-is-a-community-drum-circle/)
 - [Why Drums and Drum Circles?](http://remo.com/experience/post/why-drums-and-drum-circles/)
 - [10 Health Reasons to Start Drumming](https://www.drnorthrup.com/health-benefits-drumming/)
@@ -60,12 +59,7 @@ There is a growing body of thought about the benefits of communal drumming. Here
 As a drum circle facilitator, my commitment is always to empower others to experience the joy of expressing their natural rhythmic spirit in a community environment, along with the healing, stress relief, and spiritual benefits that communal drumming promotes.
 
 ### My Drumming Manifesto
-> #### Community in Rhythm
-> We are beings of energy, in a universe of energy.
-> It is our gift in each moment to direct that energy as we will.
-> In rhythm together, we direct that energy to our highest purpose,
-> For the greater joy and well-being of all.
-{:.manifesto}
+{% include drum_circle_manifesto.html %}
 
 ### [Some reflections on why I do this]({% post_url 2017-07-02-a-community-in-rhythm %})
 (with gratitude, to all I share the joy of drumming with)

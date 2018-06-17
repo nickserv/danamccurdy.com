@@ -6,12 +6,13 @@ categories:
   - life
 image: 'https://i.imgur.com/C2WgNsM.jpg'
 ---
->(in memory of Larry Coryell, 
+>(in memory of Larry Coryell,
 best friend of one of my best friends)
+{: .blockquote}
 
-Why do we wait 
-to feel our love 
-for so many people 
+Why do we wait
+to feel our love
+for so many people
 (only in retrospect,
 when they have left the Earth)
 until they die?

@@ -86,7 +86,7 @@ prose:
         field:
           element: checkbox
           label: Centered Text
-          help: Enable to center the entire poem against the left border.
+          help: Enable to center the entire poem.
       - name: published
         field:
           element: checkbox

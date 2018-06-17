@@ -5,7 +5,7 @@ position: 1
 excerpt: >-
   Ever since I first heard the Beatles' "I Am the Walrus" as a teenager, I've
   been fascinated by the art and science of music technology, and how it
-  contributes to the process of creative music making.
+  contributes to the process of creative music making…
 published: true
 ---
 
@@ -38,7 +38,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 - P.S. 24 Elementary School <small class="text-info">(Paterson, NJ)</small>
 
 # Some notable students and clients
-<!-- Start a definition list with a horizontal style and a paragraph tag wrapping each term. -->
+<!-- Start a definition list with a paragraph tag wrapping each term. -->
 
 [Yusef Lateef](http://www.yuseflateef.com)
 
@@ -83,4 +83,3 @@ Over the years, I have taught countless individuals, usually in their home studi
 Other
 
 : various clients of the NY, NJ, and Pennsylvania Commissions for the Blind
-{: .dl-horizontal}
