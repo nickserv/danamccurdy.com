@@ -39,3 +39,17 @@
   max-height: 15em;
   max-width: 100%;
 }
+
+/* Soften borders and horizontal rules */
+
+.img-thumbnail, hr {
+  border-color: rgb(222, 226, 230, 0.5);
+}
+
+.img-thumbnail {
+  padding: 0;
+}
+
+hr {
+  margin: 2rem 0;
+}
