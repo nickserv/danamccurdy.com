@@ -2,10 +2,9 @@
 title: God ( a second reflection)
 categories:
   - life
+published: true
+centered: false
 ---
-
-God ( a second reflection)
-
 God is not a thing.
 
 God is the essence
