@@ -19,7 +19,7 @@ patiently waiting
 for his freedom,
 ready for release.
 
-It is we, in fact,
+It is we, of course,
 who have bound him,
 who have bound ourselves.
 
@@ -35,5 +35,3 @@ in the breeze of awareness.
 Grace
 is what flows through us
 when we get out of our own way.
-
-
