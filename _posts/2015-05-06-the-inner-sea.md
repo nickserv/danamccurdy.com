@@ -1,13 +1,12 @@
 ---
-title: THE INNER SEA
+title: The Inner Sea
 categories:
   - life
 published: true
 centered: false
 ---
 As I sit, 
-awash
-in an inner sea,
+awash in an inner sea,
 a greater world
 lies wrapped
 around me.
