@@ -19,12 +19,12 @@ Freedom is a beautiful dream.
 
 It is the dream
 that points the way
-to being a better human
+to being a better human,
 living in a better world.
 
 It is a dream worth having.
 
-it is a dream worth living.
+And it is a dream worth living.
 
 
 
