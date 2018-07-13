@@ -6,7 +6,7 @@ published: true
 title: The Narrative
 image: 'https://i.imgur.com/TaqPFcG.jpg'
 ---
-There are people in my life
+There are people around me
 always longing 
 to control the narrative.
 
