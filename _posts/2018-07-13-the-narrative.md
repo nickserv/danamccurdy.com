@@ -27,7 +27,7 @@ concealing our fear
 that, without a narrative,
 our lives would have no meaning.
 
-And what if we are enough,
+And what if we are enough
 without a narrative,
 and we are entitled to be
 just as we were born,
