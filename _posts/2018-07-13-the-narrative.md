@@ -17,7 +17,7 @@ to control the narrative.
 All of us are caught
 in a wild world web,   
 clamoring with voices
-all longing to be 
+all striving to be 
 in control of the narrative.
 
 And the narrative
