@@ -10,7 +10,7 @@ image: 'https://i.imgur.com/vu30I3E.jpg'
 Love isn't like gold - 
 it's not a treasure 
 to be hoarded,
-to be valued 
+or valued 
 for its scarcity. 
 
 It's more like the flame
