@@ -1,0 +1,50 @@
+---
+categories:
+  - life
+centered: false
+published: true
+title: Finding Peace
+image: 'https://i.imgur.com/hKDgPlu.jpg'
+---
+I will never find
+a lasting peace 
+outside me
+in this world.
+
+Right now,
+on these streets,
+the constant jangle
+of people and machines,
+the chaos of culture 
+and technology,
+seem to assault me.
+
+But the louder noise
+comes from inside me -
+a string of commentary,
+constantly critiquing
+a world I didn’t ask for.
+
+In this stream, which is
+the flow my own resistance,
+all the sound and bustle
+become a torrent,
+torturous and tumultuous,
+sweeping me along,
+as if against my will.
+
+But there is no torrent,
+except in my tumbling thoughts.
+
+Beyond them,
+behind them
+there is only silence,
+a peace that I may glimpse
+when I give up the fight,
+and let the world be
+as it is.
+
+
+
+
+
