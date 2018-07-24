@@ -50,4 +50,4 @@ Please note that the [`hard_wrap` option](https://kramdown.gettalong.org/options
 
 ## Private Resources
 - [Google Analytics](https://analytics.google.com/analytics/web/#report/defaultid/a51703743w83996550p87034958/)
-- [Google Search Console](https://www.google.com/webmasters/tools/dashboard?siteUrl=http%3A%2F%2Fdanamccurdy.com%2F)
+- [Google Search Console](https://www.google.com/webmasters/tools/dashboard?siteUrl=https%3A%2F%2Fdanamccurdy.com%2F)

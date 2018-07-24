@@ -40,7 +40,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 # Some notable students and clients
 <!-- Start a definition list with a paragraph tag wrapping each term. -->
 
-[Yusef Lateef](http://www.yuseflateef.com)
+[Yusef Lateef](https://yuseflateef.com/)
 
 : Grammy-winning jazz artist
 
@@ -52,7 +52,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 : orchestrator/composer/musical director (Grammy Award winner and Tony Award nominee for his orchestration of the score for Tony winner _Jersey Boys_)
 
-[Roma Baran](http://www.baranstoll.com/profile.html)
+[Roma Baran](https://www.baranstoll.com/profile.html)
 
 : producer (_Laurie Anderson, Kate and Anna McGarrigle_)
 
@@ -76,7 +76,7 @@ Over the years, I have taught countless individuals, usually in their home studi
 
 : dance/theater composer and sound designer (known for his work with various NY-based dance and theater companies)
 
-[Michael Palmieri](http://www.soundclick.com/bands/default.cfm?bandID=209257)
+[Michael Palmieri](https://www.soundclick.com/bands3/default.cfm?bandid=209257)
 
 : contemporary classical composer
 
