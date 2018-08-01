@@ -19,7 +19,7 @@ the chaos of culture
 and technology,
 seem to assault me.
 
-But the louder noise
+But the most noise
 comes from within me -
 a string of commentary,
 constantly critiquing
