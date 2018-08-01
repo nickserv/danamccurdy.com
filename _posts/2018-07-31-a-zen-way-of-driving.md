@@ -13,7 +13,7 @@ Stuck in traffic,
 as a seed of irritation
 germinated in my thoughts,
 I asked myself 
-"What would Thay  do?"
+"What would Thay do?"
 
 I remembered, then,
 that I had been given a gift, 
