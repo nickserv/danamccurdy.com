@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/hKDgPlu.jpg'
 ---
 I will never find
 a lasting peace 
-outside me
+outside myself,
 in this world.
 
 Right now,
@@ -30,16 +30,18 @@ In this stream
 (the flow of my own resistance),
 all the sound and bustle
 become a torrent,
-torturous and tumultuous,
-sweeping me along,
+torturous,
+tumultuous,
+and I am swept along,
 as if against my will.
 
 But there is no torrent,
-except in my tumbling thoughts.
+except in the tumble 
+of my own thoughts.
 
 Beyond them, 
 behind them,
-is only silence,
+there is only silence,
 a peace that I may glimpse
 when I give up the fight,
 and let the world be
