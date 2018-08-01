@@ -20,13 +20,13 @@ and technology,
 seem to assault me.
 
 But the louder noise
-comes from inside me -
+comes from within me -
 a string of commentary,
 constantly critiquing
 a world I didn’t ask for.
 
-In this stream, which is
-the flow my own resistance,
+In this stream, 
+the flow of my own resistance,
 all the sound and bustle
 become a torrent,
 torturous and tumultuous,
@@ -43,8 +43,3 @@ a peace that I may glimpse
 when I give up the fight,
 and let the world be
 as it is.
-
-
-
-
-
