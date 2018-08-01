@@ -19,14 +19,15 @@ the chaos of culture
 and technology,
 seem to assault me.
 
-But the most noise
+But the loudest noise
 comes from within me -
 a string of commentary,
 constantly critiquing
-a world I didn’t ask for.
+the kind of world 
+I didn’t ask for.
 
-In this stream, 
-the flow of my own resistance,
+In this stream 
+(the flow of my own resistance),
 all the sound and bustle
 become a torrent,
 torturous and tumultuous,
@@ -36,9 +37,9 @@ as if against my will.
 But there is no torrent,
 except in my tumbling thoughts.
 
-Beyond them,
-behind them
-there is only silence,
+Beyond them, 
+behind them,
+is only silence,
 a peace that I may glimpse
 when I give up the fight,
 and let the world be
