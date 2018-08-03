@@ -68,7 +68,6 @@ prose:
           label: Poem Categories
           help: The list of categories to which this poem belongs. If this is left blank, the poem will be hidden from the poem listings.
           placeholder: REQUIRED
-          alterable: false
           options:
             - name: Life
               value: life
