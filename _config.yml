@@ -31,10 +31,17 @@ pagination:
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
   ignore:
-    - index.md
     - _config.yml
-    - /_layouts
-    - /_includes
+    - _includes
+    - _layouts
+    - .*
+    - assets
+    - bin
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - poems
+    - README.md
   media: assets
   siteurl: https://danamccurdy.com
   metadata:
