@@ -70,10 +70,8 @@ prose:
           placeholder: REQUIRED
           alterable: true
           options:
-            - name: Life
-              value: life
-            - name: Love
-              value: love
+            - life
+            - love
           value: life
       - name: centered
         field:
