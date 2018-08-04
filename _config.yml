@@ -77,6 +77,7 @@ prose:
           element: multiselect
           label: Poem Tags
           help: The list of tags for this poem. Tags are optional, overlapping, case sensitive, and hidden from the website.
+          alterable: true
       - name: centered
         field:
           element: checkbox
