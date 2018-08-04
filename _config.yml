@@ -31,17 +31,10 @@ pagination:
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
   ignore:
+    - index.md
     - _config.yml
-    - _includes
-    - _layouts
-    - .*
-    - assets
-    - bin
-    - CNAME
-    - Gemfile
-    - Gemfile.lock
-    - poems
-    - README.md
+    - /_layouts
+    - /_includes
   media: assets
   siteurl: https://danamccurdy.com
   metadata:
@@ -68,11 +61,15 @@ prose:
           label: Poem Categories
           help: The list of categories to which this poem belongs. If this is left blank, the poem will be hidden from the poem listings.
           placeholder: REQUIRED
-          alterable: true
           options:
             - life
             - love
           value: life
+      - name: tags
+        field:
+          element: multiselect
+          label: Poem Tags
+          help: The list of tags for this poem. Tags are optional, overlapping, case sensitive, and hidden from the website.
       - name: centered
         field:
           element: checkbox
