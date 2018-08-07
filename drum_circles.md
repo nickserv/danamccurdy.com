@@ -28,6 +28,7 @@ In my years of community-based drumming, I've developed a personal style of drum
 ## Communities
 - schools
 - youth groups
+- youth with autism
 - senior citizens
 - veterans' groups
 - recovery programs
