@@ -10,10 +10,10 @@ _reflections on the 50th anniversary theatrical re-release of Yellow Submarine_
 
 Fifty years ago,
 I sat gobsmacked,
-bathed in your exuberant spirit,
+bathed in this exuberant spirit,
 this flood of fantasmagoria
 streaming off the screen,
-your music’s mysterious power 
+the music’s mysterious power 
 suffusing me.
 
 My young mind
