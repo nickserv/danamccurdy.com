@@ -6,7 +6,7 @@ published: true
 title: All You Need
 image: 'https://i.imgur.com/aer5RUR.png'
 ---
-_with gratitude for the 50th anniversary theatrical re-release of Yellow Submarine _
+_with gratitude for the 50th anniversary theatrical re-release of Yellow Submarine_
 
 Fifty years ago,
 I sat gobsmacked,
