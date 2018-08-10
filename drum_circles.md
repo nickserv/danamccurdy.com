@@ -48,6 +48,7 @@ There is a growing body of thought about the benefits of communal drumming. Here
 
 - {% include drum_circle_videos.html %}
 - [What Is A Community Drum Circle?](http://remo.com/experience/post/what-is-a-community-drum-circle/)
+- [Hand Drum Program at the Quail Brook Senior Center](https://www.tapinto.net/towns/franklin-township/sections/arts-and-entertainment/articles/franklin-womans-club-sponsors-hand-drum-program)
 - [Why Drums and Drum Circles?](http://remo.com/experience/post/why-drums-and-drum-circles/)
 - [10 Health Reasons to Start Drumming](https://www.drnorthrup.com/health-benefits-drumming/)
 - [Drumming For Wellness: The Healing Power Of The Drum](http://www.healthy.net/scr/article.aspx?Id=2181)
