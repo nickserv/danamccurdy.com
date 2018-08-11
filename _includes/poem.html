@@ -12,7 +12,7 @@
 
     <p>
       <!-- Date -->
-      <span class="text-info">{{ include.poem.date | date_to_string }}</span>
+      <span class="text-info">{{ include.poem.date | date: "%B %-d, %Y" }}</span>
 
       <!-- Category -->
       {% if page.layout == "poem" %}
