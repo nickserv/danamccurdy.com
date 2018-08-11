@@ -15,14 +15,14 @@ As complete,
 Without knowing how,
 Or why.
 
-Yet It is our blessing,
+Yet it is our blessing,
 With our Big Brains,
-To wonder how,
+To always wonder how,
 And why.
 
 And then,
 Full of questions,
-To relinquish answers,
+We may relinquish answers,
 And relax,
 Like a cat,
 Into Now.
