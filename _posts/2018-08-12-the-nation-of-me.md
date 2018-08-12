@@ -9,7 +9,8 @@ tags:
   - gratitude
   - interdependence
 ---
-_With thanks to Bill Bryson for A Short History of Nearly Everything, which may be the best book ever written about what we are and how we got here_
+_With thanks to Bill Bryson for "A Short History of Nearly Everything", 
+which may be the best book ever written about what we are and how we got here_
 
 There are trillions 
 of living entities
