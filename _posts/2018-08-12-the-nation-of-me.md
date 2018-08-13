@@ -33,7 +33,7 @@ thieves and murderers,
 but most of them partners 
 in the task of keeping me alive.
 
-They go on about there business
+They go on about their business
 without thinking of me,
 intent on their own survival.
 
