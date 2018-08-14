@@ -3,7 +3,7 @@
 <div class="row my-5">
   <div class="col-md-4 d-none d-md-block">
     <!-- Image -->
-    <img class="img-thumbnail" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
+     {% if include.poem.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.poem.image }}">{% endif %}
   </div>
 
   <div class="col">
@@ -24,7 +24,7 @@
     
     <div class="d-md-none">
       <!-- Image -->
-      <img class="img-thumbnail" src="{% if include.poem.image != "/assets/portrait.jpg" %}{{ include.poem.image }}{% endif %}">
+      {% if include.poem.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.poem.image }}">{% endif %}
     </div>
 
     <!-- Content -->
