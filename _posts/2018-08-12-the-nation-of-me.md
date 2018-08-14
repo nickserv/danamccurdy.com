@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: The Nation of "Me"
-image: 'https://i.imgur.com/qwH1yAW.jpg'
+image: 'https://i.imgur.com/hrLzq4V.jpg'
 tags:
   - gratitude
   - interdependence
@@ -46,5 +46,3 @@ I send them my love,
 thanking them for the gift
 of being alive
 in this body.
-
-
