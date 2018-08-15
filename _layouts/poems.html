@@ -4,6 +4,19 @@ layout: default
 
 <!-- Template for a poem listing within a specific category. -->
 
+<!-- Google Custom Search -->
+<script>
+  (function () {
+    var cx = '011300544546559065813:eobn1exnf6k';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
 <div class="row justify-content-center">
   <div class="col-lg-8">
     {% capture intro %}{% include poems_intro.md %}{% endcapture %}
@@ -11,21 +24,31 @@ layout: default
   </div>
 </div>
 
-<nav class="nav nav-pills">
-  {% for category in site.categories %}
-    {% capture path %}/poems/{% if category[0] != "life" %}{{ category[0] }}/{% endif %}{% endcapture %}
+<div class="row mt-4">
+  <div class="col-md-4">
+    <nav class="nav nav-pills">
+      {% for category in site.categories %}
+        {% capture path %}/poems/{% if category[0] != "life" %}{{ category[0] }}/{% endif %}{% endcapture %}
 
-    <a class="nav-link{% if paginator.first_page_path == path %} active{% endif %}" href="{{ path }}">
-      {{ category[0] }}
-    </a>
-  {% endfor %}
+        <a class="nav-link{% if paginator.first_page_path == path %} active{% endif %}" href="{{ path }}">
+          {{ category[0] }}
+        </a>
+      {% endfor %}
+      
+      {% capture path %}/poems/all/{% endcapture %}
 
-  {% capture path %}/poems/all/{% endcapture %}
+      <a class="nav-link{% if paginator.first_page_path == path %} active{% endif %}" href="{{ path }}">
+        all
+      </a>
+    </nav>
+  </div>
 
-  <a class="nav-link{% if paginator.first_page_path == path %} active{% endif %}" href="{{ path }}">
-    all
-  </a>
-</nav>
+  <div class="col offset-md-4">
+    <gcse:searchbox></gcse:searchbox>
+  </div>
+</div>
+
+<gcse:searchresults></gcse:searchresults>
 
 {% for poem in paginator.posts %}
   {% include poem.html poem=poem %}
