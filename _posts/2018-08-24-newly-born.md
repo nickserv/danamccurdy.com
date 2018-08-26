@@ -9,8 +9,7 @@ tags:
   - perception
 ---
 What do you see,
-an instant before
-your first impression?
+before your first impression?
 
 In the moment of perception,
 what floods your consciousness,
