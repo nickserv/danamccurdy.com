@@ -11,7 +11,7 @@ is in the eye of the beholder.
 
 We will never see the world whole.
 
-behind our eyes
+Behind our eyes
 are only glimpses, 
 only fragments,
 a pale reflection
