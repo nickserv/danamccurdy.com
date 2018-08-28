@@ -23,6 +23,3 @@ see our own seeing,
 until how we look
 becomes as sharp and clear
 as what we think we see.
-
-
-
