@@ -6,34 +6,23 @@ published: true
 title: the eye  of the beholder
 image: 'https://i.imgur.com/ZsY1ckQ.jpg'
 ---
-Everything
-is in the eye 
-of the beholder.
+Everything that can be seen
+is in the eye of the beholder.
 
-Yes, there is a world out there,
-but we will never see it whole.
+We will never see the world whole.
 
-Behind our eyes,
-we have only glimpses, 
-fragments,
+behind our eyes
+are only glimpses, 
+only fragments,
 a pale reflection
 of what is.
 
-But we may also look
-at ourselves looking,
+But we may also see
+ourselves looking,
 see our own seeing,
 until how we look
-at our own looking
 becomes as sharp and clear
-as what we think we see
-in the world outside.
-
-In each moment of looking,
-we may see where
-we are looking from,
-and choose to shift it,
-and view the world anew.
-
+as what we think we see.
 
 
 
