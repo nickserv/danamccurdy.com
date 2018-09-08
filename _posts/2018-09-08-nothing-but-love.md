@@ -5,7 +5,7 @@ categories:
 centered: false
 published: true
 title: Nothing But Love
-image: 'https://i.imgur.com/D259Z6p.png'
+image: 'https://i.imgur.com/fTChOpL.png'
 ---
 Love of the particular
 is like a lever
