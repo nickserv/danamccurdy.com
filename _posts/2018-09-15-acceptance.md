@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: Acceptance
-image: 'https://i.imgur.com/at5gUm6.png'
+image: 'https://i.imgur.com/i1wkrOL.png'
 ---
 I have wasted so much time
 trying to please the people 
