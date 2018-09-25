@@ -11,11 +11,9 @@ meander through my mind
 as I sail the sea
 of my imagined identity.
 
-"I am none of this!", 
-I say, 
+"I am none of this!", I say, 
 as I drift past each scene of my history,
-and yet,
-each picture has its poignant pull,
+and yet, each picture has its poignant pull,
 its sense of "This is me!"
 
 These are powerful dreams,
