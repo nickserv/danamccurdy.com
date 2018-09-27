@@ -11,14 +11,14 @@ a trip to foreign places,
 but I can send my mind away 
 to new and peaceful spaces. 
 
-My thoughts are like the road I take
+My thoughts are like a road I take
 to the world I live inside,
 and how I guide or follow them
 is my birthright to decide.
 
 I could send myself to the gates of Hell,
 if I gave my thoughts their play,
-or sit in peace in my own heaven,
+or sit in bliss in my own heaven,
 if I send my mind that way.
 
 We can travel the earth
