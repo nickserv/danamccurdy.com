@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: The Law of Attraction
-image: 'https://i.imgur.com/dubEqrk.jpg'
+image: 'https://i.imgur.com/2Ld38MT.jpg'
 ---
 You can not encompass
 what you wish you were
