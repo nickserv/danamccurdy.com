@@ -11,7 +11,7 @@ comes from within.
 
 There is nothing we can do,
 nothing we can create,
-nothing we can attract,
+and nothing we can attract,
 that will bring peace to us.
 
 Until we see the peace within,
