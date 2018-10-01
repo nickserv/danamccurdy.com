@@ -6,7 +6,7 @@ published: true
 title: The Magic of a Misty Moon
 image: 'https://i.imgur.com/Dj3LkZK.jpg'
 ---
-That smudge across the night
+That smudge against the night
 is probably the moon,
 or maybe it is something 
 far more mysterious,
@@ -14,7 +14,7 @@ perhaps a thing of myth.
 
 I know it is the moon,
 and yet its magic,
-splashed against the sky, 
+splashed across the sky, 
 is not diminished 
 by my knowing. 
 
