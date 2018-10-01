@@ -23,6 +23,6 @@ and what I know
 are the stuff 
 of two different worlds,
 and that, in itself,
-is a greater mystery.
+is the greater magic.
 
 
