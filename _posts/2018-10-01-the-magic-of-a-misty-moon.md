@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/Dj3LkZK.jpg'
 ---
 That smudge against the night
 is probably the moon,
-or maybe it is something 
+or maybe it's something 
 far more mysterious,
 perhaps a thing of myth.
 
