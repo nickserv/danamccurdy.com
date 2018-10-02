@@ -40,6 +40,11 @@
   max-width: 100%;
 }
 
+.list-group-item-action, .list-group-item-action:hover {
+  color: #DF691A;
+  font-weight: bold;
+}
+
 /* Soften borders and horizontal rules */
 
 .img-thumbnail, hr {
