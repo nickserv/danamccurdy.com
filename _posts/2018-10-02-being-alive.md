@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: Being Alive
-image: 'https://i.imgur.com/EcQgGcs.jpg'
+image: 'https://i.imgur.com/ScvSpb7.jpg'
 ---
 I am consciousness;
 I move around a lot.
