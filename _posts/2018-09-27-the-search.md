@@ -11,5 +11,4 @@ for the truth of what we are
 in what we can perceive,
 when, in truth, 
 the essence of what we are
-is the perceiver of it all.
-
+is that which perceives it all.
