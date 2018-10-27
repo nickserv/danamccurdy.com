@@ -14,7 +14,7 @@ but only for their own.
 They are drunk on power,
 guarding their advantage
 with every ounce of control
-they can muster,
+they can manage,
 twisting the narrative
 of what concerns us all
 to their own advantage,
