@@ -12,7 +12,7 @@ for our wellbeing,
 but only for their own.
 
 They are drunk on power,
-guarding their advantage
+guarding their interests
 with every ounce of control
 they can manage,
 twisting the narrative
@@ -38,4 +38,3 @@ to use our citizenship
 as it was meant to be used,
 and express our will
 as a people.
-
