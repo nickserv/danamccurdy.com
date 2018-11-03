@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: 'Remembering You, One Year Later'
-image: 'https://i.imgur.com/bfncNmC.jpg'
+image: 'https://i.imgur.com/xNCtCB2.jpg'
 ---
 Our purpose in life
 is not to hold on,
