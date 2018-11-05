@@ -10,7 +10,7 @@ There is an illness in him,
 driving him always
 to share his bad ideas,
 his anger and his fear,
-so they spread like a virus,
+so they will spread like a virus,
 until he does not feel so alone.
 
 We could pity him,
@@ -34,6 +34,3 @@ for this fevered dream
 we share with him,
 until we will ourselves
 to awaken.
-
-
-
