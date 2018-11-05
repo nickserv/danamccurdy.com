@@ -6,6 +6,9 @@ published: true
 title: 'Remembering You, One Year Later'
 image: 'https://i.imgur.com/xNCtCB2.jpg'
 ---
+_Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing. - Helen Keller_
+
+
 Our purpose in life
 is not to hold on,
 but to let go,
@@ -32,4 +35,3 @@ always determined
 to enjoy each moment,
 and to share your joy 
 with us all.
-
