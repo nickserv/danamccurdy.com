@@ -9,7 +9,7 @@ image: 'https://i.imgur.com/kRQjIvk.jpg'
 To fully own each new experience
 that life may offer you,
 you must purchase it
-by how fully 
+by how much 
 you pay attention.
 
 The more you are willing to pay,
