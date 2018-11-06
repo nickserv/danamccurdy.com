@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/kRQjIvk.jpg'
 ---
 To fully own 
 each new experience
-that life may offer  you,
+that life may offer you,
 you must purchase it
 by paying attention.
 
