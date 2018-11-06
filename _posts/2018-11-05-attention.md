@@ -6,11 +6,11 @@ published: true
 title: Attention
 image: 'https://i.imgur.com/kRQjIvk.jpg'
 ---
-To fully own 
-each new experience
+To fully own each new experience
 that life may offer you,
 you must purchase it
-by paying attention.
+by how fully 
+you pay attention.
 
 The more you are willing to pay,
 the more you may receive.
