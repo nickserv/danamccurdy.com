@@ -15,8 +15,7 @@ Fears and regrets,
 longings for what was 
 or what might be
 are all that stand between us
-and experiencing each moment
-in all its richness,
-grounded in the simple truth
+and the richness of each moment,
+steeped in the simple truth
 that all there ever is,
 is now.
