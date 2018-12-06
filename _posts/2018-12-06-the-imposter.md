@@ -19,9 +19,10 @@ I see the pointlessness
 of trying to be anyone.
 
 My story is irrelevant;
+I exist 
 beyond the flow
 of what was
-or what may come to be,
+or what may be;
 I am only real
 in this eternal Now.
 
