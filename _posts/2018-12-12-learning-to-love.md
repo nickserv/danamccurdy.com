@@ -29,7 +29,7 @@ abandoning our discontent
 with how we are?
 
 Perhaps,
-through learning how to love 
+through learning to love 
 everything else,
 just as it is,
 we can learn to love ourselves,
