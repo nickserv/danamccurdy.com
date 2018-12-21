@@ -24,8 +24,7 @@ restful and undemanding.
 
 What an unexpected gift,
 to be here 
-with nothing 
-needing to be done,
+with nothing needing to be done,
 peacefully enjoying 
 the subtle pleasures 
 of just sitting here. 
