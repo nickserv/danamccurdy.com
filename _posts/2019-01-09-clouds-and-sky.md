@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: Clouds and sky
-image: 'https://imgur.com/a/O5Ou903'
+image: 'https://i.imgur.com/QGhh5FQ.jpg'
 ---
 The clouds
 are not the sky,
