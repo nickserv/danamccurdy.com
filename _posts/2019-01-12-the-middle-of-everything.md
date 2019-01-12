@@ -8,8 +8,8 @@ image: 'https://i.imgur.com/g8M2wqd.jpg'
 ---
 As I awaken, once again,
 from the dream 
-that sometimes 
-seems to be my life,
+that sometimes seems 
+to be my life,
 the deluge of daily details
 that parade across my mind,
 I fall, once again,
