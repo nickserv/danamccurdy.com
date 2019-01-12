@@ -12,6 +12,7 @@ that sometimes seems
 to be my life,
 the deluge of daily details
 that parade across my mind,
+
 I fall, once again,
 into the sea of the senses,
 awash in the brilliance
