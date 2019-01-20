@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: lost in thought
-image: 'https://i.imgur.com/KuJWusm.jpg'
+image: 'https://i.imgur.com/lecEzub.jpg'
 ---
 We are connected to the world
 through our direct experience,
