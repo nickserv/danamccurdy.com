@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: Imaginary Landscapes
-image: 'https://i.imgur.com/92eVEbH.png'
+image: 'https://i.imgur.com/H11oNy4.png'
 ---
 The universe does not care 
 what we think about it, 
