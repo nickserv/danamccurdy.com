@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: 'Thank you, Shaka'
-image: 'https://i.imgur.com/KyeRcDi.jpg'
+image: 'https://i.imgur.com/JA5VFG6.jpg'
 ---
 There is a man named Shaka
 who shot and killed someone
