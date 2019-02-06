@@ -11,7 +11,7 @@ for much of my life,
 to keep my worst
 from those around me,
 but, all too often,
-I have also withheld my best.
+I have likewise withheld my best.
 
 I have been afraid to love
 and be loved
