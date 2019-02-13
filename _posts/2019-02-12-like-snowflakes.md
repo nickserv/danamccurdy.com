@@ -10,7 +10,7 @@ We are like snowflakes,
 all made of snow,
 all the same stuff,
 expressing itself 
-in a myriad of ways.
+in myriad ways.
 
 We are permutations
 of one great pattern,
