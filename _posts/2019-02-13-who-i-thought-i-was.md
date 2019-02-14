@@ -15,7 +15,7 @@ a plethora of previous iterations
 of who I thought I was.
 
 And here I am,
-seeing my own history from outside of it,
+seeing my own history from the outside,
 amazed and aghast at how much stuff
 my former selves have accumulated,
 all in the name of hanging on
