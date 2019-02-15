@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: Who I thought I was
-image: 'https://i.imgur.com/Ir8mJuc.jpg'
+image: 'https://i.imgur.com/FpADuC4.jpg'
 ---
 My life has been cluttered
 with unnecessary things,
