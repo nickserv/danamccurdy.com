@@ -4,9 +4,9 @@ categories:
 centered: false
 published: true
 title: instant karma
-image: 'https://i.imgur.com/KKjrtjR.jpg'
+image: 'https://i.imgur.com/RhqLstW.jpg'
 ---
-_We always have a choice when we communicate:
+_Whenever we communicate, we always have a choice:
 to do it mindfully, or to suffer the consequences._
 
 In this age 
