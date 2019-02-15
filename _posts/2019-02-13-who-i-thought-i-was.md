@@ -6,7 +6,7 @@ published: true
 title: Who I thought I was
 image: 'https://i.imgur.com/Ir8mJuc.jpg'
 ---
-My life is cluttered
+My life has been cluttered
 with unnecessary things,
 mountains of mementos
 of past incarnations
