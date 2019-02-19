@@ -24,4 +24,4 @@ with a particular person.
 But when you learn 
 how to love everyone,
 yourself included,
-that will last forever.
+that can last forever.
