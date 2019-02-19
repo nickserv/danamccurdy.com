@@ -8,7 +8,8 @@ image: 'https://i.imgur.com/03WBl2c.png'
 ---
 Each person 
 has their own religion,
-called "The World As I See It".
+which we could call 
+"The Way I See the World".
 
 It has only
 one priest,
