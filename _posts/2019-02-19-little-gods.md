@@ -15,7 +15,7 @@ It has only
 one priest,
 one disciple,
 one church -
-the Church of Me.
+The Church of Me.
 
 It seeks acolytes
 offering agreement,
