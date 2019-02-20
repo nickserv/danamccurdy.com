@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/03WBl2c.png'
 ---
 Each person 
 has their own religion,
-which we could call 
+which we might call 
 "The Way I See the World".
 
 It has only
@@ -32,9 +32,3 @@ We stand alone
 with our little truths,
 forsaking the big Truth
 for the thrill of being right.
-
-
-
-
-
-
