@@ -21,6 +21,6 @@ It allows each of us
 to do what we need to do,
 and go where we need to go,
 remaining a trusted vessel 
-for expressing our own essence
-and continuing to be our true selves,
+for expressing our own essence,
+for continuing to be our true selves,
 despite the little ravages of time.
