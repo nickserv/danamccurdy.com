@@ -7,7 +7,8 @@ title: When we play together
 image: 'https://i.imgur.com/DJZ75Eg.jpg'
 ---
 When we play together
-it is not about playing faster or louder
+it is not about playing faster 
+or louder
 than anyone else,
 it is about playing
 in rapport with each other.
