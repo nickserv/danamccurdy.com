@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: What We Swim In
-image: 'http://time.com/5546859/google-doodle-olga-ladyzhenskaya/'
+image: 'https://i.imgur.com/1OYP6EU.jpg'
 ---
 There are two ways
 to see our world:
