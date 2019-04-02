@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+  - love
 centered: false
 published: true
 title: Meeting Another
