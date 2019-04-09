@@ -6,7 +6,7 @@ published: true
 title: This Freedom
 image: 'https://i.imgur.com/XWwo1WA.jpg'
 ---
-_When we are open to them, life is full of reminders that we are not machines, that we always have a choice of how we will or won't respond in any situation. Therein lies our freedom!_
+_When we are open to them, life is full of reminders that we are not machines, that we always have a choice of how we will or won't react to any situation. Therein lies our freedom!_
 ​
 Once again,
 you have "pushed my button"
