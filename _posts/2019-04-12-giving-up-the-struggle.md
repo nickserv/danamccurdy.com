@@ -18,7 +18,7 @@ But when I stop to hear
 that they are only so much noise,
 devoid of meaning
 unless I give them meaning,
-then everything is easy;
+then everything is easy,
 and everything is okay.
 
 At any particular moment,
