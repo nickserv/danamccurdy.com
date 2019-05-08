@@ -6,24 +6,24 @@ published: true
 title: the skin of reason
 image: 'https://i.imgur.com/gDdCEIL.jpg'
 ---
-Asleep in my life's routine, 
-I am lulled by the pull
-to wrap everything in words,
-to clothe my experience
+
+Ever entranced 
+by the pull of words,
+clothing everything
 in the skin of reason,
-as if to protect myself
+I have been lulled to sleep 
+by my life's routines, 
+sheilding me 
 from the rawness of the world,
-fearing the intimacy
+and the fearful intimacy 
 of its embrace.
 
 And when I awaken
-from this dream of the familiar,
-I am reborn,
-like a tourist in my own world,
-ecstatically awash
-in the  newness of everything,
-stripped of history, 
-naked of interpretation,
+from my dream of the familiar,
+I am like a newborn,
+a tourist in my own world,
+delighting in its newness;
+stripped of its history, 
 pulsing with life.
 
 
