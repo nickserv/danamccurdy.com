@@ -6,11 +6,11 @@ published: true
 title: the skin of reason
 image: 'https://i.imgur.com/gDdCEIL.jpg'
 ---
-There is this pull
+I feel this pull
 to wrap everything in words,
-to clothe our experience
+to clothe my experience
 in the skin of reason,
-as if to protect ourselves
+as if to protect myself
 from the rawness of the world,
 fearing the intimacy
 of its embrace.
