@@ -25,9 +25,5 @@ like a newborn,
 a tourist in my own world,
 delighting in its newness,
 its immediacy,
-devoid of history, 
+stripped of history, 
 pulsing with life.
-
-
-
-
