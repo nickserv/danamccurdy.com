@@ -9,8 +9,8 @@ image: 'https://i.imgur.com/H97iwdx.png'
 More and more,
 I am realizing 
 that there is no destination, 
-beyond experiencing fully 
-where I already am. 
+beyond the full experience
+of where I already am. 
 
 The less I look outside myself 
 or to the future, 
