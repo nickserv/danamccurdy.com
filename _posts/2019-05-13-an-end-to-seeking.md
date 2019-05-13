@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/H97iwdx.png'
 ---
 More and more,
 I am realizing 
-that there IS no destination, 
+that there is no destination, 
 beyond experiencing fully 
 where I already am. 
 
