@@ -14,10 +14,11 @@ where I already am.
 
 The less I look outside myself 
 or to the future, 
-the more I discover the completeness 
+the more I discover 
+the completeness 
 that is already in me. 
 
-The more that the distractions 
+The more the distractions 
 of seeking and grasping 
 fall away, 
 the more I uncover the perfection 
