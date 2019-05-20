@@ -15,7 +15,6 @@ featured:
   - d_at_morristown.jpg
   - d_at_touch_mother_earth.jpg
 benefits:
-  'Rhythms of Life - Trailer': <iframe src="https://player.vimeo.com/video/335713354" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   'Drum Circles, Integrating Self and Community': 'https://www.youtube.com/embed/SLeRKoHynQQ'
   What Is A Community Drum Circle?: 'http://remo.com/experience/post/what-is-a-community-drum-circle/'
   Why Drums and Drum Circles?: 'http://remo.com/experience/post/why-drums-and-drum-circles/'
