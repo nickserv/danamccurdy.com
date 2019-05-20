@@ -66,6 +66,9 @@ As I continue on this path, it's become one of my primary life goals to promote 
 ### Benefits
 There is a growing body of thought about the benefits of communal drumming. Here's what some others have to say about this, along with some interesting research on the subject.
 
+<iframe src="https://player.vimeo.com/video/335713354" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/335713354">Rhythms of Life - Trailer</a> from <a href="https://vimeo.com/craignortonmedia">Craig Norton Media</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 {% include drum_circle_list.html links=page.benefits %}
 
 ## Commitment
