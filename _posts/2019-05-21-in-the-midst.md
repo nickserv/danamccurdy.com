@@ -12,4 +12,4 @@ I need only watch the moon,
 the clouds rolling past it,
 a planet twinkling beside it,
 and I am back where I belong,
-in the midst of it all.
+in the midst of creation.
