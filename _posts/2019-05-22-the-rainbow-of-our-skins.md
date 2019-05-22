@@ -12,8 +12,8 @@ or a white person,
 or a red or yellow person.
  
 There is no human skin
-which is truly white, black,
-red, or yellow.
+which is truly black, 
+white, red, or yellow.
 
 Why, then,
 do we treat these labels
