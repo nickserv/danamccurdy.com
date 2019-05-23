@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: The rainbow of our skins
-image: 'https://i.imgur.com/Pu8WYiF.png'
+image: 'https://i.imgur.com/jjTwaEj.png'
 ---
 There is no such thing
 as a black person,
