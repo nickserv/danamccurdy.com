@@ -1,6 +1,6 @@
 <div class="list-group">
     {% for link in include.links %}
-        {% if link[1] contains "youtube.com" %}
+        {% if link[1] contains "vimeo.com" or link[1] contains "youtube.com" %}
             <a href="#" class="list-group-item">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe src="{{ link[1] }}?rel=0" allowfullscreen></iframe>
