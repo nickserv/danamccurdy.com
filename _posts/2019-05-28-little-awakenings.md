@@ -6,11 +6,12 @@ published: true
 title: Little Awakenings
 image: 'https://i.imgur.com/hpiFyVg.jpg'
 ---
-More and more these days,
-I find myself thinking about what it's like
-to awaken to the present moment.
+More and more,
+my mind is filled with thoughts
+about awakening 
+to the present moment.
 
 And then,
 when I notice I am thinking,
-I stop, 
-and awaken to the present moment.
+I stop, and let myself awaken 
+to the present moment.
