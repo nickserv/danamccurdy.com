@@ -11,7 +11,8 @@ about transcending my ego,
 and that is my ego,
 worrying about itself. 
 
-It worries about my shortcomings,
+It worries 
+about my shortcomings,
 wondering 
 if I'm "doing it right",
 trying to remodel itself
