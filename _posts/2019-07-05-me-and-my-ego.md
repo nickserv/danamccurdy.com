@@ -23,6 +23,6 @@ on how I see the world.
 It is a snake of thought 
 eating its own tail,
 a loop to nowhere,
-drawing its life
-from my attention 
-and concern.
+maintaining its power
+as long as I feed it
+with my attention and concern.
