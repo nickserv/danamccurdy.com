@@ -6,23 +6,23 @@ published: true
 title: Me and My Ego
 image: 'https://i.imgur.com/LSGlPDI.png'
 ---
-I think too much
-about transcending my ego,
+I spend a lot of time wondering
+if I have freed myself from my ego,
 and that is my ego,
 worrying about itself. 
 
-It worries 
+It worries a lot,
 about my shortcomings,
-wondering 
-if I'm "doing it right",
+and if I'm "doing it right",
 trying to remodel itself
 into a new, improved version,
-without releasing its grip
+but always reluctant
+to release its grip
 on how I see the world.
 
-It is a loop to nowhere,
-a snake of thought 
+It is a snake of thought 
 eating its own tail,
-as long as I feed it
-with my attention 
+a loop to nowhere,
+drawing its life
+from my attention 
 and concern.
