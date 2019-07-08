@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/LSGlPDI.png'
 ---
 I spend a lot of time wondering
 if I have freed myself from my ego,
-and that is my ego,
+and that is just my ego,
 worrying about itself. 
 
 It worries a lot,
