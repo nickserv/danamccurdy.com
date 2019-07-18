@@ -6,23 +6,24 @@ published: true
 title: Me and My Ego
 image: 'https://i.imgur.com/LSGlPDI.png'
 ---
-I spend a lot of time wondering
+I often wonder
 if I have freed myself 
-from my ego,
-and that is just my ego,
+from my own ego,
+but that is just my ego,
 worrying about itself. 
 
 It worries a lot,
 about my shortcomings,
-if I'm "doing it right",
+and if I'm "doing it right",
 as it tries to remodel itself
 into something new and improved,
-but always reluctant
+yet always reluctant
 to release its grip
 on how I see the world.
 
 It is a snake of thought 
 eating its own tail,
-a loop from nowhere to nowhere,
-maintaining its power for only as long 
-as I feed it with my attention and concern.
+in a loop to nowhere,
+maintaining its power 
+for as long as I feed it 
+with my attention and concern.
