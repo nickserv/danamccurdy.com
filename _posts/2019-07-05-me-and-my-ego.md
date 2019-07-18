@@ -15,7 +15,7 @@ worrying about itself.
 It worries a lot,
 about my shortcomings,
 and if I'm "doing it right",
-as it tries to remodel itself
+trying to remodel itself
 into something new and improved,
 yet always reluctant
 to release its grip
