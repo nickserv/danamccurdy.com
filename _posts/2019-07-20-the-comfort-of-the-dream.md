@@ -3,7 +3,7 @@ categories:
   - life
 centered: false
 published: true
-title: The comfort of the dream
+title: The Comfort of the Dream
 image: 'https://i.imgur.com/ZpwhzD7.jpg'
 ---
 What is lost,
