@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: In a Foreign Land
-image: 'https://i.imgur.com/9uIyMJB.png'
+image: 'https://i.imgur.com/yaxiQAT.png'
 ---
 As I walk this waterfront,
 nothing is as it was
