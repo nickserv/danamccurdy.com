@@ -11,11 +11,14 @@ or in a sunset,
 but not in ourselves,
 or in each other?
 
-Each one of us is no less a miracle,
-no less an expression of the sublime.
+Each one of us 
+is no less a miracle,
+no less an expression 
+of the sublime.
 
 A tree does not cripple itself
-with self-judgement, or analysis; 
+with self-judgement, 
+or analysis; 
 it simply is.
 
 Why have we not learned this simple skill:
