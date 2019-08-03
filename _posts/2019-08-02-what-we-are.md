@@ -7,7 +7,9 @@ title: What We Are
 image: 'https://i.imgur.com/X198TOn.png'
 ---
 How can we see perfection in a tree,
-or in a sunset, but not in ourselves?
+or in a sunset, 
+but not in ourselves,
+or in each other?
 
 Each one of us is no less a miracle,
 no less an expression of the sublime.
