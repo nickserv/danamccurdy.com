@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+  - love
 centered: false
 published: true
 title: This Tangled Tango
@@ -24,5 +25,3 @@ and stand before another human
 free of wanting,
 open to the give and take
 of spontaneous being?
-
-
