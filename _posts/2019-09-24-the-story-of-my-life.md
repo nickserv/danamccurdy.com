@@ -7,7 +7,7 @@ title: the story of my life
 image: 'https://i.imgur.com/VUBERPT.jpg'
 ---
 As I think about the aches and pains
-of my daily life, as time creeps on,
+of my daily life as time creeps on,
 they form a story of entropy,
 which leads inexorably
 to the story’s end.
