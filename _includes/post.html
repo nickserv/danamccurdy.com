@@ -1,22 +1,22 @@
-<!-- Template for rendering a single poem, both individually and in a poem listing. -->
+<!-- Template for rendering a single post, both individually and in a post listing. -->
 
 <div class="row mb-5">
   <div class="col-md-4 d-none d-md-block">
     <!-- Image -->
-     {% if include.poem.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.poem.image }}">{% endif %}
+     {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
   </div>
 
   <div class="col">
     <!-- Title -->
-    <h1><a href="{{ include.poem.url }}">{{ include.poem.title | smartify }}</a></h1>
+    <h1><a href="{{ include.post.url }}">{{ include.post.title | smartify }}</a></h1>
 
     <p>
       <!-- Date -->
-      <span class="text-info">{{ include.poem.date | date: "%B %-d, %Y" }}</span>
+      <span class="text-info">{{ include.post.date | date: "%B %-d, %Y" }}</span>
 
       <!-- Category -->
-      {% if page.layout == "poem" %}
-        {% for category in include.poem.categories %}
+      {% if page.layout == "post" %}
+        {% for category in include.post.categories %}
           <a class="badge badge-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
         {% endfor %}
       {% endif %}
@@ -24,18 +24,18 @@
     
     <div class="d-md-none">
       <!-- Image -->
-      {% if include.poem.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.poem.image }}">{% endif %}
+      {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
     </div>
 
     <!-- Content -->
-    <div {% if include.poem.centered %}class="text-center"{% endif %}>
-      {{ include.poem.content }}
+    <div {% if include.post.centered %}class="text-center"{% endif %}>
+      {{ include.post.content }}
     </div>
   </div>
 </div>
 
 <!-- Pager -->
-{% if page.layout == "poem" %}
+{% if page.layout == "post" %}
   <div class="row justify-content-end">
       <div class="col-md-8">
         <nav>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- Template for a poem listing within a specific category. -->
+<!-- Template for a post listing within a specific category. -->
 
 <!-- Google Custom Search -->
 <script>
@@ -50,8 +50,8 @@ layout: default
 
 <gcse:searchresults></gcse:searchresults>
 
-{% for poem in paginator.posts %}
-  {% include poem.html poem=poem %}
+{% for post in paginator.posts %}
+  {% include post.html post=post %}
 {% endfor %}
 
 <div class="row justify-content-end">

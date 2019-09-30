@@ -14,11 +14,11 @@ defaults:
   - scope:
       type: posts
     values:
-      layout: poem
+      layout: post
   - scope:
       path: poems
     values:
-      layout: poems
+      layout: posts
       title: Poems
 incremental: true
 kramdown: # https://kramdown.gettalong.org/options.html
@@ -51,7 +51,7 @@ prose:
         field:
           element: text
           label: Title
-          help: "The title of the poem, page, or document. This is usually displayed in browsers, link previews, and headings on the website. Page titles also show up in the navbar and home page previews."
+          help: "The title of the post, page, or document. This is usually displayed in browsers, link previews, and headings on the website. Page titles also show up in the navbar and home page previews."
           placeholder: REQUIRED
       - name: description
         field:
@@ -62,12 +62,12 @@ prose:
         field:
           element: text
           label: Image URL
-          help: URL to an image associated with the poem, page, or document (e.g., /assets/page-pic.jpg). The image URL must be absolute or root-relative. Defaults to the portrait photo. Poems display their image automatically, other documents only use them for previews. Images must be owned by you or licensed for free use.
+          help: URL to an image associated with the post, page, or document (e.g., /assets/page-pic.jpg). The image URL must be absolute or root-relative. Defaults to the portrait photo. Posts display their image automatically, other documents only use them for previews. Images must be owned by you or licensed for free use.
       - name: categories
         field:
           element: multiselect
-          label: Poem Categories
-          help: The list of categories to which this poem belongs. If this is left blank, the poem will be hidden from the poem listings.
+          label: Post Categories
+          help: The list of categories to which this post belongs. If this is left blank, the post will be hidden from the post listings.
           placeholder: REQUIRED
           options:
             - life
@@ -76,17 +76,17 @@ prose:
       - name: tags
         field:
           element: multiselect
-          label: Poem Tags
-          help: The list of tags for this poem. Tags are optional, overlapping, case sensitive, and hidden from the website.
+          label: Post Tags
+          help: The list of tags for this post. Tags are optional, overlapping, case sensitive, and hidden from the website.
           alterable: true
       - name: centered
         field:
           element: checkbox
           label: Centered Text
-          help: Enable to center the entire poem.
+          help: Enable to center the entire post.
       - name: published
         field:
           element: checkbox
           label: Published
-          help: "Disable to avoid automatically publishing the page. After the poem's first commit, this can be changed through the editor's Published button."
+          help: "Disable to avoid automatically publishing the page. After the post's first commit, this can be changed through the editor's Published button."
           value: true
