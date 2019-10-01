@@ -4,52 +4,66 @@ layout: default
 
 <!-- Template for a post listing within a specific category. -->
 
-<!-- Google Custom Search -->
-<script>
-  (function () {
-    var cx = '011300544546559065813:eobn1exnf6k';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
+{% if page.dir contains "/poems/" %}
+  <!-- Google Custom Search -->
+  <script>
+    (function () {
+      var cx = '011300544546559065813:eobn1exnf6k';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+{% endif %}
 
 <div class="row justify-content-center">
   <div class="col-lg-8">
-    {% capture intro %}{% include poems_intro.md %}{% endcapture %}
+    {% if page.dir contains "/poems/" %}
+      {% capture intro %}{% include poems_intro.md %}{% endcapture %}
+    {% else %}
+      {% capture intro %}{% include blog_intro.md %}{% endcapture %}
+    {% endif %}
+
     {{ intro | markdownify }}
   </div>
 </div>
 
-<div class="row mt-4">
-  <div class="col-md-4 mb-5">
-    <nav class="nav nav-pills">
-      <a class="nav-link{% if paginator.first_page_path == "/poems/" %} active{% endif %}" href="/poems/">
-        life
-      </a>
+{% if page.dir contains "/poems/" %}
+  <div class="row mt-4">
+    <div class="col-md-4 mb-5">
+      <nav class="nav nav-pills">
+        <a class="nav-link{% if paginator.first_page_path == "/poems/" %} active{% endif %}" href="/poems/">
+          life
+        </a>
 
-      <a class="nav-link{% if paginator.first_page_path == "/poems/love/" %} active{% endif %}" href="/poems/love/">
-        love
-      </a>
-    </nav>
+        <a class="nav-link{% if paginator.first_page_path == "/poems/love/" %} active{% endif %}" href="/poems/love/">
+          love
+        </a>
+      </nav>
+    </div>
+
+    <div class="col offset-md-4">
+      <gcse:searchbox></gcse:searchbox>
+    </div>
   </div>
 
-  <div class="col offset-md-4">
-    <gcse:searchbox></gcse:searchbox>
-  </div>
-</div>
-
-<gcse:searchresults></gcse:searchresults>
+  <gcse:searchresults></gcse:searchresults>
+{% endif %}
 
 {% for post in paginator.posts %}
   {% include post.html post=post %}
 {% endfor %}
 
-<div class="row justify-content-end">
-  <div class="col-md-8">
+{% if page.dir contains "/poems/" %}
+  <div class="row justify-content-end">
+    <div class="col-md-8">
+{% else %}
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+{% endif %}
     <nav>
       <ul class="pagination">
         {% if paginator.next_page %}

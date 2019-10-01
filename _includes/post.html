@@ -1,12 +1,17 @@
 <!-- Template for rendering a single post, both individually and in a post listing. -->
 
-<div class="row mb-5">
-  <div class="col-md-4 d-none d-md-block">
-    <!-- Image -->
-     {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
-  </div>
+{% if include.post.categories contains "life" or include.post.categories contains "love" %}
+  <div class="row mb-5">
+    <div class="col-md-4 d-none d-md-block">
+      <!-- Image -->
+      {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
+    </div>
 
-  <div class="col">
+    <div class="col">
+{% else %}
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+{% endif %}
     <!-- Title -->
     <h1><a href="{{ include.post.url }}">{{ include.post.title | smartify }}</a></h1>
 
@@ -36,8 +41,13 @@
 
 <!-- Pager -->
 {% if page.layout == "post" %}
-  <div class="row justify-content-end">
+  {% if include.post.categories contains "life" or include.post.categories contains "love" %}
+    <div class="row justify-content-end">
       <div class="col-md-8">
+  {% else %}
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+  {% endif %}
         <nav>
           <ul class="pagination">
             {% if page.previous %}
