@@ -27,18 +27,12 @@ layout: default
 <div class="row mt-4">
   <div class="col-md-4 mb-5">
     <nav class="nav nav-pills">
-      {% for category in site.categories %}
-        {% capture path %}/poems/{% if category[0] != "life" %}{{ category[0] }}/{% endif %}{% endcapture %}
+      <a class="nav-link{% if paginator.first_page_path == "/poems/" %} active{% endif %}" href="/poems/">
+        life
+      </a>
 
-        <a class="nav-link{% if paginator.first_page_path == path %} active{% endif %}" href="{{ path }}">
-          {{ category[0] }}
-        </a>
-      {% endfor %}
-      
-      {% capture path %}/poems/all/{% endcapture %}
-
-      <a class="nav-link{% if paginator.first_page_path == path %} active{% endif %}" href="{{ path }}">
-        all
+      <a class="nav-link{% if paginator.first_page_path == "/poems/love/" %} active{% endif %}" href="/poems/love/">
+        love
       </a>
     </nav>
   </div>
