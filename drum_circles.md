@@ -17,19 +17,19 @@ featured:
 benefits:
   Rhythms of Life - Trailer: https://player.vimeo.com/video/335713354
   'Drum Circles, Integrating Self and Community': 'https://www.youtube.com/embed/SLeRKoHynQQ'
-  What Is A Community Drum Circle?: 'http://remo.com/experience/post/what-is-a-community-drum-circle/'
-  Why Drums and Drum Circles?: 'http://remo.com/experience/post/why-drums-and-drum-circles/'
+  What Is A Community Drum Circle?: 'https://remo.com/experience/post/what-is-a-community-drum-circle/'
+  Why Drums and Drum Circles?: 'https://remo.com/experience/post/why-drums-and-drum-circles/'
   Hand Drum Program at the Quail Brook Senior Center: >-
     https://www.tapinto.net/towns/franklin-township/sections/arts-and-entertainment/articles/franklin-womans-club-sponsors-hand-drum-program
   10 Health Reasons to Start Drumming: 'https://www.drnorthrup.com/health-benefits-drumming/'
-  'Drumming For Wellness: The Healing Power Of The Drum': 'http://www.healthy.net/scr/article.aspx?Id=2181'
+  'Drumming For Wellness: The Healing Power Of The Drum': 'https://healthy.net/2002/08/12/the-healing-power-of-the-drum-part-i-2/'
   Drumming for Mindfulness and healing: >-
     https://buddhaweekly.com/drumming-for-mindfulness-drumming-for-healing-mind-and-body-a-simple-way-to-calm-the-monkey-mind-remove-stress-and-heal-how-science-and-different-buddhist-traditions-use-the-drum-for-everything-fr/
   Drum Therapy: 'https://www.thoughtco.com/drum-therapy-1729574'
   New research on endorphins finds people have higher pain thresholds immediately after performing music or dancing: >-
     https://psmag.com/economics/drummers-high-evidence-that-playing-music-releases-endorphins-49578
   'Effects of Group Drumming Interventions on Anxiety, Depression, Social Resilience and Inflammatory Immune Response among Mental Health Service Users': >-
-    http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0151136#authcontrib
+    https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151136#authcontrib
 events:
   New Jersey Drum Circle Community: 'https://www.facebook.com/pg/njdrumcircles/posts/'
   Drum & Dance Circle Assoc of NJ/NY: 'https://www.facebook.com/groups/DrumDance/'
