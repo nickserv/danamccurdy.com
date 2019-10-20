@@ -1,3 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Quisque consequat nibh et eros faucibus fringilla.
+As I strive for inner peace and clarity, I can’t help but notice how difficult that same effort is in the world at large. Here are my occasional thoughts on how we can be happier and saner (individually, and as a world wide family), and what might stand in the way of those aspirations.
