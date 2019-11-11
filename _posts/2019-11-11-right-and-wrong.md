@@ -10,7 +10,7 @@ There is a certain thrill
 in feeling right, 
 when the ego swells with pride, 
 extolling itself 
-at the expense of another.￼
+at the expense of another.
 
 Sometimes the hunt 
 for right and wrong
