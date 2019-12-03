@@ -7,7 +7,7 @@ title: Sunset/Autumn
 image: 'https://i.imgur.com/GqQebMS.jpg'
 ---
 Colors roll by,
-in a slow dance of change,￼
+in a slow dance of change,
 moment by moment 
 in the darkening sky,
 season by season 
