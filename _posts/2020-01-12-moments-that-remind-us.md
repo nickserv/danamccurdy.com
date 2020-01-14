@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: 'Moments that remind us '
-image: 'https://i.imgur.com/HQvKSvS.jpg'
+image: 'https://i.imgur.com/XeTBSgK.jpg'
 ---
 There will always comes a time
 when Eveready isn’t ready,
