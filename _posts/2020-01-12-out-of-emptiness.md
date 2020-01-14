@@ -9,11 +9,11 @@ image: 'https://i.imgur.com/5Q1YcrE.png'
 I was born out of emptiness, 
 and to emptiness I will return.
 
-And the more I look into that darkness, 
+The more I look into that darkness, 
 the more I see the birthplace of everything, 
 where everything must also return. 
 
-So, when that day arrives, 
+And when that day arrives, 
 I need not fear falling 
 into some strange, forbidding place,
 for I will be going home.
