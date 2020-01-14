@@ -6,7 +6,7 @@ published: true
 title: 'Moments that remind us '
 image: 'https://i.imgur.com/XeTBSgK.jpg'
 ---
-There will always comes a time
+There will always come a time
 when Eveready isn’t ready,
 and memory foam forgets.
 
