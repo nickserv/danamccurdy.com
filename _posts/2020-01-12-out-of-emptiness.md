@@ -16,4 +16,4 @@ where everything must also return.
 So, when that day arrives, 
 I need not fear falling 
 into some strange, forbidding place,
-for I will be going home.￼￼
+for I will be going home.
