@@ -6,11 +6,13 @@ published: true
 title: 'Moments that remind us '
 image: 'https://i.imgur.com/XeTBSgK.jpg'
 ---
-There will always come a time
-when Eveready isn’t ready,
-and memory foam forgets.
+There will come a time
+when memory foam forgets,
+and Eveready 
+isn’t ready.
 
-These are the moments that remind us 
+These are the moments 
+that remind us 
 that our world is run
 by the engine of entropy,
 and that things wind down,
