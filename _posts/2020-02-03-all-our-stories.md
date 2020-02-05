@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/5TmPpFX.jpg'
 ---
 Life does not create our problems. 
 
-We create them ourselves 
+We create them for ourselves 
 with our endless commentaries.
 
 Beneath all our stories,
