@@ -7,7 +7,7 @@ title: Attention
 image: 'https://i.imgur.com/JGrZ1qT.jpg'
 ---
 In every moment
-is a chance
+is the chance
 to pay attention.
 
 Attention
