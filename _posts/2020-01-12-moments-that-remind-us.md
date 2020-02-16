@@ -6,10 +6,9 @@ published: true
 title: 'Moments that remind us '
 image: 'https://i.imgur.com/XeTBSgK.jpg'
 ---
-There will come a time
+There comes a time
 when memory foam forgets,
-and Eveready 
-isn’t ready.
+and Eveready isn’t ready.
 
 These are the moments 
 that remind us 
