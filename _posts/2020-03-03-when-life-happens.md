@@ -8,7 +8,7 @@ image: 'https://i.imgur.com/x1TMdvF.jpg'
 ---
 At any given moment,
 disaster may strike, 
-and I could be at it’s epicenter,
+and I might be at it’s epicenter,
 or, just as easily, at its periphery,
 a horrified bystander.
 
