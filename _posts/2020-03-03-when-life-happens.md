@@ -9,7 +9,7 @@ image: 'https://i.imgur.com/x1TMdvF.jpg'
 At any given moment,
 disaster may strike, 
 and I might be 
-at it’s epicenter,
+in the middle of it,
 or, just as easily, 
 at its periphery,
 a horrified bystander.
