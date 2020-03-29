@@ -23,5 +23,5 @@ constrained within our little boxes,
 unless we learn to stretch and bend
 with life’s openings and closings,
 to be as flexible and resilient
-as is life itself.
+as life itself.
 
