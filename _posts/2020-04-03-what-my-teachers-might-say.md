@@ -34,4 +34,4 @@ or hopelessness.
 Then, you may look under that, 
 and you may find compassion, 
 enough for yourself, 
-and for everyone”.￼￼￼￼
+and for everyone”.
