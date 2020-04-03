@@ -31,7 +31,7 @@ you will find sadness,
 or helplessness, 
 or hopelessness. 
 
-Then, look under that, 
+Then, you may look under that, 
 and you may find compassion, 
 enough for yourself, 
 and for everyone”.￼￼￼￼
