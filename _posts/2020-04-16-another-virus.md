@@ -6,8 +6,7 @@ published: true
 title: Another Virus
 image: 'https://i.imgur.com/TXoBGbd.jpg'
 ---
-_(with gratitude to William S. Burroughs 
-and Laurie Anderson)_
+_(with gratitude to William S. Burroughs)_
 
 Language is a virus
 from inner space
