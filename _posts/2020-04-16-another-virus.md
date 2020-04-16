@@ -13,13 +13,13 @@ from inner space
 to other 
 inner spaces.
 
-How we speak
-to our fellow humans
-can infect each other's minds,
+Our words
+can infect the minds 
+of our fellow humans,
 just as another virus
 can infect our bodies.
 
 Bad ideas
-can kill;
+may kill;
 good ideas
-heal.
+may heal.
