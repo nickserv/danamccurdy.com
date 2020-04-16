@@ -22,4 +22,4 @@ can infect our bodies.
 Bad ideas
 can kill;
 good ideas
-can heal.
+heal.
