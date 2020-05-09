@@ -12,7 +12,7 @@ to tell me how to feel,
 and I don’t require a pundit
 to show me what is real.
 
-My eyes and heart are opening
+My eyes and heart are open
 to what may come along,
 
 and my mind will sing in harmony
