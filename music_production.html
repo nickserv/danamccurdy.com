@@ -7,7 +7,7 @@ excerpt: >-
   music, and supporting others in doing likewise…
 published: true
 music:
-  Music:
+  -
     Serendipity Doo Dah:
       artist: Dana McCurdy and Kim Sterner
       soundcloud: 99634633
@@ -18,6 +18,12 @@ music:
     Songs:
       soundcloud: 43061568
       description: Some of my singer-songwriter tunes (self-produced).
+  -
+    Dinosaur Dance:
+      youtube: DXTjNYapqEk
+    Havana Nocturne:
+      youtube: rwquxmtBNWk
+  -
     The Clifton Tribe:
       url: 'https://cliftontribe.bandcamp.com/'
       description: 'Improvised music for drums, mallet & wind instruments, and percussion.'
@@ -26,10 +32,6 @@ music:
         - recording
         - editing
         - post-production/mixing
-    Dinosaur Dance:
-      youtube: DXTjNYapqEk
-    Havana Nocturne:
-      youtube: rwquxmtBNWk
     Contemporary Classical Pieces:
       artist: 'Composer: Michael Palmieri'
       url: 'https://www.soundclick.com/bands3/default.cfm?bandid=209257'
@@ -37,6 +39,7 @@ music:
         - mixing
         - post-production
         - technical support
+categories:
   Recording Credits:
     Feel Like Makin' Love:
       artist: Roberta Flack
@@ -252,11 +255,11 @@ music:
   </div>
 </div>
 
-{% for category in page.music %}
-  <h1 class="pt-5">{{category[0]}}</h1>
+<h1 class="pt-5">Music</h1>
 
-  <div class="card-columns">
-    {% for item in category[1] %}
+{% for row in page.music %}
+  <div class="card-deck py-4">
+    {% for item in row %}
       <div class="card">
         <div class="card-body">
           <h2 class="card-title text-light">
@@ -278,6 +281,38 @@ music:
               <iframe src="https://www.youtube.com/embed/{{item[1].youtube}}?rel=0" allowfullscreen></iframe>
             </div>
           {% endif %}
+
+          {% if item[1].description or item[1].labels %}
+            {{ item[1].description | smartify }}
+
+            {% if item[1].labels %}
+              <ul>
+                {% for label in item[1].labels %}
+                  <li>{{ label }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
+
+{% for category in page.categories %}
+  <h1 class="pt-5">{{category[0]}}</h1>
+
+  <div class="card-columns">
+    {% for item in category[1] %}
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title text-light">
+            {% if item[1].url %}<a href="{{item[1].url}}">{% endif %}
+              {{item[0] | smartify}}
+            {% if item[1].url %}</a>{% endif %}
+          </h2>
+
+          {{item[1].artist | smartify}}
 
           {% if item[1].description or item[1].labels %}
             {{ item[1].description | smartify }}
