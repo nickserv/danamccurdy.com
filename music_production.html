@@ -294,42 +294,8 @@ categories:
 
 {% for row in page.music %}
   <div class="card-deck py-4">
-    {% for item in row %}
-      <div class="card">
-        <div class="card-body">
-          <h2 class="card-title text-light">
-            {% if item.url %}<a href="{{item.url}}">{% endif %}
-              {{item.name | smartify}}
-            {% if item.url %}</a>{% endif %}
-          </h2>
-
-          {{item.artist | smartify}}
-
-          {% if item.soundcloud %}
-            <div class="embed-responsive embed-responsive-4by3">
-              <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{item.soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-            </div>
-          {% endif %}
-
-          {% if item.youtube %}
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe src="https://www.youtube.com/embed/{{item.youtube}}?rel=0" allowfullscreen></iframe>
-            </div>
-          {% endif %}
-
-          {% if item.description or item.labels %}
-            {{ item.description | smartify }}
-
-            {% if item.labels %}
-              <ul>
-                {% for label in item.labels %}
-                  <li>{{ label }}</li>
-                {% endfor %}
-              </ul>
-            {% endif %}
-          {% endif %}
-        </div>
-      </div>
+    {% for card in row %}
+      {% include card.html card=card %}
     {% endfor %}
   </div>
 {% endfor %}
@@ -338,30 +304,8 @@ categories:
   <h1 class="pt-5">{{category[0]}}</h1>
 
   <div class="card-columns">
-    {% for item in category[1] %}
-      <div class="card">
-        <div class="card-body">
-          <h2 class="card-title text-light">
-            {% if item.url %}<a href="{{item.url}}">{% endif %}
-              {{item.name | smartify}}
-            {% if item.url %}</a>{% endif %}
-          </h2>
-
-          {{item.artist | smartify}}
-
-          {% if item.description or item.labels %}
-            {{ item.description | smartify }}
-
-            {% if item.labels %}
-              <ul>
-                {% for label in item.labels %}
-                  <li>{{ label }}</li>
-                {% endfor %}
-              </ul>
-            {% endif %}
-          {% endif %}
-        </div>
-      </div>
+    {% for card in category[1] %}
+      {% include card.html card=card %}
     {% endfor %}
   </div>
 {% endfor %}

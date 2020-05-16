@@ -1,0 +1,35 @@
+<div class="card">
+  <div class="card-body">
+    <h2 class="card-title text-light">
+      {% if include.card.url %}<a href="{{include.card.url}}">{% endif %}
+        {{include.card.name | smartify}}
+      {% if include.card.url %}</a>{% endif %}
+    </h2>
+
+    {{include.card.artist | smartify}}
+
+    {% if include.card.soundcloud %}
+      <div class="embed-responsive embed-responsive-4by3">
+        <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{include.card.soundcloud}}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+      </div>
+    {% endif %}
+
+    {% if include.card.youtube %}
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe src="https://www.youtube.com/embed/{{include.card.youtube}}?rel=0" allowfullscreen></iframe>
+      </div>
+    {% endif %}
+
+    {% if include.card.description or include.card.labels %}
+      {{ include.card.description | smartify }}
+
+      {% if include.card.labels %}
+        <ul>
+          {% for label in include.card.labels %}
+            <li>{{ label }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endif %}
+  </div>
+</div>
