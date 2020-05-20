@@ -1,0 +1,1 @@
+As I strive for inner peace and clarity, I can’t help but notice how many challenges there are to pursuing that goal out there in the world at large. These are my occasional thoughts on how we might become happier and saner (individually, and as a world-wide family), or what might be standing in our way.

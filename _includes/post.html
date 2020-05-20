@@ -1,0 +1,35 @@
+<!-- Template for rendering a single post, both individually and in a post listing. -->
+
+<div class="row mb-5">
+  <div class="col-md-4 d-none d-md-block">
+    <!-- Image -->
+    {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
+  </div>
+
+  <div class="col">
+    <!-- Title -->
+    <h1><a href="{{ include.post.url }}">{{ include.post.title | smartify }}</a></h1>
+
+    <p>
+      <!-- Date -->
+      <span class="text-info">{{ include.post.date | date: "%B %-d, %Y" }}</span>
+
+      <!-- Category -->
+      {% if page.layout == "post" %}
+        {% for category in include.post.categories %}
+          <a class="badge badge-primary" href="/poems/{% if category != "life" %}{{ category }}{% endif %}">{{ category }}</a>
+        {% endfor %}
+      {% endif %}
+    </p>
+    
+    <div class="d-md-none">
+      <!-- Image -->
+      {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
+    </div>
+
+    <!-- Content -->
+    <div {% if include.post.centered %}class="text-center"{% endif %}>
+      {{ include.post.content }}
+    </div>
+  </div>
+</div>
