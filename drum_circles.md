@@ -6,8 +6,7 @@ excerpt: >-
   Rhythm has always been the most compelling and visceral aspect of music for
   me. The sheer variety and power of percussive sounds has led me to explore the
   endless potential of various hand drums and percussion instruments, on my own
-  and with others, to weave beautiful patterns that satisfy and soothe the body,
-  heart, and soul…
+  and with others…
 published: true
 image: /assets/drum_circles/d_at_morristown.jpg
 featured:
@@ -15,7 +14,7 @@ featured:
   - d_at_morristown.jpg
   - d_at_touch_mother_earth.jpg
 benefits:
-  Rhythms of Life - Trailer: https://player.vimeo.com/video/335713354
+  Rhythms of Life - Trailer: 'https://player.vimeo.com/video/335713354'
   'Drum Circles, Integrating Self and Community': 'https://www.youtube.com/embed/SLeRKoHynQQ'
   What Is A Community Drum Circle?: 'https://remo.com/experience/post/what-is-a-community-drum-circle/'
   Why Drums and Drum Circles?: 'https://remo.com/experience/post/why-drums-and-drum-circles/'
