@@ -62,7 +62,7 @@ prose:
         field:
           element: text
           label: Image URL
-          help: URL to an image associated with the post, page, or document (e.g., /assets/page-pic.jpg). The image URL must be absolute or root-relative. Defaults to the portrait photo. Poems display their image automatically, other documents only use them for previews. Images must be owned by you or licensed for free use.
+          help: URL to an image associated with the post, page, or document (e.g., /assets/page-pic.jpg). The image URL must be absolute or root-relative. Defaults to the portrait photo. Posts display their image automatically, other documents only use them for previews. Images must be owned by you or licensed for free use.
       - name: categories
         field:
           element: multiselect

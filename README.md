@@ -35,6 +35,7 @@ Facebook caches metadata about a page when its link is shared, so you may notice
 | --- | --- | --- |
 | Pages | [`*.html,md`](.) (based on page name) | Page titles, excerpts, and navbar positions can be edited in Prose's **Meta Data** section. |
 | Posts | [`_posts`](_posts) |
+| Includes | [`_includes`](_includes) |
 
 ### Markdown (`*.md` files)
 Refer to [Kramdown's quick reference](https://kramdown.gettalong.org/quickref.html) to learn the Markdown syntax supported in this site.

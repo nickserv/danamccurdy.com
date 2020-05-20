@@ -1,17 +1,12 @@
 <!-- Template for rendering a single post, both individually and in a post listing. -->
 
-{% if include.post.categories contains "life" or include.post.categories contains "love" %}
-  <div class="row mb-5">
-    <div class="col-md-4 d-none d-md-block">
-      <!-- Image -->
-      {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
-    </div>
+<div class="row mb-5">
+  <div class="col-md-4 d-none d-md-block">
+    <!-- Image -->
+    {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
+  </div>
 
-    <div class="col">
-{% else %}
-  <div class="row justify-content-center">
-    <div class="col-lg-8">
-{% endif %}
+  <div class="col">
     <!-- Title -->
     <h1><a href="{{ include.post.url }}">{{ include.post.title | smartify }}</a></h1>
 
