@@ -33,9 +33,9 @@ pagination:
 prose:
   ignore:
     - _config.yml
+    - _includes/*.html
     - _layouts
     - .*
-    - "*.html"
     - assets
     - bin
     - CNAME
