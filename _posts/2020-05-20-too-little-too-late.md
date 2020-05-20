@@ -3,7 +3,7 @@ categories:
   - blog
 centered: false
 published: true
-title: 'Too little, Too Late'
+title: 'Too Little, Too Late'
 image: 'https://i.imgur.com/YwHRxv2.jpg'
 ---
 I got a letter from the White House today, with an ostentatious signature that suggests an ego of pathological proportions. 
