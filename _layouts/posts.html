@@ -20,7 +20,7 @@ layout: default
 {% endif %}
 
 <div class="row justify-content-center">
-  <div class="col-lg-8">
+  <div class="col-lg-8{% if page.dir contains "/blog/" %} mb-5{% endif %}">
     {% if page.dir contains "/poems/" %}
       {% capture intro %}{% include poems_intro.md %}{% endcapture %}
     {% else %}
