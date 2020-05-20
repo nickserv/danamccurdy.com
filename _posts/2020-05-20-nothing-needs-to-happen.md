@@ -1,7 +1,7 @@
 ---
 categories:
   - life
-centered: false
+centered: true
 published: true
 title: Nothing Needs To Happen
 image: 'https://i.imgur.com/8hhizSQ.png'
