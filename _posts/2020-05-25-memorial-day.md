@@ -13,4 +13,6 @@ On this day of remembrance,
 let us trade our cynicism 
 for understanding and compassion, 
 so that we may become 
-a different kind of nation.
+a different kind of nation,
+worthy of the lives
+that have been sacrificed for it.
