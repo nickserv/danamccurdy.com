@@ -26,4 +26,4 @@ Let me be,
 and let everyone be,
 so we may become the human family,
 united in our idiosyncrasies,
-that we were surely meant to be.
+that we were born to be.
