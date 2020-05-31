@@ -4,7 +4,7 @@ categories:
 centered: false
 published: true
 title: What Is Different Now
-image: 'https://i.imgur.com/9qe4ZQT.jpg'
+image: 'https://i.imgur.com/7VZOIUQ.jpg'
 ---
 This has ALWAYS been happening - people of color being brutalized and murdered at the hands of ruthless killers who are never brought to justice. What is different now is that there are always cameras at the ready, along with the means to show these atrocities to EVERYONE. So, now that we are exposed to what is happening with a vividness and thoroughness that has never before been possible, we can begin to see and understand what has always been true, but had mostly been hidden.
 
