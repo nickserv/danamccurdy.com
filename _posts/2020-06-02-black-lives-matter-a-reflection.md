@@ -4,8 +4,9 @@ categories:
 centered: false
 published: true
 title: 'Black Lives Matter: a reflection  '
+image: 'https://i.imgur.com/Dlm0nXG.png'
 ---
-This is not about black people versus cops.￼ 
+This is not about black people versus cops. 
 It’s about people who value justice and peace 
-versus people who don’t.￼
+versus people who don’t.
 
