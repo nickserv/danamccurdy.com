@@ -1,6 +1,6 @@
 ---
 categories:
-  - life
+  - blog
 centered: false
 published: true
 title: 'Black Lives Matter: a reflection  '
