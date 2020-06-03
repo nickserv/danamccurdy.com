@@ -30,7 +30,7 @@ of the human race,
 and hiding 
 is no longer an option.
 
-—-
+---
 
 My aging body 
 said it could not kneel 
