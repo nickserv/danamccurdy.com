@@ -33,7 +33,7 @@
 
     <!-- Content -->
     {% if include.post.visual %}
-      <img class="img-thumbnail" src="{{ include.post.image }}" alt="{{ include.post.content  | strip_html }}">
+      <img class="img-thumbnail mb-3" src="{{ include.post.image }}" alt="{{ include.post.content  | strip_html }}">
     {% else %}
       <div {% if include.post.centered %}class="text-center"{% endif %}>
         {{ include.post.content }}
