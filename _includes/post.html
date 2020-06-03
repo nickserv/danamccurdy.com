@@ -1,9 +1,12 @@
 <!-- Template for rendering a single post, both individually and in a post listing. -->
 
+{% capture image %}
+  {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
+{% endcapture %}
+
 <div class="row mb-5">
   <div class="col-md-4 d-none d-md-block">
-    <!-- Image -->
-    {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
+    {{ image }}
   </div>
 
   <div class="col-md-5">
@@ -23,8 +26,7 @@
     </p>
     
     <div class="d-md-none">
-      <!-- Image -->
-      {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
+      {{ image }}
     </div>
 
     <!-- Content -->
