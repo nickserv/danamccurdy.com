@@ -5,6 +5,7 @@ centered: false
 published: true
 title: 'The Unicorn: Captivity and Grace'
 image: 'https://i.imgur.com/ermLGtB.jpg'
+visual: false
 ---
 
 Regal and composed,
