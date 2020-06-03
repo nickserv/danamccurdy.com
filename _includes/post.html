@@ -1,7 +1,9 @@
 <!-- Template for rendering a single post, both individually and in a post listing. -->
 
 {% capture image %}
-  {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
+  {% unless include.post.visual %}
+    {% if include.post.image != "/assets/portrait.jpg" %}<img class="img-thumbnail" src="{{ include.post.image }}">{% endif %}
+  {% endunless %}
 {% endcapture %}
 
 <div class="row mb-5">
@@ -30,8 +32,12 @@
     </div>
 
     <!-- Content -->
-    <div {% if include.post.centered %}class="text-center"{% endif %}>
-      {{ include.post.content }}
-    </div>
+    {% if include.post.visual %}
+      <img class="img-thumbnail" src="{{ include.post.image }}" alt="{{ include.post.content  | strip_html }}">
+    {% else %}
+      <div {% if include.post.centered %}class="text-center"{% endif %}>
+        {{ include.post.content }}
+      </div>
+    {% endif %}
   </div>
 </div>

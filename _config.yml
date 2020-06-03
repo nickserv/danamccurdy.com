@@ -85,6 +85,11 @@ prose:
           element: checkbox
           label: Centered Text
           help: Enable to center the entire post.
+      - name: visual
+        field:
+          element: checkbox
+          label: Visual
+          help: Enable to use the image as the content of the post. The text content will be hidden but still used for search engines, crawlers, and screen readers.
       - name: published
         field:
           element: checkbox
