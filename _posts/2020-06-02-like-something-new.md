@@ -9,4 +9,4 @@ image: 'https://i.imgur.com/ah5t0CR.png'
 Take a vacation 
 from the habits of your mind, 
 and greet all that you encounter
-like something new.￼
+like something new.
