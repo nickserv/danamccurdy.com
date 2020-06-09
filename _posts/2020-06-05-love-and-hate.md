@@ -1,6 +1,7 @@
 ---
 categories:
   - life
+  - love
 centered: false
 visual: false
 published: true
