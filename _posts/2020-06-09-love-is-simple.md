@@ -3,9 +3,10 @@ categories:
   - life
   - love
 centered: false
-visual: true
+visual: false
 published: true
 title: Love Is Simple
+image: 'https://i.imgur.com/isyPDV9.jpg'
 ---
 Love is simple.
 
