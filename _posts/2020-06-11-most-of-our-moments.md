@@ -5,7 +5,7 @@ centered: false
 visual: false
 published: true
 title: most of our moments
-image: 'https://i.imgur.com/APAM7QJ.png'
+image: 'https://i.imgur.com/Oi3IENR.png'
 ---
 In most of our moments,
 feeling fear
