@@ -33,8 +33,10 @@ Freedom is a beautiful dream, one still worth striving for,
 despite a million harsh realities that seem to stand in our way.
 
 So perhaps each one of us must first embrace the truth 
-that we are NOT independent, that we are bound by a million forces 
-that limit us as individuals, but also connect us as a human family.
+that we are NOT independent, 
+that we are bound by a million forces 
+that limit us as individuals, 
+but also connect us as a human family.
 
 And there is a deeper truth, that we are INTERDEPENDENT,
 that we must achieve freedom for ALL of us,
