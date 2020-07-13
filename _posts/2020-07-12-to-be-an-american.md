@@ -15,7 +15,7 @@ for the diverse beauty of this land,
 and for the richness 
 of its diverse people and cultures.
 
-I regret the wrongs 
+And I regret the wrongs 
 that those who govern us
 have sometimes committed,
 but I am grateful for our freedom
