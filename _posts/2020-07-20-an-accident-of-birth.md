@@ -5,6 +5,7 @@ centered: false
 visual: false
 published: true
 title: An Accident of Birth
+image: 'https://i.imgur.com/8vWREmG.png'
 ---
 I am white, and I am male
 because of an accident of birth,
