@@ -20,6 +20,6 @@ And what we all have in common
 is that every being 
 has a right to be here,
 that we are equal in God’s eyes,
-and that our sacred duty
+and so our sacred duty
 is to learn how to get along.
 
