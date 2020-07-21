@@ -14,7 +14,7 @@ through another accident of birth.
 
 I am part of this human family,
 on this planet full of other sentient beings,
-by still another accident of birth.
+by yet another accident of birth.
 
 And what we all have in common
 is that every being 
