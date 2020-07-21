@@ -7,7 +7,7 @@ published: true
 title: An Accident of Birth
 image: 'https://i.imgur.com/8vWREmG.png'
 ---
-I am white, and I am male
+I am white and male
 through an accident of birth,
 and I am an American
 through another accident of birth.
