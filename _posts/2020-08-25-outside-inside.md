@@ -4,7 +4,7 @@ categories:
 centered: true
 visual: false
 published: true
-title: Outside/Inside
+title: Outside and Inside
 image: 'https://i.imgur.com/bhiwgaz.png'
 ---
 What happens
