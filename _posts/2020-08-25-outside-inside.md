@@ -14,6 +14,6 @@ is not about you.
 What you feel inside
 is ALL about you.
 
-The cure to suffering
+The cure for suffering
 is in noticing the difference.
 
