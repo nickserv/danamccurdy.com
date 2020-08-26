@@ -15,5 +15,5 @@ What you feel inside
 is ALL about you.
 
 The cure to suffering
-is in seeing the difference.
+is in noticing the difference.
 
