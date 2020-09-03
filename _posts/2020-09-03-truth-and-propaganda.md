@@ -3,7 +3,7 @@ centered: false
 visual: false
 published: true
 title: TRUTH AND PROPAGANDA
-image: 'https://imgur.com/uam9qGY'
+image: 'https://i.imgur.com/uam9qGY.png'
 categories:
   - blog
 ---
