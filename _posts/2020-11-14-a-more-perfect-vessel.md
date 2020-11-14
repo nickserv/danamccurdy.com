@@ -11,5 +11,5 @@ I am aspiring
 to become empty-headed, 
 so the world may flow through me 
 unbounded, 
-so I may be a more perfect vessel 
+and I may be a more perfect vessel 
 for its miracles.
