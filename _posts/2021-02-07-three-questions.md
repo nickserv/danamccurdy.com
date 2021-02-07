@@ -14,7 +14,8 @@ tumble under its own weight,
 or be blown apart
 by the winds of change,
 until we are revealed,
-naked in our true nature,
+naked 
+in our true nature,
 like snowflakes 
 in a snowstorm,
 each as important
@@ -38,6 +39,6 @@ ______________
 
 When will we tire
 of building ourselves up,
-and relax
+and let ourselves relax
 into the beautiful chaos
 of life?
