@@ -41,4 +41,4 @@ When will we tire
 of building ourselves up,
 and let ourselves relax
 into the beautiful chaos
-of life?
+of this life?
