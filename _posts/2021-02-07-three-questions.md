@@ -25,7 +25,7 @@ each one
 an expression
 of the all?
 
-______________
+___
 
 
 Why are we blinded
@@ -34,7 +34,7 @@ numb to the warm embrace
 of everything we are a part of,
 that is a part of us?
 
-______________
+___
 
 
 When will we tire
