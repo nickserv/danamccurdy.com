@@ -14,5 +14,4 @@ and the world.
 Let it in, 
 just as it is, 
 and all  its wonders 
-will reveal themselves 
-to you.
+will reveal themselves.
