@@ -8,7 +8,7 @@ title: a flock of birds
 image: 'https://i.imgur.com/kIK0Oph.jpg'
 ---
 I saw a flock of birds
-wheeling through the sky
+reeling across the sky
 with boundless Grace,
 and thought:”How beautiful they are!”,
 as if they were separate from me.
