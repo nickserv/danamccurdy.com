@@ -19,6 +19,6 @@ turtles, all the way down.
 
 And we are the leaves 
 of seeing and feeling
-that float on this sea of being,
+that float on this sea of change,
 marveling at each snapshot
 in this endless panorama.
