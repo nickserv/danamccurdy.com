@@ -2,7 +2,7 @@
 categories:
   - life
 centered: true
-visual: true
+visual: false
 published: true
 title: Permission To Feel
 image: 'https://i.imgur.com/8AbQw62.jpg'
