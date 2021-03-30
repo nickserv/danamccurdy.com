@@ -9,20 +9,20 @@ image: 'https://i.imgur.com/8AbQw62.jpg'
 ---
 I give myself permission
 to feel everything
-without thought.
+without thinking.
 
 I give myself permission 
 to see 
-without thought.
+without thinking.
 
 I give myself permission 
 to hear 
-without thought.
+without thinking.
 
 I give myself permission 
 to know
-without thought.
+without thinking.
 
 I give myself permission 
 to BE 
-without thought.
+without thinking.
