@@ -5,7 +5,7 @@ centered: false
 visual: false
 published: true
 title: 'All the Bad Ideas '
-image: 'https://i.imgur.com/RRQ2LcJ.jpg'
+image: 'https://i.imgur.com/MvrhNyO.jpg'
 ---
 When it comes down
 to what makes us human, 
