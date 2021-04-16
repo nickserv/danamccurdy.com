@@ -5,7 +5,7 @@ centered: true
 visual: false
 published: true
 title: Life Lesson
-image: 'https://i.imgur.com/rRxPaK1.jpg'
+image: 'https://i.imgur.com/sr3rpUX.jpg'
 ---
 Some things
 can’t be fixed.
