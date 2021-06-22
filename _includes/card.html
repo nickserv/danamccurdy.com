@@ -2,11 +2,11 @@
   <div class="card-body">
     <h2 class="card-title text-light">
       {% if include.card.url %}<a href="{{include.card.url}}">{% endif %}
-        {{include.card.name | smartify}}
+        {{include.card.name | markdownify}}
       {% if include.card.url %}</a>{% endif %}
     </h2>
 
-    {{include.card.artist | smartify}}
+    {{include.card.artist | markdownify}}
 
     {% if include.card.soundcloud %}
       <div class="embed-responsive embed-responsive-4by3">
@@ -21,7 +21,7 @@
     {% endif %}
 
     {% if include.card.description or include.card.labels %}
-      {{ include.card.description | smartify }}
+      {{ include.card.description | markdownify }}
 
       {% if include.card.labels %}
         <ul>
