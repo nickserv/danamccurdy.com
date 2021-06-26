@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Prints duplicate titles for all posts.
+sed -n 's/title: \(.*\)/\1/p' "$(dirname "$0")"/../_posts/*.md | sort | uniq -d

@@ -1,0 +1,60 @@
+/* Home page */
+
+.jumbotron {
+  /* this is based off of the really cool gradient on https://bootswatch.com/ */
+  background: linear-gradient(
+    to top right,
+    rgb(16, 30, 62) 0%,
+    rgb(43, 75, 90) 87%,
+    rgb(67, 94, 103) 100%
+  );
+}
+
+.jumbotron figure,
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+/* Music production */
+
+.card ul {
+  list-style: inside;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+/* Drum circles */
+
+.photos {
+  display: flex;
+  margin: 0 -2.08%;
+  margin-bottom: 1.25em;
+}
+
+.photos a {
+  margin: 0 2.08%;
+}
+
+.photos img {
+  max-height: 15em;
+  max-width: 100%;
+}
+
+.list-group-item-action, .list-group-item-action:hover {
+  color: #DF691A;
+  font-weight: bold;
+}
+
+/* Soften borders and horizontal rules */
+
+.img-thumbnail, hr {
+  border-color: rgb(222, 226, 230, 0.5);
+}
+
+.img-thumbnail {
+  padding: 0;
+}
+
+hr {
+  margin: 2rem 0;
+}

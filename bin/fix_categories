@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+
+def fix_categories(content)
+  content.sub(/^categor(?:y|ies):\s*([\w ]+)?$/) do
+    format_categories($1 ? $1.split : [])
+  end
+end
+
+def format_categories(categories)
+  items = categories.map { |category| category.prepend('  - ') }
+  result = "categories:"
+  result += items.join "\n" if items.length
+  result
+end
+
+def with_file_content(file)
+  File.write(file, yield(File.read(file)))
+end
+
+Dir.glob('_posts/*').each do |file|
+  with_file_content(file) { |content| fix_categories content }
+end
