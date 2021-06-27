@@ -7,10 +7,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: sudo apt-get install ruby-bundler
-      - uses: limjh16/jekyll-action-ts@v2
+      - uses: ruby/setup-ruby@v1
         with:
-          enable_cache: true
+          ruby-version: 3.0
+          bundler-cache: true
+      - uses: limjh16/jekyll-action-ts@v2
       - uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:

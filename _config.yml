@@ -28,6 +28,7 @@ livereload: true
 pagination:
   enabled: true
   sort_reverse: true
+page_excerpts: true
 
 # Prose (https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:

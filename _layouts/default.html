@@ -35,7 +35,7 @@
       <div class="collapse navbar-collapse" id="navbar">
         <!-- Pages -->
         <div class="navbar-nav mr-auto">
-          {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position' | where_exp: 'link_page','link_page.autogen == nil' | sort: 'position' %} {% for link_page in link_pages %}
+          {% assign link_pages = site.pages | where_exp: 'link_page','link_page.position and link_page.autogen == nil' | sort: 'position' %} {% for link_page in link_pages %}
             <a class="nav-link{% if page.title == link_page.title %} active{% endif %}" href="{{link_page.url}}">
               {{link_page.title}} 
               {% if page.title == link_page.title %}<span class="sr-only">(current)</span>{% endif %}

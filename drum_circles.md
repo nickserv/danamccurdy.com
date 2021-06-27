@@ -6,7 +6,7 @@ excerpt: >-
   Rhythm has always been the most compelling and visceral aspect of music for
   me. The sheer variety and power of percussive sounds has led me to explore the
   endless potential of various hand drums and percussion instruments, on my own
-  and with others…
+  and with others.
 published: true
 image: /assets/drum_circles/d_at_morristown.jpg
 featured:
