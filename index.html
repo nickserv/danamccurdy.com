@@ -29,10 +29,8 @@ published: true
   {% for link_page in link_pages %}
     <div class="col-lg">
       <h1><a href="{{link_page.url}}">{{ link_page.title }}</a></h1>
-      <p>
-        {{ link_page.excerpt | smartify }}<br>
-        <a href="{{link_page.url}}">(more)</a>
-      </p>
+      {{ link_page.excerpt | markdownify }}
+      <a href="{{link_page.url}}">(more)</a>
     </div>
   {% endfor %}
 </div>
