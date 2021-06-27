@@ -12,8 +12,6 @@ jobs:
           ruby-version: 3.0
           bundler-cache: true
       - uses: limjh16/jekyll-action-ts@v2
-        with:
-          enable_cache: true
       - uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
         with:
