@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
-      - uses: limjh16/jekyll-action-ts@v2
         with:
           ruby-version: 3.0
+      - uses: limjh16/jekyll-action-ts@v2
