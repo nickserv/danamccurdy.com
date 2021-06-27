@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: apt-get install ruby-bundler
+      - run: sudo apt-get install ruby-bundler
       - uses: limjh16/jekyll-action-ts@v2
