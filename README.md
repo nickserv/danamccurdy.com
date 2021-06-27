@@ -1,7 +1,5 @@
 # [Dana McCurdy's Website](https://danamccurdy.com)
 
-[![Build Status](https://travis-ci.org/nickmccurdy/danamccurdy.com.svg?branch=master)](https://travis-ci.org/nickmccurdy/danamccurdy.com)
-
 &copy; [Dana McCurdy](https://danamccurdy.com/) & [Nick McCurdy](https://nickmccurdy.com/)
 
 ## Authoring
