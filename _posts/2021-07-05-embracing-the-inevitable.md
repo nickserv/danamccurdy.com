@@ -5,6 +5,7 @@ centered: false
 visual: false
 published: true
 title: Embracing the Inevitable
+image: 'https://i.imgur.com/3y5v5IM.jpg'
 ---
 _There is no way to know what life will bring,
 but there IS a way to be ready for it._
