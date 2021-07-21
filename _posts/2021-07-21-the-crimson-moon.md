@@ -5,7 +5,7 @@ centered: false
 visual: false
 published: true
 title: The Crimson Moon
-image: 'https://i.imgur.com/MIUZQtu.jpg'
+image: 'https://i.imgur.com/e2oxIzl.jpg'
 ---
 _Almost twenty years ago, I looked south from this same spot,
 at a sky filled with the scar of a senseless tragedy,
