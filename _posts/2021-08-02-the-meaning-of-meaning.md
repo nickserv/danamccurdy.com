@@ -20,5 +20,5 @@ that you give it meaning.
 
 Be more mindful
 of what you give meaning to,
-and most of your suffering
-will give way to gratitude.
+and much of your suffering
+will give way to joy.
