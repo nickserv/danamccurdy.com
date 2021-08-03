@@ -5,7 +5,7 @@ centered: false
 visual: false
 published: true
 title: The Meaning of Meaning
-image: 'https://i.imgur.com/r5Bpfhg.png'
+image: 'https://i.imgur.com/rrf31vK.png'
 ---
 When something “good’ happens,
 it doesn’t mean anything.
