@@ -21,16 +21,7 @@ There will be pain
 and discomfort,
 sadness and regret.
 
-And there will also be
+And also,
 the boundless joy
 of feeling fully alive.
 
-___________________
-
-Some things 
-can’t be fixed.
-
-All we can do
-is accept the pain,
-and learn,
-and heal.
