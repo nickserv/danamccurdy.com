@@ -25,7 +25,6 @@ and to speak out
 whenever we see them.
 
 I am grateful 
-to be an American,
-but I am most grateful
+for what we are,
+but I am more grateful
 for what we can become.
-
