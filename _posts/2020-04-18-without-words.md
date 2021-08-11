@@ -5,6 +5,7 @@ centered: false
 published: true
 title: without words
 image: 'https://i.imgur.com/VARLdPM.jpg'
+visual: false
 ---
 what does it take
 to feel truly alive?
@@ -25,7 +26,6 @@ be living in a story,
 and life will not
 be separate from you.
 
-your life will fall away,
-and you will just
-be life.
-
+YOUR life will fall away,
+and you will simply
+BE life.
