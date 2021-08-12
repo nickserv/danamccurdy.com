@@ -7,10 +7,10 @@ published: true
 title: The Meaning of Meaning
 image: 'https://i.imgur.com/rrf31vK.png'
 ---
-When something “good’ happens,
+When something "good" happens,
 it doesn’t mean anything.
 
-When something ‘bad” happens,
+When something "bad"happens,
 it doesn’t mean anything.
 
 Nothing that happens
