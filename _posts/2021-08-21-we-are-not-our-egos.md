@@ -30,7 +30,7 @@ if we were always ready
 to give the truth,
 and to hear it?
 
-If we trusted ourselves, 
+If we could trust ourselves, 
 and each other,
 that much,
 it would be a different world, 
