@@ -11,7 +11,7 @@ Everything is impermanent
 in this flow of energy we call life,
 and the things we love
 pass in and out of existence,
-like everything else.
+just like everything else.
 
 There is joy in what is present,
 and grief in what is lost,
