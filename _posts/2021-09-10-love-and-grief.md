@@ -7,19 +7,21 @@ published: true
 title: Love and Grief
 image: 'https://i.imgur.com/8eRQFwY.png'
 ---
-Everything is impermanent
-in this flow of energy we call life,
+In the flow of energy 
+that we call life,
+everything is impermanent,
 and the things we love
 pass in and out of existence,
-just like everything else.
+along with everything else.
 
-There is joy in what is present,
+There is joy to be had
+in what is present,
 and grief in what is lost,
-but what remains
-is love itself.
+but what remains, always,
+is Love itself.
 
-Open up your heart to grief,
-and it will open up to love as well,
+If you open up your heart to grief,
+it will open up to love as well - 
 love for what once was,
 love for all that is,
 and love for all
