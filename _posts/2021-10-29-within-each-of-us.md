@@ -1,7 +1,7 @@
 ---
 categories:
   - life
-centered: true
+centered: false
 visual: false
 published: true
 title: within each of us
