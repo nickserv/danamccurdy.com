@@ -5,7 +5,7 @@ centered: false
 visual: false
 published: true
 title: within each of us
-image: 'https://i.imgur.com/Ff44pHy.jpg'
+image: 'https://i.imgur.com/GIaUr39.png'
 ---
 There will always be 
 a little boy or girl 
