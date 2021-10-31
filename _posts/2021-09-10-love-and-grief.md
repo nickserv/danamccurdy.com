@@ -25,4 +25,4 @@ it will open up to love as well -
 love for what once was,
 love for all that is,
 and love for all
-that will ever be.
+that ever will be.
