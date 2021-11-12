@@ -14,7 +14,7 @@ Or could my sense of self dissolve,
 and set my spirit free
 
 to roam the world without the thought
-that there’s someone I should be,
+that there’s someone I must be,
 
-to see the world with empty eyes,
+to see my world with empty eyes,
 and be one with all I see?
