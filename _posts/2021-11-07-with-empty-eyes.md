@@ -5,7 +5,7 @@ centered: false
 visual: false
 published: true
 title: with empty eyes
-image: 'https://i.imgur.com/mcFqZFu.png'
+image: 'https://i.imgur.com/RL8q66J.png'
 ---
 If I did not have a Facebook page,
 would I still be “me”?
