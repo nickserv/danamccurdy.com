@@ -16,5 +16,5 @@ and set my spirit free
 to roam the world without the thought
 that there’s someone I should be,
 
-to roam the world with empty eyes,
-and become all that I see?
+to see the world with empty eyes,
+and be one with all I see?
