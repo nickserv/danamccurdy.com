@@ -5,22 +5,22 @@ centered: false
 visual: false
 published: true
 title: Letting Go
+image: 'https://i.imgur.com/4L7h2Q1.jpg'
 ---
-From this moment on,
-I no longer need a reason 
+In this moment,
+I don't need a reason 
 to do what I do.
 
 A reason 
-is just an excuse,
+is only an excuse,
 an attempt to explain 
 what is unexplainable.
 
-From this moment on,
-I will get out of my own way,
-and be a willing vessel
+In this moment,
+I am allowing myself 
+to be a willing vessel
 for whatever Life,
 moving through me,
-chooses 
-for me to do
-or be.
+chooses for me 
+to be or do.
 
