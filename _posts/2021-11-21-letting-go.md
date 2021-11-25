@@ -1,7 +1,7 @@
 ---
 categories:
   - life
-centered: false
+centered: true
 visual: false
 published: true
 title: Letting Go
@@ -20,6 +20,7 @@ In this moment,
 I give myself over 
 to be a willing vessel
 for whatever Life,
-moving through me,chooses 
+moving through me,
+may choose 
 for me to be or do.
 
