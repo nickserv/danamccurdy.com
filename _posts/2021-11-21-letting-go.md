@@ -14,11 +14,11 @@ to do whatever I do.
 A reason 
 is only an excuse,
 an attempt to explain 
-what is unexplainable.
+what can't be explained.
 
 In this moment,
 I give myself over 
-to be a willing vessel
+as a willing vessel
 for whatever Life,
 moving through me,
 may choose 
