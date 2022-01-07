@@ -47,4 +47,4 @@ at peace when I’m at peace,
 not always struggling
 to be different
 from how I am.
-ng help.
+
