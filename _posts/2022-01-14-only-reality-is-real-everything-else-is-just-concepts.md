@@ -4,7 +4,7 @@ categories:
 centered: false
 visual: false
 published: true
-title: Only reality is real. Everything else is just concepts
+title: ''
 image: 'https://i.imgur.com/5l6ilVr.png'
 ---
 The trouble with concepts is that they don't often relate to reality in a useful way. Only through direct experience can we see what concepts are useful in a given moment, and in order to have a direct experience, we have to give up all our concepts, at least for a moment.
