@@ -4,7 +4,7 @@ categories:
 centered: false
 visual: false
 published: true
-title: ''
+title: “yes”
 image: 'https://i.imgur.com/AzI1LTc.png'
 ---
 I was dreaming, and in my dream,
