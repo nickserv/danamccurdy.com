@@ -13,10 +13,10 @@ before we can begin to heal
 sometimes a scab is a protection 
 that is no longer needed, 
 and ripping it off 
-is the only path forward 
+is the only way forward 
 
 being with the pain we hid from 
-is the way to reclaiming our power, 
+is the path to reclaiming our power, 
 the strength to walk that lonesome valley, 
 and the patience to keep walking,
 step by step, towards the light
