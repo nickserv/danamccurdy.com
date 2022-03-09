@@ -8,11 +8,12 @@ title: that lonesome valley
 image: 'https://i.imgur.com/uAHX476.png'
 ---
 sometimes we need to bleed a little
-before we can heal 
+before we can begin to heal 
 
 sometimes a scab is a protection 
-we no longer need, and ripping it off 
-becomes the way forward 
+that is no longer needed, 
+and ripping it off 
+becomes the only way forward 
 
 being with the pain we were hiding from 
 is the path to reclaiming our power, 
