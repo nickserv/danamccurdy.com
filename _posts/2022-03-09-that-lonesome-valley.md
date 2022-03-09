@@ -10,7 +10,7 @@ image: 'https://i.imgur.com/uAHX476.png'
 sometimes we need to bleed a little
 before we can begin to heal 
 
-sometimes a scab is a protection 
+sometimes a scab is a shield 
 that is no longer needed, 
 and ripping it off 
 is the only way forward 
