@@ -4,7 +4,7 @@ categories:
 centered: false
 visual: false
 published: true
-title: that lonesome valley test
+title: that lonesome valley
 image: 'https://i.imgur.com/uAHX476.png'
 ---
 sometimes we need to bleed a little
