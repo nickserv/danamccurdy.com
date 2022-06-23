@@ -12,7 +12,7 @@ jobs:
           ruby-version: 3.0
           bundler-cache: true
       - uses: limjh16/jekyll-action-ts@v2
-      - uses: JamesIves/github-pages-deploy-action@4
+      - uses: JamesIves/github-pages-deploy-action@v4
         if: github.ref == 'refs/heads/main'
         with:
           branch: gh-pages
