@@ -5,7 +5,7 @@ centered: true
 visual: false
 published: true
 title: Time To Play
-image: 'https://i.imgur.com/pxKuQP2.png'
+image: 'https://i.imgur.com/H1EO8El.png'
 ---
 There is a lonely child 
 hiding inside you, 
