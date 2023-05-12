@@ -14,5 +14,5 @@ stronger
 more resilient
 	than we think we are.
 
-What limits us
+All that limits us
 	is what we think we are.
