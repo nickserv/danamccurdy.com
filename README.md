@@ -48,7 +48,19 @@ Please note that the [`hard_wrap` option](https://kramdown.gettalong.org/options
 5. If you need to access the server from other devices, use `--host 0.0.0.0`.
 
 ## Private Resources
-- [Namecheap](https://ap.www.namecheap.com/domains/domaincontrolpanel/danamccurdy.com)
-- [Google Analytics](https://analytics.google.com/analytics/web/#/p316222955/reports/intelligenthome)
-- [Google Search Console](https://search.google.com/search-console?resource_id=sc-domain%3Adanamccurdy.com)
-- [Figma](https://www.figma.com/file/UhYwxVc4gvTo41am3bNcti/Dana-McCurdy)
+
+### [Namecheap](https://ap.www.namecheap.com/domains/domaincontrolpanel/danamccurdy.com)
+
+Our domain registrar (where we bought danamccurdy.com).
+
+### [Google Analytics](https://analytics.google.com/analytics/web/#/p316222955/reports/intelligenthome)
+
+Statistics about the website’s visitors.
+
+### [Google Search Console](https://search.google.com/search-console?resource_id=sc-domain%3Adanamccurdy.com)
+
+Information, tools, and suggestions for controlling Google Search for the website.
+
+### [Figma](https://www.figma.com/file/UhYwxVc4gvTo41am3bNcti/Dana-McCurdy)
+
+Designs and prototypes for the website.
