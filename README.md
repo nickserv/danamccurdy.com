@@ -51,7 +51,7 @@ Please note that the [`hard_wrap` option](https://kramdown.gettalong.org/options
 
 ### [Namecheap](https://ap.www.namecheap.com/domains/domaincontrolpanel/danamccurdy.com)
 
-Our domain registrar (where we bought danamccurdy.com).
+Our domain registrar (where we bought [danamccurdy.com](https://danamccurdy.com)).
 
 ### [Google Analytics](https://analytics.google.com/analytics/web/#/p316222955/reports/intelligenthome)
 
