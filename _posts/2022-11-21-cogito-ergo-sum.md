@@ -12,6 +12,6 @@ therefore I am,
 but I am not 
 what I think.
 
-So the more I think, 
+And the more I think, 
 the less I remember
 what I really am.
