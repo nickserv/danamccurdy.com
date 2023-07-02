@@ -48,5 +48,5 @@ Please note that the [`hard_wrap` option](https://kramdown.gettalong.org/options
 5. If you need to access the server from other devices, use `--host 0.0.0.0`.
 
 ## Private Resources
-- [Google Analytics](https://analytics.google.com/analytics/web/#report/defaultid/a51703743w83996550p87034958/)
-- [Google Search Console](https://www.google.com/webmasters/tools/dashboard?siteUrl=https%3A%2F%2Fdanamccurdy.com%2F)
+- [Google Analytics](https://analytics.google.com/analytics/web/#/p316222955/reports/intelligenthome)
+- [Google Search Console](https://search.google.com/search-console?resource_id=sc-domain%3Adanamccurdy.com)
