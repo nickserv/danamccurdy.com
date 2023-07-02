@@ -48,5 +48,7 @@ Please note that the [`hard_wrap` option](https://kramdown.gettalong.org/options
 5. If you need to access the server from other devices, use `--host 0.0.0.0`.
 
 ## Private Resources
+- [Namecheap](https://ap.www.namecheap.com/domains/domaincontrolpanel/danamccurdy.com)
 - [Google Analytics](https://analytics.google.com/analytics/web/#/p316222955/reports/intelligenthome)
 - [Google Search Console](https://search.google.com/search-console?resource_id=sc-domain%3Adanamccurdy.com)
+- [Figma](https://www.figma.com/file/UhYwxVc4gvTo41am3bNcti/Dana-McCurdy)
