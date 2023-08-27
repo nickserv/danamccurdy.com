@@ -9,7 +9,6 @@ categories:
 “In the Beginning was Noise
 and Noise begat Rhythm
 and Rhythm begat Everything Else”
-
 - Mickey Hart
 - [Planet Drum](https://open.spotify.com/album/56DFYCEpTzB84lfifluKP1?si=E8vVGNHqRSOu1uMBMwIWJg) 
 
@@ -33,5 +32,4 @@ As the religious philosopher Eric Butterworth used to say, each one of us is an 
 [Poem: A Community in Rhythm](https://danamccurdy.com/life/2017/07/02/a-community-in-rhythm/) 
 
 Another example of community, in this case, inspired by astronomy: 
-“All of a sudden, they drop their guard. They’re talking to the people in front and behind them. I guess we’re all starved for connection. When people look through a telescope, they’re all the same.”
-https://nypost.com/2023/08/25/nyc-astronomer-sets-up-telescope-in-intersection-to-see-saturn/
+[“All of a sudden, they drop their guard. They’re talking to the people in front and behind them. I guess we’re all starved for connection. When people look through a telescope, they’re all the same.”](https://nypost.com/2023/08/25/nyc-astronomer-sets-up-telescope-in-intersection-to-see-saturn/)
