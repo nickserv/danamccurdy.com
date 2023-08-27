@@ -2,7 +2,7 @@
 centered: false
 visual: false
 published: true
-title: Notes On Whole Brain Drumming
+title: Notes on Whole Brain Drumming
 categories:
   - blog
 ---
