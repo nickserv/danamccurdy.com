@@ -9,9 +9,9 @@ title: NOTES ON WHOLE BRAIN DRUMMING
 “In the Beginning was Noise
 and Noise begat Rhythm
 and Rhythm begat Everything Else”
+
 - Mickey Hart
-- Planet Drum: 
-https://open.spotify.com/album/56DFYCEpTzB84lfifluKP1?si=E8vVGNHqRSOu1uMBMwIWJg
+- [Planet Drum](https://open.spotify.com/album/56DFYCEpTzB84lfifluKP1?si=E8vVGNHqRSOu1uMBMwIWJg) 
 
 “We are beings of energy, in a universe of energy.
 It is our gift in each moment to direct that energy as we will.
@@ -20,8 +20,7 @@ For the greater joy and well-being of all.”
 - D. MCCURDY
 
 The name and main theme of this workshop is based on this insightful and powerful book:
-Whole Brain Living, by Dr. Jill Bolte Taylor
-https://www.amazon.com/Whole-Brain-Living-Anatomy-Characters/dp/1401961983
+[Whole Brain Living, by Dr. Jill Bolte Taylor](https://www.amazon.com/Whole-Brain-Living-Anatomy-Characters/dp/1401961983)
 
 Ideally, a community drum circle is not a place for someone to show off what a “good drummer” they think they are. It’s also not the place for anyone to worry that they’re NOT a “good drummer”! It IS a place to celebrate our connection with each other, even with the whole universe, by sharing in a communal rhythm. In my experience, the greatest joy in a drum circle comes not from celebrating being ME, but by celebrating being US!
 
@@ -31,7 +30,7 @@ In ego-based (left brain centered) drumming, you’re likely thinking about what
 
 As the religious philosopher Eric Butterworth used to say, each one of us is an “eachness in the allness”, and the tapestry of sound we create when we drum together is a perfect expression of that!
 
-Poem: A Community in Rhythm: https://danamccurdy.com/life/2017/07/02/a-community-in-rhythm/
+[Poem: A Community in Rhythm](https://danamccurdy.com/life/2017/07/02/a-community-in-rhythm/) 
 
 Another example of community, in this case, inspired by astronomy: 
 “All of a sudden, they drop their guard. They’re talking to the people in front and behind them. I guess we’re all starved for connection. When people look through a telescope, they’re all the same.”
