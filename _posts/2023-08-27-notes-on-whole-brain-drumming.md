@@ -6,17 +6,18 @@ title: Notes on Whole Brain Drumming
 categories:
   - blog
 ---
-“In the Beginning was Noise
-and Noise begat Rhythm
-and Rhythm begat Everything Else”
-- Mickey Hart
-- [Planet Drum](https://open.spotify.com/album/56DFYCEpTzB84lfifluKP1?si=E8vVGNHqRSOu1uMBMwIWJg) 
+> In the Beginning was Noise
+> and Noise begat Rhythm
+> and Rhythm begat Everything Else
+> <footer class="blockquote-footer">Mickey Hart & <a href="https://open.spotify.com/album/56DFYCEpTzB84lfifluKP1?si=E8vVGNHqRSOu1uMBMwIWJg">Planet Drum</a></footer>
+{: .blockquote}
 
-“We are beings of energy, in a universe of energy.
-It is our gift in each moment to direct that energy as we will.
-In rhythm together, we direct that energy to our highest purpose,
-For the greater joy and well-being of all.”
-- Dana McCurdy
+> We are beings of energy, in a universe of energy.
+> It is our gift in each moment to direct that energy as we will.
+> In rhythm together, we direct that energy to our highest purpose,
+> For the greater joy and well-being of all.
+> <footer class="blockquote-footer">Dana McCurdy</footer>
+{: .blockquote}
 
 The name and main theme of this workshop is based on this insightful and powerful book:
 [Whole Brain Living, by Dr. Jill Bolte Taylor](https://www.amazon.com/Whole-Brain-Living-Anatomy-Characters/dp/1401961983)
@@ -32,4 +33,6 @@ As the religious philosopher Eric Butterworth used to say, each one of us is an 
 [Poem: A Community in Rhythm](https://danamccurdy.com/life/2017/07/02/a-community-in-rhythm/) 
 
 Another example of community, in this case, inspired by astronomy: 
-[“All of a sudden, they drop their guard. They’re talking to the people in front and behind them. I guess we’re all starved for connection. When people look through a telescope, they’re all the same.”](https://nypost.com/2023/08/25/nyc-astronomer-sets-up-telescope-in-intersection-to-see-saturn/)
+> All of a sudden, they drop their guard. They’re talking to the people in front and behind them. I guess we’re all starved for connection. When people look through a telescope, they’re all the same.
+> <footer class="blockquote-footer"><a href="https://nypost.com/2023/08/25/nyc-astronomer-sets-up-telescope-in-intersection-to-see-saturn/">Joe Delfausse</a></footer>
+{: .blockquote}
