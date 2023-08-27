@@ -1,10 +1,10 @@
 ---
-categories:
-  - life
 centered: false
 visual: false
 published: true
 title: NOTES ON WHOLE BRAIN DRUMMING
+categories:
+  - blog
 ---
 “In the Beginning was Noise
 and Noise begat Rhythm
