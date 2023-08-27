@@ -16,16 +16,16 @@ and Rhythm begat Everything Else”
 It is our gift in each moment to direct that energy as we will.
 In rhythm together, we direct that energy to our highest purpose,
 For the greater joy and well-being of all.”
-- D. MCCURDY
+- Dana McCurdy
 
 The name and main theme of this workshop is based on this insightful and powerful book:
 [Whole Brain Living, by Dr. Jill Bolte Taylor](https://www.amazon.com/Whole-Brain-Living-Anatomy-Characters/dp/1401961983)
 
-Ideally, a community drum circle is not a place for someone to show off what a “good drummer” they think they are. It’s also not the place for anyone to worry that they’re NOT a “good drummer”! It IS a place to celebrate our connection with each other, even with the whole universe, by sharing in a communal rhythm. In my experience, the greatest joy in a drum circle comes not from celebrating being ME, but by celebrating being US!
+Ideally, a community drum circle is not a place for someone to show off what a “good drummer” they think they are. It’s also not the place for anyone to worry that they’re _not_ a “good drummer”! It _is_ a place to celebrate our connection with each other, even with the whole universe, by sharing in a communal rhythm. In my experience, the greatest joy in a drum circle comes not from celebrating being _me_, but by celebrating being _us_!
 
 In many drumming traditions, there are specific patterns taught to students by experienced players, so there is a hierarchy which everyone is expected to respect and follow. This gives rise to some wonderful and inspiring music which celebrates and helps to preserve the unique contributions of each musical culture, but it also limits the free expression of novel rhythmic ideas. (Mention playing the “wrong” clave pattern during a Cuban jam, or Astor Piazzolla receiving death threats for creating a “new tango” style.) 
 
-In ego-based (left brain centered) drumming, you’re likely thinking about what you “should” play, or judging what you or someone else is playing. In non-ego-based drumming (right brain centered), you let go of thinking or judging, and allow your hands to express whatever best fits the group energy and rhythm, based on what comes naturally based on your unique experience and abilities. Maintaining an ego takes thought and effort. When we let go of thought and effort, our sense of connection with everyone and everything naturally arises. There is nothing to figure out, nothing to DO, there is only being present, trusting and allowing your body’s natural expression to manifest. 
+In ego-based (left brain centered) drumming, you’re likely thinking about what you “should” play, or judging what you or someone else is playing. In non-ego-based drumming (right brain centered), you let go of thinking or judging, and allow your hands to express whatever best fits the group energy and rhythm, based on what comes naturally based on your unique experience and abilities. Maintaining an ego takes thought and effort. When we let go of thought and effort, our sense of connection with everyone and everything naturally arises. There is nothing to figure out, nothing to _do_, there is only being present, trusting and allowing your body’s natural expression to manifest. 
 
 As the religious philosopher Eric Butterworth used to say, each one of us is an “eachness in the allness”, and the tapestry of sound we create when we drum together is a perfect expression of that!
 
