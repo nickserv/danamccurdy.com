@@ -4,7 +4,7 @@ categories:
 centered: false
 visual: false
 published: true
-title: The Future is Now
+title: The Future Is Now
 image: 'https://i.imgur.com/AKZDDym.jpg'
 ---
 As I look out 
