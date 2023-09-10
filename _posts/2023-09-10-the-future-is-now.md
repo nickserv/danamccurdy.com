@@ -21,6 +21,5 @@ it winds through a myriad of dimensions
 our linear minds will never follow.
 
 Perhaps it is not our job to navigate,
-but instead, to witness in awe
+but instead, to witness in each moment
 the wonderment of the ride.
-
