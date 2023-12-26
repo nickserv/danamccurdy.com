@@ -5,7 +5,7 @@ centered: false
 visual: false
 published: true
 title: What You Can Do
-image: 'https://imgur.com/pkQEjvy'
+image: 'https://i.imgur.com/pkQEjvy.jpg'
 ---
 _While cleaning out the cat box and repairing a urine-stained part of its enclosure, this flash of insight dawned:_
 
