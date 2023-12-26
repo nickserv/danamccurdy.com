@@ -20,4 +20,4 @@ in that particular moment,
 past your comfort,
 in that  moment,
 and discover the power
-of what you can actually do.
+of what you actually can do.
