@@ -5,7 +5,6 @@ centered: false
 visual: false
 published: true
 title: A Birthday Reflection
-image: 'https://imgur.com/UEPMXj8'
 ---
 It’s been seventy two spins 
 around the sun 
