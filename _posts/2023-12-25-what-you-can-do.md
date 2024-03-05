@@ -7,7 +7,7 @@ published: true
 title: What You Can Do
 image: 'https://i.imgur.com/pkQEjvy.jpg'
 ---
-_While cleaning out the cat box and repairing a urine-stained part of its enclosure, this flash of insight dawned:_
+_While cleaning out the cat box and repairing a urine-stained part of its enclosure, this flash of insight came:
 
 The “best you can do”,
 at any given moment,
@@ -16,7 +16,6 @@ you were WILLING to do,
 in that particular moment.
 
 Look past your willingness,
-in that particular moment,
 past your comfort,
 in that  moment,
 and discover the power
