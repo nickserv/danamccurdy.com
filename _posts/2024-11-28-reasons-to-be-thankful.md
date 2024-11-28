@@ -20,4 +20,3 @@ I am thankful for love.
 I am thankful for music.
 I am thankful for the creative spirit.
 I am thankful for life.
-
