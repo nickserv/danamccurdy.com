@@ -5,7 +5,7 @@ centered: true
 visual: false
 published: true
 title: Reasons To Be Thankful
-image: 'https://imgur.com/E7QofR8'
+image: 'https://i.imgur.com/E7QofR8.jpeg'
 ---
 I am thankful for this breath.
 I am thankful for this body.
