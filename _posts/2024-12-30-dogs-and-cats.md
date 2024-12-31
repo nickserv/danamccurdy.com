@@ -14,7 +14,7 @@ you need them.
 
 Others are like cats:
 they will be there 
-at their whim,
+at their whim
 or the will of Grace.
 
 Which is the greater gift?
